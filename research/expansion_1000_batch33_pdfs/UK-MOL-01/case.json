@@ -1,0 +1,88 @@
+{
+  "content": {
+    "id": "UK-MOL-01",
+    "title": "Museum of Liverpool — Four-Gallery City Narrative",
+    "subtitle": "Museum of Liverpool / National Museums Liverpool｜Liverpool, United Kingdom",
+    "year": "2011开放；馆方当前每天10:00–17:00开放",
+    "type": "港口、城市社会史、音乐与公民生活的叙事性常设展",
+    "brief": "以四座主展厅组织利物浦的港口、全球关联、城市生活与文化表达；BRC Imagination Arts的以市民故事为中心的总体规划，由Redman Design与Haley Sharpe Design同馆方团队落实为三层城市史展陈。",
+    "insight": "城市博物馆容易把身份叙事分割成交通、工业、音乐和人物的孤立板块；以城市居民的经验为主线，并让港口系统与住房、劳工、参政和文化生活互相解释，才能维持整体性。",
+    "tags": [
+      "城市社会史",
+      "港口与工业",
+      "市民生活",
+      "对象与互动"
+    ],
+    "route": [
+      "利物浦城市与港口导入",
+      "The Great Port的物流／工业化",
+      "The People’s Republic的住房、劳工与公民生活",
+      "Wondrous Place的音乐、影像、体育与文化",
+      "城市记忆与多元身份回望"
+    ],
+    "images": [
+      "uk-mol-01-01.jpg",
+      "uk-mol-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/uk-mol-01-01_0c454c7c.jpg",
+      "/manus-storage/uk-mol-01-02_0c511d4a.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：The Great Port的港口、物流与工业化展示。来源：National Museums Liverpool官方摄影／Mark McNulty、Pete Carr公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。",
+      "已建成展厅实景：The People’s Republic的劳工、参政与城市生活。来源：National Museums Liverpool官方摄影／Mark McNulty、Pete Carr公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：利物浦城市与港口导入—The Great Port的物流／工业化—The People’s Republic的住房、劳工与公民生活—Wondrous Place的音乐、影像、体育与文化—城市记忆与多元身份回望。馆方或设计方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "路线先以港口如何塑造城市进入物流、工业和交通，再把城市生活收缩到住房、劳工、参政与个人经验，继而扩展到文化表达。港口系统与社会经验的相邻设置使“世界城市”不只由宏大贸易叙事定义。 本案的核心研究命题是：城市博物馆容易把身份叙事分割成交通、工业、音乐和人物的孤立板块；以城市居民的经验为主线，并让港口系统与住房、劳工、参政和文化生活互相解释，才能维持整体性。"
+      ],
+      [
+        "展项设计",
+        "The Great Port以集装箱图文面、马车、机车、起重设备、模型和互动装置组织物流与工业化；The People’s Republic以劳工、妇女参政、住房和城市图像的立体板块建立社会史环境。两者均以实物、图像和说明面混合，但前者强调系统，后者强调生活经验。"
+      ],
+      [
+        "布展与图文",
+        "港口段的体量较大，应以清晰入口和对象高度差维持远观与近读；社会史段的高密度图像板需要为文字、听觉媒介与轮椅停留留出余地。不同展厅的色彩和材料可以区分章节，但不能遮蔽事件、对象与人物的来源。"
+      ],
+      [
+        "研究判断",
+        "其可迁移原则是把城市史做成系统与生活的往返：基础设施并非背景，市民经验也不能被压缩为“城市性格”的装饰。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.liverpoolecho.co.uk/news/liverpool-news/museum-liverpool-designers-builders-engineers-3370317",
+      "https://www.architectsjournal.co.uk/archive/museum-of-liverpool-mann-island-liverpool-by-3xn-aew",
+      "https://www.liverpoolmuseums.org.uk/museum-of-liverpool",
+      "https://www.liverpoolmuseums.org.uk/museum-of-liverpool/access-and-facilities/visual-story"
+    ]
+  },
+  "ledger": {
+    "id": "UK-MOL-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "Museum of Liverpool — Four-Gallery City Narrative",
+    "museum": "Museum of Liverpool / National Museums Liverpool",
+    "location": "Liverpool, United Kingdom",
+    "region": "西欧",
+    "studio": "BRC Imagination Arts（观众体验总体规划）；Redman Design与Haley Sharpe Design（与National Museums Liverpool团队协作完成常设展厅）",
+    "year": "2011开放；馆方当前每天10:00–17:00开放",
+    "type": "港口、城市社会史、音乐与公民生活的叙事性常设展",
+    "design_source": "https://www.liverpoolecho.co.uk/news/liverpool-news/museum-liverpool-designers-builders-engineers-3370317",
+    "design_source_secondary": "https://www.architectsjournal.co.uk/archive/museum-of-liverpool-mann-island-liverpool-by-3xn-aew",
+    "museum_source": "https://www.liverpoolmuseums.org.uk/museum-of-liverpool",
+    "image_source_1": "https://www.liverpoolmuseums.org.uk/museum-of-liverpool/access-and-facilities/visual-story",
+    "image_source_2": "https://www.liverpoolmuseums.org.uk/museum-of-liverpool/access-and-facilities/visual-story",
+    "image_url_1": "https://images.liverpoolmuseums.org.uk/2023-11/MoL-great-port-gallery-1080x720-Mark-McNulty.jpg",
+    "image_url_2": "https://images.liverpoolmuseums.org.uk/2023-11/MoL-Peoples-Republic-1080x720-DSC_5685-pete-carr.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOL-01/great-port-gallery.jpg",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOL-01/peoples-republic-gallery.jpg",
+    "evidence": "Liverpool Echo记录BRC Imagination Arts于2007年完成以市民口述为主线的总体规划，随后Redman Design与Haley Sharpe Design同National Museums Liverpool团队协作形成今日展厅；Architects’ Journal将两者列为展陈设计方、BRC为观众体验总体规划方，并给出10,000平方米总建筑面积。馆方当前页确认每天10:00–17:00开放、三层展厅、城市社会史与考古／交通／音乐收藏；官方检索页确认The Great Port、The People’s Republic、Wondrous Place与Global City四座主要展厅，构成港口—城市变迁—公民生活—文化表达的连续叙事。",
+    "image_review_1": "人工审核通过：1080×720的National Museums Liverpool官方原图，图注为“Entrance to The Great Port gallery … © Mark McNulty”，文件EXIF同样标注Mark McNulty版权。画面为集装箱、货物模型、马车、机车、起重设备、对象陈列、投影屏与通行展厅共同构成的真实港口／工业化叙事环境，不是建筑外观、旅游照、效果图或单一设备图。",
+    "image_review_2": "人工审核通过：1080×720的National Museums Liverpool官方原图，图注为“Entrance to The People's Republic gallery © Pete Carr”，文件EXIF标注(c) Pete Carr版权。画面为关于劳工、妇女参政、住房与市民生活的历史图像、报刊、物件、文字板和空间装置；与The Great Port明显属于不同的城市社会史章节，是真实完成内景而非渲染。",
+    "audit_note": "合格：整体展陈／总体规划、当前运营、10,000平方米规模与四展厅城市史叙事已经闭合；两张官方JSON:API可复现原图均含明确图注和摄影署名。最终媒体规范化与网页发布时须完整保留Mark McNulty／Pete Carr署名、原图URL与官方导览页来源，且不得删除EXIF权利信息。"
+  }
+}

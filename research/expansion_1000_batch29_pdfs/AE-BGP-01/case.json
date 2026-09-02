@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "AE-BGP-01",
+    "title": "Buhais Geology Park — Geology and Human Settlement Galleries",
+    "subtitle": "Buhais Geology Park｜Al Madam, Sharjah, United Arab Emirates",
+    "year": "2020；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以阿联酋地层、岩石、化石、气候与景观变化为主线，在Buhais Geology Park中用观察窗、标本台、剖面模型和互动解释构成地质路径。",
+    "insight": "地质展最有效的空间关系，是让室内标本与窗外真实地貌互相校验，而不是以沙漠景观替代科学证据。",
+    "tags": [
+      "地质时间",
+      "岩石标本",
+      "地景观察",
+      "双语解释"
+    ],
+    "route": [
+      "地层观察导入",
+      "Reading the Rocks",
+      "化石与古环境",
+      "气候与水",
+      "人类活动与地景",
+      "户外地貌回看"
+    ],
+    "images": [
+      "ae-bgp-01-01.jpg",
+      "ae-bgp-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/ae-bgp-01-01_9c64e3d1.jpg",
+      "/manus-storage/ae-bgp-01-02_2c715e6c.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：地貌观察。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：岩石标本解读。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：地层观察导入—Reading the Rocks—化石与古环境—气候与水—人类活动与地景—户外地貌回看。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由窗外地貌进入岩石和化石的近读，再讨论气候与人类活动，形成从大尺度景观到局部物证的往复。"
+      ],
+      [
+        "展项设计",
+        "岩石、剖面模型、化石、互动屏和地景窗分别承担样本、结构、时间推断、解释与现场比对，不应互相替代。"
+      ],
+      [
+        "布展与图文",
+        "暗色观察区和亮度受控的标本台需要稳定阅读照度；双语文字与触读界面要避免在曲面背景上失去可读性。"
+      ],
+      [
+        "研究判断",
+        "地质馆的沉浸感应当来自尺度转换：从一块岩石回望一片地景，而不是从视觉奇观跳过证据链。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "AE-BGP-01",
+    "title": "Buhais Geology Park — Geology and Human Settlement Galleries",
+    "museum": "Buhais Geology Park",
+    "location": "Al Madam, Sharjah, United Arab Emirates",
+    "region": "中东",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Ralph Appelbaum Associates（五个展览舱的展陈设计）；Hopkins Architects（建筑）",
+    "year": "2020；馆方当前开放",
+    "design_source": "https://raai.com/project/buhais-geology-park/",
+    "museum_source": "https://buhaisgeologypark.shj.ae/index_en.html",
+    "evidence": "RAA项目页说明其在受海胆化石启发的五个不同尺度建筑舱内创建设计，先以沉浸式剧场解释山脉、沙丘、阿拉伯湾与古海洋消失形成石灰岩山脉的地质变化，再用93百万年前的蛇绿岩、rudists等化石、实体／数字互动、板块构造解释和儿童发现区连接科学概念与实物。项目面积8,805平方英尺、年份2020。Sharjah Buhais Geology Park官方页确认2020年1月20日开园，面向公众解释Jabal Buhais及周边地质，涵盖超过12.5万年人类定居的两处考古遗址、至少9,300万年的自然形成证据和重要蛇绿岩展项；并公布周三至周一及周末／周五的现行开放时段与票务。",
+    "image_assessment": "2026-08-24审阅RAA公开Buhais2、3、4、5、6、7、8、10、12等项目图：可辨识实体岩石与化石展示、环形／独立展台、大尺寸地质媒介、低位互动桌、儿童发现活动构件、真实照明与观众／工作人员尺度。后续从沉浸式地质解释与岩石／化石互动两类内景选两张，排除沙漠外观及纯建筑图。",
+    "next_gate": "媒体生产阶段下载两张RAA来源的不同展舱内景，标注版权边界；以深时地质—古海洋与化石—板块过程—人类定居考古—探索与现场地景回收的路径完成五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

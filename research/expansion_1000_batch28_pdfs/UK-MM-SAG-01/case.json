@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "UK-MM-SAG-01",
+    "title": "South Asia Gallery",
+    "subtitle": "Manchester Museum｜曼彻斯特，英国",
+    "year": "2023；长期常设画廊",
+    "type": "移民与文化身份／共同策展常设展",
+    "brief": "以共同策展为工作方法，把南亚离散社群的迁移、家庭记忆、音乐、科学与公共生活放入372平方米的长期画廊。",
+    "insight": "共同策展的价值不在于增加署名，而在于让社群经验、馆藏对象与解释系统在同一空间里保持可辨的责任边界。",
+    "tags": [
+      "共同策展",
+      "离散叙事",
+      "对象与影像",
+      "多声部解释"
+    ],
+    "route": [
+      "共同策展序厅",
+      "过去与现在",
+      "家庭与生活环境",
+      "科学与创新",
+      "音乐与迁移",
+      "英国亚裔经验回望"
+    ],
+    "images": [
+      "uk-mm-sag-01.jpg",
+      "uk-mm-sag-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/uk-mm-sag-01_bc21fc0d.jpg",
+      "/manus-storage/uk-mm-sag-02_c25f410d.jpg"
+    ],
+    "captions": [
+      "South Asia Gallery内的已落地对象展柜与文字系统。来源：Mobile Studio Architects／Manchester Museum公开项目摄影。",
+      "South Asia Gallery中的玻璃柜、低照度展墙与视听界面。来源：Manchester Museum／项目公开摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：共同策展序厅—过去与现在—家庭与生活环境—科学与创新—音乐与迁移—英国亚裔经验回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "六个主题把移民和帝国置于日常生活、创造与公共文化的连续关系中，避免将南亚经验压缩为单一“来源地”故事。"
+      ],
+      [
+        "展项设计",
+        "对象柜、社群借展、平面图形和视听层可分别承担物证、当代声音与历史语境；关键是让不同材料的来历与解释身份清晰可见。"
+      ],
+      [
+        "布展与图文",
+        "低照度展墙、玻璃柜和模块化文字形成近读与远读的节奏；影音节点需保留可绕行的安静阅读区。"
+      ],
+      [
+        "研究判断",
+        "这一案例证明，身份主题展的空间质量来自解释权的分配和材料来源的透明化，而不是以装饰性“异域风格”代表文化。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "UK-MM-SAG-01",
+    "country": "英国",
+    "region": "西欧",
+    "title": "South Asia Gallery",
+    "museum": "Manchester Museum",
+    "location": "曼彻斯特，英国",
+    "year": "2023；长期常设画廊",
+    "type": "移民与文化身份／共同策展常设展",
+    "studio": "Studio C102／Mobile Studio Architects（画廊设计）／Manijeh Verghese（诠释）／Sthuthi Ramesh（二维设计）／ADi Audiovisual（视听）／Arup（照明）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://themobilestudio.co.uk/project/south-asia-gallery/",
+    "museum_source": "https://www.museum.manchester.ac.uk/galleries/south-asia-gallery/",
+    "evidence": "Mobile Studio Architects确认该372平方米画廊于2023年2月18日随Manchester Museum改造向公众开放，并明确列出Studio C102与其共同设计、Manijeh Verghese负责诠释、Sthuthi Ramesh负责二维设计、ADi负责视听叠层和沉浸基础设施、Arup负责照明。馆方确认其为英国首个聚焦南亚离散经验的永久画廊，采用共同策展，围绕过去与现在、生活环境、科学与创新、声音音乐与舞蹈、英国亚裔、迁移与帝国六个主题组织叙事。",
+    "image_credit": "Mobile Studio Architects项目页／Manchester Museum官方画廊页；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：设计方与馆方页面均提供清晰的已落地室内展厅摄影；可见真实对象展柜、模块化文字系统、玻璃柜、低照度展墙、影音投影、可通行展厅与参观者尺度。无渲染、建筑外观或概念方案特征。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

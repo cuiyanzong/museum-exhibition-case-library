@@ -1,0 +1,82 @@
+{
+  "content": {
+    "id": "VN-DLBM-01",
+    "title": "Da Lat Biology Museum — Central Highlands Biodiversity Exhibition",
+    "subtitle": "Da Lat Biology Museum / Tay Nguyen Institute for Scientific Research｜Da Lat, Vietnam",
+    "year": "2017–2018完成；有2025运营线索",
+    "type": "叙事性常设／长期展",
+    "brief": "以大叻高原生态、物种标本、研究历史和地方社会为线索，将自然观察与研究方法组织为连续的博物馆叙事。",
+    "insight": "自然史展的沉浸感应来自标本与环境证据之间的尺度转换，而不是只用大型模型制造森林想象。",
+    "tags": [
+      "高原生态",
+      "标本证据",
+      "研究方法",
+      "地方自然史"
+    ],
+    "route": [
+      "高原生态导入",
+      "物种与标本比较",
+      "研究者与采集史",
+      "人群与环境关系",
+      "保护与当代观察"
+    ],
+    "images": [
+      "vn-dlbm-01-01.jpg",
+      "vn-dlbm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/vn-dlbm-01-01_99b18039.jpg",
+      "/manus-storage/vn-dlbm-01-02_f05dddbd.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：中部高地生物多样性标本。来源：Cultural Innovations公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：Da Lat研究语境与人群叙事。来源：Cultural Innovations公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：高原生态导入—物种与标本比较—研究者与采集史—人群与环境关系—保护与当代观察。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从生境建立总体框架，再进入标本和研究过程，使“自然”始终与采集、分类和地方知识相联系。 本案的核心命题是：自然史展的沉浸感应来自标本与环境证据之间的尺度转换，而不是只用大型模型制造森林想象。"
+      ],
+      [
+        "展项设计",
+        "标本、图像、地景图和互动读取承担不同证据等级；应明确模型或复原与可追溯标本之间的边界。"
+      ],
+      [
+        "布展与图文",
+        "高对比标本柜需避免反光，说明文字应让儿童与研究型观众形成不同阅读层；暗场影像区不应阻断动线。"
+      ],
+      [
+        "研究判断",
+        "科学展的可信度来自公开推理过程：观众应看见观察如何被转化为分类、保护和公共问题。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.culturalinnovations.com/da-lat-biology-museum",
+      "https://images.squarespace-cdn.com/content/v1/595ce1171b10e30e6217e987/1547826178744-UPDZ0UDGKAO2VJXJCYLI/Da+Lat+Biology+Museum+%C2%A9+Cultural+Innovations",
+      "https://images.squarespace-cdn.com/content/v1/595ce1171b10e30e6217e987/1547826201553-LX8BQP480NCHM2LH9VDX/Da+Lat+Biology+Museum+%C2%A9+Cultural+Innovations"
+    ]
+  },
+  "ledger": {
+    "id": "VN-DLBM-01",
+    "title": "Da Lat Biology Museum — Central Highlands Biodiversity Exhibition",
+    "museum": "Da Lat Biology Museum / Tay Nguyen Institute for Scientific Research",
+    "location": "Da Lat, Vietnam",
+    "region": "东南亚",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Cultural Innovations（全馆内容开发、诠释与展览／图形设计）；DHA Designs（照明）",
+    "year": "2017–2018完成；有2025运营线索",
+    "design_source": "https://www.culturalinnovations.com/da-lat-biology-museum",
+    "status_source": "https://vietcetera.com/en/a-historical-dig-into-the-past-of-da-lat",
+    "evidence": "Cultural Innovations项目页明确其受Tay Nguyen Institute for Scientific Research委任，对既有博物馆进行扩展与重组，并对整个2,500平方米、三层展馆承担内容开发、诠释和展览设计；五个内容区以大型对象、互动与视听讲述Da Lat及越南中部高地的植物、动物与研究，另含动手实验室、自然教室、图书馆、零售和咖啡空间。项目页列为2017–2018完成并公开多张带Cultural Innovations版权标注的室内项目照。2025年Vietcetera将Da Lat Research Institute of Biology列为1975年后对公众开放并给出工作日开放时段，形成可靠近期运营线索。",
+    "image_assessment": "2026-08-24审阅设计方项目页文字与图片条目：已公开不同展厅的实体标本、对象陈列、说明图形、互动／视听和参观空间；后续仅下载两张不同科学叙事区的室内摄影，保留Cultural Innovations来源和版权边界，排除建筑外观与无展陈关系的细节。",
+    "media_locator": "2026-08-24从Cultural Innovations原始项目页恢复5张现场图。已人工审核1547826178744-UPDZ0UDGKAO2VJXJCYLI图：白色展台上陈列虎、鳄鱼、灵长类及植物对象，背景以森林、火焰与动物影像形成热带生境／生物多样性解释段；1547826201553-LX8BQP480NCHM2LH9VDX图为不同的区域人群／研究导入段，深蓝空间内以当地人群照片、木偶和田野场景组成对Da Lat生物研究语境的介绍。二图均为设计方发布的完整已建成室内实景，非渲染或孤立物件特写。另审阅1547824522542-IBY3B2SFGITVY2YC9EI9图，为建筑正立面，明确排除。",
+    "image_source_1": "https://images.squarespace-cdn.com/content/v1/595ce1171b10e30e6217e987/1547826178744-UPDZ0UDGKAO2VJXJCYLI/Da+Lat+Biology+Museum+%C2%A9+Cultural+Innovations",
+    "image_source_2": "https://images.squarespace-cdn.com/content/v1/595ce1171b10e30e6217e987/1547826201553-LX8BQP480NCHM2LH9VDX/Da+Lat+Biology+Museum+%C2%A9+Cultural+Innovations",
+    "next_gate": "候选池阶段通过；生产前逐张取得设计方已建成室内图，人工确认两张不同内容区、自然尺寸与来源归属。",
+    "audit_date": "2026-08-24"
+  }
+}

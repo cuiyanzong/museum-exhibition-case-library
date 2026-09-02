@@ -1,0 +1,82 @@
+{
+  "content": {
+    "id": "US-CAC-01",
+    "title": "Chicago Architecture Center — Building Tall / Chicago City Model Experience",
+    "subtitle": "Chicago Architecture Center｜Chicago, Illinois, USA",
+    "year": "2018开幕；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以城市模型、摩天楼高度比较、邻里故事和投影映射为核心，将芝加哥建筑史从“天际线奇观”转化为可读的城市系统。",
+    "insight": "建筑展若只让观众惊叹模型尺度，会遮蔽土地、技术、社区和公共决策；模型必须成为比较与提问的工具。",
+    "tags": [
+      "城市模型",
+      "建筑教育",
+      "投影映射",
+      "社区叙事"
+    ],
+    "route": [
+      "城市尺度导入",
+      "摩天楼高度与结构",
+      "邻里历史映射",
+      "公共空间与未来城市"
+    ],
+    "images": [
+      "us-cac-01-01.jpg",
+      "us-cac-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-cac-01-01_3551d0f6.jpg",
+      "/manus-storage/us-cac-01-02_9e2c0d06.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：摩天楼模型与高度解释。来源：Gallagher & Associates / James Steinkamp公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：城市模型与邻里历史映射。来源：Gallagher & Associates / James Steinkamp公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：城市尺度导入—摩天楼高度与结构—邻里历史映射—公共空间与未来城市。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "先以城市总体尺度建立方向，再从垂直生长回到街区关系，使建筑史不被化约为名建筑师和地标清单。 本案的核心命题是：建筑展若只让观众惊叹模型尺度，会遮蔽土地、技术、社区和公共决策；模型必须成为比较与提问的工具。"
+      ],
+      [
+        "展项设计",
+        "大模型、比例比较、投影地图和可近读的建筑信息分别承担尺度、技术、时间变化和地方经验；互动不代替历史来源。"
+      ],
+      [
+        "布展与图文",
+        "高台模型需要环行观看和儿童视线高度的解释层；投影区域应保留不依赖动态画面的静态地图与标签。"
+      ],
+      [
+        "研究判断",
+        "可迁移原则是让城市模型服务社会空间阅读，而不是成为无需解释的中心雕塑。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://gallagherdesign.com/project/cac/",
+      "https://www.architecture.org/visit-the-center",
+      "https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img17602_Photo-credit_-James-Steinkamp-scaled-1380x1035-c-default.jpg",
+      "https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img16959crop_Photo-credit_-James-Steinkamp-2200x1329-1-1380x1035-c-default.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "US-CAC-01",
+    "title": "Chicago Architecture Center — Building Tall / Chicago City Model Experience",
+    "museum": "Chicago Architecture Center",
+    "location": "Chicago, Illinois, USA",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "G&A Strategy and Design（内容开发、数字媒体与体验设计）；Ravenswood Studio（展陈制作）；Creative Technology（视听整合）；Four Zero One（互动终端）；Leviathan（投影研究）；Studio Blue（导视）",
+    "year": "2018开幕；馆方当前开放",
+    "design_source": "https://gallagherdesign.com/project/cac/",
+    "museum_source": "https://www.architecture.org/visit-the-center",
+    "evidence": "G&A项目页明确其在九个月内与CAC合作，将芝加哥建筑遗产转译为可访问的访客体验，服务包括Content Development、Digital Media和Experience Design。其以Building Tall画廊的摩天楼技术与全球影响为主线，将LIVE、BUILD、WORK、IMAGINE四个可重组岛屿用模型与解释图形组织，并设计／实施大火区域与城市故事的投影映射模型；页面列出制作、AV、互动、投影与导视协作，以及James Steinkamp项目摄影。馆方访问页当前列出近10,000平方英尺展览空间、Chicago City Model Experience的4,000余建筑与特效短片、现场购票和每周开放时段（周日—周四10:00–17:00，周五—周六10:00–19:00）。",
+    "image_assessment": "2026-08-24人工浏览G&A项目页：首张公开摄影可见访客、室内墙面图文、实体建筑模型、照明与真实空间尺度；页面进一步标注摩天楼模型、投影映射城市模型、解释图形和社区地图等已实施展项，并署名James Steinkamp。后续媒体阶段须从设计方公开项目图中下载两张不同室内段落实景，排除外观、Vimeo封面和仅为图标的延迟加载占位符。",
+    "media_locator": "2026-08-24从G&A项目页DOM提取：James Steinkamp摩天楼模型图为https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img17602_Photo-credit_-James-Steinkamp-scaled-1380x1035-c-default.jpg；城市／邻里映射图为https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img16959crop_Photo-credit_-James-Steinkamp-2200x1329-1-1380x1035-c-default.jpg。",
+    "image_source_1": "https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img17602_Photo-credit_-James-Steinkamp-scaled-1380x1035-c-default.jpg",
+    "image_source_2": "https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img16959crop_Photo-credit_-James-Steinkamp-2200x1329-1-1380x1035-c-default.jpg",
+    "next_gate": "2026-08-24媒体阶段已下载并人工复核：图1为1380×1035的Building Tall摩天楼模型／高度比较／解释图形段，含真实访客、展柜和室内照明；图2为1380×1035的At Home in Chicago邻里历史／城市模型／图文互动段。James Steinkamp版权标识保留于图1元数据，图2来自同一设计方公开项目页；两图均为真实建成室内，叙事段不同。待全批统一RGB JPEG规范化、Pillow重开、上传与最终manifest写入。",
+    "audit_date": "2026-08-24"
+  }
+}

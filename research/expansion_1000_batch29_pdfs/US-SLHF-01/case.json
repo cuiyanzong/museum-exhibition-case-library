@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "US-SLHF-01",
+    "title": "St. Louis Kaplan Feldman Holocaust Museum — Permanent Holocaust Exhibition",
+    "subtitle": "St. Louis Kaplan Feldman Holocaust Museum｜Creve Coeur, Missouri, USA",
+    "year": "2022重开；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以战前生活、仇恨演变、纳粹掌权、扩张与屠杀、角色与视角、流离失所及St. Louis幸存者证词构成永久大屠杀展的历史路径。",
+    "insight": "创伤叙事的空间强度必须回到具体证据和幸存者证词，不能由黑场、影像和情绪化场景独自承担。",
+    "tags": [
+      "大屠杀史",
+      "幸存者证词",
+      "模块化展陈",
+      "沉浸剧场"
+    ],
+    "route": [
+      "战前生活",
+      "仇恨演变",
+      "纳粹掌权",
+      "扩张与大屠杀",
+      "角色与视角",
+      "St. Louis证词与结语"
+    ],
+    "images": [
+      "us-slhf-01-01.jpg",
+      "us-slhf-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-slhf-01-01_40dae7f5.jpg",
+      "/manus-storage/us-slhf-01-02_56721647.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：历史证据路径。来源：G&A公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：沉浸式证词节点。来源：G&A公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：战前生活—仇恨演变—纳粹掌权—扩张与大屠杀—角色与视角—St. Louis证词与结语。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由战前社会切入，逐层展示制度性仇恨如何扩张，并在角色、流离失所和本地证词中恢复个体判断与地方关联。"
+      ],
+      [
+        "展项设计",
+        "档案、触摸文物、文字墙、剧场和互动媒体需清楚区分原始证据、背景解释与情感停留；证词不应被快节奏媒体截断。"
+      ],
+      [
+        "布展与图文",
+        "深色章节墙和投影幕之间需设置稳定的文字与对象阅读面；轮椅、团体和个人观众应可选择绕过高刺激媒体。"
+      ],
+      [
+        "研究判断",
+        "其可迁移原则是把幸存者声音嵌入全球历史的结构，而不把地方记忆处理为附录。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "US-SLHF-01",
+    "title": "St. Louis Kaplan Feldman Holocaust Museum — Permanent Holocaust Exhibition",
+    "museum": "St. Louis Kaplan Feldman Holocaust Museum",
+    "location": "Creve Coeur, Missouri, USA",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "G&A Strategy and Design（内容、数字媒体、体验与实体体验设计）；Icon Design（展陈制作）；Videobred（媒体开发）；McCann Systems（视听集成）",
+    "year": "2022重开；馆方当前开放",
+    "design_source": "https://gallagherdesign.com/project/st-louis-kaplan-feldman-holocaust-museum/",
+    "museum_source": "https://stlholocaustmuseum.org/exhibitions/permanent/",
+    "evidence": "G&A项目页明确其提供Content Development、Digital Media、Experience Design和Physical Experience Design，并描述多媒体体验、互动、沉浸剧场、模块化展陈、实体图文、触摸文物与互动媒体如何连接地方幸存者故事和全球历史；项目页列出Icon Design、Videobred、McCann Systems等协作。馆方永久展页将内容组织为战前生活、仇恨演变、纳粹掌权、扩张、大屠杀、集中营、角色与视角、流离失所、圣路易斯幸存者证词及结语；提供自助与导览票务入口。",
+    "image_assessment": "2026-08-24从馆方永久展页提取的逐段图像资源和标题可见Founders Hall、开场影片、Evolving Hatred、A Gathering Storm、Fear and Intimidation、Brutal Expansion、Onset of Mass Murder、Roles & Perspectives、Displacement & Uncertainty、St. Louis Survivors Speak及结语影片等已建成展厅场景。它们由馆方直接标识为Permanent Exhibition内部展示，满足后续从不同叙事段选择两张真实室内图的条件。",
+    "next_gate": "媒体生产阶段下载并人工检查两张不同叙事段落的馆方实景图，确认无渲染特征、尺寸可用及版权标注；再据馆方分段结构撰写五层分析。",
+    "audit_date": "2026-08-24"
+  }
+}

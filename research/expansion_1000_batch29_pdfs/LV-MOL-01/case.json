@@ -1,0 +1,76 @@
+{
+  "content": {
+    "id": "LV-MOL-01",
+    "title": "Museum of the Occupation of Latvia — Main Exposition",
+    "subtitle": "Museum of the Occupation of Latvia｜Riga, Latvia",
+    "year": "2022新常设展；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以独立起点、占领时期“黑暗迷宫”与重新走向光的路径，叙述拉脱维亚在二十世纪的国家断裂、压迫和恢复。",
+    "insight": "占领史展的空间隐喻应当帮助观众辨认制度、个人命运与证据来源，不能只制造压迫的感官气氛。",
+    "tags": [
+      "占领记忆",
+      "黑暗迷宫",
+      "档案与证词",
+      "时空路径"
+    ],
+    "route": [
+      "首次独立",
+      "占领迷宫入口",
+      "苏联与纳粹统治",
+      "流放与个体证词",
+      "抵抗与恢复",
+      "走向光的当代回望"
+    ],
+    "images": [
+      "lv-mol-01-01.jpg",
+      "lv-mol-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/lv-mol-01-01_3564d7d3.jpg",
+      "/manus-storage/lv-mol-01-02_437bc934.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：国家建构／档案环境。来源：H2E公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：苏联镇压证词。来源：H2E公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：首次独立—占领迷宫入口—苏联与纳粹统治—流放与个体证词—抵抗与恢复—走向光的当代回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从独立作为失去的基线进入多重占领，再以流放、抵抗和恢复组织复杂转场，避免将历史化约成无主体的黑暗。"
+      ],
+      [
+        "展项设计",
+        "悬浮照片、档案屏、囚服、格栅、地图与半透明隧道需要分清宏观制度、个人物证与空间隐喻三个层次。"
+      ],
+      [
+        "布展与图文",
+        "低照度、红色网格和狭窄通道必须保留明确出口、可绕行路径及稳定阅读面，避免身体不适成为理解的前提。"
+      ],
+      [
+        "研究判断",
+        "创伤空间最有效的地方在于让观众在可核查的档案与人物故事中理解压迫，而非用压迫感替代历史解释。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "LV-MOL-01",
+    "title": "Museum of the Occupation of Latvia — Main Exposition",
+    "museum": "Museum of the Occupation of Latvia",
+    "location": "Riga, Latvia",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "H2E Design Studio（设计策略、概念、技术项目、平面设计与实施）",
+    "year": "2022新常设展；馆方当前开放",
+    "design_source": "https://h2e.lv/eng/museum-of-the-occupation-of-latvia-exhibition/",
+    "museum_source": "https://okupacijasmuzejs.lv/en",
+    "image_source": "https://www.fold.lv/en/2022/10/new-permanent-exhibition-of-the-museum-of-the-occupation-of-latvia/",
+    "evidence": "H2E项目页明确其为839平方米新常设展提供设计策略、概念、技术项目、平面设计与实施；将叙事组织为拉脱维亚首次独立起点、穿越占领时期的“黑暗迷宫”、逐步走向光的时空路径，并将不同阶段的约束转译为可感知或半透明的隧道构件。馆方英文首页列出Main exposition、票务入口和每日10:00—18:00开放时段。",
+    "image_assessment": "2026-08-24审阅FOLD公开的H2E新常设展实景图：可见低照度已建成天花与设备、投影墙、灰色图文板、玻璃展柜、实体展台和地面反射；无渲染式人物或虚拟材质特征。另有红色网格段落与通道图片，后续从不同叙事阶段选择两张，排除无关的旧展或KGB Building图像。",
+    "next_gate": "媒体生产阶段从H2E／FOLD公开图中下载两张不同叙事段落实景，逐张记录摄影与版权边界；再以独立—占领迷宫—光的路径完成五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

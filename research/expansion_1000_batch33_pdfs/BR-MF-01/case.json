@@ -1,0 +1,89 @@
+{
+  "content": {
+    "id": "BR-MF-01",
+    "title": "Museu do Futebol — New Football Museum Main Exhibition",
+    "subtitle": "Museu do Futebol / Football Museum｜São Paulo, Brazil",
+    "year": "2024年7月12日新主展开放；馆方当前周二至周日开放并提供在线售票",
+    "type": "体育、国家文化与社会史叙事性长期主展",
+    "brief": "以巴西足球为社会文化入口，在15室、6,000平方米的长期主展更新中，把Roots of Brazil与Women’s Football等章节组织为身份、种族、性别与共同记忆的多媒介叙事。",
+    "insight": "体育博物馆若只以赛事节点和明星对象组织，容易重复胜利史；将性别禁令、种族经验、观众情感和媒介记忆纳入空间，才能让足球成为社会史而非奖杯陈列。",
+    "tags": [
+      "体育社会史",
+      "多屏媒介",
+      "女性足球",
+      "国家文化"
+    ],
+    "route": [
+      "足球与巴西文化身份导入",
+      "Roots of Brazil的图像与影像根源",
+      "赛事、球员与集体记忆",
+      "女性足球的禁令与抵抗",
+      "当代可及性与公共文化回望"
+    ],
+    "images": [
+      "br-mf-01-01.jpg",
+      "br-mf-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/br-mf-01-01_63c71384.jpg",
+      "/manus-storage/br-mf-01-02_891ff376.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Roots of Brazil的多屏历史影像与文化根源。来源：Museu do Futebol官方摄影公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。",
+      "已建成展厅实景：Women’s Football的禁令、抵抗与可见性档案。来源：Museu do Futebol官方摄影公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：足球与巴西文化身份导入—Roots of Brazil的图像与影像根源—赛事、球员与集体记忆—女性足球的禁令与抵抗—当代可及性与公共文化回望。馆方或设计方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "主展先把足球放入巴西社会文化语境，再以图像、影片、档案和不同群体的历史展开其复杂性。女性足球段使制度性禁止、抵抗与再可见化成为叙事主线，从而抵消单一男性英雄叙事。 本案的核心研究命题是：体育博物馆若只以赛事节点和明星对象组织，容易重复胜利史；将性别禁令、种族经验、观众情感和媒介记忆纳入空间，才能让足球成为社会史而非奖杯陈列。"
+      ],
+      [
+        "展项设计",
+        "Roots of Brazil以多屏影像、历史图像墙和观众停留区组织文化根源；Women’s Football以照片、字幕屏、时间材料和抵抗性文字构成可近读档案环境。两类展项一类偏向关系网络，一类偏向历史证据，形成节奏差异。"
+      ],
+      [
+        "布展与图文",
+        "屏幕集群应通过主标题、年份、引文和可停留边界避免信息流失；女性足球的档案密度可用连续红黑色面和局部照明组织阅读，但需要确保字幕、图像说明和无障碍视距不被暗场削弱。"
+      ],
+      [
+        "研究判断",
+        "该案说明体育叙事的核心不必是“赛果”，而可以是观看、参与、排除与抵抗如何在具体媒介、物件和身体经验中被安排。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.idsa.org/awards-recognition/idea/idea-gallery/museu-do-futebol-the-soccer-museum/",
+      "https://museudofutebol.org.br/en/exposicoes/new-football-museum/",
+      "https://museudofutebol.org.br/wp-content/uploads/2024/07/Museu_20240713_075-1536x1024.jpg",
+      "https://museudofutebol.org.br/wp-content/uploads/2024/07/ZSFILMES_MF_marcelaguimaraes-27-1536x1024.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "BR-MF-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "Museu do Futebol — New Football Museum Main Exhibition",
+    "museum": "Museu do Futebol / Football Museum",
+    "location": "São Paulo, Brazil",
+    "region": "南美洲",
+    "studio": "Jair de Souza（原主展创意与艺术指导）；Daniela Thomas、Felipe Tassara（博物馆展示设计）；Mauro Munhoz（建筑）；Leonel Kaz（策展）；2024更新：Artur Porto、Bruno Niquet、Rita Faria与Labareda Comunicação & Design等",
+    "year": "2024年7月12日新主展开放；馆方当前周二至周日开放并提供在线售票",
+    "type": "体育、国家文化与社会史叙事性长期主展",
+    "museum_source": "https://museudofutebol.org.br/en/exposicoes/new-football-museum/",
+    "museum_operations_source": "https://museudofutebol.org.br/en/opening-hours-and-tickets/",
+    "design_source": "https://www.idsa.org/awards-recognition/idea/idea-gallery/museu-do-futebol-the-soccer-museum/",
+    "renewal_design_source": "https://arturporto.portfolio.site/expografia-museu-do-futebol",
+    "image_source_1": "https://museudofutebol.org.br/wp-content/uploads/2024/07/Museu_20240713_075-1536x1024.jpg",
+    "image_source_2": "https://museudofutebol.org.br/wp-content/uploads/2024/07/ZSFILMES_MF_marcelaguimaraes-27-1536x1024.jpg",
+    "image_url_1": "https://museudofutebol.org.br/wp-content/uploads/2024/07/Museu_20240713_075-1536x1024.jpg",
+    "image_url_2": "https://museudofutebol.org.br/wp-content/uploads/2024/07/ZSFILMES_MF_marcelaguimaraes-27-1536x1024.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch33-staging/BR-MF-01/roots-of-brazil.jpg",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch33-staging/BR-MF-01/womens-football.jpg",
+    "evidence": "馆方确认2024新主展为正在展出的长期主展，并给出周二至周日开放、售票、无障碍与访问信息；该馆原主展为15室、6,000平方米的巴西足球—社会文化叙事，2024更新继续以文化身份、性别、种族与可及性为主线。官方页明确Roots of Brazil使用逾100张图片、Carlos Nader影片与17屏多媒体墙；Origins／Cups厅重新组织女子足球从19世纪至1930年代、1941—1988禁令与抵抗、1991年以来女足世界杯的历史。IDSA列Jair de Souza、Daniela Thomas、Felipe Tassara、Mauro Munhoz与Leonel Kaz等创意、展示设计、建筑与策展责任；Artur Porto页确认他与Bruno Niquet、Rita Faria及Labareda共同重设永久展全展，并负责跨9间展室的Almanaque da Bola实体展陈。",
+    "image_review_1": "人工审核通过：1536×1024馆方实拍为Roots of Brazil真实完成展厅，左侧多屏影音墙、中心历史图像墙、空间文字和观众停留区共同构成足球—巴西文化根源叙事；不是效果图、外观或单设备图。",
+    "image_review_2": "人工审核通过：1536×1024馆方实拍为Women’s Football真实完成展厅，连续的档案照片、字幕屏与“Mulheres resistem / sem medo”主题屏构成女性足球禁令、抵抗与可见性的历史叙事；与Roots of Brazil在空间和章节上显著不同。",
+    "audit_note": "合格：具名整体展陈／策展／设计责任、6,000平方米中大型叙事尺度、2024更新后当前开放、清晰的足球—巴西社会史与两张不同章节馆方完成内景均已闭合。"
+  }
+}

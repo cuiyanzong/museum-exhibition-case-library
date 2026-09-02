@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "US-MOTB-HB-01",
+    "title": "Museum of the Bible — History of the Bible Core Exhibition",
+    "subtitle": "Museum of the Bible｜华盛顿特区，美国",
+    "year": "2017；长期核心展",
+    "type": "宗教文本史、物质文化与媒介叙事／常设展",
+    "brief": "以11个画廊、600余件物件和50余个媒体节目，追踪文本从口传与早期手稿到印刷、技术发展和全球翻译的物质与媒介历史。",
+    "insight": "宗教文本展必须让文献的保育、翻译史和阅读情境可见，避免由沉浸场景单独定义一部文本的历史。",
+    "tags": [
+      "手稿与卷轴",
+      "文本传播史",
+      "媒体节目",
+      "阅读室"
+    ],
+    "route": [
+      "入口影片",
+      "口传与早期手稿",
+      "翻译与抄写",
+      "印刷革命",
+      "技术与全球传播",
+      "阅读室与illumiNations"
+    ],
+    "images": [
+      "us-motb-hb-01.jpg",
+      "us-motb-hb-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-motb-hb-01_7e07c6f8.jpg",
+      "/manus-storage/us-motb-hb-02_e081629c.jpg"
+    ],
+    "captions": [
+      "History of the Bible展中的实体文献展柜与文本层。来源：Museum of the Bible公开摄影。",
+      "History of the Bible展的互动桌、展柜与历史情境空间。来源：Museum of the Bible公开摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：入口影片—口传与早期手稿—翻译与抄写—印刷革命—技术与全球传播—阅读室与illumiNations。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从文本产生、抄写、翻译到全球传播的序列，使宗教史被放入材料、技术和阅读社群的具体变化中。"
+      ],
+      [
+        "展项设计",
+        "手稿、妥拉卷轴、古币、早期印刷本、影像和互动台应分别承担原件、语境与解释功能；复制件必须与原件清楚区分。"
+      ],
+      [
+        "布展与图文",
+        "剧场、暗场文本墙与高保育展柜的转换需要照度和停留缓冲，阅读室可作为从媒介刺激回到文本细读的节点。"
+      ],
+      [
+        "研究判断",
+        "这一案例的可迁移原则是将“文本的物质生命”讲清，而不以信仰感氛围代替历史复杂性。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "US-MOTB-HB-01",
+    "country": "美国",
+    "region": "北美洲",
+    "title": "Museum of the Bible — History of the Bible Core Exhibition",
+    "museum": "Museum of the Bible",
+    "location": "华盛顿特区，美国",
+    "year": "2017；长期核心展",
+    "type": "宗教文本史、物质文化与媒介叙事／常设展",
+    "studio": "The PRD Group（History of the Bible展厅与跨团队统筹）／Design and Production Incorporated（制作、安装与媒体整合）／Richard Lewis Media Group（互动媒体）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.d-and-p.com/blog/museum-of-the-bible-opens",
+    "museum_source": "https://www.museumofthebible.org/floor-4-the-history-of-the-bible",
+    "evidence": "馆方项目公告明确三层核心展分别处理《圣经》的影响、叙事与历史；其中PRD Group负责History of the Bible楼层及各展陈团队统筹，BRC Imagination Arts负责Narrative楼层，C&G Partners负责Impact楼层。D&P公开其承担第四层History of the Bible的制作、安装与媒体整合；该展以11个画廊、600余件物品和50余个媒体节目组织30,000平方英尺内容，叙述文本从口传与早期手稿到印刷、技术与全球翻译的历程。馆方当前第四层页面列明600余件手稿、古币、妥拉卷轴、彩绘手稿和早期印刷本，并以入口影片、阅读室与illumiNations结尾组织参观。",
+    "image_credit": "Museum of the Bible官方网站／Design and Production Incorporated现场摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方与制作方项目图可见实体手稿柜、互动桌、交通工具与时间线墙、剧场及带有历史场景感的物件环境；展柜反光、访客、吊顶设备和展项材料细节明确表明为已建成常设展摄影，而非效果图或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

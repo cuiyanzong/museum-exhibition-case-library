@@ -1,0 +1,88 @@
+{
+  "content": {
+    "id": "BE-W1815-01",
+    "title": "Waterloo Memorial 1815 — Battle of Waterloo Permanent Exhibition",
+    "subtitle": "Memorial 1815 / Domaine de la Bataille de Waterloo｜Braine-l'Alleud, Belgium",
+    "year": "2015年为滑铁卢战役200周年开放；官方现行页面提供票务与访问安排",
+    "type": "法国大革命、拿破仑崛起、滑铁卢战役及其地缘政治后果的叙事性常设展",
+    "brief": "以法国大革命、拿破仑崛起、1815战役和战后欧洲重组构成连续历史链条，并把服装、火炮、地图、4D影片与多媒体阅读嵌入两层地下叙事。",
+    "insight": "战役纪念展若只放大决战瞬间，容易抹去战争的政治前史与长期后果；前史、装备、个体感知和战后秩序必须共同成为参观路径。",
+    "tags": [
+      "欧洲战争史",
+      "前史—战役—后果",
+      "对象与地图",
+      "沉浸多媒体"
+    ],
+    "route": [
+      "法国大革命与欧洲危机",
+      "拿破仑崛起与军事体系",
+      "滑铁卢战役、制服与火炮",
+      "180°影片与多方战场经验",
+      "战后秩序与地缘政治后果"
+    ],
+    "images": [
+      "be-w1815-01-01.jpg",
+      "be-w1815-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/be-w1815-01-01_62167b71.jpg",
+      "/manus-storage/be-w1815-01-02_1ddc7d27.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：法国大革命至拿破仑前史。来源：Marcos Viñals Bassols项目页／摄影；仅作研究性案例索引。",
+      "已建成展厅实景：Canons战役装备与互动。来源：Marcos Viñals Bassols项目页／摄影；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：法国大革命与欧洲危机—拿破仑崛起与军事体系—滑铁卢战役、制服与火炮—180°影片与多方战场经验—战后秩序与地缘政治后果。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "先将滑铁卢放回革命与帝国的形成史，再进入战役的军事机制和多方力量，最后把纪念场所从“胜负”推回战后欧洲政治重组，使决战成为历史链条中的一环。 本案的核心命题是：战役纪念展若只放大决战瞬间，容易抹去战争的政治前史与长期后果；前史、装备、个体感知和战后秩序必须共同成为参观路径。"
+      ],
+      [
+        "展项设计",
+        "红色前史空间的地图、画作、文献和展柜建立政治背景；Canons段的火炮模型、制服、战术图文和互动立屏拆解装备与作战知识；影片承担情绪和视角转换，但不应代替史料解释。"
+      ],
+      [
+        "布展与图文",
+        "以色彩、对象尺度和字幕密度区分前史与战场章节。大影像和4D体验前后必须保留短句导览、退场阅读面与可绕行路径，让刺激性媒介回到具体事实。"
+      ],
+      [
+        "研究判断",
+        "其价值在于把战役展做成因果结构：政治条件、技术物件、战场经验和后果共同校正纪念叙事的单一英雄化倾向。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.sien.be/en/projects/memorial-1815/10?OKSES=00a4daab79ee3b4007a2a12c9895b5d6",
+      "https://bassols.art/project/waterloo-memorial/",
+      "https://waterloo1815.be/en"
+    ]
+  },
+  "ledger": {
+    "id": "BE-W1815-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "Waterloo Memorial 1815 — Battle of Waterloo Permanent Exhibition",
+    "museum": "Memorial 1815 / Domaine de la Bataille de Waterloo",
+    "location": "Braine-l'Alleud, Belgium",
+    "region": "西欧",
+    "studio": "SIEN（永久展总体概念、布局、场景设计及图像研究协调）；Marcos Viñals Bassols（展陈设计）；La Belle Alliance（布展实施联合体）；Walloon Commissariat-General for Tourism（委托方）",
+    "year": "2015年为滑铁卢战役200周年开放；官方现行页面提供票务与访问安排",
+    "type": "法国大革命、拿破仑崛起、滑铁卢战役及其地缘政治后果的叙事性常设展",
+    "design_source": "https://www.sien.be/en/projects/memorial-1815/10?OKSES=00a4daab79ee3b4007a2a12c9895b5d6",
+    "design_source_secondary": "https://bassols.art/project/waterloo-memorial/",
+    "museum_source": "https://waterloo1815.be/en",
+    "operations_source": "https://waterloo1815.be/en",
+    "image_source_1": "https://bassols.art/project/waterloo-memorial/",
+    "image_source_2": "https://bassols.art/project/waterloo-memorial/",
+    "image_url_1": "https://bassols.art/wp-content/uploads/2021/04/waterloo.01.jpg",
+    "image_url_2": "https://bassols.art/wp-content/uploads/2021/04/waterloo.16.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch34-staging/BE-W1815-01/french-revolution-candidate.jpg",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch34-staging/BE-W1815-01/aftermath-candidate.jpg",
+    "evidence": "SIEN原始项目页明确其受瓦隆旅游总署委托，为狮丘脚下的新Battle of Waterloo Memorial构思项目、设计永久展布局与场景，并同国际科学委员会协调图像研究和馆藏／私人收藏借展，La Belle Alliance联合体完成Visitor Centre布展。Bassols项目页列2015、永久展、SIEN制作、瓦隆旅游总署委托、1,800平方米及两层地下空间；叙事从法国大革命、拿破仑崛起到战役本身（含由Gérard Corbiau执导的180° 4D影片），再至战后与地缘政治后果。Waterloo 1815官方现行网站持续提供票务，列Memorial 1815以时代物件、制服、动画地图、各类多媒体与4D影片构成沉浸展览。",
+    "image_review_1": "人工审核通过：1920×1080的Bassols原始项目页摄影为红色“La Révolution française”章节的已建成展厅，可见投影欧洲地图、画作／文献、文字墙、实物展柜、红色台座及真实照明；为法国大革命—拿破仑前史叙事段，不是渲染、外观或旅游照。项目页列照片归Marcos Viñals Bassols。",
+    "image_review_2": "人工审核通过：1921×1282的Bassols原始项目页摄影为蓝色“Canons”战役装备章节的已建成展厅，可见火炮原理线描、模型、实物、互动立屏、炮弹与制服展柜；与第一张前史红色展厅的对象、章节和色彩结构不同，是真实完成内景而非单设备或效果图。项目页列照片归Marcos Viñals Bassols。",
+    "audit_note": "合格：具名整体概念／空间／场景设计及制作责任、官方当前票务、1,800平方米两层叙事、完整前史—战役—战后结构和两张不同章节的原始完成内景均已闭合；全库标题、馆名与主题检索未命中，未与329例已发布记录重复。最终媒体阶段须保留Marcos Viñals Bassols摄影署名与项目页来源。"
+  }
+}

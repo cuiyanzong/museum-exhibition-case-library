@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "US-NMOHM-01",
+    "title": "National Medal of Honor Museum — Core Exhibition Experience",
+    "subtitle": "National Medal of Honor Museum｜阿灵顿，美国",
+    "year": "2025；长期核心展",
+    "type": "军事史与公民价值／互动叙事常设展",
+    "brief": "以勋章获得者故事、勋章演变、勇气命名与证据标准构成核心体验，并以双360度投影环幕连接个人故事与4000万服役者姓名。",
+    "insight": "军史展采用大尺度沉浸媒介时，实体证据和人物叙事必须始终保有独立阅读位置，才能避免价值口号盖过复杂历史。",
+    "tags": [
+      "勋章与证据",
+      "环幕投影",
+      "人物故事",
+      "公民价值"
+    ],
+    "route": [
+      "勋章阈限",
+      "获得者故事",
+      "勋章演变",
+      "勇气命名与延迟承认",
+      "姓名环幕",
+      "证据标准回看"
+    ],
+    "images": [
+      "us-nmohm-01.jpg",
+      "us-nmohm-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-nmohm-01_bd663e6a.jpg",
+      "/manus-storage/us-nmohm-02_59c0286f.jpg"
+    ],
+    "captions": [
+      "National Medal of Honor Museum中实体物件柜与叙事墙。来源：KERA／馆方公开现场摄影。",
+      "National Medal of Honor Museum的档案墙、展柜与参观路径。来源：DVIDS公开现场摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：勋章阈限—获得者故事—勋章演变—勇气命名与延迟承认—姓名环幕—证据标准回看。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从个人故事进入制度性承认的过程，将勇气、命名和证据标准连接起来，而非把勋章仅处理为英雄图像。"
+      ],
+      [
+        "展项设计",
+        "实体勋章、档案墙与环幕各自承担物证、人物语境和集体尺度；环幕应被设置为叙事转换节点，而不是单纯视觉高潮。"
+      ],
+      [
+        "布展与图文",
+        "圆环投影和黑场空间需要以清晰的停留边界保护展柜阅读；观众尺度可帮助判断沉浸区与静读区的分工。"
+      ],
+      [
+        "研究判断",
+        "以姓名构成的集体场景能扩大个人叙事的社会维度，但仍需明确个案、制度与影像之间的证据差异。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "US-NMOHM-01",
+    "country": "美国",
+    "region": "北美洲",
+    "title": "National Medal of Honor Museum — Core Exhibition Experience",
+    "museum": "National Medal of Honor Museum",
+    "location": "阿灵顿，美国",
+    "year": "2025；长期核心展",
+    "type": "军事史与公民价值／互动叙事常设展",
+    "studio": "Gallagher & Associates（博物馆展陈设计）／Kubik Maltbie（场景制作）／Clair Global（沉浸视听安装）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.clairglobal.com/case-studies/the-national-medal-of-honor-museum",
+    "museum_source": "https://mohmuseum.org/exhibits-and-events/medal-exhibits-overview",
+    "evidence": "Clair Global确认其代表展陈设计方Gallagher & Associates及场景制作方Kubik Maltbie，为新馆安装双360度投影环幕；核心故事通过勋章获得者与4,000万服役者的姓名构成体验叙事，并由10台外环、7台内环4K投影与4台媒体服务器完成沉浸式展示。馆方明确主展甲板以勋章获得者故事、勋章的演变、勇气命名、延迟承认和证据标准组织内容，并提供购票与每日10:00—17:00开放信息。",
+    "image_credit": "National Medal of Honor Museum／Clair Global／KERA与FOX 4现场报道摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方、视听实施方与新闻媒体图可见参观者在实体物件柜、战时档案墙、大尺寸投影环境和环形姓名装置中的真实使用状态；展柜反射、天花设备、地面磨损和观众尺度均确认其为建成展厅，而非效果图或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "JP-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-01-official-gallery.jpg",
+    "sourceUrl": "https://www.miraikan.jst.go.jp/en/exhibitions/world/missionsurvival/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-02-official-gallery.jpg",
+    "sourceUrl": "https://www.miraikan.jst.go.jp/en/exhibitions/tsunagari/geo-cosmos/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-03-official-gallery.jpg",
+    "sourceUrl": "https://www.miraikan.jst.go.jp/en/exhibitions/world/planetarycrisis/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-04-official-gallery.webp",
+    "sourceUrl": "https://www.kahaku.go.jp/chinese_trad/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-05-official-gallery.webp",
+    "sourceUrl": "https://www.kahaku.go.jp/chinese_trad/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-06",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-06-disaster-memorial.jpg",
+    "sourceUrl": "https://www.kobe-sumai-machi.or.jp/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-07",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-07-official-gallery.jpg",
+    "sourceUrl": "http://rias-ark.sakura.ne.jp/2/en/sinsai/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-08",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-08-fukushima-memorial-gallery.jpg",
+    "sourceUrl": "https://www.fipo.or.jp/lore/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-09",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-09-naraha-timeline.webp",
+    "sourceUrl": "https://www.tanseisha.co.jp/en/works/detail/naraha-umut-collaborative-museum-a-timeline-of-the-earth-and-the-town",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-10",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-10-hiroshima-peace-memorial-gallery.jpg",
+    "sourceUrl": "https://hpmmuseum.jp/?lang=eng",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-11",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-11-nagasaki-atomic-bomb-museum-gallery.jpg",
+    "sourceUrl": "https://nabmuseum.jp/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-12",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-12-official-gallery.jpg",
+    "sourceUrl": "https://www.edo-tokyo-museum.or.jp/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-13",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-13-official-gallery.jpg",
+    "sourceUrl": "https://www.chikahaku.jp/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-14",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-14-official-gallery.jpg",
+    "sourceUrl": "https://www.railway-museum.jp/e/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-15",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-15-kyoto-railway-museum-gallery.jpg",
+    "sourceUrl": "https://www.kyotorailwaymuseum.jp/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-16",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-16-yokohama-maritime-museum-gallery.jpg",
+    "sourceUrl": "https://www.nippon-maru.or.jp/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-17",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-17-osaka-living-museum-gallery.jpg",
+    "sourceUrl": "https://konjyakukan.com/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-18",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-18-national-japanese-history-gallery.jpg",
+    "sourceUrl": "https://www.rekihaku.ac.jp/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-19",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-19-upopoy-national-ainu-museum-gallery.webp",
+    "sourceUrl": "https://ainu-upopoy.jp/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-20",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-20-official-gallery.jpg",
+    "sourceUrl": "https://www.cupnoodles-museum.jp/en/osaka_ikeda/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-21",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-21-official-gallery.jpg",
+    "sourceUrl": "https://www.tcmit.org/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-22",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-22-official-gallery.jpg",
+    "sourceUrl": "https://museum.jr-central.co.jp/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-23",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-23-yebisu-beer-museum-gallery.jpg",
+    "sourceUrl": "https://museum.yebisu.co.jp/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "JP-24",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/jp-24-official-gallery.webp",
+    "sourceUrl": "https://www.kahaku.go.jp/chinese_trad/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-01-national-museum-korea-prehistory-gallery.jpg",
+    "sourceUrl": "https://www.museum.go.kr/ENG/contents/E0201000000.do",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-02-national-museum-korea-medieval-gallery.jpg",
+    "sourceUrl": "https://www.museum.go.kr/ENG/contents/E0201000000.do",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-03-national-folk-museum-k-culture-gallery.png",
+    "sourceUrl": "https://www.nfm.go.kr/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-04-official-gallery.jpg",
+    "sourceUrl": "https://www.nfm.go.kr/english/subIndex/449.do",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-05-national-folk-museum-life-passages-gallery.jpg",
+    "sourceUrl": "https://www.nfm.go.kr/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-06",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-06-national-hangeul-museum-gallery.jpg",
+    "sourceUrl": "https://www.hangeul.go.kr/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-07",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-07-korean-contemporary-history-museum-gallery.jpg",
+    "sourceUrl": "https://www.much.go.kr/ENG/contents/E0201000000.do",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-08",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-08-korean-democracy-museum-gallery.jpg",
+    "sourceUrl": "https://www.kdemo.or.kr/eng/programs/programs_national-museum-of-korea-democracy.do",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-09",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-09-seodaemun-prison-history-gallery.png",
+    "sourceUrl": "https://sphistoryhall.or.kr/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-10",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-10-war-memorial-korea-gallery.jpg",
+    "sourceUrl": "https://www.warmemo.or.kr/eng/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-11",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-11-jeju-43-peace-memorial-gallery.jpg",
+    "sourceUrl": "https://jeju43peace.or.kr/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-12",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-12-national-science-museum-daejeon-gallery.jpg",
+    "sourceUrl": "https://www.science.go.kr/eng/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-13",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-13-gwacheon-science-museum-gallery.jpg",
+    "sourceUrl": "https://www.sciencecenter.go.kr/eng/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-14",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-14-korea-national-maritime-museum-gallery.jpg",
+    "sourceUrl": "https://www.mmk.or.kr/eng/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-15",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-15-official-gallery.jpg",
+    "sourceUrl": "https://www.nl.go.kr/EN/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-16",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-16-korean-contemporary-history-experience-gallery.jpg",
+    "sourceUrl": "https://www.much.go.kr/ENG/contents/E0201000000.do",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-17",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-17-national-childrens-science-museum-gallery.jpg",
+    "sourceUrl": "https://www.csm.go.kr/eng/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "KR-18",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/kr-18-gwangju-may18-archives-gallery.jpg",
+    "sourceUrl": "https://www.518archives.go.kr/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-01-moscow-cosmonautics-gallery.jpg",
+    "sourceUrl": "https://kosmo-museum.ru/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-02-official-gallery.jpg",
+    "sourceUrl": "https://rzd-museum.ru/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-04-official-gallery.jpg",
+    "sourceUrl": "https://ethnomuseum.ru/exposition/permanent/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-05-official-gallery.jpg",
+    "sourceUrl": "https://polithistory.ru/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-06",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-06-gulag-history-museum-gallery.jpg",
+    "sourceUrl": "https://gmig.ru/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-07",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-07-official-gallery.jpg",
+    "sourceUrl": "https://www.jewish-museum.ru/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-09",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-09-darwin-museum-gallery.jpg",
+    "sourceUrl": "https://www.darwinmuseum.ru/eng",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-10",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-10-world-ocean-museum-gallery.jpg",
+    "sourceUrl": "https://world-ocean.ru/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-01-official-gallery.jpg",
+    "sourceUrl": "https://www.vasamuseet.se/en",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-04-official-gallery.png",
+    "sourceUrl": "https://www.nhm.uio.no/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-01-official-gallery.jpg",
+    "sourceUrl": "https://www.deutsches-museum.de/en/museum-island/exhibitions",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-03-ddr-museum-participatory-gallery.webp",
+    "sourceUrl": "https://www.ddr-museum.de/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-04-house-european-history-gallery.jpg",
+    "sourceUrl": "https://historia-europa.ep.eu/en/permanent-exhibition",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-05-official-gallery.jpg",
+    "sourceUrl": "https://muzhp.pl/en",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-07",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-07-polin-core-exhibition.jpg",
+    "sourceUrl": "https://polin.pl/en/exhibition/core-exhibition",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-01-national-museum-qatar-gallery.jpg",
+    "sourceUrl": "https://nmoq.org.qa/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-04-museum-future-immersive-gallery.jpg",
+    "sourceUrl": "https://museumofthefuture.ae/en/exhibitions",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-06",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-06-official-gallery.jpg",
+    "sourceUrl": "https://www.yadvashem.org/museum/holocaust-history-museum.html",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-08",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-08-jordan-museum-gallery.jpg",
+    "sourceUrl": "https://museums.gov.jo/EN/Pages/The-Jordan-Museum.aspx",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "OC-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/oc-01-te-papa-mana-whenua-gallery.jpg",
+    "sourceUrl": "https://tepapa.govt.nz/visit/exhibitions/mana-whenua",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "OC-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/oc-02-official-gallery.jpg",
+    "sourceUrl": "https://tepapa.govt.nz/visit/exhibitions",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "OC-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/oc-04-official-gallery.jpg",
+    "sourceUrl": "https://australian.museum/learn/first-nations/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "SA-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/sa-01-official-gallery.jpg",
+    "sourceUrl": "https://www.partitionmuseum.org/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "SA-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/sa-02-national-museum-india-harappan-gallery.jpg",
+    "sourceUrl": "https://nationalmuseumindia.gov.in/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "SA-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/sa-03-official-gallery.jpg",
+    "sourceUrl": "https://sciencecitykolkata.org.in/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "AF-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/af-01-apartheid-museum-gallery.jpg",
+    "sourceUrl": "https://www.apartheidmuseum.org/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CA-01",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ca-01-official-gallery.jpg",
+    "sourceUrl": "https://e-museum.kz/en/museum/68da379a81b2b0288-en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "AF-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/af-02-kigali-genocide-memorial-gallery.jpg",
+    "sourceUrl": "https://kigalimemorial.org/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "AF-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/af-03-district-six-museum-gallery.jpg",
+    "sourceUrl": "https://www.districtsix.co.za/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "AF-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/af-04-museum-black-civilisations-gallery.jpg",
+    "sourceUrl": "https://mcn.sn/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "AF-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/af-05-iziko-south-african-museum-gallery.jpg",
+    "sourceUrl": "https://www.iziko.org.za/museums/south-african-museum/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CA-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ca-02-political-repression-museum-gallery.jpg",
+    "sourceUrl": "https://e-museum.kz/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CA-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ca-03-uzbekistan-history-museum-gallery.jpg",
+    "sourceUrl": "https://www.uzbekistan.travel/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CA-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ca-04-uzbekistan-applied-arts-museum-gallery.jpg",
+    "sourceUrl": "https://www.uzbekistan.travel/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-02-munich-nsdoku-gallery.jpg",
+    "sourceUrl": "https://www.nsdoku.de/en",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-06",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-06-warsaw-rising-museum-gallery.jpg",
+    "sourceUrl": "https://www.1944.pl/en",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "CE-08",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ce-08-czech-national-museum-20th-century-gallery.jpg",
+    "sourceUrl": "https://www.nm.cz/en",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-02-bait-al-zubair-gallery.png",
+    "sourceUrl": "https://baitalzubairmuseum.com/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-03-national-museum-oman-gallery.jpg",
+    "sourceUrl": "https://nmo.gov.om/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-05-etihad-museum-gallery.jpg",
+    "sourceUrl": "https://etihadmuseum.dubaiculture.gov.ae/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "ME-07",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/me-07-anu-museum-core-gallery.jpg",
+    "sourceUrl": "https://www.anumuseum.org.il/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-02",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-02-norwegian-folk-museum-gallery.jpg",
+    "sourceUrl": "https://norskfolkemuseum.no/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-03-norwegian-maritime-museum-gallery.jpg",
+    "sourceUrl": "https://marmuseum.no/en",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-05-norwegian-science-technology-museum-gallery.jpg",
+    "sourceUrl": "https://www.tekniskmuseum.no/english/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-06",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-06-national-museum-denmark-prehistory-gallery.jpg",
+    "sourceUrl": "https://en.natmus.dk/museums-and-palaces/the-national-museum-of-denmark/exhibitions/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-07",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-07-swedish-national-maritime-museum-gallery.jpg",
+    "sourceUrl": "https://www.sjohistoriska.se/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-08",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-08-finnish-natural-history-museum-gallery.jpg",
+    "sourceUrl": "https://www.luomus.fi/en/natural-history-museum",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "NO-09",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/no-09-nobel-prize-museum-gallery.jpg",
+    "sourceUrl": "https://nobelprizemuseum.se/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "OC-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/oc-03-surviving-australia-gallery.jpg",
+    "sourceUrl": "https://australian.museum/exhibition/surviving-australia/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "OC-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/oc-05-old-new-land-gallery.jpg",
+    "sourceUrl": "https://www.nma.gov.au/exhibitions/old-new-land",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "OC-06",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/oc-06-great-southern-land-gallery.jpg",
+    "sourceUrl": "https://www.nma.gov.au/exhibitions/great-southern-land",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "OC-07",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/oc-07-australian-journeys-gallery.jpg",
+    "sourceUrl": "https://www.nma.gov.au/exhibitions/australian-journeys",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-03",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-03-russian-ethnographic-museum-arctic-gallery.jpg",
+    "sourceUrl": "https://ethnomuseum.ru/exposition/permanent/arctic/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-08",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-08-victory-museum-road-to-victory-gallery.jpg",
+    "sourceUrl": "https://victorymuseum.ru/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-11",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-11-arctic-antarctic-museum-gallery.jpg",
+    "sourceUrl": "https://www.polarmuseum.ru/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "RU-12",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/ru-12-kizhi-museum-gallery.jpg",
+    "sourceUrl": "https://kizhi.karelia.ru/en/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "SA-04",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/sa-04-nehru-science-centre-gallery.jpg",
+    "sourceUrl": "https://www.nehruscentremumbai.gov.in/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  },
+  {
+    "id": "SA-05",
+    "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/selected/sa-05-indian-museum-natural-history-gallery.jpg",
+    "sourceUrl": "https://indianmuseumkolkata.org/",
+    "sourceKind": "馆方、设计方或可追溯现场摄影",
+    "imageStatus": "真实展厅／展项摄影，经人工审阅通过"
+  }
+]

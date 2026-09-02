@@ -1,0 +1,83 @@
+{
+  "content": {
+    "id": "EE-VAB-01",
+    "title": "Vabamu Museum of Occupations and Freedom — Freedom Without Borders",
+    "subtitle": "Vabamu Museum of Occupations and Freedom｜Tallinn, Estonia",
+    "year": "2018重开；馆方2026当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以苏联与纳粹占领、抵抗、流放、复国和当代自由为线索，使用档案、实物、影像和参与式阅读讲述爱沙尼亚二十世纪记忆。",
+    "insight": "占领史展要让不同统治机制、抵抗选择和个人证词保持区分，不能把复杂历史压缩成一条黑暗走廊。",
+    "tags": [
+      "占领记忆",
+      "抵抗证词",
+      "自由与复国",
+      "档案阅读"
+    ],
+    "route": [
+      "独立基线",
+      "占领与制度控制",
+      "抵抗和流放",
+      "复国过程",
+      "当代自由与对话"
+    ],
+    "images": [
+      "ee-vab-01-01.jpg",
+      "ee-vab-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/ee-vab-01-01_f2e3de93.jpg",
+      "/manus-storage/ee-vab-01-02_30746a73.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：苏联占领与抵抗证词。来源：Vabamu相关公开项目来源公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：复国、自由与数字记忆。来源：Vabamu相关公开项目来源公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：独立基线—占领与制度控制—抵抗和流放—复国过程—当代自由与对话。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以独立经验为基线进入多重占领，再通过抵抗、流放和复国恢复行动者与选择，使自由成为具体历史过程。 本案的核心命题是：占领史展要让不同统治机制、抵抗选择和个人证词保持区分，不能把复杂历史压缩成一条黑暗走廊。"
+      ],
+      [
+        "展项设计",
+        "照片、文件、物件、影片和阅读台需分别承担制度、人物、生活和公共讨论；证词的出处与翻译要可追溯。"
+      ],
+      [
+        "布展与图文",
+        "暗场投影与明亮阅读台应形成节奏，不应让情绪强度代替事实；个人观看需有坐席与可绕行通道。"
+      ],
+      [
+        "研究判断",
+        "成熟的占领史展不是让观众只感到压迫，而是让他们理解制度如何运作、人们如何回应、自由如何被重新组织。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.motor.ee/work/museum/vabamu-smart-audioguide-for-museums",
+      "https://vabamu.ee/en/exhibitions/freedom-without-borders/",
+      "https://www.motor.ee/application/files/7316/6211/7297/Vabamu_006.jpeg",
+      "https://www.motor.ee/application/files/8816/6211/7309/Vabamu_013.jpeg"
+    ]
+  },
+  "ledger": {
+    "id": "EE-VAB-01",
+    "title": "Vabamu Museum of Occupations and Freedom — Freedom Without Borders",
+    "museum": "Vabamu Museum of Occupations and Freedom",
+    "location": "Tallinn, Estonia",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Motor Agency（展览与互动展项概念、设计、开发、制作与安装；多媒体／视听、VR、文物展示、图形与项目管理）；KOKO architects（室内建筑）；Sander Jürisson、Maarja Merivoo-Parro、Uku Lember、Aro Velmet、Daniel Vaarik与Kaido Ole（五段内容策展／共创）",
+    "year": "2018重开；馆方2026当前开放",
+    "design_source": "https://www.motor.ee/work/museum/vabamu-smart-audioguide-for-museums",
+    "museum_source": "https://vabamu.ee/en/exhibitions/freedom-without-borders/",
+    "operation_source": "https://vabamu.ee/en/exhibitions/",
+    "evidence": "Motor Agency原始项目页明确其为1,100平方米新常设展的展览、互动、多媒体、视听、VR、文物、图形、制作安装与管理总负责，KOKO担任室内建筑；页面解释将原本老化展览重构为由地下黑暗向上层光线移动的体验路径，并指出大逃亡船、苏维埃五角星桌与可震动车厢等完整展项。馆方永久展页列五段叙事：反人类罪行、海外爱沙尼亚人、苏维埃爱沙尼亚、独立恢复与自由，并逐一署名内容策展人／共创者；馆方列全年Mon–Sun 10:00–18:00、票务、导览与2026常设展目录，确认持续运营。全库检索无同案。",
+    "image_assessment": "2026-08-24人工审核Motor Agency署名原图：Vabamu_006.jpeg为‘Great Escape／海外流亡’段的真实建成室内，呈现木质难民船、人物影像投影、深色展墙的信件／物件光盒与环形参观动线；Vabamu_013.jpeg为不同的‘驱逐／反人类罪行’车厢段，呈现以被驱逐家庭废弃房屋木板构成的实物车厢、坐席、资料光盒与观众使用情景。二者均是设计方项目页的实景摄影，并非外观、渲染、旅游照或孤立物件特写。",
+    "image_source_1": "https://www.motor.ee/application/files/7316/6211/7297/Vabamu_006.jpeg",
+    "image_source_2": "https://www.motor.ee/application/files/8816/6211/7309/Vabamu_013.jpeg",
+    "next_gate": "候选池阶段通过；生产前下载两图并以Pillow重开、尺寸和RGB JPEG检查，同时重核馆方开放时段与票务页。",
+    "audit_date": "2026-08-24"
+  }
+}

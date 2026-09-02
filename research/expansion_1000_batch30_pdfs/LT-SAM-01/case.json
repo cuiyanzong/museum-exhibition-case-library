@@ -1,0 +1,83 @@
+{
+  "content": {
+    "id": "LT-SAM-01",
+    "title": "Samogitian Museum “Alka” — Regional History, Occupation and Partisan Resistance",
+    "subtitle": "Žemaičių muziejus “Alka” / Samogitian Museum “Alka”｜Telšiai, Lithuania",
+    "year": "2024重开；馆方当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "以萨莫吉希亚地区的战役记忆、地方社会、仪式对象、人物和社区档案组织长期展，使区域身份从单一英雄叙事扩展为多层记忆。",
+    "insight": "地区纪念馆的叙事要避免把地方史封闭成荣耀；物件、制度、日常劳动和仪式实践需要共同解释身份如何形成。",
+    "tags": [
+      "地区记忆",
+      "战役叙事",
+      "仪式对象",
+      "社会史"
+    ],
+    "route": [
+      "地方与战役背景",
+      "人物与社区网络",
+      "仪式对象与实践",
+      "社会生活与地方变化",
+      "当代传承"
+    ],
+    "images": [
+      "lt-sam-01-01.jpg",
+      "lt-sam-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/lt-sam-01-01_58bcff10.jpg",
+      "/manus-storage/lt-sam-01-02_b0e71fa4.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：萨莫吉希亚Alka战役记忆。来源：Samogitian Alka Museum相关公开项目来源公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：地区社会史与仪式对象。来源：Samogitian Alka Museum相关公开项目来源公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：地方与战役背景—人物与社区网络—仪式对象与实践—社会生活与地方变化—当代传承。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从战役和人物进入日常社会与仪式对象，使地方性既有历史高点，也有持续的生活材料。 本案的核心命题是：地区纪念馆的叙事要避免把地方史封闭成荣耀；物件、制度、日常劳动和仪式实践需要共同解释身份如何形成。"
+      ],
+      [
+        "展项设计",
+        "对象柜、人物图像、文字墙和互动阅读应分别承担证据、人物与语境；收藏物不可仅做民俗装饰。"
+      ],
+      [
+        "布展与图文",
+        "明亮阅读区和暗色对象区之间需通过标题和地图建立连续性；仪式服饰与金属物件要控制反射并支持近看。"
+      ],
+      [
+        "研究判断",
+        "地方馆的可迁移价值在于把纪念性题材拉回社会史，使共同体被理解为关系网络而不是固定标签。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://dadada.lt/projects/alka",
+      "https://www.muziejusalka.lt/history/",
+      "https://militaryheritagetourism.info/g/Poi/00790/Alka_muziejus_1.jpg?size=1024",
+      "https://images.squarespace-cdn.com/content/v1/60d42b56d8f90b7f6ccaf825/fef7e7a3-a291-4dcc-8016-8de13c0d37ea/23-Alka-dadada-wall-%C2%A9Norbert+Tukaj-0538.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "LT-SAM-01",
+    "title": "Samogitian Museum “Alka” — Regional History, Occupation and Partisan Resistance",
+    "museum": "Žemaičių muziejus “Alka” / Samogitian Museum “Alka”",
+    "location": "Telšiai, Lithuania",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "DADADA studio、WALL architects（2024重开后博物馆展陈概念、建筑与设计）",
+    "year": "2024重开；馆方当前运营",
+    "design_source": "https://dadada.lt/projects/alka",
+    "museum_source": "https://www.muziejusalka.lt/history/",
+    "operation_source": "https://militaryheritagetourism.info/en/military/sites/view/790",
+    "evidence": "DADADA项目页确认其与WALL共同完成展陈概念、建筑与设计，重新组织展厅以浮动展柜、定制家具、数字媒介和逐室情绪／声景呈现萨莫吉希亚区域史；项目在五年关闭与重建后于2024年9月重开。馆方2026更新页面确认该馆自1932年以来持续收集、研究、保存、展示萨莫吉希亚文化史，并有近16万件藏品；国家级跨境文化遗产平台说明2024重开后的博物馆包含考古、族群、庄园、艺术、二战、苏占与游击战的历史叙事，且详细说明‘The Fracture of Eras’、‘Lost Stories’和‘Partisan War in Žemaitija’的对象、影片、投影和情境化展陈。全库检索无同馆。",
+    "image_assessment": "2026-08-24人工审核跨境文化遗产平台署名Loreta Norvaisiene的2024重开后图组：Alka_muziejus_1为真实已建成的游击战／苏占记忆展柜，具枪械、地图／时间线图形、文物与说明墙；Alka_muziejus_2为同一黑色枪械展柜的局部，不可作为不同叙事段的第二图。Alka_muziejus_3—8虽可确认为真实内景，却仍属游击战／抵抗记忆的同一宏观展线。其后在DADADA整体设计方原始项目页定位并人工审核23-Alka-dadada-wall-©Norbert Tukaj-0538.jpg：该图为2024重开后明亮的区域艺术／文化史展室，呈现白墙绘画、绿色雕塑、留声机、平面视听屏及贯穿墙面的浅木展柜，与黑暗的占领／抵抗线在对象、色彩、场景与叙事上均清晰不同。两图均为完整已建成室内实景，非外观、渲染、旅游照或孤立物件特写。",
+    "image_source_1": "https://militaryheritagetourism.info/g/Poi/00790/Alka_muziejus_1.jpg?size=1024",
+    "image_source_2": "https://images.squarespace-cdn.com/content/v1/60d42b56d8f90b7f6ccaf825/fef7e7a3-a291-4dcc-8016-8de13c0d37ea/23-Alka-dadada-wall-%C2%A9Norbert+Tukaj-0538.jpg",
+    "next_gate": "候选池阶段通过；生产前从两方原始地址下载、以Pillow重开、尺寸与RGB JPEG检查，并再次确认馆方2024重开后的当前开放线索。",
+    "audit_date": "2026-08-24"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "content": {
+    "id": "MO-GPM-01",
+    "title": "Macao Grand Prix Museum — Interactive History, Science and Culture of Racing",
+    "subtitle": "Macao Grand Prix Museum｜Macau",
+    "year": "2021重开；馆方当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "以赛车、车手人物、赛道空间、驾驶训练、数据界面和澳门赛事档案构成四层更新后的博物馆体验。",
+    "insight": "赛车馆若只展陈性能与冠军，会抹去城市赛道、赛事劳动、风险与公众观看如何共同构成运动文化。",
+    "tags": [
+      "赛车历史",
+      "互动驾驶",
+      "品牌系统",
+      "对象与档案"
+    ],
+    "route": [
+      "赛事起源与城市赛道",
+      "车手与经典赛车",
+      "驾驶技能与数据互动",
+      "当代赛事传播与离场"
+    ],
+    "images": [
+      "mo-gpm-01-01.jpg",
+      "mo-gpm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/mo-gpm-01-01_0aab65c8.jpg",
+      "/manus-storage/mo-gpm-01-02_3f77f5aa.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：互动驾驶与数据界面。来源：Jason Little项目页所列摄影团队公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：赛事起源与经典赛车档案。来源：Jason Little项目页所列摄影团队公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：赛事起源与城市赛道—车手与经典赛车—驾驶技能与数据互动—当代赛事传播与离场。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由澳门赛道的地方条件进入人物与赛车，再让互动体验回到驾驶知识，防止模拟器把真实历史压缩成游戏。 本案的核心命题是：赛车馆若只展陈性能与冠军，会抹去城市赛道、赛事劳动、风险与公众观看如何共同构成运动文化。"
+      ],
+      [
+        "展项设计",
+        "经典赛车、人物档案、赛道图、模拟座椅和多屏数据应分别承担物证、人物、空间定位、身体体验和技术解释。"
+      ],
+      [
+        "布展与图文",
+        "流线型吊顶和地面导向可提示速度，但需要清晰的停留区、轮椅转向和不参与模拟也能理解内容的阅读层。"
+      ],
+      [
+        "研究判断",
+        "有效的赛车展把速度放回城市与技术网络；交互的价值不在竞速，而在解释驾驶、规则和赛道条件。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://s1t2.com/projects/macau-grand-prix-museum",
+      "https://mgpm.macaotourism.gov.mo/en/about/brief-introduction",
+      "https://jasonlittle.xyz/wp-content/uploads/2024/10/MGP-29.jpg",
+      "https://jasonlittle.xyz/wp-content/uploads/2024/10/macau_grandprix_museum_exhibit_04.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "MO-GPM-01",
+    "title": "Macao Grand Prix Museum — Interactive History, Science and Culture of Racing",
+    "museum": "Macao Grand Prix Museum",
+    "location": "Macau",
+    "region": "澳门",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Imagination（体验设计与制作）；S1T2（互动沉浸体验）；For The People／Jason Little团队（品牌叙事、视觉识别、展览设计、导视与互动）；Impromptu Projects Ltd（建筑）",
+    "year": "2021重开；馆方当前运营",
+    "design_source": "https://s1t2.com/projects/macau-grand-prix-museum",
+    "museum_source": "https://mgpm.macaotourism.gov.mo/en/about/brief-introduction",
+    "credits_source": "https://jasonlittle.xyz/project/macaugp",
+    "evidence": "馆方确认该馆于2021-06-01重开，四层约16,000平方米，以1954年以来的车辆、车手与赛事故事构成沉浸式学习体验；S1T2确认与澳门政府旅游局及Imagination共同策划互动旅程，覆盖四层并以历史、科学与赛车文化组织Suit Up、Wind Tunnel、Driving Strength和Team Viewer等节点。Jason Little项目页明确列出展览设计、导视、互动、Imagination制作、S1T2沉浸体验、建筑和Andy Lam等摄影署名。",
+    "image_assessment": "2026-08-24人工审阅：S1T2图02为已建成赛车实物展台段，可见两辆真实赛车、圆形展台、吊顶、可读的车手／年份图文和展签，分辨率2560×1707；Pete Conforto图08为不同的赛事起源／Albert Poon历史叙事段，可见三语年代门楣、巨幅档案图、信息面板、导向地贴与真实管线／灯具，分辨率3840×2880。两图均有实际材料、光照与空间细部，排除纯UI、渲染与建筑外观；Jason Little页列有Andy Lam、Granville Carroll、Ieong Man Pan、António Sanmarful、Gonçalo Lobo Pinheiro、Venus Chan摄影署名，生产前须将最终图与其来源精确对应。",
+    "image_source_1": "https://jasonlittle.xyz/wp-content/uploads/2024/10/MGP-29.jpg",
+    "image_source_2": "https://jasonlittle.xyz/wp-content/uploads/2024/10/macau_grandprix_museum_exhibit_04.jpg",
+    "next_gate": "2026-08-24媒体阶段已下载Jason Little公开项目页的14张图并制成联系表人工复核；页面明确列出Andy Lam、Granville Carroll、Ieong Man Pan、António Sanmarful、Gonçalo Lobo Pinheiro与Venus Chan摄影署名。最终图1（2500×1406，MGP-29）为赛车座椅、训练／驾驶界面、多屏数据与参观者动线构成的互动驾驶段；最终图2（2000×1500，exhibit_04）为红色经典赛车、档案照片、车手名字与黄色赛道楼梯形成的赛事起源／历史解释段。二图均为真实建成室内、叙事段不同，排除外观、纯UI与渲染；待全批RGB JPEG规范化、Pillow重开、上传与最终manifest写入。",
+    "audit_date": "2026-08-24"
+  }
+}

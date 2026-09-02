@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "IL-ANU-01",
+    "title": "ANU — Museum of the Jewish People: The Core Exhibition",
+    "subtitle": "ANU — Museum of the Jewish People｜特拉维夫，以色列",
+    "year": "2021；重设常设展",
+    "type": "犹太民族史、离散社群与文化创造／沉浸叙事常设展",
+    "brief": "以三层空间讲述四千年犹太民族史：当代文化与身份、迁移与社群、以及安息日、盟约和《圣经》影响构成彼此连接的核心展。",
+    "insight": "离散民族史不能只用起源—流亡—归返的单线框架；多层空间有助于把当代创造、地方社群和信仰实践并置。",
+    "tags": [
+      "三层叙事",
+      "离散社群",
+      "当代文化",
+      "对象与媒体"
+    ],
+    "route": [
+      "The Mosaic当代身份",
+      "The Journey迁移与社群",
+      "繁荣与迫害",
+      "二战后复兴",
+      "The Foundations信仰实践",
+      "跨文化影响回看"
+    ],
+    "images": [
+      "il-anu-01.jpg",
+      "il-anu-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/il-anu-01_f2a25d83.jpg",
+      "/manus-storage/il-anu-02_3b619101.jpg"
+    ],
+    "captions": [
+      "ANU核心展中的人物影像、对象与参观者。来源：Gallagher & Associates公开项目摄影。",
+      "ANU核心展的影像屏、家族照片与展柜。来源：ANU／公开现场摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：The Mosaic当代身份—The Journey迁移与社群—繁荣与迫害—二战后复兴—The Foundations信仰实践—跨文化影响回看。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由当代身份进入，再回到迁移、社群与信仰基础，避免让历史只朝单一终点推进，也为不同地域社群保留位置。"
+      ],
+      [
+        "展项设计",
+        "家族照片、服饰、艺术、影像墙与互动媒介应在“物件—人物—结构性历史”之间分工，防止数字肖像消耗实物的阅读价值。"
+      ],
+      [
+        "布展与图文",
+        "木地板、可移动影像屏、对象柜和色彩墙建立层级；每层转换需有清晰的时间和主题标识。"
+      ],
+      [
+        "研究判断",
+        "多声部民族史的空间成功不取决于信息总量，而在于观众能否理解每一段经验从何处发声、与何种材料相连。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "IL-ANU-01",
+    "country": "以色列",
+    "region": "中东",
+    "title": "ANU — Museum of the Jewish People: The Core Exhibition",
+    "museum": "ANU — Museum of the Jewish People",
+    "location": "特拉维夫，以色列",
+    "year": "2021；重设常设展",
+    "type": "犹太民族史、离散社群与文化创造／沉浸叙事常设展",
+    "studio": "Gallagher and Associates（主设计）／Tucan Design Studio（展示设计与施工）／ANU策展团队（内容）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://anumuseum.org.il/the-new-museum/",
+    "museum_source": "https://anumuseum.org.il/the-new-museum/",
+    "evidence": "ANU馆方确认历经十年规划与建设的新馆已经开放，其核心展以三层组织四千年犹太民族史：三层《The Mosaic》由当代身份与文化开始；二层《The Journey》处理迁移、社群、繁荣、迫害、二战后复兴与当代社群；一层《The Foundations》讨论安息日、盟约、生命周期与《圣经》的跨文化影响。馆方信用名单明确Gallagher and Associates为Head Designer，Tucan Design Studio负责Display Design and Construction，馆方首席策展人、制片人与媒体团队形成完整责任链；页面列明每日参观时间。",
+    "image_credit": "ANU Museum of the Jewish People（Roni Cnaani、Shahar and Ziv Katz等）／Gallagher and Associates项目摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方原页提供多张核心展现场照片，包含第三层、对象柜、影像墙、艺术与音乐互动及实体藏品环境；现场图的人物、屏幕反射、展柜、灯光与材料细节确认是已建成常设展，不是效果图。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

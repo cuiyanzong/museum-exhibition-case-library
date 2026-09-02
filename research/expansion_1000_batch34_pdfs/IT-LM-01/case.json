@@ -1,0 +1,89 @@
+{
+  "content": {
+    "id": "IT-LM-01",
+    "title": "Lavazza Museum — Five-Gallery Coffee Culture Narrative",
+    "subtitle": "Lavazza Museum / Museo Lavazza｜Turin, Italy",
+    "year": "2018年；Lavazza集团官网当前提供参观入口、教育工作坊与团体导览信息",
+    "type": "咖啡产地、生产、意式饮用仪式、品牌创意与消费文化的叙事性长期主展",
+    "brief": "以Casa Lavazza、Fabbrica、Piazza、Atelier与Universo五个内容和空间语法不同的画廊，将家族企业史、咖啡生产、意式仪式、品牌创作与全球消费文化编排为多感官旅程。",
+    "insight": "品牌叙事展的风险是把互动做成营销装饰；档案、生产、消费仪式和创意合作需要通过可核对的对象与故事彼此制约，才能获得文化研究价值。",
+    "tags": [
+      "咖啡文化",
+      "品牌档案",
+      "RFID互动",
+      "沉浸媒体"
+    ],
+    "route": [
+      "Casa Lavazza：企业家族与合作",
+      "Fabbrica：产地、生产与品质控制",
+      "Piazza：意式浓缩与公共仪式",
+      "Atelier：艺术与创意合作",
+      "Universo：360°投影、RFID杯与品鉴"
+    ],
+    "images": [
+      "it-lm-01-01.jpg",
+      "it-lm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/it-lm-01-01_8635e566.jpg",
+      "/manus-storage/it-lm-01-02_4a407439.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Universo沉浸咖啡文化与RFID互动。来源：Ralph Appelbaum Associates项目页／Andrew Lee摄影；仅作研究性案例索引。",
+      "已建成展厅实景：企业历史、包装与生产档案。来源：Ralph Appelbaum Associates项目页／Andrew Lee摄影；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：Casa Lavazza：企业家族与合作—Fabbrica：产地、生产与品质控制—Piazza：意式浓缩与公共仪式—Atelier：艺术与创意合作—Universo：360°投影、RFID杯与品鉴。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从家族与企业档案起步，穿行至生产与日常饮用仪式，再进入创意合作和沉浸式Universo，使“咖啡”同时被解释为商品链、城市社交、设计媒介与个人感官体验。 本案的核心命题是：品牌叙事展的风险是把互动做成营销装饰；档案、生产、消费仪式和创意合作需要通过可核对的对象与故事彼此制约，才能获得文化研究价值。"
+      ],
+      [
+        "展项设计",
+        "包装带状装置、专利／品质控制墙、咖啡器具、透明档案柜与触控长台支撑企业和生产证据；Universo用垂幕、360°投影、椭圆互动桌与RFID杯将多段故事关联到访客操作。"
+      ],
+      [
+        "布展与图文",
+        "五个画廊应以不同光色、材质和交互节奏建立章节边界，但RFID杯需在入口说明其数据与使用逻辑。沉浸投影后的品鉴与阅读面要留出低刺激替代路径。"
+      ],
+      [
+        "研究判断",
+        "其有效做法是用“混合”而非单一品牌年表组织内容：档案、生产、公共仪式和沉浸媒介通过对象与访客行为相互验证。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://raai.com/project/lavazza-museum/",
+      "https://tamschick.com/works/lavazza-museum",
+      "https://mindthegapstudio.it/work/museo-lavazza/",
+      "https://www.lavazzagroup.com/en/what-we-do/other-activities.html"
+    ]
+  },
+  "ledger": {
+    "id": "IT-LM-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "Lavazza Museum — Five-Gallery Coffee Culture Narrative",
+    "museum": "Lavazza Museum / Museo Lavazza",
+    "location": "Turin, Italy",
+    "region": "西欧",
+    "studio": "Ralph Appelbaum Associates（主导展陈设计）；Tamschick Media + Space（Universo媒体场景、概念、剧本、影像、互动与实施）；Eurofiere（制作与安装）；MindTheGap（从设计到开馆的内容／展览项目协调）",
+    "year": "2018年；Lavazza集团官网当前提供参观入口、教育工作坊与团体导览信息",
+    "type": "咖啡产地、生产、意式饮用仪式、品牌创意与消费文化的叙事性长期主展",
+    "design_source": "https://raai.com/project/lavazza-museum/",
+    "museum_source": "https://www.lavazzagroup.com/en/what-we-do/other-activities.html",
+    "design_source_secondary": "https://tamschick.com/works/lavazza-museum",
+    "fabrication_source": "https://mindthegapstudio.it/work/museo-lavazza/",
+    "image_source_1": "https://raai.com/project/lavazza-museum/",
+    "image_source_2": "https://raai.com/project/lavazza-museum/",
+    "image_url_1": "https://raai.com/wp-content/uploads/2021/05/Lavazza-1600x1000.jpg",
+    "image_url_2": "https://raai.com/wp-content/uploads/2021/05/Lavazza6-1600x1000.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch34-staging/IT-LM-01/raai-universo-original.png",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch34-staging/IT-LM-01/raai-company-history-original.png",
+    "evidence": "RAA项目页明确以“unique blend”为主导空间概念，将咖啡传统、当代设计、互动与沉浸媒体结合，五个内容与设计不同的画廊形成“five museums in one”，以RFID杯驱动互动，面积1,200平方米，年份2018，并列Eurofiere制作安装、Tamschick媒体、Acuson视听整合、Andrew Lee摄影等责任。Lavazza集团现行官方页称博物馆超过1,100平方米，由RAA以多媒体手法设计，五个画廊依序为Casa Lavazza（企业与体育合作）、Fabbrica（咖啡生产）、Piazza（意式浓缩仪式及太空咖啡机）、Atelier（艺术／创意合作）、Universo（360°投影与品鉴）；且列访馆、教育工作坊和团体导览。MindTheGap交叉确认RAA设计、项目协调与科学委员会；Tamschick明确Universo为1,200平方米博物馆内的媒体场景，并列自身实施范围和合作方。",
+    "image_review_1": "人工审核通过：1600×1000的RAA原始项目页摄影呈圆形垂幕形成的Universo“room within a room”、360°投影、参与者手持RFID杯触发的椭圆互动桌和真实观众；与Tamschick所述产地、城市、品牌历史及咖啡消费的沉浸叙事相符，是实际完成媒体空间而非效果图。RAA页摄影署名Andrew Lee，Tamschick页另列项目图来源Martin Backhaus。",
+    "image_review_2": "人工审核通过：1600×1000的RAA原始项目页摄影呈包装带状装置、专利／质量控制图文、实体咖啡器具、透明档案墙、触控长台与真实观众，属于企业发展、生产与品牌档案章节；与第一张投影云幕／互动桌的Universo段在空间、对象和叙事上明确不同，非产品广告或渲染。摄影署名遵循RAA项目页Andrew Lee。",
+    "audit_note": "合格：整体展陈／制作责任、当前运营、五画廊清晰叙事、1,100—1,200平方米尺度均已闭合；两张RAA原始项目页完成内景已人工审核，分别代表Universo沉浸咖啡文化和企业／生产／包装档案段。全库馆名、企业史与咖啡文化主展标题检索未命中，未与329例已发布记录重复。最终媒体阶段须保留Andrew Lee及项目页权利边界。"
+  }
+}

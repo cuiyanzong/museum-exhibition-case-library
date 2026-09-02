@@ -1,0 +1,85 @@
+{
+  "content": {
+    "id": "PL-MEG-01",
+    "title": "Emigration Museum in Gdynia — Polish Emigration, 19th Century to the Present",
+    "subtitle": "Muzeum Emigracji w Gdyni / Emigration Museum in Gdynia｜Gdynia, Poland",
+    "year": "2015开馆；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以九个主题站讲述波兰移民从早期离散、工业化、战争、人民共和国到当代的跨洋流动、客轮生活与个人选择。",
+    "insight": "迁徙馆最需要避免把“离开”写成抽象统计；目的地、交通、家庭文件和个体动因要共同构成可比较的路径。",
+    "tags": [
+      "迁徙史",
+      "全球地理",
+      "交通记忆",
+      "个人档案"
+    ],
+    "route": [
+      "迁徙动因导入",
+      "全球目的地",
+      "海港与跨洋交通",
+      "战争与政治离散",
+      "个人文件与当代迁移"
+    ],
+    "images": [
+      "pl-meg-01-01.jpg",
+      "pl-meg-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/pl-meg-01-01_d80275e3.jpg",
+      "/manus-storage/pl-meg-01-02_7becf775.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：全球迁徙地理与目的地。来源：New Amsterdam公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：跨洋旅程与交通记忆。来源：New Amsterdam公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：迁徙动因导入—全球目的地—海港与跨洋交通—战争与政治离散—个人文件与当代迁移。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "先建立全球目的地和流动网络，再进入港口、客轮与个人证词，使国家史与家庭经验互相照见。 本案的核心命题是：迁徙馆最需要避免把“离开”写成抽象统计；目的地、交通、家庭文件和个体动因要共同构成可比较的路径。"
+      ],
+      [
+        "展项设计",
+        "地区信息柱、档案照片、交通装置、阅读终端和文件柜要分别承担地理、证词、旅程和个体证据；地图需显示时间变化。"
+      ],
+      [
+        "布展与图文",
+        "暗场文字墙适合沉浸但需保持短距离可读；镜面交通装置要控制反射，避免将历史动线变成单纯自拍背景。"
+      ],
+      [
+        "研究判断",
+        "迁徙叙事的伦理强度来自让观众看见离开的条件和目的地的不确定性，而不是只呈现成功抵达。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://newamsterdam.pl/en/realizacje/muzeum-emigracji/",
+      "https://culture.pl/en/article/history-in-a-suitcase-the-emigration-museum-in-gdynia",
+      "https://polska1.pl/wizyta/godziny-otwarcia/",
+      "https://newamsterdam.pl/wp-content/uploads/2016/03/DSC0422.jpg",
+      "https://newamsterdam.pl/wp-content/uploads/2016/03/DSC0468.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "PL-MEG-01",
+    "title": "Emigration Museum in Gdynia — Polish Emigration, 19th Century to the Present",
+    "museum": "Muzeum Emigracji w Gdyni / Emigration Museum in Gdynia",
+    "location": "Gdynia, Poland",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "New Amsterdam（主展多媒体设计与实施）；AE Fusion Studio（获奖总体设计）；Blank Studio（模块化导视系统）",
+    "year": "2015开馆；馆方当前开放",
+    "design_source": "https://newamsterdam.pl/en/realizacje/muzeum-emigracji/",
+    "design_source_secondary": "https://culture.pl/en/article/history-in-a-suitcase-the-emigration-museum-in-gdynia",
+    "museum_source": "https://polska1.pl/wizyta/godziny-otwarcia/",
+    "evidence": "New Amsterdam原始项目页明确其为2015永久展的主展设计及多媒体实施方，展览规模3,600平方米（馆舍逾6,000平方米），共有九个主题段，以波兰土地的早期离散、工业革命、二战、人民共和国和当代移民为时间轴，并通过海上航程、Batory班轮生活及离乡个体故事穿插。由波兰文化部支持的Culture.pl确认AE Fusion Studio获选设计、海事站历史与空间叙事紧密耦合，且馆舍自2015年5月开放后持续承担波兰离散史公共记忆。馆方当前页面列永久展开放时段为周二12:00—20:00、周三至周日10:00—18:00并保留票务入口。",
+    "image_assessment": "2026-08-24人工审核New Amsterdam公开项目图：DSC0422.jpg为真实暗场室内的全球移居节点，能见“South America／Africa／USSR”等跨区域信息柱、影像与展览图文；DSC0468.jpg为完全不同的明亮大厅大型镜面空间装置／交通记忆节点，能见真实钢构、既有站房天窗与连续地面导向。两图均来自设计实施方项目页，均为已建成实景而非渲染、建筑外观或孤立文物；构图与叙事段有明确差异。全库检索无同名或同馆条目。",
+    "image_source": "https://newamsterdam.pl/en/realizacje/muzeum-emigracji/",
+    "image_source_1": "https://newamsterdam.pl/wp-content/uploads/2016/03/DSC0422.jpg",
+    "image_source_2": "https://newamsterdam.pl/wp-content/uploads/2016/03/DSC0468.jpg",
+    "next_gate": "2026-08-24媒体阶段已下载设计方公开的六张项目原图并制成联系表人工复核。最终图1（1500×1000）为South America／Africa／USSR等全球目的地、档案影像与半透展板组成的迁徙地理解释段；最终图2（1500×998）为镜面大型航运／交通记忆装置、既有站房天窗与地面导向构成的跨洋旅程空间段。二图均为真实建成室内、叙事段不同，非外观或渲染；待全批RGB JPEG规范化、Pillow重开、上传与最终manifest写入。",
+    "audit_date": "2026-08-24"
+  }
+}

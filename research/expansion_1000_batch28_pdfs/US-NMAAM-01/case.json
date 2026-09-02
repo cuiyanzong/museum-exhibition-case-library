@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "US-NMAAM-01",
+    "title": "National Museum of African American Music — Core Museum Experience",
+    "subtitle": "National Museum of African American Music｜纳什维尔，美国",
+    "year": "2021；长期核心展",
+    "type": "音乐文化史／互动叙事常设展",
+    "brief": "以福音、蓝调、爵士、节奏蓝调、嘻哈等音乐谱系为经线，将20,000平方英尺核心体验组织为可听、可看、可参与的美国音乐文化史。",
+    "insight": "互动音乐馆的难点不是增加屏幕，而是让个人化播放与共享聆听共同服务于流派、技术和社会史的理解。",
+    "tags": [
+      "音乐时间线",
+      "RFID参与",
+      "沉浸视听",
+      "流派叙事"
+    ],
+    "route": [
+      "Rivers of Rhythm引言",
+      "流派时间线",
+      "声音与表演节点",
+      "Crossroads交叉影响",
+      "A Love Supreme沉浸段",
+      "个人化回看"
+    ],
+    "images": [
+      "us-nmaam-01.jpg",
+      "us-nmaam-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-nmaam-01_0c0ae270.jpg",
+      "/manus-storage/us-nmaam-02_897bcdd8.jpg"
+    ],
+    "captions": [
+      "NMAAM核心体验中的沉浸影像、展柜与参观者。来源：G&A Strategy and Design／William Baum Photography。",
+      "NMAAM已落地互动与对象展示界面。来源：G&A Strategy and Design公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：Rivers of Rhythm引言—流派时间线—声音与表演节点—Crossroads交叉影响—A Love Supreme沉浸段—个人化回看。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "按流派推进的结构把音乐史写成相互影响的网络，使福音、蓝调、爵士和嘻哈既有自身语境，也能被理解为彼此回应。"
+      ],
+      [
+        "展项设计",
+        "交互时间线、定制媒体、实体乐器与影像应区分历史证据、聆听入口和表演氛围；RFID只负责轻量记忆与导向，不应替代公共叙事。"
+      ],
+      [
+        "布展与图文",
+        "暗场投影与对象柜之间需要明确的声光缓冲；可见的站立、停留和围观尺度使听觉体验不会挤压物件阅读。"
+      ],
+      [
+        "研究判断",
+        "音乐展的可迁移方法是将声音设计作为内容分层，而非将所有流派等量堆叠为背景音乐。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "US-NMAAM-01",
+    "country": "美国",
+    "region": "北美洲",
+    "title": "National Museum of African American Music — Core Museum Experience",
+    "museum": "National Museum of African American Music",
+    "location": "纳什维尔，美国",
+    "year": "2021；长期核心展",
+    "type": "音乐文化史／互动叙事常设展",
+    "studio": "G&A Strategy and Design（内容开发、数字媒介与体验设计）／Available Light等协作团队",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://gallagherdesign.com/project/nmaam/",
+    "museum_source": "https://www.nmaam.org/",
+    "evidence": "G&A确认与NMAAM利益相关方共同开发体验，服务包括内容开发、数字媒介与体验设计；项目有22组独特展项、约20,000平方英尺展区，以交互时间线、按历史音乐流派递进的音频叙事、RFID参与式沉浸体验、14件定制媒体与11部原创影片组织福音、蓝调、爵士至嘻哈的音乐史。馆方当前提供购票、参观、活动与Rivers of Rhythm、Crossroads、A Love Supreme等核心体验入口，说明其持续面向公众开放。",
+    "image_credit": "G&A Strategy and Design／William Baum Photography；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：设计方项目页的署名摄影呈现已安装的沉浸投影环境、参观者、互动时间线、实体藏品展柜与互动桌；图像具有真实现场人物、设备和材料细节，不是渲染、概念图或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

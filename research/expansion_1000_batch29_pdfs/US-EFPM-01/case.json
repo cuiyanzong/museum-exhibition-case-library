@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "US-EFPM-01",
+    "title": "Jean & Ric Edelman Fossil Park & Museum — Cretaceous Galleries",
+    "subtitle": "Jean & Ric Edelman Fossil Park & Museum at Rowan University｜Mantua, New Jersey, USA",
+    "year": "2025；馆方当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "以白垩纪海洋、标本证据、实验学习、虚拟体验与真实发掘场组成17,100平方英尺的科学发现路径。",
+    "insight": "化石馆的参与性应将“发现如何发生”说清，而非把大型生物模型和互动屏幕当作知识本身。",
+    "tags": [
+      "古生态",
+      "化石证据",
+      "互动学习",
+      "主动发掘"
+    ],
+    "route": [
+      "古生态导入",
+      "化石证据与分类",
+      "Monstrous Seas沉浸段",
+      "学习实验室",
+      "虚拟体验",
+      "发掘场回到方法"
+    ],
+    "images": [
+      "us-efpm-01-01.jpg",
+      "us-efpm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-efpm-01-01_07e65496.jpg",
+      "/manus-storage/us-efpm-01-02_c8d7399a.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：化石证据阅读。来源：G&A公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：古生态沉浸。来源：G&A公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：古生态导入—化石证据与分类—Monstrous Seas沉浸段—学习实验室—虚拟体验—发掘场回到方法。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从环境和标本进入，再转向实验与发掘方法，使恐龙／海洋奇观成为科学问题的入口而非终点。"
+      ],
+      [
+        "展项设计",
+        "实物化石、模型、壁画、触读台和VR须分别标明证据、推断、环境复原与实验角色；户外发掘将验证过程延伸出室内。"
+      ],
+      [
+        "布展与图文",
+        "高彩度古生态段应与可近读的证据台保持光线和声场缓冲，给儿童群体互动之外留出静读位置。"
+      ],
+      [
+        "研究判断",
+        "科学展最有价值的沉浸不是替观众“回到过去”，而是让观众理解如何从局部物证推断过去。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "US-EFPM-01",
+    "title": "Jean & Ric Edelman Fossil Park & Museum — Cretaceous Galleries",
+    "museum": "Jean & Ric Edelman Fossil Park & Museum at Rowan University",
+    "location": "Mantua, New Jersey, USA",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "G&A Strategy and Design（内容、体验设计、导视与策略）；Left Field Labs（互动开发）；Icaria Atelier（媒体）；Kubik Maltbie（展陈制作）；Dixon Studios（场景制作）",
+    "year": "2025；馆方当前运营",
+    "design_source": "https://gallagherdesign.com/project/edelman/",
+    "museum_source": "https://www.efm.org/",
+    "evidence": "G&A项目页说明其在室内—室外整体园区中开发体验，以互动展项、学习实验室、虚拟体验、活跃发掘场共同构成科学发现路径；项目页列出2025年、17,100平方英尺，以及Left Field Labs、Icaria Atelier、Kubik Maltbie、Dixon Studios等职责。馆方首页提供Cretaceous Galleries: Monstrous Seas、虚拟现实、化石探索与采掘体验等当前运营信息。",
+    "image_assessment": "2026-08-24人工浏览G&A项目页：首张LL_Edelman-19为建筑外观，明确排除；随后公开的LL_Edelman-20／16和LL_Edelman-15-edited等项目摄影中，可辨认真实室内化石标本展柜、平面互动台、图像墙、照明反射和参观者尺度。页面将其置于“interactive exhibits、learning labs、virtual experiences、live dig site”及“layered storytelling、digital media、tactile interactives”的项目叙述中，属于2025年已开馆项目的实施图，而非概念渲染。后续仅选取两张不同室内展项摄影，排除首图建筑外观。",
+    "next_gate": "媒体生产阶段下载并复核两张不同室内画廊图的自然尺寸、文件格式与来源注记；以G&A的科学发现—古生态—主动发掘连续路径撰写五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

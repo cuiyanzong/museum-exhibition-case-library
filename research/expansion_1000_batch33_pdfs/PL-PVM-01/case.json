@@ -1,0 +1,89 @@
+{
+  "content": {
+    "id": "PL-PVM-01",
+    "title": "Polish Vodka Museum — Five-Gallery Permanent Narrative",
+    "subtitle": "Muzeum Polskiej Wódki / Polish Vodka Museum｜Warsaw, Poland",
+    "year": "2018年开放；波兰旅游局2025认证并列为持续运营的华沙历史文化目的地",
+    "type": "产业史、饮食文化与工业遗产叙事性常设展",
+    "brief": "在旧Koneser酒厂的五展厅与影院中，以15世纪至今的原料、蒸馏、知识、工业遗产与文化消费组织波兰伏特加史，并把物件与感官互动置入同一连续参观路径。",
+    "insight": "产业史展若只陈列机器，容易将生产过程从人、知识与消费文化中抽离；历史图像、互动解释与原始设备需要共同建立“工艺如何被社会化”的阅读链。",
+    "tags": [
+      "产业遗产",
+      "感官叙事",
+      "蒸馏工艺",
+      "互动环境"
+    ],
+    "route": [
+      "酒厂遗产与主题导入",
+      "传统配方与知识图像",
+      "原料、器物与历史语境",
+      "蒸馏设备与工业工艺",
+      "文化消费、感官体验与离场"
+    ],
+    "images": [
+      "pl-pvm-01-01.jpg",
+      "pl-pvm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/pl-pvm-01-01_75dba627.jpg",
+      "/manus-storage/pl-pvm-01-02_e529c8c4.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：传统配方、炼金术与产品文化的历史叙事。来源：Nizio Design International原始项目页摄影公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。",
+      "已建成展厅实景：铜制蒸馏柱与工业遗产的生产工艺。来源：Nizio Design International原始项目页摄影公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：酒厂遗产与主题导入—传统配方与知识图像—原料、器物与历史语境—蒸馏设备与工业工艺—文化消费、感官体验与离场。馆方或设计方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "展览从历史语境与知识生产进入原料、蒸馏设备和工业空间，再延伸至文化与感官体验。五展厅的功能是把“伏特加”从单一商品转换为跨越技术、遗产、饮食与身份的时间性对象。 本案的核心研究命题是：产业史展若只陈列机器，容易将生产过程从人、知识与消费文化中抽离；历史图像、互动解释与原始设备需要共同建立“工艺如何被社会化”的阅读链。"
+      ],
+      [
+        "展项设计",
+        "历史段以线描叙事墙、药瓶、桶形互动台和屏幕将传统知识可视化；工艺段以铜制蒸馏柱、槽罐、木门、标签与厂房材料建立生产尺度。真实设备提供物质证据，图文与互动台负责说明其历史位置。"
+      ],
+      [
+        "布展与图文",
+        "深色顶棚、局部光与原工业材料能维持酒厂氛围，但需要用高对比说明文字、明确入口与可绕行站位保障阅读。感官体验不应遮蔽器物年代、来源和重构边界。"
+      ],
+      [
+        "研究判断",
+        "其可迁移价值在于把工业遗产同时作为对象、空间与知识史来处理：沉浸来自可核对的材料关系，而非仅靠复古装饰。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://nizio.com.pl/project/muzeum-polskiej-wodki/",
+      "https://www.domusweb.it/en/local-editions/srilanka/architecture/2018/Polish_Vodka_Museum_exclusive_with_architect_Miroslaw_Nizio.html",
+      "https://muzeumpolskiejwodki.pl/aktualnosci/the-museum-opens-on-12th-june/?lang",
+      "https://www.poland.travel/en/polish-vodka-museum/"
+    ]
+  },
+  "ledger": {
+    "id": "PL-PVM-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "Polish Vodka Museum — Five-Gallery Permanent Narrative",
+    "museum": "Muzeum Polskiej Wódki / Polish Vodka Museum",
+    "location": "Warsaw, Poland",
+    "region": "东欧",
+    "studio": "Nizio Design International / Mirosław Nizio（常设展室内、场景、互动与多媒体的设计及实现）",
+    "year": "2018年开放；波兰旅游局2025认证并列为持续运营的华沙历史文化目的地",
+    "type": "产业史、饮食文化与工业遗产叙事性常设展",
+    "museum_source": "https://muzeumpolskiejwodki.pl/aktualnosci/the-museum-opens-on-12th-june/?lang",
+    "operations_source": "https://www.poland.travel/en/polish-vodka-museum/",
+    "design_source": "https://nizio.com.pl/project/muzeum-polskiej-wodki/",
+    "design_source_secondary": "https://www.domusweb.it/en/local-editions/srilanka/architecture/2018/Polish_Vodka_Museum_exclusive_with_architect_Miroslaw_Nizio.html",
+    "image_source_1": "https://nizio.com.pl/project/muzeum-polskiej-wodki/",
+    "image_source_2": "https://nizio.com.pl/project/muzeum-polskiej-wodki/",
+    "image_url_1": "https://nizio.com.pl/wp-content/uploads/2019/03/Muzeum-Polskiej-Wodki_galeria-I_1.jpg",
+    "image_url_2": "https://nizio.com.pl/wp-content/uploads/2019/03/Muzeum-Polskiej-Wodki_galeria-III_2.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch33-staging/PL-PVM-01/nizio-history-gallery-original.jpg",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch33-staging/PL-PVM-01/nizio-distillation-gallery-original.jpg",
+    "evidence": "馆方确认其位于旧Koneser酒厂复兴建筑内，具有五个主题展厅与影院，以跨数世纪的波兰伏特加历史、原料、工艺与文化为叙事，并保留线上票务；馆方明确Nizio Design International的室内方案在2014年被选中，2017年开始布展，Mirosław Nizio及其团队负责常设展设计与实现。Nizio项目页说明五展厅从15世纪至今的生产史，结合历史蒸馏设备、重构蒸馏器、混凝土槽、窑炉、文物、多媒体与感官体验；Domus访谈进一步确认影院、烧制历史文字的木墙、炼金实验室、蒸馏设备与隐藏式互动教育媒体的空间设计。波兰旅游局的2025认证页确认该馆仍为华沙的互动历史文化目的地，持续提供导览、工作坊与活动。",
+    "image_review_1": "人工审核通过：6651×4434的Nizio原始项目页完整摄影，圆桶形互动台、药瓶／器物、线描炼金术／传统工艺墙、说明屏与环境灯光共同构成从传统配方到产品文化的历史叙事段；为真实完成内景，不含渲染或建筑外观。",
+    "image_review_2": "人工审核通过：6720×4480的Nizio原始项目页完整摄影，铜制蒸馏柱、槽罐、工艺标签、木箱与厂房材料清楚呈现生产过程与工业遗产；与历史叙事厅为不同章节，是真实完成内景而非单一设备展示。",
+    "audit_note": "合格：五展厅与影院构成可持续参观的中型主题叙事单元；整体展陈设计／实现、当前运营、从15世纪至今的完整生产—文化叙事与两张不同完成内景均已闭合。此前搜索导出缩略图仅用于初审，已由Nizio原始项目页的完整图恢复并替换；最终媒体不得再使用缩略图。"
+  }
+}

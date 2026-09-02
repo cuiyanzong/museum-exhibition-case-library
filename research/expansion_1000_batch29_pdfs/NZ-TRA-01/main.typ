@@ -1,0 +1,80 @@
+// 第29批田野档案室PDF。只使用经人工审核的已建成展厅摄影与可追溯责任链。
+#import "report-theme.typ": report-accent, report-theme
+#show: report-theme.with(title: "Te Rau Aroha — Museum of the Price of Citizenship", author: "Manus AI", rhythm: "report", running-header: true)
+
+#page(margin: (top: 30%, x: 2.2cm), numbering: none, header: none)[
+  #set par(first-line-indent: 0em)
+  #align(center)[
+    #text(size: 25pt, weight: "bold", fill: report-accent)[Te Rau Aroha — Museum of the Price of Citizenship]
+    #v(0.5em)
+    #text(size: 13pt, fill: luma(80))[Te Rau Aroha, Waitangi Treaty Grounds｜Waitangi, Aotearoa New Zealand]
+    #v(2em)#line(length: 42%, stroke: 0.5pt + luma(160))#v(2em)
+    #text(size: 11pt)[案例编号：NZ-TRA-01 \ 作者：Manus AI \ 日期：#datetime.today().display("[year] 年 [month] 月 [day] 日")]
+  ]
+]
+
+#page(numbering: none, header: none)[#outline(title: [目 录], indent: 1.5em)]
+#counter(page).update(1)
+
+= 档案摘要
+
+以毛利服役、战争经历、A Company相关记忆和“公民身份的代价”为线索，在Waitangi Treaty Grounds组织纪念、档案、物件与互动解释。 本报告将其作为叙事性常设／长期展研究；展陈责任、当前运营与叙事范围以设计／展陈责任方和馆方公开来源交叉核验。#link("https://scottparkercreative.com/TE-RAU-AROHA")[设计／展陈责任来源] #link("https://www.waitangi.org.nz/visit/te-rau-aroha")[馆方／当前运营来源]
+
+#table(columns: (1.35fr, 2.65fr), stroke: 0.4pt + luma(175), inset: 7pt,
+  [案例编号], [NZ-TRA-01],
+  [地点], [Te Rau Aroha, Waitangi Treaty Grounds，Waitangi, Aotearoa New Zealand],
+  [展览性质], [2020；馆方当前可预约访问｜叙事性常设／长期展],
+  [展陈责任], [Scott Parker Creative（主导展陈与体验设计）；Workshop E Ltd（设计与建造交付）；Waitangi National Trust（客户）],
+  [叙事媒介], [毛利服役、战争记忆、公民身份、互动档案],
+  [证据边界], [仅分析公开责任链、当前运营线索与已审现场图；完整平面、设备清单、全部展签、施工合同及未公开制作分工不作推断。]
+)
+
+== 证据与分析边界
+
+Scott Parker Creative项目页列出Waitangi National Trust为客户、Workshop E Ltd为设计与建造交付方，作者角色为Lead Exhibition & Experience Design，并明确负责展览所有方面的设计、开发与制作。其内容以1840年至今毛利人参与冲突及争取平等公民权为主线，使用大型投影、木材／贝壳杉脂／流水等可触感材料、可变展柜及纪念空间。馆方Te Rau Aroha页面将其列为可在线预约的沉浸式互动博物馆，明确三座画廊：主展处理新西兰战争、南非战争、一战Pioneer Battalion与二战28（Māori）Battalion；第二厅以A Company士兵与家族私人故事、taonga和可变展柜组织；第三厅为以大型木作艺术、照片与万人姓名构成的反思／纪念空间。
+
+本报告仅使用候选审计阶段人工确认属于已建成展厅的两张摄影，不使用建筑外观、效果图或概念渲染。现场图支持对可见的空间尺度、对象／媒体关系和图文层级进行研究，但不能替代未公开的完整平面、技术图纸或运营数据。
+
+= 现场图像
+
+#figure(image("/webdev-static-assets/expansion-1000-batch29/nz-tra-01-01.jpg", width: 88%), caption: [已建成展厅实景：纪念木作节点。来源：Scott Parker Creative公开项目／馆方资源；仅用于研究性案例索引。])
+
+#figure(image("/webdev-static-assets/expansion-1000-batch29/nz-tra-01-02.jpg", width: 88%), caption: [已建成展厅实景：战争档案互动段。来源：Our Health Journeys公开项目／馆方资源；仅用于研究性案例索引。])
+
+= 五层展陈分析
+
+== 01｜平面与动线
+
+以下关系依据公开叙事整理为研究性参观序列：Te Puku纪念阈限—毛利服役背景—A Company与战争经验—家族档案与物件—公民身份的代价—纪念回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。
+
+== 02｜策展叙事
+
+从纪念构件进入具体服役经验，再由档案和家族材料讨论权利、承认与代价，避免把战争简化为荣耀陈列。
+
+== 03｜展项设计
+
+木作纪念构件、照片、实物柜、森林影像、互动桌和触屏应分别承担停顿、人物证据、环境语境与追问入口。
+
+== 04｜布展与图文
+
+黑色门洞与明亮木作形成慎重转场，深色主展中的触屏和档案墙应维持足够照度与座位，支持慢速阅读。
+
+== 05｜研究判断
+
+其可借鉴之处是让纪念从对象崇拜转向关系性历史：谁被要求服役、如何被记住、身份承诺如何兑现。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。
+
+= 责任链与来源
+
+#table(columns: (1.25fr, 2.75fr), stroke: 0.4pt + luma(175), inset: 7pt,
+  [责任／事实], [可追溯来源],
+  [展陈设计／制作], [Scott Parker Creative（主导展陈与体验设计）；Workshop E Ltd（设计与建造交付）；Waitangi National Trust（客户）。#link("https://scottparkercreative.com/TE-RAU-AROHA")[设计／展陈责任来源]],
+  [馆方叙事与运营], [馆方页面提供项目叙事、访问或当前运营线索。#link("https://www.waitangi.org.nz/visit/te-rau-aroha")[馆方／当前运营来源]],
+  [现场摄影], [两张实景摄影均来自审计阶段已核验的设计方、馆方或专业媒体公开项目资源；图片版权归原权利人所有，仅作研究与案例索引引用。],
+  [分析边界], [图像和公开资料不足以证明未公开的完整平面、设备型号、全套展签或具体分包范围；本报告未作虚构。]
+)
+
+== 参考来源
+
+[1] #link("https://scottparkercreative.com/TE-RAU-AROHA")[设计／展陈责任来源]
+
+[2] #link("https://www.waitangi.org.nz/visit/te-rau-aroha")[馆方／当前运营来源]

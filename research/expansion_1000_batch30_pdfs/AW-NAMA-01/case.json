@@ -1,0 +1,84 @@
+{
+  "content": {
+    "id": "AW-NAMA-01",
+    "title": "National Archaeological Museum Aruba — 4,000 Years of Island History",
+    "subtitle": "National Archaeological Museum Aruba / MANA｜Oranjestad, Aruba",
+    "year": "2009开馆；馆方当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "以阿鲁巴早期居民、生活方式、岩画、考古物件和触摸体验组织考古博物馆常设展，连接复原环境与考古证据。",
+    "insight": "考古展的复原空间应当把观众带回材料、遗址与不确定性，而不是把过去封闭成可消费的原始场景。",
+    "tags": [
+      "加勒比考古",
+      "棕榈屋复原",
+      "岩画互动",
+      "触摸文物"
+    ],
+    "route": [
+      "岛屿与早期居民",
+      "棕榈屋生活史",
+      "洞穴与岩画",
+      "物件分类与触摸",
+      "考古解释回望"
+    ],
+    "images": [
+      "aw-nama-01-01.jpg",
+      "aw-nama-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/aw-nama-01-01_79aa0855.jpg",
+      "/manus-storage/aw-nama-01-02_5699ecb6.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：棕榈屋生活史复原。来源：VarroBook / Clarke Design Exhibits公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：洞穴岩画与儿童互动。来源：VarroBook / Clarke Design Exhibits公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：岛屿与早期居民—棕榈屋生活史—洞穴与岩画—物件分类与触摸—考古解释回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从岛屿环境进入居住与图像实践，再以可触摸对象回到考古如何认识过去，维持复原与证据的往返。 本案的核心命题是：考古展的复原空间应当把观众带回材料、遗址与不确定性，而不是把过去封闭成可消费的原始场景。"
+      ],
+      [
+        "展项设计",
+        "棕榈屋、洞穴系统、展柜和触摸件应明确哪些是复原、哪些是原件或复制；儿童互动必须关联可读的岩画与时间信息。"
+      ],
+      [
+        "布展与图文",
+        "复原入口需保证可绕行和视线安全，暗场洞穴区应为低龄观众保留明亮替代说明；低分辨率来源图仅小幅呈现。"
+      ],
+      [
+        "研究判断",
+        "其可借鉴处在于把地方考古从橱窗取出，转化为身体可感的空间；但复原越强，证据边界越要被明确。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.lord.ca/projects/project-experience/national-archaeological-museum-aruba",
+      "https://manaruba.org/",
+      "https://static.wixstatic.com/media/f2f7ac_54bed34d090444229e49ca6b7c00a1c6~mv2.jpg",
+      "https://static.wixstatic.com/media/f2f7ac_3e5f68c8fd1c4bb2bda0fe63d9f895fb~mv2.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "AW-NAMA-01",
+    "title": "National Archaeological Museum Aruba — 4,000 Years of Island History",
+    "museum": "National Archaeological Museum Aruba / MANA",
+    "location": "Oranjestad, Aruba",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Lord Cultural Resources（诠释规划、内容开发、整体展陈设计、项目管理与品牌）；Xibitz（团队协作）",
+    "year": "2009开馆；馆方当前运营",
+    "design_source": "https://www.lord.ca/projects/project-experience/national-archaeological-museum-aruba",
+    "museum_source": "https://manaruba.org/",
+    "status_source": "https://www.visitaruba.com/things-to-do/museums/the-archaeological-museum-of-aruba/",
+    "evidence": "Lord Cultural Resources项目页明确受委托主导永久展开发，服务覆盖interpretive planning、content coordination、complete design、branding与project management；其叙事将史前至19世纪、跨4,000年的Pre-ceramic、Ceramic和Historical peoples与当代Aruban习俗、食物、语言和生活方式相连，并记录该馆于2009-07-26正式开馆。MANA官网现列当日开放时段与2026展览活动，确认机构持续运营；VisitAruba于2026-08-24更新的机构页列周一至周五09:00–17:00，并将永续陈列进一步展开为前陶期、Caquetio陶期、殖民与19世纪转变的对象和生活史线索。",
+    "image_source": "https://www.varrobook.com/projects-7-4",
+    "image_assessment": "2026-08-24人工审阅Varrobook／Clarke Design公开制作方图组：图f2f7ac_54bed34d090444229e49ca6b7c00a1c6为真实展厅内的棕榈屋复原段，前景有独立文物展柜与墙面叙事图形；图f2f7ac_3e5f68c8fd1c4bb2bda0fe63d9f895fb为不同的暗场洞穴系统，能见儿童观众、岩壁质感和红色岩画解释，均为已装配的室内场景而非渲染、外观或孤立物件。制作方页明确Clarke为Lord主合同下Taylor Studios分包，负责该棕榈屋、洞穴系统和触摸文物的设计工程与模块化制作、运输和Aruba复装。两图叙事段不同且来源可追溯；全库检索无同名／同馆既有记录。后续媒体阶段应从原始Wix媒体端取得最高可用尺寸并保留制作方来源。",
+    "image_source_1": "https://static.wixstatic.com/media/f2f7ac_54bed34d090444229e49ca6b7c00a1c6~mv2.jpg",
+    "image_source_2": "https://static.wixstatic.com/media/f2f7ac_3e5f68c8fd1c4bb2bda0fe63d9f895fb~mv2.jpg",
+    "next_gate": "2026-08-24媒体阶段已从VarroBook原始HTML恢复Wix媒体直链并下载／人工复核。图1为602×429的棕榈屋生活史复原，含实际展柜与墙面解释；图2为600×386的洞穴系统／红色岩画互动，含儿童参观者与真实岩壁构造。二图均为制作方发布的真实建成内景，叙事段不同；洞穴图的短边仅386像素，是源端可获得的最高原始尺寸，后续PDF版面须以适当尺寸呈现而不伪造高清，网页可保持自然比例。待全批RGB JPEG规范化、Pillow重开、上传与最终manifest写入。",
+    "audit_date": "2026-08-24"
+  }
+}

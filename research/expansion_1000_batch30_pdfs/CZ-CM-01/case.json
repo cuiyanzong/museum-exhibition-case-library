@@ -1,0 +1,84 @@
+{
+  "content": {
+    "id": "CZ-CM-01",
+    "title": "On the Stage of the World — John Amos Comenius and His Times",
+    "subtitle": "J. A. Comenius Museum｜Uherský Brod, Czech Republic",
+    "year": "2022完成；馆方当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "以摩拉维亚启蒙、知识传播、天文、机械与教育实践串连地区博物馆常设展，构成从文本、仪器到实验的知识史路径。",
+    "insight": "知识史展的难点是让抽象观念落回可观察的书、仪器、身体动作和社会制度，而非堆叠“伟大人物”。",
+    "tags": [
+      "启蒙知识史",
+      "仪器与古籍",
+      "机械互动",
+      "地区博物馆"
+    ],
+    "route": [
+      "启蒙语境导入",
+      "书籍与信仰知识",
+      "地图与自然观察",
+      "机械时间与实验",
+      "教育与公共传播"
+    ],
+    "images": [
+      "cz-cm-01-01.jpg",
+      "cz-cm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/cz-cm-01-01_b5ef3100.jpg",
+      "/manus-storage/cz-cm-01-02_e83a475a.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：启蒙地理、古籍与信仰解释。来源：BIG SEE / Martin Zeman公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：机械时间与教育装置。来源：BIG SEE / Martin Zeman公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：启蒙语境导入—书籍与信仰知识—地图与自然观察—机械时间与实验—教育与公共传播。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以地方社会如何接触知识为主线，逐步连接书写、测量、机械和公共教育，避免把科学史简化为线性进步。 本案的核心命题是：知识史展的难点是让抽象观念落回可观察的书、仪器、身体动作和社会制度，而非堆叠“伟大人物”。"
+      ],
+      [
+        "展项设计",
+        "古籍、器具、模型和机械操作要区分原始证据、复制品与演示机制；每次操作都应回到问题与来源。"
+      ],
+      [
+        "布展与图文",
+        "暗色阅读区适合保护性展示，互动机械则需声光缓冲；复杂的时间装置旁应设置短句索引与深读层。"
+      ],
+      [
+        "研究判断",
+        "当文本和仪器被放入同一参观节奏时，知识不再是抽象名词，而是可以被检验的社会实践。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.mjakub.cz/authors-of-the-comenius-exhibition?idm=349",
+      "https://www.mjakub.cz/en/",
+      "https://bigsee.eu/wp-content/uploads/2023/04/Horalik-Atelier_Exhibit_03_dsc6882.jpg",
+      "https://bigsee.eu/wp-content/uploads/2023/04/Horalik-Atelier_Exhibit_06_dsc6961.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "CZ-CM-01",
+    "title": "On the Stage of the World — John Amos Comenius and His Times",
+    "museum": "J. A. Comenius Museum",
+    "location": "Uherský Brod, Czech Republic",
+    "region": "中欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Horalík ateliér + A77（建筑／展陈空间设计）；馆方与捷克科学院等（展览脚本与概念）；Art Consultancy／FORM（展陈制作与技术方案）；ST.dio等（多媒体）；JR soft（图形印刷与安装）",
+    "year": "2022完成；馆方当前运营",
+    "design_source": "https://www.mjakub.cz/authors-of-the-comenius-exhibition?idm=349",
+    "museum_source": "https://www.mjakub.cz/en/",
+    "image_source": "https://bigsee.eu/permanent-exhibit-j-a-comenius-museum/",
+    "evidence": "馆方作者页确认2016年开始的常设展更新分三阶段，于2022年完成；第三阶段即《On the Stage of the World. John Amos Comenius and His Times》，逐项列出馆方／学术团队的脚本和概念设计、Horalík ateliér+A77的建筑设计、Art Consultancy与FORM的展陈制作及技术方案、图形、复制品、艺术装置、媒体、声响和安装责任。馆方英文页确认其作为文化部主管机构持续承担Comenius文献、教育思想及地方史研究、收藏和展览，并保留开放时间、票务和无障碍入口。BIG SEE项目页将该350平方米常设展列为2022完成，说明黑白新旧对照、黑色通道、Comenius信仰、Labyrinth of the World投影模型、印刷工坊及学术遗产章节，署名Martin Zeman摄影。",
+    "image_assessment": "2026-08-24审阅BIG SEE项目页：其大图与正文对应已建成室内，能见黑色隧道、白色3D迷宫模型、投影、对象／图文与实际空间交界；页面明确归属Martin Zeman摄影。后续媒体阶段需选择迷宫投影室和教育／印刷互动段两张不同实景，排除入口外观和无空间语境的细节照。",
+    "media_locator": "2026-08-24从BIG SEE公开HTML恢复Horalík Atelier图组，并逐张人工复核：Exhibit 03为完成后的启蒙思想／地图／印刷文本展段，黑色地理图墙、白色引文墙、古籍展柜和拱门空间共同构成清晰展厅；Exhibit 06为完全不同的机械时间／教育装置展段，红光环境中的巨大齿轮／轮盘、投影屏和人物雕塑建立沉浸式空间。二图均来自BIG SEE原始项目图组，页面明示Martin Zeman摄影，非外观、渲染或孤立物件特写。",
+    "image_source_1": "https://bigsee.eu/wp-content/uploads/2023/04/Horalik-Atelier_Exhibit_03_dsc6882.jpg",
+    "image_source_2": "https://bigsee.eu/wp-content/uploads/2023/04/Horalik-Atelier_Exhibit_06_dsc6961.jpg",
+    "next_gate": "候选池阶段通过；生产前下载两张Martin Zeman来源的不同室内摄影，逐张校验自然尺寸、版权边界与展厅差异。",
+    "audit_date": "2026-08-24"
+  }
+}

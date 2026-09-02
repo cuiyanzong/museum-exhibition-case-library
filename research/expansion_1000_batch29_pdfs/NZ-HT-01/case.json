@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "NZ-HT-01",
+    "title": "He Tohu — Constitutional Documents Permanent Exhibition",
+    "subtitle": "National Library of New Zealand / He Tohu｜Wellington, New Zealand",
+    "year": "2017开幕；约25年设计寿命的常设展",
+    "type": "叙事性常设／长期展",
+    "brief": "以1835《独立宣言》、1840《怀唐伊条约》和1893妇女选举权请愿书为核心，在保育文件室、互动与学习空间中组织新西兰宪政记忆。",
+    "insight": "文献展的体验设计必须把原件的脆弱性、不同语言与协作过程公开化，避免庄严空间把历史争议冻结成单一结论。",
+    "tags": [
+      "宪政文献",
+      "保育展柜",
+      "跨文化协作",
+      "互动学习"
+    ],
+    "route": [
+      "三份文献导入",
+      "保育文件室",
+      "条约与双语解释",
+      "妇女选举权请愿",
+      "互动学习",
+      "公共讨论回望"
+    ],
+    "images": [
+      "nz-ht-01-01.jpg",
+      "nz-ht-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/nz-ht-01-01_28f18d9f.jpg",
+      "/manus-storage/nz-ht-01-02_bd5efdc3.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：文献展柜与阅读。来源：He Tohu馆方公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：条约原件观看。来源：Designers Institute of New Zealand公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：三份文献导入—保育文件室—条约与双语解释—妇女选举权请愿—互动学习—公共讨论回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "三份文件并置让国家形成、毛利—王室关系与妇女政治权利在同一公共问题下被对读，而非按孤立里程碑展示。"
+      ],
+      [
+        "展项设计",
+        "恒温展柜、原件、数字翻阅、互动台和文化解释应区分保育、可读副本与多重阐释；原件周边不宜被互动噪声包围。"
+      ],
+      [
+        "布展与图文",
+        "木质包裹文件室、低照度和中心柜提供慢速观看，外侧学习区可承接讨论与触读，二者以光线和声场明确分区。"
+      ],
+      [
+        "研究判断",
+        "当宪政文献以保育和协作共同被展示时，制度史才能保持活的争议性，而非成为不可触碰的权威物。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "NZ-HT-01",
+    "title": "He Tohu — Constitutional Documents Permanent Exhibition",
+    "museum": "National Library of New Zealand / He Tohu",
+    "location": "Wellington, New Zealand",
+    "region": "大洋洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Studio Pacific Architecture（空间与保育文件室）；Story Inc（展览设计）；Click Suite（互动设计）；Cliff Whiting（文化顾问）",
+    "year": "2017开幕；约25年设计寿命的常设展",
+    "design_source": "https://studiopacific.nz/projects/2017/he-tohu-exhibition/",
+    "museum_source": "https://www.dia.govt.nz/archive-exhibition-project",
+    "evidence": "Studio Pacific项目页明确He Tohu于2017年在惠灵顿国家图书馆开幕，保存并解释1835《独立宣言》、1840《怀唐伊条约》和1893妇女选举权请愿书；展览由现代保育文件室、互动与学习空间组成，并具名Story Inc为展览设计、Click Suite为互动设计、Cliff Whiting为文化顾问。新西兰内政部官方He Tohu档案展页面说明其为已开放的永久展，以王室、毛利及妇女组织协作开发，目标为保存脆弱文献、提升公共访问与学习；页面明示其在国家图书馆的保育空间中设计寿命约25年，并配有文件室与互动区的官方图注。",
+    "image_assessment": "2026-08-24审阅国家图书馆、设计师协会及Studio Pacific来源的公开内景：木质保育文件室内有独立恒温展示柜、阅读台、暖色嵌入灯、实际观众与玻璃反射；相邻互动区有墙面图文、触控台与实体空间构件。结构接缝、展柜反射、轨道灯与人物尺度可证实为已建成永久展，而非效果图。后续从文件室和互动解释区各选一图。",
+    "next_gate": "媒体生产阶段下载两张不同空间段落的官方或设计方实景图，保持保育／互动两类图像平衡；再以三份宪政原件、跨文化协作、文献保育与公共学习四层关系写入五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

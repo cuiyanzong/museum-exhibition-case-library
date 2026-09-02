@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "MX-MRP-01",
+    "title": "Museo Ruta de Plata — Mining History Interpretive Centre",
+    "subtitle": "Museo Ruta de Plata｜El Triunfo, Baja California Sur, Mexico",
+    "year": "2018；馆方当前开放／预约",
+    "type": "叙事性常设／长期展",
+    "brief": "以白银、矿井劳动、殖民贸易和全球航线为主线，利用岩层化场景、矿具、船模、时间线和数字阅读讲述墨西哥矿业史。",
+    "insight": "资源史展必须让地下劳动和全球流通相互可见，避免把白银只展示成财富与技术成就。",
+    "tags": [
+      "矿业史",
+      "白银贸易",
+      "场景化矿井",
+      "全球网络"
+    ],
+    "route": [
+      "矿产与地质导入",
+      "采掘劳动",
+      "殖民治理",
+      "白银跨洋贸易",
+      "工业变迁",
+      "资源遗产回望"
+    ],
+    "images": [
+      "mx-mrp-01-01.jpg",
+      "mx-mrp-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/mx-mrp-01-01_a0c7b5d6.jpg",
+      "/manus-storage/mx-mrp-01-02_6f87d6ec.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：殖民贸易时间线。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：矿井劳动。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：矿产与地质导入—采掘劳动—殖民治理—白银跨洋贸易—工业变迁—资源遗产回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从地质与劳动进入殖民制度和跨洋贸易，再回看工业遗产，说明白银价值并非只在矿井内部产生。"
+      ],
+      [
+        "展项设计",
+        "矿具、嵌入柜、人物影像、航船模型和时间线应分别承担劳动证据、环境氛围、全球联系与历史顺序。"
+      ],
+      [
+        "布展与图文",
+        "岩层化窄道可以提示地下尺度，但应为文字和无障碍转向保留足够空间；黑橙时间线须避免信息密度压过模型观看。"
+      ],
+      [
+        "研究判断",
+        "矿业叙事的伦理完整性在于将财富路径和劳动代价并置，让全球史从具体物质和身体经验出发。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "MX-MRP-01",
+    "title": "Museo Ruta de Plata — Mining History Interpretive Centre",
+    "museum": "Museo Ruta de Plata",
+    "location": "El Triunfo, Baja California Sur, Mexico",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Ralph Appelbaum Associates（区域矿业史体验设计）；Sandra Muñoz（项目摄影）",
+    "year": "2018；馆方当前开放／预约",
+    "design_source": "https://raai.com/project/museo-ruta-de-plata/",
+    "museum_source": "https://www.museorutadeplata.com/visits",
+    "evidence": "RAA项目页将其列为El Triunfo的区域解释中心，受托以自然、文化与经济史解释矿业区；内容经引介影片后连接Real de Santa Ana、El Rosario和El Triunfo三处地点，以Manuel de Ocio、Henry S. Brooks与Leonardo Orynski三个人物串联生活史，设置模拟矿井与可触发“炸药”的互动，并以16世纪至20世纪初的全球／国家／区域时间线和本地家庭数字剪贴簿组织记忆。项目面积2,000平方英尺，年份2018，摄影©Sandra Muñoz。馆方访问页确认博物馆每周开放六天、10:00—17:00（周二关闭，8月18—31日闭馆），并提供矿区地质与采矿导览；票务页列出现行5个日预约时段（10:00—16:00）、60分钟限额参观及Gallery、12分钟引介影片、Museum、Mineral Collection Gallery等可进入展区。",
+    "image_assessment": "2026-08-24审阅RAA公开MRdP7、2、3、4、8及RutaDePlataInterior项目图：可见实体矿业对象／展台、人物尺度、戏剧性洞穴／矿井构件、时间线和交互界面，以及真实室内照明与材料接缝。后续从模拟矿井与时间线／人物／家庭记忆区选择两张不同叙事段落实景，排除庭院和外观。",
+    "next_gate": "媒体生产阶段下载两张Sandra Muñoz／RAA来源内景，记录版权边界；按采矿地景与定居—人物化地方史—工业兴衰时间线—家庭档案参与的路径完成五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

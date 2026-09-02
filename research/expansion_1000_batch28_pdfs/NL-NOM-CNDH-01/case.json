@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "NL-NOM-CNDH-01",
+    "title": "Dutch Open Air Museum — The Canon of Dutch History",
+    "subtitle": "Dutch Open Air Museum｜阿纳姆，荷兰",
+    "year": "2017；常设展",
+    "type": "国家史、社会记忆与媒介互动／沉浸叙事常设展",
+    "brief": "以50个荷兰史窗口、十段连续年代场景和18米互动墙，将从史前到当代的国家史转译为跨越四个空间的时间机器。",
+    "insight": "国家史可以用沉浸场景增强进入感，但必须让对象、动画与游戏共同回应可追溯的时间节点，避免变成“历史主题乐园”。",
+    "tags": [
+      "50个历史窗口",
+      "时间机器",
+      "互动墙",
+      "电影场景"
+    ],
+    "route": [
+      "史前入口",
+      "早期社会与城市",
+      "贸易与宗教变迁",
+      "近代国家形成",
+      "战争与重建",
+      "当代荷兰回望"
+    ],
+    "images": [
+      "nl-nom-cndh-01.jpg",
+      "nl-nom-cndh-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/nl-nom-cndh-01_418a11e7.jpg",
+      "/manus-storage/nl-nom-cndh-02_83184bf2.jpg"
+    ],
+    "captions": [
+      "Canon of Dutch History中的玻璃展柜、互动桌与参观者。来源：Heijmerink Wagemakers公开项目摄影。",
+      "Canon of Dutch History中的大型场景、投影与时间线地面。来源：Heijmerink Wagemakers公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：史前入口—早期社会与城市—贸易与宗教变迁—近代国家形成—战争与重建—当代荷兰回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "十段连续历史阶段把50个窗口串成可移动的年代链，兼顾概览与局部故事；关键是让时间转换不掩盖争议与多元经验。"
+      ],
+      [
+        "展项设计",
+        "电影场景、对象柜、互动桌、人物角色与动画均需被定位为不同证据等级；游戏应帮助提出问题，而非给出唯一结论。"
+      ],
+      [
+        "布展与图文",
+        "黑场、地面时间线与大型投影提供方向，玻璃柜与座椅为近读和休息留出空间，适合家庭与跨代参观。"
+      ],
+      [
+        "研究判断",
+        "沉浸国家史展最值得借鉴的是“阶段—对象—互动”三层配合，而不是复制其场景化表皮。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "NL-NOM-CNDH-01",
+    "country": "荷兰",
+    "region": "西欧",
+    "title": "Dutch Open Air Museum — The Canon of Dutch History",
+    "museum": "Dutch Open Air Museum",
+    "location": "阿纳姆，荷兰",
+    "year": "2017；常设展",
+    "type": "国家史、社会记忆与媒介互动／沉浸叙事常设展",
+    "studio": "Kossmann.dejong（概念、空间、平面与创意统筹）／Redrum、IJsfontein（协作）／XPEX（项目统筹）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://kossmanndejong.nl/project/canon-of-dutch-history/",
+    "museum_source": "https://www.openluchtmuseum.nl/en/canon-van-nederland",
+    "evidence": "Kossmann.dejong确认其赢得新馆亭常设展竞赛并负责概念、空间设计、平面设计与创意统筹；展览把荷兰史50个“窗口”组织为十段连续年代场景，穿过四个空间，以电影投影、人物、互动游戏和18米互动墙构成空间化时间机器。馆方当前英文页说明该室内常设展自2017年向访客开放，以十个连续历史阶段中的电影场景、游戏、动画、影片与实物叙述从史前至当代的荷兰史；博物馆主页显示当日10:00起开放。",
+    "image_credit": "Dutch Open Air Museum／Kossmann.dejong／Heijmerink Wagemakers项目摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：设计方、实施方与馆方图可见参观者走入大型时代电影场景、真实对象柜、互动桌、投影墙及时间线地面；人物、实体展具、照明和画面反射说明为已建成室内展览，非渲染、概念图或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

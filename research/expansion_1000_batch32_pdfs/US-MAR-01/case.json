@@ -1,0 +1,85 @@
+{
+  "content": {
+    "id": "US-MAR-01",
+    "title": "Museum of the American Revolution — Core Permanent Galleries",
+    "subtitle": "Museum of the American Revolution｜Philadelphia, Pennsylvania, USA",
+    "year": "2017开馆；馆方当前展览与售票页可访问",
+    "type": "叙事性常设／长期展",
+    "brief": "以独立宣言、建国制度与1775—1783年武器网络组织核心永久展，使政治文本、视觉图像与战争物质文化形成互读。",
+    "insight": "革命史展容易把自由叙事做成单一庆典；文献、军事资源、不同群体与战后建国之间的张力，才是让“革命”可被讨论的空间基础。",
+    "tags": [
+      "美国独立史",
+      "文献与对象",
+      "战争物质文化",
+      "沉浸图文"
+    ],
+    "route": [
+      "殖民社会与独立路径",
+      "宣言与建国制度",
+      "独立战争与军备",
+      "人物、对象与多方经验",
+      "新国家与未竟问题"
+    ],
+    "images": [
+      "us-mar-01-01.jpg",
+      "us-mar-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-mar-01-01_5fb01b79.jpg",
+      "/manus-storage/us-mar-01-02_c3f496b8.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：建国与独立宣言对象—图文叙事。来源：kubik maltbie／Bluecadet项目页公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：Arms of Independence对象与互动阅读。来源：kubik maltbie／Bluecadet项目页公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：殖民社会与独立路径—宣言与建国制度—独立战争与军备—人物、对象与多方经验—新国家与未竟问题。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从独立的社会与制度条件进入宣言文本，再以武器、人物和战史揭示政治主张如何依赖具体资源与冲突，最后回到新国家的建构及其未解决的问题。 本案的核心命题是：革命史展容易把自由叙事做成单一庆典；文献、军事资源、不同群体与战后建国之间的张力，才是让“革命”可被讨论的空间基础。"
+      ],
+      [
+        "展项设计",
+        "圆形文献展柜把宣言等核心文本设为判断节点，历史画面和骑马雕塑提供公共图像语境；整墙武器、冷兵器和互动比较台则让战争不被压缩成背景装饰。"
+      ],
+      [
+        "布展与图文",
+        "展柜中心配合环形地面信息提示停留，深蓝武器墙以成组陈列和近读标签组织比较；图像与对象周边应避免过强戏剧照明遮蔽读本。"
+      ],
+      [
+        "研究判断",
+        "该案的有效做法是把革命的抽象价值落实为文本、资源和行动的交叉阅读，而非把独立宣言孤立成不可质疑的圣物。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.bluecadet.com/work/museum-of-the-american-revolution",
+      "https://www.healykohler.com/project/museum-of-the-american-revolution/",
+      "https://kubikmaltbie.com/project/museum-of-the-american-revolution/",
+      "https://www.amrevmuseum.org/at-the-museum/exhibits",
+      "https://kubikmaltbie.com/wp-content/uploads/2018/07/Museum-of-American-5.jpg",
+      "https://cdn.sanity.io/images/iyte22cl/development/715b737a703474be9b44707129dd0f0c3d208b69-4093x2729.jpg?q=90&fit=max&auto=format"
+    ]
+  },
+  "ledger": {
+    "id": "US-MAR-01",
+    "title": "Museum of the American Revolution — Core Permanent Galleries",
+    "museum": "Museum of the American Revolution",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "region": "北美洲",
+    "status": "accepted-for-5-case-pool",
+    "studio": "HealeyKohler（搜索到的展陈设计线索，待以原始项目页面核验整体责任范围）；Bluecadet（概念发展、UX与视觉设计、原始拍摄、内容策略与开发、动画与动态图形；为馆方创建期永久展完成一套体验）；馆方策展团队（待补具名责任）",
+    "year": "2017开馆；馆方当前展览与售票页可访问",
+    "design_source": "https://www.bluecadet.com/work/museum-of-the-american-revolution",
+    "design_source_secondary": "https://www.healykohler.com/project/museum-of-the-american-revolution/",
+    "production_source": "https://kubikmaltbie.com/project/museum-of-the-american-revolution/",
+    "museum_source": "https://www.amrevmuseum.org/at-the-museum/exhibits",
+    "evidence": "Bluecadet原始Core Exhibitions项目页说明其自馆方创建期起合作，设计品牌、网站、fundraising materials、教育应用，并最终为博物馆完成一套permanent exhibits；页面明列Concept Development、UX & Visual Design、Original Filming、Content Strategy & Development、Animation & Motion Graphics，并将这些沉浸／互动显示归入讲述美国独立斗争的核心展览。HealyKohler原始项目URL在本次浏览时受站点验证码阻断，不能单独作为本轮放行依据。kubik maltbie的原始制作项目页则明确17,000平方英尺项目的Designers为Healy Kohler Design，kubik承担多工种与分包协调、lead fabricator、墙／地面图形与展柜的建造安装，且其将常设与临展画廊、剧场、数千件对象、互动学习及沉浸叙事界定为独立战争史展示的一体化交付。馆方当前展览页可访问，页面搜索结果明确核心展章节包括The Road to Independence、The Darkest Hour、A Revolutionary War和A New Nation。",
+    "image_assessment": "2026-08-26人工审阅两张设计／制作方原始完成摄影。give-me-liberty（1600×900）为真实建成的建国与独立宣言叙事段：可见“Creating Republics”图文墙、圆形独立宣言展柜、原始文献／对象、骑马人物造像、航海历史画面、展签与地面时间环，不是建筑内庭。arms-of-independence（4093×2729）为不同的战争物质文化段：可见“Arms of Independence 1775–1783”标题、成组步枪与冷兵器、历史画作、说明条、触控比较界面与暗场展示环境。两图源自kubik及Bluecadet公开项目页面，叙事、空间、媒介与对象都不同；不是效果图、旅游图、临展海报或孤立设备特写。",
+    "image_source_1": "https://kubikmaltbie.com/wp-content/uploads/2018/07/Museum-of-American-5.jpg",
+    "image_source_2": "https://cdn.sanity.io/images/iyte22cl/development/715b737a703474be9b44707129dd0f0c3d208b69-4093x2729.jpg?q=90&fit=max&auto=format",
+    "audit_date": "2026-08-26"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "content": {
+    "id": "TW-NMTH-01",
+    "title": "Our Land Our People: The Story of Taiwan",
+    "subtitle": "National Museum of Taiwan History｜Tainan, Taiwan",
+    "year": "2023局部更新完成；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以台湾多重历史交会、族群经验、制度转折与当代口述记忆组织长期展，使地方史在时间线之外保持多声部。",
+    "insight": "岛屿史的展陈不应把复杂身份压成单一国家叙事；空间应允许迁徙、殖民、战争和日常生活彼此对读。",
+    "tags": [
+      "台湾史",
+      "多声部叙事",
+      "口述记忆",
+      "时间与地理"
+    ],
+    "route": [
+      "地理与海洋导入",
+      "早期社会与跨域连接",
+      "殖民制度转折",
+      "战争与战后身份",
+      "当代记忆回望"
+    ],
+    "images": [
+      "tw-nmth-01-01.jpg",
+      "tw-nmth-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/tw-nmth-01-01_80042fe2.jpg",
+      "/manus-storage/tw-nmth-01-02_4642ab6e.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：台湾交会之岛的开篇地理。来源：Esdesign / Te Fan Wang、Orange Chen、Yu-Chen Liu公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：战后身份与口述记忆。来源：Esdesign / Te Fan Wang、Orange Chen、Yu-Chen Liu公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：地理与海洋导入—早期社会与跨域连接—殖民制度转折—战争与战后身份—当代记忆回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由岛屿位置进入不同政权与社群经验，再以战后口述和日常物件回到个体，保持历史层之间的张力。 本案的核心命题是：岛屿史的展陈不应把复杂身份压成单一国家叙事；空间应允许迁徙、殖民、战争和日常生活彼此对读。"
+      ],
+      [
+        "展项设计",
+        "地图、档案、对象、投影和采访应分别承担定位、证据、生活尺度和多重解释；影像不应覆盖文字与原件。"
+      ],
+      [
+        "布展与图文",
+        "墙面时间线须提供跨章节回看点；口述段应配置坐席、字幕与安静声场，让观众能够停留。"
+      ],
+      [
+        "研究判断",
+        "其价值在于把“交会”做成证据关系而非视觉主题：每次转场都需要说明谁在何种条件下移动与被治理。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://design.museaward.com/winners-info.php?id=17634",
+      "https://www.nmth.gov.tw/en/cp.aspx?n=4310",
+      "https://museawards.world/upload/entry/files/ME216071/small/16881692081446.jpg",
+      "https://museawards.world/upload/entry/files/ME216071/small/30791692081496.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "TW-NMTH-01",
+    "title": "Our Land Our People: The Story of Taiwan",
+    "museum": "National Museum of Taiwan History",
+    "location": "Tainan, Taiwan",
+    "region": "台湾",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Esdesign（展览更新与整体设计；Tzu-Ling Tung、Nai-Yin Cheng领衔）；Neon Galaxy Design Lab／YesYesNo／ObjCreate／Axis 3D（互动媒体）；Moonshine Studio等（动画、影像与声音）",
+    "year": "2023局部更新完成；馆方当前开放",
+    "design_source": "https://design.museaward.com/winners-info.php?id=17634",
+    "museum_source": "https://www.nmth.gov.tw/en/cp.aspx?n=4310",
+    "image_source": "https://www.nmth.gov.tw/en/cp.aspx?n=4311",
+    "evidence": "MUSE Design Awards项目页将Esdesign列为National Museum of Taiwan History的参展者，明确其完成常设展区的局部更新：保留既有大型场景、重写并重做全部图形、补充展品与多媒体，将主题焦点由“multiple ethnic groups”调整为动态社会史，并逐项公开首席设计、项目管理、插画、互动软件、动画、影片、声音及摄影人员。馆方永久展页将台湾数百年历史清晰分为七段：十字路口、早期抵达、海洋生计、山海间共存竞争、日本统治下的新秩序、迈向民主与Museum for Everyone；馆方导览页标明1,068件、1,117平方米，并说明角色扮演、卡牌、互动绘本、3D文物、声响、触摸展项和点字系统。官网现行开放时段为周二至周日09:00–17:00。",
+    "image_assessment": "2026-08-24审阅馆方永久展与主题导览页面：各章节均链接馆方室内图组，可见场景复原、对象、图文、触读装置、互动台与参观路径；MUSE页亦公开Te Fan Wang、Orange Chen和Yu-Chen Liu摄影署名。后续媒体阶段仅选择两个不同历史段的馆方／设计方已建成内景，排除地图、插画和非展厅宣传图。",
+    "media_locator": "2026-08-24复核：英文永久展总页n=4310正常并列出七段叙事与每段4张馆方图片，但其照片子页会404。改由Esdesign的MUSE获奖项目页恢复10张署名图组（摄影：Te Fan Wang、Orange Chen、Yu-Chen Liu）。已人工审核并选定两图：16881692081446.jpg为‘臺灣，交會之島’入口／开篇段，黑色沉浸框景、岛屿视觉与可触交互台构成开篇历史地理叙事；30791692081496.jpg为战后身份／记忆段，参观者以听筒阅读大幅中英双语口述史与身份提问墙，形成与开篇不同的社会记忆解释空间。二图均为获奖项目页公开的完成后真实展厅摄影，非插画、效果图或旅游照。",
+    "image_source_1": "https://museawards.world/upload/entry/files/ME216071/small/16881692081446.jpg",
+    "image_source_2": "https://museawards.world/upload/entry/files/ME216071/small/30791692081496.jpg",
+    "next_gate": "候选池阶段通过；生产前从馆方章节原图中选择两张不同叙事段的实景，核验自然尺寸、摄影署名与版权边界。",
+    "audit_date": "2026-08-24"
+  }
+}

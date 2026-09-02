@@ -1,0 +1,74 @@
+{
+  "content": {
+    "id": "LT-LSM-01",
+    "title": "Lost Shtetl Museum — Permanent Exhibition",
+    "subtitle": "Lost Shtetl Museum｜Šeduva, Lithuania",
+    "year": "2025；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以Marketplace、Dreams and Reality、People of the Book、Holocaust与Final Part五段，将Šeduva及东欧犹太小镇的日常、信仰、侵占与记忆组织成3,000平方米的长期体验。",
+    "insight": "消失的社群不能只由悲剧结尾定义；空间需要让日常生活、知识传统与毁灭后的缺席同时可被阅读。",
+    "tags": [
+      "犹太小镇记忆",
+      "对象与影像",
+      "反思通道",
+      "多声部叙事"
+    ],
+    "route": [
+      "Marketplace社区入口",
+      "Dreams and Reality日常理想",
+      "People of the Book信仰与知识",
+      "Holocaust侵占与毁灭",
+      "Final Part纪念与反思"
+    ],
+    "images": [
+      "lt-lsm-01-01.jpg",
+      "lt-lsm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/lt-lsm-01-01_bb3fb34f.jpg",
+      "/manus-storage/lt-lsm-01-02_ff6a4790.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：礼拜堂／战前生活。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：Canyon of Hope。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：Marketplace社区入口—Dreams and Reality日常理想—People of the Book信仰与知识—Holocaust侵占与毁灭—Final Part纪念与反思。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "五段结构先给出可感的地方生活与文化，再进入侵占和大屠杀，避免将受害叙事悬空于具体社区之外。"
+      ],
+      [
+        "展项设计",
+        "照片、对象、彩色玻璃、数字建筑投影与Ghost Ark分别承担人物关系、物质生活、象征与缺席的证据层；Canyon of Hope应是转场而不是视觉终点。"
+      ],
+      [
+        "布展与图文",
+        "温暖阅读区与高墙沉浸通道的反差需要保留安静停顿和可绕行空间；文字、对象和影像不宜在低照度段同时竞争。"
+      ],
+      [
+        "研究判断",
+        "记忆馆的伦理强度来自让被毁灭前的生活具有完整性，并将反思建立在可追溯的对象、名字和地方关系上。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "LT-LSM-01",
+    "title": "Lost Shtetl Museum — Permanent Exhibition",
+    "museum": "Lost Shtetl Museum",
+    "location": "Šeduva, Lithuania",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Ralph Appelbaum Associates（RAA项目页发布展陈项目；馆方负责策展与运营）",
+    "year": "2025；馆方当前开放",
+    "design_source": "https://raai.com/project/lost-shtetl-museum/",
+    "museum_source": "https://www.lostshtetl.com/plan-your-visit",
+    "evidence": "RAA项目页将项目设于Šeduva、立陶宛，列出3,000平方米、2025年、摄影Andrew Lee，并说明展览以Šeduva及东欧犹太小镇记忆为主题，使用对象、后代照片、电影媒介、彩色玻璃、Ghost Ark与Canyon of Hope组织从战前生活、侵占与大屠杀到纪念和反思的路径。馆方访问页说明博物馆除周一与国家假日外10:00–18:00开放，免费参观可进入永久馆藏与临时展。馆方展览页明确叙事由Marketplace、Dreams and Reality、People of the Book、Holocaust及Final Part组成，列出Milda Jakulytė-Vasil等策展团队与Jolanta Mickutė脚本，并展示具有观众剪影、展厅墙面、图文与照明关系的真实室内项目摄影。",
+    "image_assessment": "2026-08-24浏览馆方展览页：页面中的Dreams and Reality图可见两名访客在棕色展厅内阅读墙面图文；同页还公开Marketplace、People of the Book、Holocaust及Final Part图像资源。现场光照、人物尺度、展墙接缝与文字层均符合已建成室内展陈摄影特征，不是建筑外观或渲染。后续生产需从馆方或RAA公开资源中选取至少两张不同叙事段落的室内图。",
+    "next_gate": "媒体生产阶段下载并逐张审阅两张不同画廊的馆方／RAA实景图，复核版权归属与自然尺寸；随后再写入五层研究与PDF。",
+    "audit_date": "2026-08-24"
+  }
+}

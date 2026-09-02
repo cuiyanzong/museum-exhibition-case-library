@@ -1,0 +1,608 @@
+{
+  "generatedAt": "2026-08-21T05:08:19.985Z",
+  "registry": [
+    {
+      "id": "HK-T01",
+      "title": "InnoTech Gallery",
+      "region": "香港",
+      "localFile": "hk-t01.jpg",
+      "bytes": 451684,
+      "projectSource": "https://hk.science.museum/en/web/scm/exhibition/itg.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T02",
+      "title": "Living Tech Gallery",
+      "region": "香港",
+      "localFile": "hk-t02.jpg",
+      "bytes": 86947,
+      "projectSource": "https://hk.science.museum/en/web/scm/exhibition/ltg.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T03",
+      "title": "Extinction · Resilience",
+      "region": "香港",
+      "localFile": "hk-t03.png",
+      "bytes": 1178420,
+      "projectSource": "https://hk.science.museum/en/web/scm/exhibition/pg.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T04",
+      "title": "Earth Science Gallery",
+      "region": "香港",
+      "localFile": "hk-t04.jpg",
+      "bytes": 484311,
+      "projectSource": "https://hk.science.museum/en/web/scm/exhibition/esg.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T05",
+      "title": "Biodiversity Gallery",
+      "region": "香港",
+      "localFile": "hk-t05.jpg",
+      "bytes": 675919,
+      "projectSource": "https://hk.science.museum/en/web/scm/exhibition/bdg.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T06",
+      "title": "Energy Machine",
+      "region": "香港",
+      "localFile": "hk-t06.jpg",
+      "bytes": 258642,
+      "projectSource": "https://hk.science.museum/en/web/scm/exhibition/em.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T07",
+      "title": "Hong Kong Science Museum 35th Anniversary",
+      "region": "香港",
+      "localFile": "hk-t07.jpg",
+      "bytes": 231749,
+      "projectSource": "https://hk.science.museum/en/web/scm/exhibition/ScM35A.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T08",
+      "title": "Cosmic Journey",
+      "region": "香港",
+      "localFile": "hk-t08.jpg",
+      "bytes": 230956,
+      "projectSource": "https://hk.space.museum/en/web/spm/exhibition.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T09",
+      "title": "Hong Kong Railway Museum Permanent Exhibition",
+      "region": "香港",
+      "localFile": "hk-t09.jpg",
+      "bytes": 1856192,
+      "projectSource": "https://hk.history.museum/en/web/mh/visit/branch_museums/hong_kong_railway_museum.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T10",
+      "title": "Sheung Yiu Folk Museum Permanent Exhibition",
+      "region": "香港",
+      "localFile": "hk-t10.jpg",
+      "bytes": 70315,
+      "projectSource": "https://hk.history.museum/en/web/mh/visit/branch_museums/sheung_yiu_folk_museum.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T11",
+      "title": "Law Uk Folk Museum Permanent Exhibition",
+      "region": "香港",
+      "localFile": "hk-t11.jpg",
+      "bytes": 31638,
+      "projectSource": "https://hk.history.museum/en/web/mh/visit/branch_museums/law_uk_folk_museum.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T12",
+      "title": "Fireboat Alexander Grantham Exhibition Gallery",
+      "region": "香港",
+      "localFile": "hk-t12.jpg",
+      "bytes": 164486,
+      "projectSource": "https://hk.history.museum/en/web/mh/visit/branch_museums/fireboat_alexander_grantham_exhibition_gallery.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T13",
+      "title": "Dr Sun Yat-sen Museum Permanent Exhibition",
+      "region": "香港",
+      "localFile": "hk-t13.jpg",
+      "bytes": 692748,
+      "projectSource": "https://hk.history.museum/en/web/mh/visit/branch_museums/dr_sun_yat_sen_museum.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T14",
+      "title": "Hong Kong Maritime Museum Permanent Galleries",
+      "region": "香港",
+      "localFile": "hk-t14.jpg",
+      "bytes": 99782,
+      "projectSource": "https://hkmaritimemuseum.org/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T15",
+      "title": "Hong Kong Museum of Coastal Defence Permanent Exhibition",
+      "region": "香港",
+      "localFile": "hk-t15.jpg",
+      "bytes": 147104,
+      "projectSource": "https://www.lcsd.gov.hk/CE/Museum/Coastal/en_US/web/mcd/home.html",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T16",
+      "title": "New Territories Heritage Gallery",
+      "region": "香港",
+      "localFile": "hk-t16.jpg",
+      "bytes": 326870,
+      "projectSource": "https://hk.heritage.museum/en/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T17",
+      "title": "Hong Kong Pop 60+",
+      "region": "香港",
+      "localFile": "hk-t17.jpg",
+      "bytes": 488033,
+      "projectSource": "https://hk.heritage.museum/en/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "HK-T18",
+      "title": "Children’s Discovery Gallery",
+      "region": "香港",
+      "localFile": "hk-t18.jpg",
+      "bytes": 306040,
+      "projectSource": "https://hk.heritage.museum/en/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T01",
+      "title": "Our Land, Our People: The Story of Taiwan",
+      "region": "台湾",
+      "localFile": "tw-t01.jpg",
+      "bytes": 85479,
+      "projectSource": "https://www.nmth.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T02",
+      "title": "The Way of Life: Taiwan Indigenous Peoples",
+      "region": "台湾",
+      "localFile": "tw-t02.jpg",
+      "bytes": 205393,
+      "projectSource": "https://www.nmp.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T03",
+      "title": "The Origin of Life",
+      "region": "台湾",
+      "localFile": "tw-t03.jpg",
+      "bytes": 124594,
+      "projectSource": "https://www.nmp.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T04",
+      "title": "Explore IMET",
+      "region": "台湾",
+      "localFile": "tw-t04.jpg",
+      "bytes": 65408,
+      "projectSource": "https://www.nmmst.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T05",
+      "title": "Ocean Environment and Ecology Gallery",
+      "region": "台湾",
+      "localFile": "tw-t05.jpg",
+      "bytes": 278591,
+      "projectSource": "https://www.nmmst.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T06",
+      "title": "Marine Science and Technology Gallery",
+      "region": "台湾",
+      "localFile": "tw-t06.jpg",
+      "bytes": 59752,
+      "projectSource": "https://www.nmmst.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T07",
+      "title": "Taiwan Industry History Exhibition",
+      "region": "台湾",
+      "localFile": "tw-t07.jpg",
+      "bytes": 182507,
+      "projectSource": "https://www.nstm.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T08",
+      "title": "Power and Energy Gallery",
+      "region": "台湾",
+      "localFile": "tw-t08.jpg",
+      "bytes": 69447,
+      "projectSource": "https://www.nstm.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T09",
+      "title": "Clothing and Textile Gallery",
+      "region": "台湾",
+      "localFile": "tw-t09.jpg",
+      "bytes": 40217,
+      "projectSource": "https://www.nstm.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T10",
+      "title": "The Land of Taiwan",
+      "region": "台湾",
+      "localFile": "tw-t10.jpg",
+      "bytes": 164903,
+      "projectSource": "https://www.ntm.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T11",
+      "title": "Taiwan Railway Culture Exhibition",
+      "region": "台湾",
+      "localFile": "tw-t11.jpg",
+      "bytes": 445451,
+      "projectSource": "https://www.nrm.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T12",
+      "title": "Taiwan Literature Story",
+      "region": "台湾",
+      "localFile": "tw-t12.jpg",
+      "bytes": 217925,
+      "projectSource": "https://www.nmtl.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T13",
+      "title": "White Terror and Human Rights Exhibition",
+      "region": "台湾",
+      "localFile": "tw-t13.jpg",
+      "bytes": 75580,
+      "projectSource": "https://www.nhrm.gov.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T14",
+      "title": "Life Science Hall",
+      "region": "台湾",
+      "localFile": "tw-t14.webp",
+      "bytes": 33408,
+      "projectSource": "https://www.nmns.edu.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T15",
+      "title": "Human Cultures Hall",
+      "region": "台湾",
+      "localFile": "tw-t15.jpg",
+      "bytes": 126738,
+      "projectSource": "https://www.nmns.edu.tw/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "TW-T16",
+      "title": "Hamasen Railway Cultural Park Exhibition",
+      "region": "台湾",
+      "localFile": "tw-t16.jpg",
+      "bytes": 120055,
+      "projectSource": "https://hamasen.khm.gov.tw/eng/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T01",
+      "title": "Reflections of the Sea of Mirrors",
+      "region": "澳门",
+      "localFile": "mo-t01.jpg",
+      "bytes": 62121,
+      "projectSource": "https://www.macaumuseum.gov.mo/en/exhibitions/97128",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T02",
+      "title": "New Momentum: Greater Bay Area Intangible Cultural Heritage",
+      "region": "澳门",
+      "localFile": "mo-t02.jpg",
+      "bytes": 296414,
+      "projectSource": "https://www.macaumuseum.gov.mo/en/exhibitions/97095",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T03",
+      "title": "From Healing Patients to Saving a Nation",
+      "region": "澳门",
+      "localFile": "mo-t03.jpg",
+      "bytes": 127716,
+      "projectSource": "https://www.macaumuseum.gov.mo/en/exhibitions/97055",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T04",
+      "title": "Genesis and Spirit: Gansu Intangible Cultural Heritage",
+      "region": "澳门",
+      "localFile": "mo-t04.jpg",
+      "bytes": 71400,
+      "projectSource": "https://www.macaumuseum.gov.mo/en/exhibitions/97003",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T05",
+      "title": "Edification of the Masses",
+      "region": "澳门",
+      "localFile": "mo-t05.jpg",
+      "bytes": 137642,
+      "projectSource": "https://www.macaumuseum.gov.mo/en/exhibitions/96951",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T06",
+      "title": "Old Meets New: Historical Photo Exhibition",
+      "region": "澳门",
+      "localFile": "mo-t06.jpg",
+      "bytes": 136533,
+      "projectSource": "https://www.macaumuseum.gov.mo/en/exhibitions/96922",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T07",
+      "title": "Refreshing Fujian: Starting Point of the Maritime Silk Road",
+      "region": "澳门",
+      "localFile": "mo-t07.jpg",
+      "bytes": 648333,
+      "projectSource": "https://www.macaumuseum.gov.mo/en/exhibitions/96862",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "MO-T08",
+      "title": "Maritime Museum Permanent Exhibition",
+      "region": "澳门",
+      "localFile": "mo-t08.jpg",
+      "bytes": 121403,
+      "projectSource": "https://www.macaotourism.gov.mo/en/sightseeing/museums-and-galleries/maritime-museum",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SE-T01",
+      "title": "Singapore History Gallery",
+      "region": "东南亚",
+      "localFile": "se-t01.jpg",
+      "bytes": 296805,
+      "projectSource": "https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/sg-history-gallery",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SE-T02",
+      "title": "Story of the Forest",
+      "region": "东南亚",
+      "localFile": "se-t02.jpg",
+      "bytes": 73245,
+      "projectSource": "https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/story-of-the-forest",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SE-T03",
+      "title": "Tang Shipwreck",
+      "region": "东南亚",
+      "localFile": "se-t03.jpg",
+      "bytes": 395570,
+      "projectSource": "https://www.nhb.gov.sg/acm/our-collections/collection-highlights/tang-shipwreck",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SE-T04",
+      "title": "Journey of Indonesia",
+      "region": "东南亚",
+      "localFile": "se-t04.jpg",
+      "bytes": 78018,
+      "projectSource": "https://www.museumnasional.or.id/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SE-T05",
+      "title": "Hibla ng Lahing Filipino",
+      "region": "东南亚",
+      "localFile": "se-t05.jpg",
+      "bytes": 241343,
+      "projectSource": "https://philhistoricsites.nhcp.gov.ph/national-museum-of-anthropology/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SE-T06",
+      "title": "Decoding Thainess",
+      "region": "东南亚",
+      "localFile": "se-t06.jpg",
+      "bytes": 69158,
+      "projectSource": "https://www.museumsiam.org/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SE-T07",
+      "title": "Vietnam Museum of Ethnology Permanent Exhibition",
+      "region": "东南亚",
+      "localFile": "se-t07.jpg",
+      "bytes": 342947,
+      "projectSource": "https://vme.org.vn/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "NA-T01",
+      "title": "Many Voices, One Nation",
+      "region": "北美洲",
+      "localFile": "na-t01.jpg",
+      "bytes": 85347,
+      "projectSource": "https://americanhistory.si.edu/explore/exhibitions/many-voices",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "NA-T02",
+      "title": "Our Universes",
+      "region": "北美洲",
+      "localFile": "na-t02.jpg",
+      "bytes": 164283,
+      "projectSource": "https://americanindian.si.edu/exhibitions/our-universes",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "NA-T03",
+      "title": "David H. Koch Hall of Human Origins",
+      "region": "北美洲",
+      "localFile": "na-t03.webp",
+      "bytes": 26694,
+      "projectSource": "https://humanorigins.si.edu/education/introduction-human-evolution",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "NA-T04",
+      "title": "David H. Koch Hall of Fossils: Deep Time",
+      "region": "北美洲",
+      "localFile": "na-t04.webp",
+      "bytes": 51134,
+      "projectSource": "https://naturalhistory.si.edu/exhibits/david-h-koch-hall-fossils-deep-time",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "NA-T05",
+      "title": "First Peoples Hall",
+      "region": "北美洲",
+      "localFile": "na-t05.jpg",
+      "bytes": 220231,
+      "projectSource": "https://www.historymuseum.ca/exhibitions/first-peoples-hall",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "NA-T06",
+      "title": "Canadian Immigration Story",
+      "region": "北美洲",
+      "localFile": "na-t06.jpg",
+      "bytes": 71566,
+      "projectSource": "https://pier21.ca/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SA-T01",
+      "title": "Museum of Memory and Human Rights Permanent Exhibition",
+      "region": "南美洲",
+      "localFile": "sa-t01.jpg",
+      "bytes": 18158,
+      "projectSource": "https://web.museodelamemoria.cl/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SA-T02",
+      "title": "Museum of Tomorrow Permanent Exhibition",
+      "region": "南美洲",
+      "localFile": "sa-t02.jpg",
+      "bytes": 40962,
+      "projectSource": "https://museudoamanha.org.br/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SA-T03",
+      "title": "Museo del Oro Permanent Exhibition",
+      "region": "南美洲",
+      "localFile": "sa-t03.jpg",
+      "bytes": 266306,
+      "projectSource": "https://www.banrepcultural.org/bogota/museo-del-oro",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "SA-T04",
+      "title": "Museo Nacional de Antropología, Arqueología e Historia del Perú Permanent Exhibition",
+      "region": "南美洲",
+      "localFile": "sa-t04.jpg",
+      "bytes": 120199,
+      "projectSource": "https://mnaahp.cultura.pe/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "EE-T01",
+      "title": "1000 Years of the History of Polish Jews",
+      "region": "东欧",
+      "localFile": "ee-t01.jpg",
+      "bytes": 641848,
+      "projectSource": "https://polin.pl/en/exhibitions/core-exhibition",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "EE-T02",
+      "title": "Museum of the Occupation of Latvia Permanent Exhibition",
+      "region": "东欧",
+      "localFile": "ee-t02.jpg",
+      "bytes": 37078,
+      "projectSource": "https://okupacijasmuzejs.lv/en",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "EE-T03",
+      "title": "House of Terror Permanent Exhibition",
+      "region": "东欧",
+      "localFile": "ee-t03.jpg",
+      "bytes": 33405,
+      "projectSource": "https://www.terrorhaza.hu/en",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "WE-T01",
+      "title": "Anthropocene Lab",
+      "region": "西欧",
+      "localFile": "we-t01.jpg",
+      "bytes": 38402,
+      "projectSource": "https://www.deutsches-museum.de/en/museum-island/exhibition/anthropocene",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "WE-T02",
+      "title": "Energy Hall",
+      "region": "西欧",
+      "localFile": "we-t02.jpg",
+      "bytes": 101116,
+      "projectSource": "https://www.sciencemuseum.org.uk/see-and-do/energy-hall",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "WE-T03",
+      "title": "People’s City: 100 Years of London",
+      "region": "西欧",
+      "localFile": "we-t03.jpg",
+      "bytes": 63222,
+      "projectSource": "https://www.londonmuseum.org.uk/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "WE-T04",
+      "title": "Mediterranean Gallery",
+      "region": "西欧",
+      "localFile": "we-t04.jpg",
+      "bytes": 371891,
+      "projectSource": "https://www.mucem.org/en/collections",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    },
+    {
+      "id": "WE-T05",
+      "title": "Scotland: A Changing Nation",
+      "region": "西欧",
+      "localFile": "we-t05.jpg",
+      "bytes": 187438,
+      "projectSource": "https://www.nms.ac.uk/national-museum-of-scotland/",
+      "evidence": "真实展厅、展项或展示环境摄影；图像来源与研究链接见项目页及图片筛选台账。"
+    }
+  ]
+}

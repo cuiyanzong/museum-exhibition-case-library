@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "NO-HM-VIK-01",
+    "title": "Historical Museum Oslo — VÍKINGR: Viking Age Exhibition",
+    "subtitle": "Historical Museum, Museum of Cultural History, University of Oslo｜奥斯陆，挪威",
+    "year": "2019—2026年12月；长期固定展",
+    "type": "维京时代社会史、战争与跨文化交流／对象叙事长期展",
+    "brief": "在2026年12月前开放的长期固定展中，以Journeys、Warriors与A Changing Society三段叙事，讲述维京时代的迁徙、贸易、战争、信仰与社会转型。",
+    "insight": "维京时代展的价值不在于强化战士图像，而在于用高可见度对象和明确分段呈现跨文化交流、日常生活与社会变化。",
+    "tags": [
+      "维京时代",
+      "高玻璃展柜",
+      "三段叙事",
+      "手绘墙文"
+    ],
+    "route": [
+      "Journeys迁徙与贸易",
+      "Warriors战争与身份",
+      "A Changing Society信仰与转型",
+      "对象近读",
+      "手绘墙文解释",
+      "2026展期提示"
+    ],
+    "images": [
+      "no-hm-vik-01.jpg",
+      "no-hm-vik-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/no-hm-vik-01_ac80e552.jpg",
+      "/manus-storage/no-hm-vik-02_2f830182.jpg"
+    ],
+    "captions": [
+      "VÍKINGR展厅中的高玻璃展柜、木地板与维京对象。来源：Snøhetta公开项目摄影。",
+      "VÍKINGR展的维京头盔与连续展柜空间。来源：Snøhetta公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：Journeys迁徙与贸易—Warriors战争与身份—A Changing Society信仰与转型—对象近读—手绘墙文解释—2026展期提示。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "三段结构从旅行进入战争，再进入社会变化，使维京时代被理解为流动与转型的历史，而不只是掠夺叙事。"
+      ],
+      [
+        "展项设计",
+        "剑、头盔、饰品与其他小型对象在19件高玻璃柜中获得低干扰观看；手绘墙文应提供明确的时间、地点和来源关系。"
+      ],
+      [
+        "布展与图文",
+        "白色长廊、木地板和高玻璃柜强调对象轮廓与前后景深，适合慢速浏览；当前展期必须在导览与报告中保留。"
+      ],
+      [
+        "研究判断",
+        "本案展示了克制的展柜系统如何反转“维京=视觉奇观”的陈词；其边界是展览将于2026年12月后迁移，不能表述为未来永久馆。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "NO-HM-VIK-01",
+    "country": "挪威",
+    "region": "西欧",
+    "title": "Historical Museum Oslo — VÍKINGR: Viking Age Exhibition",
+    "museum": "Historical Museum, Museum of Cultural History, University of Oslo",
+    "location": "奥斯陆，挪威",
+    "year": "2019—2026年12月；长期固定展",
+    "type": "维京时代社会史、战争与跨文化交流／对象叙事长期展",
+    "studio": "Snøhetta（展陈设计、视觉系统与出版物）／Meyvaert（19件定制保育展柜）／Historical Museum（策展与内容）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.snohetta.com/projects/vikingr-exhibition",
+    "museum_source": "https://www.historiskmuseum.no/english/exhibitions/vikingr/",
+    "evidence": "馆方2026年更新页明确《Víkingr》目前开放至2026年12月，之后物件将移至新的永久维京时代博物馆；在当前开放期内其为已持续七年的长期固定展。展览以Journeys、Warriors与A Changing Society三段叙事组织维京人迁徙、贸易、战争、信仰与社会转型；官方信用名单明确Snøhetta为展览设计方。Snøhetta项目页说明以19件高玻璃展柜和手绘墙文形成低干扰对象观看；Meyvaert确认交付19件定制展柜并提供虚拟导览。",
+    "image_credit": "Historical Museum Oslo／Snøhetta／Meyvaert（Calle Huth）项目摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方页含展厅视频导览与对象现场图，Snøhetta和Meyvaert项目资料展示实体维京头盔、剑、饰品及19件高玻璃展柜的已建成空间；展柜、实物、照明和木地板材料细节确认并非渲染。边界已明确：本案仅作为截至2026年12月仍可访问的长期固定展生产，不表述为未来永久展。",
+    "next_action": "候选池已闭合；在统一媒体、五层研究与PDF生产前再次核验2026年12月展期提示并在前端和PDF中保留该边界。"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "content": {
+    "id": "BH-NCM-01",
+    "title": "Bahrain National Charter Monument — Permanent Exhibition",
+    "subtitle": "Bahrain National Charter Monument｜Manama, Bahrain",
+    "year": "2010；2024官方活动确认展厅持续使用",
+    "type": "叙事性常设／长期展",
+    "brief": "以巴林国家宪章、社会价值、海洋贸易、珍珠和当代国家经验为线索，通过互动桌、模型与对象构成公共历史展。",
+    "insight": "国家叙事展的可信度取决于能否让宪章理念回到具体劳动、贸易与社会生活，而不只把价值口号做成视觉背景。",
+    "tags": [
+      "国家宪章",
+      "公共价值",
+      "珍珠贸易",
+      "互动地图"
+    ],
+    "route": [
+      "宪章导入",
+      "社会价值互动",
+      "海洋与珍珠经济",
+      "文化与社区",
+      "现代国家回望"
+    ],
+    "images": [
+      "bh-ncm-01-01.jpg",
+      "bh-ncm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/bh-ncm-01-01_a55ffae7.jpg",
+      "/manus-storage/bh-ncm-01-02_c15eb24a.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：价值互动段。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：海贸／珍珠模型。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：宪章导入—社会价值互动—海洋与珍珠经济—文化与社区—现代国家回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由宪章进入社会价值，再以贸易、珍珠和社区经验赋予国家故事具体的物质和生活维度。"
+      ],
+      [
+        "展项设计",
+        "互动桌、船模、对象柜、图像和文字墙应分别承担参与、经济网络、实物证据与历史解释；投票式互动不应简化争议。"
+      ],
+      [
+        "布展与图文",
+        "拱形空间、木屏与发光台能组织节奏，需保持模型周边的低干扰阅读区，防止活动人群覆盖对象信息。"
+      ],
+      [
+        "研究判断",
+        "此案可借鉴之处是让抽象国家价值通过海洋、劳动与物件落地；其风险是把互动参与误当成历史多元性的替代。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "BH-NCM-01",
+    "title": "Bahrain National Charter Monument — Permanent Exhibition",
+    "museum": "Bahrain National Charter Monument",
+    "location": "Manama, Bahrain",
+    "region": "中东",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Ralph Appelbaum Associates（与巴林王室合作的永久展设计）；NewAngle（互动制作，待媒体阶段仅作协作边界引用）",
+    "year": "2010；2024官方活动确认展厅持续使用",
+    "design_source": "https://raai.com/project/bahrain-national-charter-monument/",
+    "museum_source": "https://www.mbma.gov.bh/national-action-charter-monument-hosts-light-and-charter-event/",
+    "evidence": "RAA项目页明确该纪念碑由巴林国王委托，RAA与Royal Court of Bahrain合作设计永久展；该30,935平方英尺展览以沉浸式媒介和互动展示组织国家特性与价值、王室历史、国家宪章、传统工艺、海贸／珍珠业和现代产业，含3D单桅帆船模型、贸易桌互动、数字姓名河与公众投票墙。巴林官方2024年“Light and Charter”活动报道记录嘉宾参观主展厅、原始宪章文件及多个具体展区：Bahrain Pearl of the Gulf、Palm Whispers、Gate of the World、Islam and Tolerance、Prosperity、Treasures of the Sea、Flames of Industry、Bridge of Light、Bahrain Today，并明确主展厅通过互动设备解释国家历史与价值。",
+    "image_assessment": "2026-08-24审阅RAA公开的Bahrain2、Bahrain6、Bahrain3—7项目图片：可辨识实体展台、背光对象／船模、圆形投影台、数字墙、屏幕反射、真实照明与展厅材料，属已建成永久展内景。后续从贸易／珍珠或公共姓名墙等不同叙事段落选两张，排除缺乏室内展陈关系的外部建筑图。",
+    "next_gate": "媒体生产阶段下载两张RAA公开实景，记录来源与版权边界；以宪章—国家历史／工艺—贸易与海洋—公民姓名与投票—未来愿景的路径完成五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

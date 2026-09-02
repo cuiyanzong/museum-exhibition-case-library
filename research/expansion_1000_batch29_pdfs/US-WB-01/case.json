@@ -1,0 +1,74 @@
+{
+  "content": {
+    "id": "US-WB-01",
+    "title": "Washington-on-the-Brazos — Reimagined Historic Site Experience",
+    "subtitle": "Washington-on-the-Brazos State Historic Site / Star of the Republic Museum｜Washington, Texas, USA",
+    "year": "2025；州历史委员会当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "在23,000平方英尺的重构场地中，以一手史料、个人故事、细化环境、互动和投影映射连接1836年革命、建国与当代公共记忆。",
+    "insight": "历史场地更新的关键不是增加沉浸技术，而是把政治事件、日常选择与不同处境的人重新放入可检验的证据关系。",
+    "tags": [
+      "州史场地",
+      "一手史料",
+      "参与式桌面",
+      "投影映射"
+    ],
+    "route": [
+      "场地与帝国关系",
+      "1836年选择",
+      "独立与制度形成",
+      "家庭与劳动经验",
+      "多屏人物叙事",
+      "当代公共记忆"
+    ],
+    "images": [
+      "us-wb-01-01.jpg",
+      "us-wb-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-wb-01-01_62b36f17.jpg",
+      "/manus-storage/us-wb-01-02_b2443b4a.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：参与式历史决策桌。来源：G&A公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：多屏影像与文物柜。来源：G&A公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：场地与帝国关系—1836年选择—独立与制度形成—家庭与劳动经验—多屏人物叙事—当代公共记忆。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从场地语境和殖民关系进入革命时刻，再让女性、被奴役者、移民与忠诚派等经验参与建国叙事的复杂化。"
+      ],
+      [
+        "展项设计",
+        "投影人物、文物柜、互动桌和场景家具应分别承担历史角色、对象证据、问题式参与与环境暗示；参与结果不可代替史料。"
+      ],
+      [
+        "布展与图文",
+        "木质学习桌、低位阅读面与多屏竖向影像形成不同停留速度，需让团体活动不遮挡独立对象阅读。"
+      ],
+      [
+        "研究判断",
+        "高质量历史场地展把“选择”具体化为证据和多方立场，而非把建国写成单向胜利叙事。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "US-WB-01",
+    "title": "Washington-on-the-Brazos — Reimagined Historic Site Experience",
+    "museum": "Washington-on-the-Brazos State Historic Site / Star of the Republic Museum",
+    "location": "Washington, Texas, USA",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "G&A Strategy and Design（内容、体验与策略）；Cycymymy、Potion（互动设计与制作）；Sarofsky（媒体）；D&P（展陈制作）；7th Sense（投影映射）等",
+    "year": "2025；州历史委员会当前运营",
+    "design_source": "https://gallagherdesign.com/project/brazos/",
+    "museum_source": "https://thc.texas.gov/historic-sites/washington-brazos",
+    "evidence": "G&A项目页说明其与Texas Historical Commission长期协作重构全场地，以一手史料、个人故事、细化环境、沉浸媒介、互动与多媒体讲述1836年至当代；列出2025年、23,000平方英尺及互动、媒体、投影、照明、展陈制作等协作方。州历史委员会页面确认博物馆、Visitor Center、独立厅和生活史农场目前开放并提供票务与参观时段。",
+    "image_assessment": "2026-08-24已从G&A项目页DOM取得8张延迟加载原图并下载审阅。wb-01（PIER_WOTB__196，1380×1035 JPEG）为真实室内参与式学习／决策空间：可见木桌、座椅、投影的历史人物插画、天花设备、参观儿童与实际照明；wb-02（Screenshot 2026-07-28 14:13:46，1380×1035 PNG）为另一真实展厅：可见多片竖向投影图像、实体文物展柜、低位阅读／互动台、梁柱与参观者。两图均有镜面／玻璃反射、地面与构件接缝、现场灯光与人体尺度，且叙事媒介不同，不是外观、活动图、YouTube封面或渲染。后续从这两张G&A项目图中优先选用，保留设计方页面作为来源与使用边界。",
+    "audit_date": "2026-08-24"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "content": {
+    "id": "SA-NMSA-01",
+    "title": "National Museum of Saudi Arabia — Eight Gallery Narrative of the Peninsula",
+    "subtitle": "National Museum of Saudi Arabia｜Riyadh, Saudi Arabia",
+    "year": "1999完成；馆方当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "在八个主题展厅中，以器物、场景重构、图形、双语导视和互动媒介讲述阿拉伯半岛从自然形成到伊斯兰与当代国家的历史。",
+    "insight": "文明叙事的规模越大，越需要在器物证据和场景想象之间保持透明边界，避免重构压过历史来源。",
+    "tags": [
+      "阿拉伯史",
+      "器物展柜",
+      "场景重构",
+      "双语导视"
+    ],
+    "route": [
+      "自然与早期定居",
+      "史前与贸易",
+      "前伊斯兰社会",
+      "伊斯兰形成",
+      "现代国家与遗产"
+    ],
+    "images": [
+      "sa-nmsa-01-01.jpg",
+      "sa-nmsa-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/sa-nmsa-01-01_d97c9c29.jpg",
+      "/manus-storage/sa-nmsa-01-02_768f0128.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：器物证据与展柜阅读。来源：R&P Design公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：伊斯兰历史场景重构。来源：R&P Design公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：自然与早期定居—史前与贸易—前伊斯兰社会—伊斯兰形成—现代国家与遗产。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以环境和考古证据建立长时段基础，再进入宗教、城市与当代国家，使宏大时间线有可追溯的物质节点。 本案的核心命题是：文明叙事的规模越大，越需要在器物证据和场景想象之间保持透明边界，避免重构压过历史来源。"
+      ],
+      [
+        "展项设计",
+        "器物柜、复原建筑、地图、影片和互动台需分别标注原件、复制、推演与解释；关键年代应在每一场景重设。"
+      ],
+      [
+        "布展与图文",
+        "大尺度拱券与色块可支撑方向，但双语文字要避免被装饰背景吞没；场景区应保留近读物件的稳定照度。"
+      ],
+      [
+        "研究判断",
+        "此案提醒我们，宏大文明展的说服力不在于空间壮观，而在于观众能否辨认每项叙述的证据等级。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://designrp.com/projects/national-museum-of-saudi-arabia-2/",
+      "https://engage.moc.gov.sa/national_museum/contact-us/",
+      "https://designrp.com/wp-content/uploads/2019/06/96134PL002.jpg",
+      "https://designrp.com/wp-content/uploads/2019/06/96134PL095-1.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "SA-NMSA-01",
+    "title": "National Museum of Saudi Arabia — Eight Gallery Narrative of the Peninsula",
+    "museum": "National Museum of Saudi Arabia",
+    "location": "Riyadh, Saudi Arabia",
+    "region": "中东",
+    "status": "accepted-for-20-case-pool",
+    "studio": "R&P Design / Reich & Petch（展陈、图形与导视设计）；Lord Cultural Resources（诠释规划）；Moriyama & Teshima（建筑）",
+    "year": "1999完成；馆方当前运营",
+    "design_source": "https://designrp.com/projects/national-museum-of-saudi-arabia-2/",
+    "museum_source": "https://engage.moc.gov.sa/national_museum/contact-us/",
+    "evidence": "DesignRP项目页列出102,258平方英尺、八个常设展廊与一间临展厅的展陈、图形和导视设计，说明其将分散的地区收藏整合为从“living earth”、文明发展、伊斯兰诞生至现代沙特的叙事，采用主题场景重构、对象陈列、互动技术、双语路径和历史符号导视；并明确Lord Cultural Resources负责诠释规划。沙特文化部国家博物馆现行页面确认有六个永久展厅、两间临展厅、免费常设展参观、学校团体、导览咨询、无障碍服务和馆内拍摄政策，且可为媒体申请展览高分辨图。",
+    "image_assessment": "2026-08-24人工审阅DesignRP来源图：图01为已建成器物展柜段，可见玻璃反射、实际金属器、标签、顶光和展柜接缝；图04为不同的历史场景重构／伊斯兰叙事段，可见拱券、复制构件、双侧展柜、双语图文与参观者。两图均非外观或渲染，分辨率1024×681与2000×1388，覆盖对象证据与场景化历史两种解释机制。",
+    "image_source_1": "https://designrp.com/wp-content/uploads/2019/06/96134PL002.jpg",
+    "image_source_2": "https://designrp.com/wp-content/uploads/2019/06/96134PL095-1.jpg",
+    "next_gate": "2026-08-24媒体阶段已下载DesignRP原始图组并制成联系表复核。最终图1（2048×1361）为照明玻璃展柜中的金属器、陶器与对象标签，构成器物证据阅读段；最终图2（4160×3120）为拱券、砖砌复制构件、展柜与历史展示装置共同组成的场景化历史空间。二图均为真实建成室内、叙事机制不同，非外观、渲染或孤立装饰；待全批RGB JPEG规范化、Pillow重开、上传与最终manifest写入。",
+    "audit_date": "2026-08-24"
+  }
+}

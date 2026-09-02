@@ -1,0 +1,89 @@
+{
+  "content": {
+    "id": "UK-MOTH-01",
+    "title": "Museum of the Home — Rooms Through Time: Real Rooms",
+    "subtitle": "Museum of the Home｜London, United Kingdom",
+    "year": "2024新Rooms Through Time开放；馆方当前持续开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以1630—2049的住房时间序列为总结构，把1913犹太租户公寓与2024英越家庭住宅等“真实房间”并置，使迁徙、身份、劳动与家庭生活在同一尺度上被观看。",
+    "insight": "家居史展的价值不在复原一套“典型房间”，而在让多种家庭经验拥有并列的作者位置，并明确哪些陈设来自物件、口述、共同研究与当代诠释。",
+    "tags": [
+      "家庭史",
+      "迁徙与身份",
+      "社区共创",
+      "数字互动"
+    ],
+    "route": [
+      "跨世纪住房序列导入",
+      "不同时代的真实房间",
+      "家务、食物与工作细节",
+      "迁徙／身份与社区声音",
+      "数字互动、环境音与反思"
+    ],
+    "images": [
+      "uk-moth-01-01.jpg",
+      "uk-moth-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/uk-moth-01-01_d8371d04.jpg",
+      "/manus-storage/uk-moth-01-02_a40169dc.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：1913犹太租户公寓的居住与安息日生活。来源：Museum of the Home官方摄影／Jaron James公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。",
+      "已建成展厅实景：2024英越家庭住宅的迁徙、劳动与家居。来源：Museum of the Home官方摄影／Jaron James公开项目／馆方资源；图片版权归原权利人所有，仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：跨世纪住房序列导入—不同时代的真实房间—家务、食物与工作细节—迁徙／身份与社区声音—数字互动、环境音与反思。馆方或设计方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "该项目从跨世纪住房变化进入具体家庭，再通过饮食、劳动、物件和家庭故事让观众比较“家”的社会条件；时间不是单线进步史，而是迁徙、阶层与归属感交叉出现的框架。 本案的核心研究命题是：家居史展的价值不在复原一套“典型房间”，而在让多种家庭经验拥有并列的作者位置，并明确哪些陈设来自物件、口述、共同研究与当代诠释。"
+      ],
+      [
+        "展项设计",
+        "1913房间以餐桌、床铺、炊具、壁纸和宗教／生活细节呈现租住家庭的日常；2024房间以厨房、缝纫、家具、影像和家庭物件呈现当代跨国生活。两者依靠可进入的整体环境而非孤立展柜形成对照。"
+      ],
+      [
+        "布展与图文",
+        "房间复原应把可观看的历史证据、不可触摸的文物与可进入的环境边界清楚区分。跨房间的数字互动、声音和AR适合承担比较与补叙，但不应把社区作者的声音压缩为装饰性背景。"
+      ],
+      [
+        "研究判断",
+        "其可迁移原则是把“典型住宅”改写为具有来源与共同作者的具体生活世界：空间沉浸必须服务于家庭叙事的多样性与证据透明度。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://museumofthehome.org.uk/our-work/our-impact/real-rooms/",
+      "https://www.theartnewspaper.com/2024/02/02/museum-of-the-home-display%20changes",
+      "https://museumofthehome.org.uk/whats-on/rooms-through-time/",
+      "https://museumofthehome.org.uk/whats-on/rooms-through-time/a-tenement-flat-in-1913/",
+      "https://museumofthehome.org.uk/whats-on/rooms-through-time/a-terraced-house-in-2024/"
+    ]
+  },
+  "ledger": {
+    "id": "UK-MOTH-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "Museum of the Home — Rooms Through Time: Real Rooms",
+    "museum": "Museum of the Home",
+    "location": "London, United Kingdom",
+    "region": "西欧",
+    "studio": "Museum of the Home馆方策展团队与社区作者（2024七个新Rooms Through Time共同策展、研究、设计与诠释）；Typeone（与馆方策展人共同设计数字互动、环境音频、沉浸影片与AR体验）",
+    "year": "2024新Rooms Through Time开放；馆方当前持续开放",
+    "type": "叙事性常设／长期展",
+    "design_source": "https://museumofthehome.org.uk/our-work/our-impact/real-rooms/",
+    "design_source_secondary": "https://www.theartnewspaper.com/2024/02/02/museum-of-the-home-display%20changes",
+    "museum_source": "https://museumofthehome.org.uk/whats-on/rooms-through-time/",
+    "image_source_1": "https://museumofthehome.org.uk/whats-on/rooms-through-time/a-tenement-flat-in-1913/",
+    "image_source_2": "https://museumofthehome.org.uk/whats-on/rooms-through-time/a-terraced-house-in-2024/",
+    "image_url_1": "https://museumofthehome.org.uk/wp-content/uploads/2025/05/MotH_2024_A-Tenement-Flat-in-1913_Credit-Jaron-James_01.jpg",
+    "image_url_2": "https://museumofthehome.org.uk/wp-content/uploads/2025/05/MotH_2024_A-Terraced-House-in-2024_Credit_Jaron_James_01.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOTH-01/tenement-1913.jpg",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOTH-01/terraced-2024.jpg",
+    "evidence": "馆方Real Rooms页明确：2024年开放七个新Rooms Through Time，由馆方与社区伙伴共同策展，以个人故事、迁徙与身份重塑家庭史；当地社区、London Irish Centre与Interactive Research Studio参与研究、设计、共同策展与诠释。该页还明确Typeone与馆方策展人共同设计连接各房间的数字互动、复古家居设备音频网络、沉浸电影与AR体验。馆方常设展页确认从1630至2049的四世纪住房序列、早期中产家庭与新增多样生活方式，并列当前开放时段。馆方1913和2024分厅页分别以犹太租户家庭与Nguyễn英越家庭的居住／饮食／劳动史说明房间主题。",
+    "image_review_1": "人工审核通过：7919×5332的馆方Jaron James实拍图为1913 Jewish tenement flat完整建成复原室内；餐桌、床、壁纸、炊具、银器与可见参观地面共同构成东伦敦犹太社区与安息日生活段，不是建筑外观、旅游照或渲染。",
+    "image_review_2": "人工审核通过：7183×4793的馆方Jaron James实拍图为2024 British Vietnamese terraced house完整建成复原室内；厨房、缝纫机、家庭照片／家具、屏幕与越南家庭生活物件构成与1913公寓不同的当代迁徙与家庭劳动叙事段，不是效果图或单一设备图。",
+    "audit_note": "合格：馆方明确共同策展、研究、设计和诠释责任，Typeone承担跨房间数字互动与沉浸媒体设计；常设状态、清晰跨世纪叙事、两张具摄影师署名的官方完成实拍和不同叙事段均已闭合。"
+  }
+}

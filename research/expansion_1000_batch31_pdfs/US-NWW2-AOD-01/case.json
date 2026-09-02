@@ -1,0 +1,85 @@
+{
+  "content": {
+    "id": "US-NWW2-AOD-01",
+    "title": "The National WWII Museum — The Arsenal of Democracy",
+    "subtitle": "The National WWII Museum｜New Orleans, Louisiana, USA",
+    "year": "2017常设展开放；馆方2026当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以九个本土动员展厅讲述工厂、创新、公民努力和家庭日常如何支撑二战；复原工厂、车辆构件、报亭、军营和1942年家庭将工业生产与社会生活编为同一条战争后方叙事。",
+    "insight": "战争博物馆中的“胜利生产”若只展示产量与装备，容易抹除劳动、配给和家庭选择；制造与厨房两个尺度必须彼此解释，才能让动员的社会成本被看见。",
+    "tags": [
+      "二战后方",
+      "工业动员",
+      "家庭配给",
+      "场景复原",
+      "物件与图形"
+    ],
+    "route": [
+      "本土动员导入",
+      "制造业扩张与生产数据",
+      "工厂车辆与工人经验",
+      "公共传播与社会回应",
+      "家庭配给与战后回望"
+    ],
+    "images": [
+      "us-nww2-aod-01-01.jpg",
+      "us-nww2-aod-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-nww2-aod-01-01_286b42f6.jpg",
+      "/manus-storage/us-nww2-aod-01-02_659dcacd.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Manufacturing Victory工业动员与车辆构件。来源：The National WWII Museum公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：War Affects Every Home家庭配给与日常生活。来源：The National WWII Museum公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：本土动员导入—制造业扩张与生产数据—工厂车辆与工人经验—公共传播与社会回应—家庭配给与战后回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以“战争怎样在本土被维持”作为问题，先进入制造与产量，再经过公共传播与社会回应，最后落到家庭厨房和消费品；工业史因此被连接到日常选择。 本案的核心命题是：战争博物馆中的“胜利生产”若只展示产量与装备，容易抹除劳动、配给和家庭选择；制造与厨房两个尺度必须彼此解释，才能让动员的社会成本被看见。"
+      ],
+      [
+        "展项设计",
+        "车辆底盘、轮胎／履带构件、厂景档案和斜台解释制造流程，厨房复原、家电与消费品解释家庭侧的资源约束；复原场景必须明确哪些为原件、复制和情境化制作。"
+      ],
+      [
+        "布展与图文",
+        "大型机械需保留环行观看、近读标签和安全距离；工厂高信息密度区应配置短读与深读两层，家庭复原区则需避免仅以怀旧陈设替代配给、性别劳动和物资分配的解释。"
+      ],
+      [
+        "研究判断",
+        "该案最值得借鉴的是跨越“工厂—家庭”的尺度切换：当生产对象与厨房物资相互参照，国家动员才能从统计叙事转化为可感的社会结构。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://gallagherdesign.com/project/wwii/",
+      "https://www.nationalww2museum.org/visit/exhibits",
+      "https://solomongroup.com/projects/the-national-wwii-museum",
+      "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9561.jpg?h=fa1c963e",
+      "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9503.jpg?h=fa1c963e"
+    ]
+  },
+  "ledger": {
+    "id": "US-NWW2-AOD-01",
+    "title": "The National WWII Museum — The Arsenal of Democracy",
+    "museum": "The National WWII Museum",
+    "location": "New Orleans, Louisiana, USA",
+    "region": "北美洲",
+    "status": "accepted-for-5-case-pool",
+    "studio": "G&A Strategy and Design（内容开发、体验设计、战略规划及设计愿景）；Solomon Group（九个展厅的技术统筹、视听／控制、场景制作、图形与安装）；1220 Exhibits、Lexington Design + Fabrication、The Taylor Group（制作）；馆方策展团队（长期叙事与运营）",
+    "year": "2017常设展开放；馆方2026当前开放",
+    "design_source": "https://gallagherdesign.com/project/wwii/",
+    "production_source": "https://solomongroup.com/projects/the-national-wwii-museum",
+    "museum_source": "https://www.nationalww2museum.org/visit/exhibits",
+    "evidence": "G&A原始项目页说明其将博物馆的观众、故事线、藏品与技术全面重构，并列内容开发、体验设计和战略规划及多家制作、媒体、灯光协作方。Solomon Group原始制作页明确《Arsenal of Democracy》讲述战争如何在本土被工厂、创新与公民努力支撑，九个展厅以文物、叙事和氛围场景组织，复原报亭、工厂车间、军营和1942年家庭，并承担51个展柜、400余灯光提示、图形、视听和全程安装。馆方当前展览页列该常设展的Manufacturing Victory、America Responds、War Affects Every Home等章节，明确展馆当日09:00–17:00开放并提供票务。",
+    "image_assessment": "2026-08-26人工审阅两张馆方永久展原图：Manufacturing Victory（960×700）为真实建成室内，完整保留军用车辆底盘、车轮／履带构件、制造流程图文、档案厂景和解说斜台，呈现工业动员的物件—生产叙事。War Affects Every Home（960×700）为同一常设展的真实复原厨房室内，含1940年代灶具、冰箱、橱柜、器皿、消费品与厨房平面，呈现配给与家庭日常的社会动员。两图源自馆方页面的具体章节延迟加载文件，内容、空间、物件和叙事段均不同；不是效果图、建筑外观、旅游图或单一设备图。",
+    "image_source_1": "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9561.jpg?h=fa1c963e",
+    "image_source_2": "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9503.jpg?h=fa1c963e",
+    "media_locator": "馆方章节页：https://www.nationalww2museum.org/visit/exhibits；Manufacturing Victory：https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9561.jpg?h=fa1c963e；America Responds：https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/america_responds_theater_marquee_2.jpg?h=fa1c963e；War Affects Every Home：https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9503.jpg?h=fa1c963e。",
+    "audit_date": "2026-08-26"
+  }
+}

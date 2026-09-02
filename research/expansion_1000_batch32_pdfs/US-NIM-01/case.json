@@ -1,0 +1,85 @@
+{
+  "content": {
+    "id": "US-NIM-01",
+    "title": "National Infantry Museum — The Last 100 Yards and Chronological Infantry Galleries",
+    "subtitle": "National Infantry Museum & Soldier Center｜Columbus, Georgia, USA",
+    "year": "2009开放；馆方当前展览与参观入口可访问",
+    "type": "叙事性常设／长期展",
+    "brief": "以步兵价值观、历史主廊与“The Last 100 Yards”沉浸段并置，让美国步兵史同时呈现制度时间、士兵身体与战场地形。",
+    "insight": "军事史展如果只依赖武器与胜利节点，容易将“步兵”抽象为战术符号；个人处境、训练、地形与集体价值必须同时被看见。",
+    "tags": [
+      "军事社会史",
+      "沉浸战场",
+      "对象与图文",
+      "士兵经验"
+    ],
+    "route": [
+      "步兵身份与价值导入",
+      "革命至近现代的历史主廊",
+      "装备、人物与战术阅读",
+      "The Last 100 Yards场景化战场",
+      "纪念与离场反思"
+    ],
+    "images": [
+      "us-nim-01-01.jpg",
+      "us-nim-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-nim-01-01_30d2f776.jpg",
+      "/manus-storage/us-nim-01-02_86861b6e.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：步兵价值与军事史主展廊。来源：VernerJohnson项目页公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：The Last 100 Yards二战岩体沉浸环境。来源：VernerJohnson项目页公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：步兵身份与价值导入—革命至近现代的历史主廊—装备、人物与战术阅读—The Last 100 Yards场景化战场—纪念与离场反思。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "先以步兵的身份与组织价值建立观看框架，再以历史主廊校准年代和对象，随后把观众带入特定战场环境，使“最后一百码”成为具体身体处境而非视觉高潮。 本案的核心命题是：军事史展如果只依赖武器与胜利节点，容易将“步兵”抽象为战术符号；个人处境、训练、地形与集体价值必须同时被看见。"
+      ],
+      [
+        "展项设计",
+        "主廊中的照片、武器、人物与斜读台承担时间、物证与个人解释；岩体、人物模型、投影和可行走路径承担空间感。两者必须以年份、作战地点和对象出处互相锚定。"
+      ],
+      [
+        "布展与图文",
+        "长廊以高对比章节柱与连续图文保持方向，沉浸段用暗场和地形转场制造紧张；场景前应设低刺激绕行和短句导览，防止声光取代事实阅读。"
+      ],
+      [
+        "研究判断",
+        "其可迁移原则是让战场沉浸服从历史证据：每一段地形、人物和装备都要回到可核对的年代、地点与士兵经验。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://sitara.systems/experiential-design-index/projects/national-infantry-museum-opening-exhibits/",
+      "https://vernerjohnson.com/portfolio/national-infantry-museum/",
+      "https://www.availablelight.com/work/national-infantry-museum",
+      "https://nationalinfantrymuseum.org/exhibits/",
+      "https://vernerjohnson.com/wp-content/uploads/2021/02/xfs_1600x1200_s80_exhibit8-0.jpg",
+      "https://vernerjohnson.com/wp-content/uploads/2021/02/xfs_1600x1200_s80_100yd9-0.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "US-NIM-01",
+    "title": "National Infantry Museum — The Last 100 Yards and Chronological Infantry Galleries",
+    "museum": "National Infantry Museum & Soldier Center",
+    "location": "Columbus, Georgia, USA",
+    "region": "北美洲",
+    "status": "accepted-for-5-case-pool",
+    "studio": "Christopher Chadbourne & Associates（65,000平方英尺开幕常设展的整体Exhibit Design）；VernerJohnson（新馆建筑与博物馆总体规划，统筹工程与专业顾问）；Donna Lawrence Productions（The Last 100 Yards及多项沉浸与视听内容制作）；Available Light（展陈照明、特效灯光与控制系统）",
+    "year": "2009开放；馆方当前展览与参观入口可访问",
+    "design_source": "https://sitara.systems/experiential-design-index/projects/national-infantry-museum-opening-exhibits/",
+    "design_source_secondary": "https://vernerjohnson.com/portfolio/national-infantry-museum/",
+    "production_source": "https://www.availablelight.com/work/national-infantry-museum",
+    "museum_source": "https://nationalinfantrymuseum.org/exhibits/",
+    "evidence": "Sitara Systems的专业展陈项目索引将2009开幕、190,000平方英尺的新馆开幕展明确列为Christopher Chadbourne & Associates的Exhibit Design，并列Available Light照明设计与Donna Lawrence Productions内容制作；后者负责The Last 100 Yards沉浸式入口、闭馆剧场、四个沉浸环境、四个小剧场、五支画廊影片、动画地图和三项音频。Available Light原始项目页将项目列为新建美国步兵博物馆的展陈照明、特效灯光和控制系统设计，并明确合作设计方为Christopher Chadbourne & Associates，署名Jay Rosenblatt、Chris Chadbourne和Valerie Taylor摄影。VernerJohnson原始项目页进一步说明65,000平方英尺互动军事史展、The Infantry Owns the Last 100 Yards主讯息，以及沿100码上升路径穿越革命时期至海湾战争的234年历史。馆方展览页当前列29,152件藏品、沉浸式步入体验、互动终端、触发式视频、纪念设施和参观入口，构成持续运营与叙事线索。",
+    "image_assessment": "2026-08-26人工审阅VernerJohnson项目页原始完成摄影。exhibit-8（1600×1045）为真实建成的主展历史廊：可见“Infantry Values / Integrity”章节柱、连贯图文墙、历史照片、对象／武器展示、斜读台、环形动线和展场照明，非入口或建筑图。last-100-yards-9（1600×1008）为不同的The Last 100 Yards沉浸式战史环境：可见“Recapturing the Rock / World War II”标题板、岩体地形、人物模型、行军／攀登情境、投影／场景墙与可通行路径。两图均来自同一设计方原始项目页，主题、空间、媒介与叙事段不同；不是效果图、外观、旅游图或单设备特写。",
+    "image_source_1": "https://vernerjohnson.com/wp-content/uploads/2021/02/xfs_1600x1200_s80_exhibit8-0.jpg",
+    "image_source_2": "https://vernerjohnson.com/wp-content/uploads/2021/02/xfs_1600x1200_s80_100yd9-0.jpg",
+    "audit_date": "2026-08-26"
+  }
+}

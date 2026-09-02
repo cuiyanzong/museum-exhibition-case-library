@@ -1,0 +1,82 @@
+{
+  "content": {
+    "id": "HR-SAM-01",
+    "title": "Alka Museum — Three Centuries of the Sinj Chivalric Tournament",
+    "subtitle": "Muzej Sinjske alke / Alka Museum｜Sinj, Croatia",
+    "year": "2015开馆；馆方2026当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以1715年辛伊战役、阿尔卡骑士竞赛、冠军、服装、马具和地方社区记忆连接军事史、仪式与今日身份。",
+    "insight": "活态仪式博物馆需要同时呈现传统的情感价值与历史情境，避免把竞赛视觉化为脱离战争、宗教和地方社会的表演。",
+    "tags": [
+      "活态遗产",
+      "战役记忆",
+      "仪式竞赛",
+      "社区档案"
+    ],
+    "route": [
+      "1715年战役导入",
+      "阿尔卡仪式形成",
+      "骑手、服装与马具",
+      "冠军与社区档案",
+      "当代传承"
+    ],
+    "images": [
+      "hr-sam-01-01.jpg",
+      "hr-sam-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/hr-sam-01-01_1d798c05.jpg",
+      "/manus-storage/hr-sam-01-02_beb239b4.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：1715年战役与仪式记忆。来源：AVC Group / Sinjska Alka Museum公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：三世纪竞赛、冠军与社区档案。来源：AVC Group / Sinjska Alka Museum公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：1715年战役导入—阿尔卡仪式形成—骑手、服装与马具—冠军与社区档案—当代传承。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以战役历史建立仪式的起点，再转向装备、人物和社区，使传统成为被持续实践与讨论的社会关系。 本案的核心命题是：活态仪式博物馆需要同时呈现传统的情感价值与历史情境，避免把竞赛视觉化为脱离战争、宗教和地方社会的表演。"
+      ],
+      [
+        "展项设计",
+        "场景复原、马具、服装、冠军资料、放映和互动阅读应区分历史物证、仪式表演与当代档案。"
+      ],
+      [
+        "布展与图文",
+        "大尺度战役场景适合远观，但文物和名字需要安静的近读区；影像声场不可覆盖仪式对象的细部标签。"
+      ],
+      [
+        "研究判断",
+        "活态遗产展的质量不在重复庆典气氛，而在说明传统如何被历史、组织和社区共同维系。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://alka.hr/en/muzej-sinjske-alke/",
+      "https://www.avc-group.com/assets/references/Alka__FillWzc0MSw1NTVd.jpg",
+      "https://www.avc-group.com/assets/gallery/Alka1__FillWzc0MCw1NTVd.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "HR-SAM-01",
+    "title": "Alka Museum — Three Centuries of the Sinj Chivalric Tournament",
+    "museum": "Muzej Sinjske alke / Alka Museum",
+    "location": "Sinj, Croatia",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Joško Belamarić、Ante Milošević（常设展概念及馆舍博物馆用途设计）；Nikolina Jelavić-Mitrović（展陈设计项目）；Ivo Maroević、Duško Dropulić（空间纲要与总体概念）；Ante Kuzmanić／Split University Faculty（建筑）",
+    "year": "2015开馆；馆方2026当前开放",
+    "museum_source": "https://alka.hr/en/muzej-sinjske-alke/",
+    "award_source": "https://www.europeanheritageawards.eu/winners/alka-sinj-museum/",
+    "material_source": "https://www.knauf-design.com/en/references/alka-museum-sinji/",
+    "evidence": "馆方明确列出永久展概念、博物馆用途空间、展陈设计项目和建筑各自负责人；常设展将制服、武器、装备、数字档案、影片和互动内容整合为1715年起的Sinj Alka历史与地方记忆，并以‘首届竞赛至最新冠军’的三世纪时间线组织。Europa Nostra资料交叉确认其为2015开放、全年可访问的互动多媒体展，说明骑士竞赛规则、社区仪式、数字档案和教育机制。馆方2026页面列周一至周六08:00—16:00开放，并含2026近期机构活动，形成运营闭环。Knauf项目页说明20×7米历史战役墙面重构及室内声学材料应用。全库检索未见同馆。",
+    "image_assessment": "2026-08-24馆方官网页面在浏览器中载入失败的缩略图，但经DOM审计获得官方原图地址：Muzej-sinjska-alke.jpg，以及muzej-1-o-muzeju-1至5.jpg五张馆方媒体。已人工审核：muzej-1-o-muzeju-1.jpg为馆舍及庭院的鸟瞰外观，明确排除；muzej-1-o-muzeju-2.jpg为制服、马鞍及器物的室内陈列，但陈列风格、文字标牌与旧照片表明无法可靠确认其属于2015后、由上述设计团队完成的完整常设展，不能作为最终图。Knauf Design原始图组中cutout_731905与cutout_731906均为壁画安装施工阶段，明确排除。其后人工审核总包方AVC Group原始项目页：主图Alka__Fill...为真实完成的历史／仪式段，呈现全尺寸骑士与马匹队列、20×7米战役壁画、互动信息屏与展厅灯光；Alka1__Fill...为不同的影院／影像叙事段，呈现阶梯座椅、宽幅影片投影与观众使用情景。两图皆由明确声明‘design, installation and content delivery’的总包方发布，均为完成后的室内实景，非外观、渲染、施工照或孤立物件特写。",
+    "image_source_1": "https://www.avc-group.com/assets/references/Alka__FillWzc0MSw1NTVd.jpg",
+    "image_source_2": "https://www.avc-group.com/assets/gallery/Alka1__FillWzc0MCw1NTVd.jpg",
+    "next_gate": "候选池阶段通过；生产前下载两图并以Pillow重开、尺寸与RGB JPEG检查，必要时由AVC同源图组选择更高像素成片替代；同时再次核验馆方周一至周六开放时段。",
+    "audit_date": "2026-08-24"
+  }
+}

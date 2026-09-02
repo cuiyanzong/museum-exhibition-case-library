@@ -1,0 +1,608 @@
+{
+  "generatedAt": "2026-08-21T04:45:33.001Z",
+  "results": [
+    {
+      "id": "HK-T01",
+      "ok": true,
+      "file": "hk-t01.jpg",
+      "url": "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Quantum_Computer_Closeup.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 451684,
+      "source": "https://hk.science.museum/en/web/scm/exhibition/itg.html"
+    },
+    {
+      "id": "HK-T02",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.science.museum/en/web/scm/exhibition/ltg.html"
+    },
+    {
+      "id": "HK-T03",
+      "ok": true,
+      "file": "hk-t03.png",
+      "url": "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/Exhibition-Highlight/Animatronic_TRex_Paul.png",
+      "contentType": "image/png",
+      "bytes": 1178420,
+      "source": "https://hk.science.museum/en/web/scm/exhibition/pg.html"
+    },
+    {
+      "id": "HK-T04",
+      "ok": true,
+      "file": "hk-t04.jpg",
+      "url": "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Earth-Science-Gallery/1.Mineral-Collection.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 484311,
+      "source": "https://hk.science.museum/en/web/scm/exhibition/esg.html"
+    },
+    {
+      "id": "HK-T05",
+      "ok": true,
+      "file": "hk-t05.jpg",
+      "url": "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Biodiversity-Gallery/2.African-Savanna.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 675919,
+      "source": "https://hk.science.museum/en/web/scm/exhibition/bdg.html"
+    },
+    {
+      "id": "HK-T06",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.science.museum/en/web/scm/exhibition/em.html"
+    },
+    {
+      "id": "HK-T07",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.science.museum/en/web/scm/exhibition/ScM35A.html"
+    },
+    {
+      "id": "HK-T08",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.space.museum/en/web/spm/exhibition.html"
+    },
+    {
+      "id": "HK-T09",
+      "ok": true,
+      "file": "hk-t09.jpg",
+      "url": "https://hk.history.museum/image/Hong-Kong-Musuem-of-History/Home/edutainment.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 24592,
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/hong_kong_railway_museum.html"
+    },
+    {
+      "id": "HK-T10",
+      "ok": true,
+      "file": "hk-t10.jpg",
+      "url": "https://hk.history.museum/image/Hong-Kong-Musuem-of-History/Home/edutainment.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 24592,
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/sheung_yiu_folk_museum.html"
+    },
+    {
+      "id": "HK-T11",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/law_uk_folk_museum.html"
+    },
+    {
+      "id": "HK-T12",
+      "ok": true,
+      "file": "hk-t12.jpg",
+      "url": "https://hk.history.museum/image/Hong-Kong-Musuem-of-History/Home/edutainment.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 24592,
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/fireboat_alexander_grantham_exhibition_gallery.html"
+    },
+    {
+      "id": "HK-T13",
+      "ok": true,
+      "file": "hk-t13.jpg",
+      "url": "https://hk.history.museum/image/image_gallery-00c4a7d4-77e0-4802-927b-51ec7d772b59.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 82238,
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/dr_sun_yat_sen_museum.html"
+    },
+    {
+      "id": "HK-T14",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hkmaritimemuseum.org/"
+    },
+    {
+      "id": "HK-T15",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.lcsd.gov.hk/CE/Museum/Coastal/en_US/web/mcd/home.html"
+    },
+    {
+      "id": "HK-T16",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.heritage.museum/en/"
+    },
+    {
+      "id": "HK-T17",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.heritage.museum/en/"
+    },
+    {
+      "id": "HK-T18",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hk.heritage.museum/en/"
+    },
+    {
+      "id": "TW-T01",
+      "ok": true,
+      "file": "tw-t01.png",
+      "url": "https://file.moc.gov.tw/001/Upload/528/relpic/13185/260394/a2f3aca2-b4a5-43ce-b83e-3b33fbf73f39.png",
+      "contentType": "image/x-png",
+      "bytes": 330102,
+      "source": "https://www.nmth.gov.tw/"
+    },
+    {
+      "id": "TW-T02",
+      "ok": true,
+      "file": "tw-t02.jpg",
+      "url": "https://file.moc.gov.tw/001/Upload/497/relpic/11717/260541/3d115141-d969-41f5-b965-61c6c329b59c.jpg",
+      "contentType": "image/pjpeg",
+      "bytes": 362671,
+      "source": "https://www.nmp.gov.tw/"
+    },
+    {
+      "id": "TW-T03",
+      "ok": true,
+      "file": "tw-t03.jpg",
+      "url": "https://file.moc.gov.tw/001/Upload/497/relpic/11717/260541/3d115141-d969-41f5-b965-61c6c329b59c.jpg",
+      "contentType": "image/pjpeg",
+      "bytes": 362671,
+      "source": "https://www.nmp.gov.tw/"
+    },
+    {
+      "id": "TW-T04",
+      "ok": true,
+      "file": "tw-t04.png",
+      "url": "https://www.nmmst.gov.tw/other/B20260730110937_c.png",
+      "contentType": "image/png",
+      "bytes": 144250,
+      "source": "https://www.nmmst.gov.tw/"
+    },
+    {
+      "id": "TW-T05",
+      "ok": true,
+      "file": "tw-t05.jpg",
+      "url": "https://www.nmmst.gov.tw/other/B20260626171229_c.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 157888,
+      "source": "https://www.nmmst.gov.tw/"
+    },
+    {
+      "id": "TW-T06",
+      "ok": true,
+      "file": "tw-t06.png",
+      "url": "https://www.nmmst.gov.tw/other/B20260730110937_c.png",
+      "contentType": "image/png",
+      "bytes": 144250,
+      "source": "https://www.nmmst.gov.tw/"
+    },
+    {
+      "id": "TW-T07",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.nstm.gov.tw/"
+    },
+    {
+      "id": "TW-T08",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.nstm.gov.tw/"
+    },
+    {
+      "id": "TW-T09",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.nstm.gov.tw/"
+    },
+    {
+      "id": "TW-T10",
+      "ok": true,
+      "file": "tw-t10.jpg",
+      "url": "https://file.moc.gov.tw/001/Upload/520/relpic/14313/260399/5c3d6078-e8a0-4e2a-aa19-52af8a13c39b.jpg",
+      "contentType": "image/pjpeg",
+      "bytes": 193342,
+      "source": "https://www.ntm.gov.tw/"
+    },
+    {
+      "id": "TW-T11",
+      "ok": true,
+      "file": "tw-t11.jpg",
+      "url": "https://file.moc.gov.tw/001/Upload/505/relpic/12882/259682/ece03c79-6d51-4ffe-b85d-ac0c7c1c5362.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 405975,
+      "source": "https://www.nrm.gov.tw/"
+    },
+    {
+      "id": "TW-T12",
+      "ok": true,
+      "file": "tw-t12.png",
+      "url": "https://file.moc.gov.tw/001/Upload/504/relpic/13103/253782/ce09b22e-1dfd-4625-99fd-3765c7378244@710x470.png",
+      "contentType": "image/x-png",
+      "bytes": 117018,
+      "source": "https://www.nmtl.gov.tw/"
+    },
+    {
+      "id": "TW-T13",
+      "ok": true,
+      "file": "tw-t13.png",
+      "url": "https://www.nhrm.gov.tw/Websites/nhrm/images/weather/01.png",
+      "contentType": "image/png",
+      "bytes": 22539,
+      "source": "https://www.nhrm.gov.tw/"
+    },
+    {
+      "id": "TW-T14",
+      "ok": true,
+      "file": "tw-t14.jpg",
+      "url": "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260507-3.jpg_955818452.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 92334,
+      "source": "https://www.nmns.edu.tw/"
+    },
+    {
+      "id": "TW-T15",
+      "ok": true,
+      "file": "tw-t15.jpg",
+      "url": "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260507-1.jpg_754156955.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 390903,
+      "source": "https://www.nmns.edu.tw/"
+    },
+    {
+      "id": "TW-T16",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://hamasen.khm.gov.tw/eng/"
+    },
+    {
+      "id": "MO-T01",
+      "ok": true,
+      "file": "mo-t01.png",
+      "url": "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+      "contentType": "image/png",
+      "bytes": 66142,
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97128"
+    },
+    {
+      "id": "MO-T02",
+      "ok": true,
+      "file": "mo-t02.png",
+      "url": "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+      "contentType": "image/png",
+      "bytes": 66142,
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97095"
+    },
+    {
+      "id": "MO-T03",
+      "ok": true,
+      "file": "mo-t03.jpg",
+      "url": "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/96896c0a-68d9-4579-9bfb-fb809b7f4161.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 224733,
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97055"
+    },
+    {
+      "id": "MO-T04",
+      "ok": true,
+      "file": "mo-t04.png",
+      "url": "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+      "contentType": "image/png",
+      "bytes": 66142,
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97003"
+    },
+    {
+      "id": "MO-T05",
+      "ok": true,
+      "file": "mo-t05.png",
+      "url": "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+      "contentType": "image/png",
+      "bytes": 66142,
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/96951"
+    },
+    {
+      "id": "MO-T06",
+      "ok": true,
+      "file": "mo-t06.jpg",
+      "url": "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/525e7de7-ab74-4c10-bdfe-bfc7f119bc2a.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 146603,
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/96922"
+    },
+    {
+      "id": "MO-T07",
+      "ok": true,
+      "file": "mo-t07.png",
+      "url": "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+      "contentType": "image/png",
+      "bytes": 66142,
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/96862"
+    },
+    {
+      "id": "MO-T08",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.macaotourism.gov.mo/en/sightseeing/museums-and-galleries/maritime-museum"
+    },
+    {
+      "id": "SE-T01",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/sg-history-gallery"
+    },
+    {
+      "id": "SE-T02",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/story-of-the-forest"
+    },
+    {
+      "id": "SE-T03",
+      "ok": true,
+      "file": "se-t03.jpg",
+      "url": "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/3fd23515-42d1-4169-b0f9-f7f2470a7842.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 53273,
+      "source": "https://www.nhb.gov.sg/acm/our-collections/collection-highlights/tang-shipwreck"
+    },
+    {
+      "id": "SE-T04",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.museumnasional.or.id/"
+    },
+    {
+      "id": "SE-T05",
+      "ok": true,
+      "file": "se-t05.png",
+      "url": "https://philhistoricsites.nhcp.gov.ph/wp-content/themes/iGov/images/headers/circle.png",
+      "contentType": "image/png",
+      "bytes": 33848,
+      "source": "https://philhistoricsites.nhcp.gov.ph/national-museum-of-anthropology/"
+    },
+    {
+      "id": "SE-T06",
+      "ok": true,
+      "file": "se-t06.jpg",
+      "url": "https://museumsiam.org//upload/upload_banner_files/welcome/1781495748_623.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 217527,
+      "source": "https://www.museumsiam.org/"
+    },
+    {
+      "id": "SE-T07",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://vme.org.vn/"
+    },
+    {
+      "id": "NA-T01",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://americanhistory.si.edu/explore/exhibitions/many-voices"
+    },
+    {
+      "id": "NA-T02",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://americanindian.si.edu/exhibitions/our-universes"
+    },
+    {
+      "id": "NA-T03",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://humanorigins.si.edu/education/introduction-human-evolution"
+    },
+    {
+      "id": "NA-T04",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://naturalhistory.si.edu/exhibits/david-h-koch-hall-fossils-deep-time"
+    },
+    {
+      "id": "NA-T05",
+      "ok": true,
+      "file": "na-t05.jpg",
+      "url": "https://www.historymuseum.ca/wp-content/uploads/2026/03/history-hall-img2017-0341-0010-dm-550x250-1.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 72207,
+      "source": "https://www.historymuseum.ca/exhibitions/first-peoples-hall"
+    },
+    {
+      "id": "NA-T06",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://pier21.ca/"
+    },
+    {
+      "id": "SA-T01",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://web.museodelamemoria.cl/"
+    },
+    {
+      "id": "SA-T02",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://museudoamanha.org.br/"
+    },
+    {
+      "id": "SA-T03",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.banrepcultural.org/bogota/museo-del-oro"
+    },
+    {
+      "id": "SA-T04",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://mnaahp.cultura.pe/"
+    },
+    {
+      "id": "EE-T01",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://polin.pl/en/exhibitions/core-exhibition"
+    },
+    {
+      "id": "EE-T02",
+      "ok": true,
+      "file": "ee-t02.jpg",
+      "url": "https://okupacijasmuzejs.lv/storage/003_8b1b083f-5146-454d-ae96-decd9c36dcf1/003_8b1b083f-5146-454d-ae96-decd9c36dcf1_homepage.hero.block_image.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 279571,
+      "source": "https://okupacijasmuzejs.lv/en"
+    },
+    {
+      "id": "EE-T03",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.terrorhaza.hu/en"
+    },
+    {
+      "id": "WE-T01",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.deutsches-museum.de/en/museum-island/exhibition/anthropocene"
+    },
+    {
+      "id": "WE-T02",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.sciencemuseum.org.uk/see-and-do/energy-hall"
+    },
+    {
+      "id": "WE-T03",
+      "ok": true,
+      "file": "we-t03.webp",
+      "url": "https://media.londonmuseum.org.uk/images/Pigeon-for-website-car.max-230x201.format-webp-lossless.webp",
+      "contentType": "image/webp",
+      "bytes": 38838,
+      "source": "https://www.londonmuseum.org.uk/"
+    },
+    {
+      "id": "WE-T04",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.mucem.org/en/collections"
+    },
+    {
+      "id": "WE-T05",
+      "ok": false,
+      "file": "",
+      "url": "",
+      "contentType": "",
+      "bytes": 0,
+      "source": "https://www.nms.ac.uk/national-museum-of-scotland/"
+    }
+  ]
+}

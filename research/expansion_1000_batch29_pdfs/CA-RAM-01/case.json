@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "CA-RAM-01",
+    "title": "Royal Alberta Museum — Human and Natural History Galleries",
+    "subtitle": "Royal Alberta Museum｜Edmonton, Alberta, Canada",
+    "year": "2018；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以阿尔伯塔自然环境、古生物与多元社会文化为框架，通过大型骨架、标本、文化物件、影像与阅读节点组织省级博物馆常设体验。",
+    "insight": "综合博物馆的叙事不必在自然史与人文史之间二选一；关键是让各类对象在同一地方问题中保持自身证据尺度。",
+    "tags": [
+      "自然与社会史",
+      "大型骨架",
+      "文化物件",
+      "多层阅读"
+    ],
+    "route": [
+      "阿尔伯塔概览",
+      "自然世界",
+      "古生物证据",
+      "人类文化与社区",
+      "当代地方回望"
+    ],
+    "images": [
+      "ca-ram-01-01.jpg",
+      "ca-ram-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/ca-ram-01-01_96a5cc35.jpg",
+      "/manus-storage/ca-ram-01-02_e376fb9c.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：自然史证据。来源：Royal Alberta Museum／项目来源公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：社会文化解释。来源：Royal Alberta Museum／项目来源公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：阿尔伯塔概览—自然世界—古生物证据—人类文化与社区—当代地方回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由地方生态进入古生物与人类社会，使自然变化和文化经验被理解为共享土地上的不同时间尺度。"
+      ],
+      [
+        "展项设计",
+        "骨架、标本、服饰、影像和展柜必须清楚区分科学分类、社区解释与美学展示，尤其需避免文化物件被自然史化。"
+      ],
+      [
+        "布展与图文",
+        "大型骨架提供远观锚点，环形影像和对象柜承担近读；座椅与低位说明应防止家庭流线只停留在打卡视角。"
+      ],
+      [
+        "研究判断",
+        "综合馆最难的是维持不同知识体系的尊严；好的空间组织让比较发生，而不把一类对象变成另一类对象的装饰。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "CA-RAM-01",
+    "title": "Royal Alberta Museum — Human and Natural History Galleries",
+    "museum": "Royal Alberta Museum",
+    "location": "Edmonton, Alberta, Canada",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Ralph Appelbaum Associates（人文史、自然史、First Nations画廊与公共空间的策划／展陈设计；媒介执行制作与全馆图形制作）；DIALOG（建筑）；Andrew Lee（项目摄影）",
+    "year": "2018；馆方当前开放",
+    "design_source": "https://raai.com/project/human-and-natural-history-galleries-royal-alberta-museum/",
+    "museum_source": "https://royalalbertamuseum.ca/visit/galleries",
+    "opening_source": "https://royalalbertamuseum.ca/visit/hours-admission",
+    "evidence": "RAA项目页明确其为Human History、Natural History、First Nations画廊及公共空间构思／开发展览设计，负责媒介执行制作和所有画廊的图形制作；在新设施中以5,300余件对象解释13,000年人类史与更长尺度自然史，强调对原住民与定居者历史的尊重与包容，并以Why We Are Strong的环形First Nations对象画廊和季节循环影像形成原住民当代生活叙事。项目面积50,000平方英尺，年份2018。馆方官方画廊页确认Natural和Human History halls以艾伯塔人民、动物和地景的数百万年故事为常设核心，且明确Treaty 6领地承认；官方参观页公布周二至周日开放、周四延长开放和在线购票入口。",
+    "image_assessment": "2026-08-24审阅RAA公开Human History、Natural History和First Nations内景：可见大型哺乳动物／自然史骨架或场景、对象玻璃柜、圆形文化对象空间、上方环带影像、墙面图文、实体台座与真实观众尺度。结构、展柜反射和照明细节显示为已建成展厅；后续从人文／First Nations与自然史段落各选一张，避免使用建筑外观。",
+    "next_gate": "媒体生产阶段下载两张Andrew Lee／RAA来源的不同常设画廊实景，记录摄影来源；以深时自然史—13,000年人类史—原住民当代生活与定居者历史的交错叙事完成五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

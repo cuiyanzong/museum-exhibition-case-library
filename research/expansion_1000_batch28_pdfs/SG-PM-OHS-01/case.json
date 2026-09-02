@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "SG-PM-OHS-01",
+    "title": "Peranakan Museum — Origins, Home and Style Permanent Galleries",
+    "subtitle": "Peranakan Museum｜新加坡",
+    "year": "2023；重设常设展",
+    "type": "土生华人跨文化身份、家庭与风格／对象叙事常设展",
+    "brief": "以Origins、Home、Style三层永久画廊和800余件对象，从跨文化起源、家庭空间与视觉风格三条线重读土生华人文化及其当代生活。",
+    "insight": "身份展可以由家庭物件进入，但应让社区访谈、示范和当代委任作品持续打破“传统风格样板间”的静止感。",
+    "tags": [
+      "Origins Home Style",
+      "家庭物质文化",
+      "定制展柜",
+      "社区访谈"
+    ],
+    "route": [
+      "Origins跨文化起源",
+      "Home家庭与礼俗",
+      "Style服饰与工艺",
+      "社区口述与示范",
+      "当代艺术委任",
+      "身份再定义"
+    ],
+    "images": [
+      "sg-pm-ohs-01.jpg",
+      "sg-pm-ohs-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/sg-pm-ohs-01_443d2bc0.jpg",
+      "/manus-storage/sg-pm-ohs-02_67582560.jpg"
+    ],
+    "captions": [
+      "Peranakan Museum的定制展柜、服饰与家居对象。来源：Meyvaert公开项目摄影。",
+      "Peranakan Museum内的家庭物件、灯光与展览路径。来源：Meyvaert公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：Origins跨文化起源—Home家庭与礼俗—Style服饰与工艺—社区口述与示范—当代艺术委任—身份再定义。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "三个维度把族群身份拆成形成、生活和表现方式，容纳跨区域联系与当代变化，而不是以单一装饰风格定义土生文化。"
+      ],
+      [
+        "展项设计",
+        "珠宝、服装、家居与纺织品需要以保育级展柜和灯光保护其材料差异；社区声音和示范可给物件补足使用语境。"
+      ],
+      [
+        "布展与图文",
+        "既有建筑中的白色楼梯、色彩化分区和暗场柜体形成节奏，委任艺术应作为解释层而非仅作拍照背景。"
+      ],
+      [
+        "研究判断",
+        "优秀的家庭物质文化展会让“美”回到关系、劳动和日常实践，而不是把对象凝固为身份标签。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "SG-PM-OHS-01",
+    "country": "新加坡",
+    "region": "东南亚",
+    "title": "Peranakan Museum — Origins, Home and Style Permanent Galleries",
+    "museum": "Peranakan Museum",
+    "location": "新加坡",
+    "year": "2023；重设常设展",
+    "type": "土生华人跨文化身份、家庭与风格／对象叙事常设展",
+    "studio": "Kingsmen Exhibits（展陈设计）／Meyvaert（34件定制展柜制作与安装）／Peranakan Museum／NHB（内容与馆方责任）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.meyvaert.com/en/references/custom/peranakan-museum",
+    "museum_source": "https://www.peranakanmuseum.nhb.gov.sg/about-us/about-peranakan-museum",
+    "evidence": "Peranakan Museum官方说明其于2023年2月完成近四年翻修后重新开放，超过800件物品分布于三层永久画廊，并以Origins、Home、Style三个身份维度组织叙事；社区访谈、录制示范和当代艺术委任将物质文化与当代生活并置。Meyvaert项目页明确Kingsmen Exhibits为设计方，并记录其为该重设项目制作及安装34件定制展柜，以保育级材料、光纤与轨道LED整合进既有建筑与定制场景结构。",
+    "image_credit": "Peranakan Museum／Meyvaert／Prestige Online与Indesign Live现场摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方、实施方与设计媒体图可见2023年展柜内的珠宝、服装、家居与纺织品、白色楼梯中的委任艺术、色彩化分区及真实访客；玻璃反射、灯光轨道和实体展具细节确认是已建成永久展，而非效果图或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "US-ARMY-REV-01",
+    "title": "American Revolution Museum at Yorktown — Permanent Galleries",
+    "subtitle": "American Revolution Museum at Yorktown｜约克镇，美国",
+    "year": "2016；常设展",
+    "type": "独立战争、社会史与国家形成／沉浸叙事常设展",
+    "brief": "以22,000平方英尺、近500件物品、沉浸场景、立体场景、互动展项与短片，呈现从帝国关系到革命、建国和美国人民的多层历史。",
+    "insight": "独立战争叙事只有将女性、被奴役与自由非裔、忠诚派等经验纳入结构，才能避免把建国历史处理为单一胜利故事。",
+    "tags": [
+      "五段结构",
+      "社会史",
+      "立体场景",
+      "沉浸剧场"
+    ],
+    "route": [
+      "British Empire and America",
+      "The Changing Relationship",
+      "Revolution",
+      "The New Nation",
+      "The American People",
+      "多重社会经验回望"
+    ],
+    "images": [
+      "us-army-rev-01.jpg",
+      "us-army-rev-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-army-rev-01_e5976f00.jpg",
+      "/manus-storage/us-army-rev-02_fb5c4c28.jpg"
+    ],
+    "captions": [
+      "American Revolution Museum永久画廊中的文字、肖像、展柜与路径。来源：Design and Production Incorporated公开摄影。",
+      "American Revolution Museum的战场场景、实体火炮与多层图文界面。来源：Design and Production Incorporated公开摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：British Empire and America—The Changing Relationship—Revolution—The New Nation—The American People—多重社会经验回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "五段结构让政治关系、战争、建国和社会经验连续展开，明确把不同立场和处境置于同一历史问题中。"
+      ],
+      [
+        "展项设计",
+        "炮车、实体物件柜、人物影像、战场立体场景和剧场各有证据与情感功能；场景化节点应指向具体史料和多方经验。"
+      ],
+      [
+        "布展与图文",
+        "红色章节墙、战场影像和静读展柜之间的明暗转换组织节奏，避免大屏和场景制作压过文本与对象。"
+      ],
+      [
+        "研究判断",
+        "国家形成题材需要的不是更强的凯旋语气，而是让革命理想与未被平等兑现的社会经验同时被看见。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "US-ARMY-REV-01",
+    "country": "美国",
+    "region": "北美洲",
+    "title": "American Revolution Museum at Yorktown — Permanent Galleries",
+    "museum": "American Revolution Museum at Yorktown",
+    "location": "约克镇，美国",
+    "year": "2016；常设展",
+    "type": "独立战争、社会史与国家形成／沉浸叙事常设展",
+    "studio": "Gallagher & Associates（展陈设计）／Design and Production Incorporated（展陈制作）／Cortina Productions（画廊媒体）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.jyfmuseums.org/about/news/media-resources/american-revolution-museum-at-yorktown-facts/permanent-galleries",
+    "museum_source": "https://www.jyfmuseums.org/about/news/media-resources/american-revolution-museum-at-yorktown-facts/permanent-galleries",
+    "evidence": "Jamestown-Yorktown Foundation公开说明其22,000平方英尺永久展于2016年10月15日开放，近500件物品、沉浸场景、立体场景、互动展项与短片共同叙述革命。从British Empire and America、The Changing Relationship、Revolution、The New Nation到The American People形成五段结构，并将女性、被奴役与自由非裔、忠诚派等社会经验放入战争与建国叙事。馆方明确Gallagher & Associates为展陈设计方，Design and Production为制作方，Cortina Productions负责媒体。",
+    "image_credit": "Jamestown-Yorktown Foundation／Design and Production Incorporated／Quatrefoil Associates现场摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：实施方、规划方和地方旅游机构图可见真实炮车、实体物件柜、战场立体场景、人物影像、沉浸剧场与观众；展柜、吊顶设备、地面材料及反射均表明为已建成永久展厅，而非渲染或外观图片。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

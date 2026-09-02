@@ -1,0 +1,76 @@
+{
+  "content": {
+    "id": "DE-JMB-01",
+    "title": "Jewish Life in Germany: Past & Present",
+    "subtitle": "Jewish Museum Berlin｜Berlin, Germany",
+    "year": "2020；馆方标示展期至2040，当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以Jewish Life in Germany: Past & Present核心展，在3,500平方米中将宗教、地方社群、历史断裂、当代文化与个体记忆组织为可穿行的多章节叙事。",
+    "insight": "民族与宗教史展要避免“连续传统”幻象；空间应同时呈现日常创造、历史灾难和当代多样性。",
+    "tags": [
+      "德国犹太史",
+      "多章节叙事",
+      "艺术装置",
+      "当代文化"
+    ],
+    "route": [
+      "Welcome Point",
+      "Ashkenaz与地方社群",
+      "宗教与Torah",
+      "Catastrophe历史断裂",
+      "音乐与当代文化",
+      "Mesubin对话回望"
+    ],
+    "images": [
+      "de-jmb-01-01.jpg",
+      "de-jmb-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/de-jmb-01-01_07df0422.jpg",
+      "/manus-storage/de-jmb-01-02_9a3c6fef.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Welcome Point／Torah。来源：Jewish Museum Berlin公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：DRUMMERRSSS影像导入。来源：Jewish Museum Berlin公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：Welcome Point—Ashkenaz与地方社群—宗教与Torah—Catastrophe历史断裂—音乐与当代文化—Mesubin对话回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由欢迎节点进入地方社群、宗教生活与历史断裂，再转向音乐和当代文化，使过去与现在在非线性但可定位的结构中相遇。"
+      ],
+      [
+        "展项设计",
+        "艺术装置、原始物件、档案图像、互动台和委任影像应标明各自的解释地位；艺术不能代替对灾难和日常生活的历史说明。"
+      ],
+      [
+        "布展与图文",
+        "白色曲面、悬挂构件和大型影像可建立章节气质，但需提供稳定的字体对比、座位和不依赖影像的阅读层。"
+      ],
+      [
+        "研究判断",
+        "多声部犹太史的空间价值在于让身份被理解为持续协商的生活，而非被固定为一条从灾难通往复兴的单线。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "DE-JMB-01",
+    "title": "Jewish Life in Germany: Past & Present",
+    "museum": "Jewish Museum Berlin",
+    "location": "Berlin, Germany",
+    "region": "西欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Arbeitsgemeinschaft chezweitz GmbH / Hella Rolfes Architects BDA（场景、展陈设计与展览建筑）；Jewish Museum Berlin 20余人策展团队；Framegrabber Medien（媒体策划）；Nüssli / Schreinerei Langner等展陈建造",
+    "year": "2020；馆方标示展期至2040，当前开放",
+    "design_source": "https://www.jmberlin.de/en/press-release-23-juin-2020",
+    "museum_source": "https://www.jmberlin.de/en/core-exhibition",
+    "image_source": "https://www.jmberlin.de/en/press-images-jmb-core-exhibition",
+    "evidence": "JMB馆方核心展页将《Jewish Life in Germany: Past & Present》列为2020年8月23日至2040年12月31日、位于Libeskind Building、面积超过3,500平方米的常设核心展，并提供现行开馆时间与预约入口。该页以中世纪至今的五个历史章节为骨架，插入Torah、祈祷与实践、音乐、家庭相册等主题室，并在After 1945与当代多声部影像中收束。官方新闻稿明确：展览由馆内20人团队开发，并由Arbeitsgemeinschaft chezweitz GmbH / Hella Rolfes Architekten BDA设计和建造；完整credits逐项列出场景／展陈／展览建筑、灯光、媒体、展柜和施工责任。官方媒体页提供大量授权新闻图及Roman März、Yves Sucksdorff摄影署名。",
+    "image_assessment": "2026-08-24审阅JMB官方press images文档：Torch／welcome tree、Music Room声学装置、Ashkenaz历史室、Family Album互动媒体、Catastrophe文件与悬浮金属墙、After 1945与Mesubin影像终章均为可辨识的已落地展厅，图注明确主题、摄影者和版权使用条件。后续优先从历史骨架（Ashkenaz或Catastrophe）与主题／当代媒介（Music Room或Family Album／Mesubin）各选一张；下载前遵守仅限新闻报道使用的版权边界，不把其泛化为商业再授权。",
+    "next_gate": "媒体生产阶段从JMB可下载新闻图中选取两张不同章节、保留完整摄影署名与机构版权；五层研究需强调“历史章—主题岛”交替而非单线年代史，并分别审视70%以上馆藏物件、VR／视听／互动与无障碍触摸模型／低位展柜的解释功能。",
+    "audit_date": "2026-08-24"
+  }
+}

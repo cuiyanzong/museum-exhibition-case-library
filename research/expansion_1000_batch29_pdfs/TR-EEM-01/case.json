@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "TR-EEM-01",
+    "title": "Ephesus Experience Museum",
+    "subtitle": "Ephesus Experience Museum / DEM Museums｜Selçuk, Türkiye",
+    "year": "2023；DEM Museums独立票务访问",
+    "type": "叙事性常设／长期展",
+    "brief": "在2,400平方米中以以弗所诞生、罗马时期繁盛与衰落构成时间叙事，并以360度影像、声音、灯光、气味和雾效组织体验。",
+    "insight": "沉浸式遗址馆的难点是让感官效果服务时间与空间关系，避免古城被压缩成无证据层级的视觉秀。",
+    "tags": [
+      "古城叙事",
+      "360度投影",
+      "感官媒介",
+      "城市时间线"
+    ],
+    "route": [
+      "城市诞生",
+      "Artemis与信仰",
+      "罗马公共生活",
+      "贸易与人物",
+      "衰落与遗址",
+      "考古回望"
+    ],
+    "images": [
+      "tr-eem-01-01.jpg",
+      "tr-eem-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/tr-eem-01-01_13e5c1cb.jpg",
+      "/manus-storage/tr-eem-01-02_e02c3a17.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：火光神话沉浸厅。来源：ATELIER BRÜCKNER公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：罗马城市生活影像厅。来源：SEGD／ATELIER BRÜCKNER项目报道公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：城市诞生—Artemis与信仰—罗马公共生活—贸易与人物—衰落与遗址—考古回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "时间线由城市生成进入宗教、公共生活和贸易，再转向衰落与遗址，使观众理解以弗所不是凝固的古典图像。"
+      ],
+      [
+        "展项设计",
+        "雕像、图像、剧本化人物、全景影片和气味应明确其是原件、复原、叙事媒介还是氛围辅助；转换处必须给出年代锚点。"
+      ],
+      [
+        "布展与图文",
+        "拱柱、黑场与地面反射可以建立仪式感，但强光、快速影像和雾效应有可预期提示及短停留的避让路径。"
+      ],
+      [
+        "研究判断",
+        "沉浸技术在考古解释中的价值，取决于能否将观众导回城市结构、社会关系和可追溯的历史层，而非单纯增强临场感。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "TR-EEM-01",
+    "title": "Ephesus Experience Museum",
+    "museum": "Ephesus Experience Museum / DEM Museums",
+    "location": "Selçuk, Türkiye",
+    "region": "中东",
+    "status": "accepted-for-20-case-pool",
+    "studio": "ATELIER BRÜCKNER（建筑概念、空间设计、体验与叙事设计）；Marshmallow Laser Feast（体验／叙事协作、技术和影片制作）；Matthew Blake（叙事与剧本）；Belzner Holmes及Sarah Readman（灯光）",
+    "year": "2023；DEM Museums独立票务访问",
+    "design_source": "https://www.atelier-brueckner.com/en/projects/ephesus-experience-museum",
+    "museum_source": "https://www.demmuseums.com/en/visitor-rules/ephesus",
+    "evidence": "ATELIER BRÜCKNER项目页将该2,400平方米项目列为2023年、客户为土耳其文化部／DEM Museums；说明展亭与展览均由ATELIER BRÜCKNER开发，以以弗所从诞生、罗马时期至衰落的时间叙事组织360度投影、声音、灯光、气味与雾效。页面进一步具名建筑概念／空间、体验与叙事设计，技术和影片制作、剧本、灯光等协作边界。DEM Museums官方规则页专设Ephesus Experience Museum，明确该馆独立门票为单次入场、体验中使用强光、响声、快速运动影像、灯光与烟雾等效果，并给出实际参观管理条件。",
+    "image_assessment": "ATELIER BRÜCKNER页面公开多张可追溯项目摄影，文件名包括artemis、artemischild、transition、temple、speech及blue_ephesos；署名Sandra Campione，版权标注Courtesy Turkish Ministry of Culture / DEM Museums。项目页同时列出exterior文件，后续媒体阶段明确排除外观，仅从室内沉浸式投影、雕像、叙事空间中选择至少两张不同段落实景图；逐张审阅确认无概念渲染特征。",
+    "next_gate": "媒体生产阶段下载并审阅两张非外观的Sandra Campione现场图，记录沉浸式媒介、对象／雕像、观众或空间构件等实建证据；再按城市诞生—罗马繁荣—衰落的路径制作五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

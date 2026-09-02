@@ -1,0 +1,979 @@
+{
+  "generatedAt": "2026-08-21T04:41:19.745Z",
+  "results": [
+    {
+      "id": "HK-T01",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/itg.html",
+      "finalUrl": "https://hk.science.museum/en/web/scm/exhibition/itg.html",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Quantum_Computer_Closeup.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Materials_Gallery_Closeup.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/CRISPR_Closeup.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/ANN.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Exotic_Robot.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/InnoTech_Website_banner_cover_2480x1650.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Quantum_Computer.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Materials_Gallery.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/CRISPR.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Text_to_Binary.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Innotech-Gallery/Robot_Dog_Arena.jpg"
+      ]
+    },
+    {
+      "id": "HK-T02",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/ltg.html",
+      "status": 0,
+      "ok": false,
+      "leads": [],
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "HK-T03",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/pg.html",
+      "finalUrl": "https://hk.science.museum/en/web/scm/exhibition/pg.html",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/PG-homepage-banner-cover-2480x1650-v3.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/Exhibition-Highlight/Animatronic_TRex_Paul.png",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/Exhibition-Highlight/Deinonychus_antirrhopus_Fossil.png",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/Exhibition-Highlight/Dinos_and_Birds.png",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/Exhibition-Highlight/The_Fossilised_Trees.png",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/Exhibition-Highlight/Scyphocrinites.png",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Palaeontology-Gallery/Exhibition-Highlight/Conserving_for_The_Future.jpg"
+      ]
+    },
+    {
+      "id": "HK-T04",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/esg.html",
+      "finalUrl": "https://hk.science.museum/en/web/scm/exhibition/esg.html",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Earth-Science-Gallery/ESG_Header.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Earth-Science-Gallery/1.Mineral-Collection.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Earth-Science-Gallery/2.Infinite-Universe.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Earth-Science-Gallery/3.In-the-Eye-of-Typhoon.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Earth-Science-Gallery/4.Tsunami-Tank.jpg"
+      ]
+    },
+    {
+      "id": "HK-T05",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/bdg.html",
+      "finalUrl": "https://hk.science.museum/en/web/scm/exhibition/bdg.html",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Biodiversity-Gallery/BDG_Header.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Biodiversity-Gallery/1.Hong-Kong-Newt.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Biodiversity-Gallery/2.African-Savanna.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Biodiversity-Gallery/3.Mangrove-Roots.jpg",
+        "https://hk.science.museum/image/Exhibition/Permanent-Exhibition/Biodiversity-Gallery/4.Forest-Trail.jpg"
+      ]
+    },
+    {
+      "id": "HK-T06",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/em.html",
+      "status": 0,
+      "ok": false,
+      "leads": [],
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "HK-T07",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/ScM35A.html",
+      "finalUrl": "https://hk.science.museum/en/web/scm/exhibition/ScM35A.html",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://hk.science.museum/image/Exhibition/Special-Exhibition/2026/ScM35A/35A4.jpg",
+        "https://hk.science.museum/image/Exhibition/Special-Exhibition/2026/ScM35A/35A3.jpg",
+        "https://hk.science.museum/image/Exhibition/Special-Exhibition/2026/ScM35A/35A2026_website-Banner_WebSite_banner_cover.jpg"
+      ]
+    },
+    {
+      "id": "HK-T08",
+      "source": "https://hk.space.museum/en/web/spm/exhibition.html",
+      "finalUrl": "https://hk.space.museum/en/web/spm/exhibition.html",
+      "status": 404,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "HK-T09",
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/hong_kong_railway_museum.html",
+      "finalUrl": "https://hk.history.museum/en/web/mh/visit/branch_museums/hong_kong_railway_museum.html",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://hk.history.museum/image/Hong-Kong-Musuem-of-History/Home/edutainment.jpg",
+        "https://hk.history.museum/image/image_gallery-00c4a7d4-77e0-4802-927b-51ec7d772b59.jpg",
+        "https://hk.history.museum/image/exhibitions-bg.png",
+        "https://hk.history.museum/image/publication-bg.png",
+        "https://hk.history.museum/image/collections-bg.png",
+        "https://hk.history.museum/image/renovation-bg.png"
+      ]
+    },
+    {
+      "id": "HK-T10",
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/sheung_yiu_folk_museum.html",
+      "finalUrl": "https://hk.history.museum/en/web/mh/visit/branch_museums/sheung_yiu_folk_museum.html",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://hk.history.museum/image/Hong-Kong-Musuem-of-History/Home/edutainment.jpg",
+        "https://hk.history.museum/image/image_gallery-00c4a7d4-77e0-4802-927b-51ec7d772b59.jpg",
+        "https://hk.history.museum/image/exhibitions-bg.png",
+        "https://hk.history.museum/image/publication-bg.png",
+        "https://hk.history.museum/image/collections-bg.png",
+        "https://hk.history.museum/image/renovation-bg.png"
+      ]
+    },
+    {
+      "id": "HK-T11",
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/law_uk_folk_museum.html",
+      "status": 0,
+      "ok": false,
+      "leads": [],
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "HK-T12",
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/fireboat_alexander_grantham_exhibition_gallery.html",
+      "finalUrl": "https://hk.history.museum/en/web/mh/visit/branch_museums/fireboat_alexander_grantham_exhibition_gallery.html",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://hk.history.museum/image/Hong-Kong-Musuem-of-History/Home/edutainment.jpg",
+        "https://hk.history.museum/image/image_gallery-00c4a7d4-77e0-4802-927b-51ec7d772b59.jpg",
+        "https://hk.history.museum/image/exhibitions-bg.png",
+        "https://hk.history.museum/image/publication-bg.png",
+        "https://hk.history.museum/image/collections-bg.png",
+        "https://hk.history.museum/image/renovation-bg.png"
+      ]
+    },
+    {
+      "id": "HK-T13",
+      "source": "https://hk.history.museum/en/web/mh/visit/branch_museums/dr_sun_yat_sen_museum.html",
+      "finalUrl": "https://hk.history.museum/en/web/mh/visit/branch_museums/dr_sun_yat_sen_museum.html",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://hk.history.museum/image/Hong-Kong-Musuem-of-History/Home/edutainment.jpg",
+        "https://hk.history.museum/image/image_gallery-00c4a7d4-77e0-4802-927b-51ec7d772b59.jpg",
+        "https://hk.history.museum/image/exhibitions-bg.png",
+        "https://hk.history.museum/image/publication-bg.png",
+        "https://hk.history.museum/image/collections-bg.png",
+        "https://hk.history.museum/image/renovation-bg.png"
+      ]
+    },
+    {
+      "id": "HK-T14",
+      "source": "https://hkmaritimemuseum.org/",
+      "finalUrl": "https://www.hkmaritimemuseum.org/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://static.wixstatic.com/media/d6d758_f8e94fb2b0e44154a4da4dc02cc0ffc8~mv2.png/v1/crop/x_0",
+        "https://static.wixstatic.com/media/d6d758_aaf9091ae07448babc3967d910e49adf~mv2.jpg/v1/fill/w_156",
+        "https://static.wixstatic.com/media/d6d758_7ed78b5c5d5143c3b825dad388da3434~mv2.jpg/v1/fill/w_13",
+        "https://static.wixstatic.com/media/d6d758_7f16360801364c52874dc3e1e770f42b~mv2.jpg/v1/fill/w_64",
+        "https://www.hkmaritimemuseum.org/quality_auto/Image-empty-state.jpg",
+        "https://static.wixstatic.com/media/d6d758_fa11a392198947c9ac5f786dece03656~mv2.jpg/v1/fill/w_64",
+        "https://static.wixstatic.com/media/d6d758_0643c9df187b4be6b981a861d4ce0929~mv2.png/v1/fill/w_64",
+        "https://www.hkmaritimemuseum.org/quality_auto/Image-empty-state.png",
+        "https://static.wixstatic.com/media/d6d758_592f268b80e14cbd9d9707a6174433fa~mv2.jpg/v1/fill/w_64",
+        "https://static.wixstatic.com/media/20d638_91296e4b111e40ceb3e7616884afd94a~mv2.jpg/v1/fill/w_72",
+        "https://static.wixstatic.com/media/20d638_643c43e832d34253a9124873bb4a5673~mv2.jpg/v1/fill/w_574",
+        "https://static.wixstatic.com/media/20d638_de506bfda336493a80c530049d999578~mv2.jpg/v1/fill/w_81"
+      ]
+    },
+    {
+      "id": "HK-T15",
+      "source": "https://www.lcsd.gov.hk/CE/Museum/Coastal/en_US/web/mcd/home.html",
+      "finalUrl": "https://hk.waranddefence.museum/en/web/mcd/home.html",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://hk.waranddefence.museum/image/journal/article-34340649.jpeg",
+        "https://hk.waranddefence.museum/image/home/redoubr2025-1.jpg",
+        "https://hk.waranddefence.museum/image/journal/article-34340652.jpeg",
+        "https://hk.waranddefence.museum/image/home/article.jpg",
+        "https://hk.waranddefence.museum/image/5.-Learn/anti_v2_homepage.png",
+        "https://hk.waranddefence.museum/image/footer/jet.png",
+        "https://hk.waranddefence.museum/image/footer/grass-2.png",
+        "https://hk.waranddefence.museum/image/image_gallery-d67fafae-01c0-4c9a-ba8f-0435c72e3241.jpg"
+      ]
+    },
+    {
+      "id": "HK-T16",
+      "source": "https://hk.heritage.museum/en/",
+      "finalUrl": "https://hk.heritage.museum/en/",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "HK-T17",
+      "source": "https://hk.heritage.museum/en/",
+      "finalUrl": "https://hk.heritage.museum/en/",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "HK-T18",
+      "source": "https://hk.heritage.museum/en/",
+      "finalUrl": "https://hk.heritage.museum/en/",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "TW-T01",
+      "source": "https://www.nmth.gov.tw/",
+      "finalUrl": "https://www.nmth.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13185/260394/a2f3aca2-b4a5-43ce-b83e-3b33fbf73f39.png",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13185/253750/c6b97788-e145-4524-ad79-fd42b6027ca2.jpg",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13185/253719/ce4f1290-591e-436a-b16b-58a52db65f99.jpg",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13185/199638/e87f1184-f6bb-40f2-bd5f-850b3a8f65dd.jpg",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13185/181289/fd83d881-6f98-4681-bd25-85c3ea2bea35.jpg",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13185/166013/fcc55da0-620f-4683-bd88-e9e48898e735.jpg",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13790/143109/a3afad67-ca42-451c-825b-2375173f7950.png",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13790/143110/1f749f73-d7cd-4c5f-a3a8-e53ec9b1bb78.png",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13790/143111/7f0fa994-575d-47f1-a15f-336835d69532.png",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13790/244223/b7921e8b-26d8-4e6c-ac67-169f281ed66a.png",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13790/244226/863ff6a0-3dad-4871-a658-744353cd37c4.png",
+        "https://file.moc.gov.tw/001/Upload/528/relpic/13790/240305/ac83616c-0eae-42a4-bad3-0c79cd0dfb93.png"
+      ]
+    },
+    {
+      "id": "TW-T02",
+      "source": "https://www.nmp.gov.tw/",
+      "finalUrl": "https://www.nmp.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/260541/3d115141-d969-41f5-b965-61c6c329b59c.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/259654/0cf96d8c-9ba5-4aa4-973e-625ca19e1206.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/259644/a1a8c201-2c5d-4a03-9a75-5f49da3a655c.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/259235/d87ca383-5452-44e4-ad45-a6806383989e.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/258718/397f3abb-8420-4300-9431-2ee7ed451483.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/258364/c857414c-3151-4f45-aacc-73063ab0763d.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/257355/6522c8c7-bfd2-43d8-9596-8d7d6280d7bb.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/257223/9785880a-bf9c-427e-8c96-58c253574d0f.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/257128/bd50e6b5-e29c-4e20-823b-9cb98825cfe9.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/256559/3453028c-87b8-4e2e-bf6f-b199e67c36a0.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11900/85815/2021fba6-666f-45aa-98ef-5bae64871f10.png",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11900/85816/fa947dbc-9384-4eb4-925c-1474a702c649.png"
+      ]
+    },
+    {
+      "id": "TW-T03",
+      "source": "https://www.nmp.gov.tw/",
+      "finalUrl": "https://www.nmp.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/260541/3d115141-d969-41f5-b965-61c6c329b59c.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/259654/0cf96d8c-9ba5-4aa4-973e-625ca19e1206.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/259644/a1a8c201-2c5d-4a03-9a75-5f49da3a655c.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/259235/d87ca383-5452-44e4-ad45-a6806383989e.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/258718/397f3abb-8420-4300-9431-2ee7ed451483.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/258364/c857414c-3151-4f45-aacc-73063ab0763d.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/257355/6522c8c7-bfd2-43d8-9596-8d7d6280d7bb.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/257223/9785880a-bf9c-427e-8c96-58c253574d0f.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/257128/bd50e6b5-e29c-4e20-823b-9cb98825cfe9.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11717/256559/3453028c-87b8-4e2e-bf6f-b199e67c36a0.jpg",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11900/85815/2021fba6-666f-45aa-98ef-5bae64871f10.png",
+        "https://file.moc.gov.tw/001/Upload/497/relpic/11900/85816/fa947dbc-9384-4eb4-925c-1474a702c649.png"
+      ]
+    },
+    {
+      "id": "TW-T04",
+      "source": "https://www.nmmst.gov.tw/",
+      "finalUrl": "https://www.nmmst.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nmmst.gov.tw/other/B20260626171229_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260730110937_c.png",
+        "https://www.nmmst.gov.tw/other/B20260715113535_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260525160148_c.png",
+        "https://www.nmmst.gov.tw/other/B20260618170315_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260609085823_c.png",
+        "https://www.nmmst.gov.tw/other/B20230616103907_c.png",
+        "https://www.nmmst.gov.tw/other/B20251222100136_c.png",
+        "https://www.nmmst.gov.tw/other/B20251222095410_c.png",
+        "https://www.nmmst.gov.tw/other/B20260626170819_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260602145201_c.png",
+        "https://www.nmmst.gov.tw/other/B20260715141103_c.jpg"
+      ]
+    },
+    {
+      "id": "TW-T05",
+      "source": "https://www.nmmst.gov.tw/",
+      "finalUrl": "https://www.nmmst.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nmmst.gov.tw/other/B20260626171229_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260730110937_c.png",
+        "https://www.nmmst.gov.tw/other/B20260715113535_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260525160148_c.png",
+        "https://www.nmmst.gov.tw/other/B20260618170315_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260609085823_c.png",
+        "https://www.nmmst.gov.tw/other/B20230616103907_c.png",
+        "https://www.nmmst.gov.tw/other/B20251222100136_c.png",
+        "https://www.nmmst.gov.tw/other/B20251222095410_c.png",
+        "https://www.nmmst.gov.tw/other/B20260626170819_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260602145201_c.png",
+        "https://www.nmmst.gov.tw/other/B20260715141103_c.jpg"
+      ]
+    },
+    {
+      "id": "TW-T06",
+      "source": "https://www.nmmst.gov.tw/",
+      "finalUrl": "https://www.nmmst.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nmmst.gov.tw/other/B20260626171229_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260730110937_c.png",
+        "https://www.nmmst.gov.tw/other/B20260715113535_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260525160148_c.png",
+        "https://www.nmmst.gov.tw/other/B20260618170315_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260609085823_c.png",
+        "https://www.nmmst.gov.tw/other/B20230616103907_c.png",
+        "https://www.nmmst.gov.tw/other/B20251222100136_c.png",
+        "https://www.nmmst.gov.tw/other/B20251222095410_c.png",
+        "https://www.nmmst.gov.tw/other/B20260626170819_c.jpg",
+        "https://www.nmmst.gov.tw/other/B20260602145201_c.png",
+        "https://www.nmmst.gov.tw/other/B20260715141103_c.jpg"
+      ]
+    },
+    {
+      "id": "TW-T07",
+      "source": "https://www.nstm.gov.tw/",
+      "finalUrl": "https://www.nstm.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nstm.gov.tw/images/gov.png"
+      ]
+    },
+    {
+      "id": "TW-T08",
+      "source": "https://www.nstm.gov.tw/",
+      "finalUrl": "https://www.nstm.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nstm.gov.tw/images/gov.png"
+      ]
+    },
+    {
+      "id": "TW-T09",
+      "source": "https://www.nstm.gov.tw/",
+      "finalUrl": "https://www.nstm.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nstm.gov.tw/images/gov.png"
+      ]
+    },
+    {
+      "id": "TW-T10",
+      "source": "https://www.ntm.gov.tw/",
+      "finalUrl": "https://www.ntm.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/260399/5c3d6078-e8a0-4e2a-aa19-52af8a13c39b.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/258903/3b21fe30-8eee-4a07-a816-7533991d4da6.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/257884/1a9fe6bb-3a08-4bf1-b3d2-4844e50c764a.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/255683/032f9845-7575-4cd0-937a-e2a70ddf68ce.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/258007/3db1b039-f248-4112-864b-3731cd21bd76.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/250863/143f2a19-82c3-4468-b90e-8acfc765d2e8.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/247366/ae7c6c4a-c0cf-4867-8ecb-47d3a2f6ea77.png",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/245940/a6f6c74b-146d-412b-af56-92fe6c1774e6.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14313/239113/0fc97800-7976-4e88-9c0c-9dc613f12ad0.jpg",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14736/166321/20407aba-d17f-4dad-970e-db68f1598ca4.png",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14736/166320/6167c452-3814-48aa-9f94-83523fb5eb24.png",
+        "https://file.moc.gov.tw/001/Upload/520/relpic/14736/166319/c69b1e3b-97c1-47a8-82c0-2f1d74b715f8.png"
+      ]
+    },
+    {
+      "id": "TW-T11",
+      "source": "https://www.nrm.gov.tw/",
+      "finalUrl": "https://www.nrm.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/260435/4f901e8e-1300-41d3-8f8f-f4266f380fad.jpg",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/259682/ece03c79-6d51-4ffe-b85d-ac0c7c1c5362.jpeg",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/257648/c458e69f-c667-47a7-888e-b3654c0a3bb8.jpg",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/258014/2f5d944a-ed3d-46ff-aca8-3e9380008ec6.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/248430/19172a80-4db8-4ce5-a075-50ad9bd8d392.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/248429/f36075a2-421f-48c0-90ee-ef794ae42beb.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/248428/5007a7a4-5baf-4377-8b42-298e8e3a0690.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/12882/240973/dd540364-aa7a-4fd4-93e3-22bed8f8a1cb.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/13229/243587/1702f55f-41d4-4764-ad9e-4a86d015c07b.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/13229/243591/b592692f-61c5-4ed5-9d4b-1809b17e788f.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/13229/132560/d93b4d40-e758-40c2-80e7-98bd2f06c04b.png",
+        "https://file.moc.gov.tw/001/Upload/505/relpic/13229/245347/81122a1b-8155-4ece-b568-609af54a67f1.png"
+      ]
+    },
+    {
+      "id": "TW-T12",
+      "source": "https://www.nmtl.gov.tw/",
+      "finalUrl": "https://www.nmtl.gov.tw/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/banner/small/4db5f40e-3f1a-4812-bd5a-469137dfade6.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/13103/253782/ce09b22e-1dfd-4625-99fd-3765c7378244@710x470.png",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/13103/252975/e0b4f4bd-ea2c-4d5b-966d-a32279088991@710x470.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/13103/245716/0bb0e543-8c72-4bf9-b1b9-00c271841103@710x470.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/13090/250561/aa51168b-17d0-452b-873d-5e33e140c799.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/13090/250560/965e542b-eb19-45dc-aa49-0cd83b96c256.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/13090/245929/e23a75c5-4051-45a1-adb1-f4937cee4098.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/14950/174058/3e37c915-41bd-4cfd-a3ed-3a9f34abda5a.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/13090/203252/a20d5a5d-647f-47aa-a6dd-1fe53b5214ca.png",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/14950/186842/6af4c729-97b2-49db-b401-d936ab22ca13.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/14950/186841/ac69bf61-4666-4e9e-9139-52061dcb89ca.jpg",
+        "https://file.moc.gov.tw/001/Upload/504/relpic/14950/186840/7399b9b5-37e4-4435-8abc-68d33d864f05.jpg"
+      ]
+    },
+    {
+      "id": "TW-T13",
+      "source": "https://www.nhrm.gov.tw/",
+      "finalUrl": "https://www.nhrm.gov.tw/w/nhrm/index",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nhrm.gov.tw/Websites/nhrm/images/weather/01.png",
+        "https://www.nhrm.gov.tw/Websites/nhrm/images/aa.jpeg",
+        "https://imedia-assets.s3.hicloud.net.tw/nhrm/media/126943/image/_9a0c34f1d2d3442eb46967f8e257c729-m.jpg",
+        "https://imedia-assets.s3.hicloud.net.tw/nhrm/media/162846/image/image_2e5a61ee542544cfa41f29a10415e5f3-m.png",
+        "https://imedia-assets.s3.hicloud.net.tw/nhrm/media/162807/image/image_1625bd28bf424dce83b507605da0b63b-m.png",
+        "https://imedia-assets.s3.hicloud.net.tw/nhrm/media/162624/image/image_091848518ee647a0828876db28c718b2-m.png",
+        "https://event.culture.tw/mocweb/reg/userFiles/NHRM/JpgFile/01/40039/AD/40039_0_0_85026.jpg",
+        "https://event.culture.tw/mocweb/reg/userFiles/NHRM/JpgFile/01/10013/10013.jpg",
+        "https://event.culture.tw/mocweb/reg/userFiles/NHRM/JpgFile/01/60028/AD/60028_0_0_989814.jpg",
+        "https://event.culture.tw/mocweb/reg/userFiles/NHRM/JpgFile/01/60023/AD/60023_0_0_631439.jpg",
+        "https://event.culture.tw/mocweb/reg/userFiles/NHRM/JpgFile/01/60021/AD/60021_0_0_234696.png",
+        "https://event.culture.tw/mocweb/reg/userFiles/NHRM/JpgFile/01/60013/AD/60013_0_0_670579.png"
+      ]
+    },
+    {
+      "id": "TW-T14",
+      "source": "https://www.nmns.edu.tw/",
+      "finalUrl": "https://www.nmns.edu.tw/ch/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nmns.edu.tw/export/sites/nmns/.galleries/index/collection-number.png",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260507-1.jpg_754156955.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260507-3.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/.galleries/images/20260819-3.jpg_317687747.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/.galleries/images/20260819-5.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20250527-1.jpg_317687747.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20250527-2.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260519-1.jpg_317687747.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260519-3.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260422-1.jpg_754156955.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260422-3.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260622-1.jpg_317687747.jpg"
+      ]
+    },
+    {
+      "id": "TW-T15",
+      "source": "https://www.nmns.edu.tw/",
+      "finalUrl": "https://www.nmns.edu.tw/ch/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.nmns.edu.tw/export/sites/nmns/.galleries/index/collection-number.png",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260507-1.jpg_754156955.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260507-3.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/.galleries/images/20260819-3.jpg_317687747.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/.galleries/images/20260819-5.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20250527-1.jpg_317687747.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20250527-2.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260519-1.jpg_317687747.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260519-3.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260422-1.jpg_754156955.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260422-3.jpg_955818452.jpg",
+        "https://www.nmns.edu.tw/export/sites/nmns/ch/exhibitions/.galleries/banner/20260622-1.jpg_317687747.jpg"
+      ]
+    },
+    {
+      "id": "TW-T16",
+      "source": "https://hamasen.khm.gov.tw/eng/",
+      "status": 0,
+      "ok": false,
+      "leads": [],
+      "error": "fetch failed"
+    },
+    {
+      "id": "MO-T01",
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97128",
+      "finalUrl": "https://www.macaumuseum.gov.mo/(X(1)S(qfabu1zai3lyo0rqrlwbshux))/en/exhibitions/97128?AspxAutoDetectCookieSupport=1",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/246e046d-3522-48f4-95c8-d912122f2435.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/4a88e892-3554-489f-a658-f6a431b729e2.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/92a99f2d-ddb0-42f8-9a52-c797df04fc06.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/e7645068-041a-4e42-8432-a5adf9d9b342.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/81df4d7e-b990-49e2-9c47-e7333e2bbdb0.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/b8298ff6-8fd6-422d-ba4d-243b5cd9052e.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/3a711ca2-9da4-4394-b027-64e91ef6cc26.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/69f92ad2-3491-4b82-b944-9230b25c7411.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/2f7ed9ae-814a-4965-bff3-8470e39d2f56.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/30ef570c-cd45-4dce-bef3-c4386ff96c97.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/02557e46-894a-4193-894a-e800640e4f08.jpg"
+      ]
+    },
+    {
+      "id": "MO-T02",
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97095",
+      "finalUrl": "https://www.macaumuseum.gov.mo/(X(1)S(d52npethowqu1shmfkhfko4d))/en/exhibitions/97095?AspxAutoDetectCookieSupport=1",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/80cd3ede-4a08-4f46-bce4-d28e634e124f.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/2f90ef07-1fcf-4e35-8efc-9e690d24d57e.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/bb8ffeae-f9b8-4954-aa7b-05d160a84a72.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/8c04a610-9af0-4878-bff4-5c124eae060c.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/160d9e1d-4f64-4202-a539-9add65d97172.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/7dd6df41-032e-475e-9d02-c660bbf92bbd.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/6432f6d9-7137-4eea-b655-e589c1f48351.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/f7018483-3e4c-4d93-858c-0ef564a9a23b.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/02557e46-894a-4193-894a-e800640e4f08.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/00f3f7e8-d0c2-4fca-9cf2-931d90b8c553.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/f2bab031-de00-4561-b8d6-19566bb661d5.jpg"
+      ]
+    },
+    {
+      "id": "MO-T03",
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97055",
+      "finalUrl": "https://www.macaumuseum.gov.mo/(X(1)S(rmrd5rejgvcuyis3ma14hh45))/en/exhibitions/97055?AspxAutoDetectCookieSupport=1",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/96896c0a-68d9-4579-9bfb-fb809b7f4161.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/a7b03dea-af49-44eb-8e36-8793d53e1f47.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/c4cb2d42-b86c-4b90-89df-b9976880e9a9.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/df736bbf-4005-4427-83fe-fc58c61b4557.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/f39fb95e-b00b-424a-8109-9651d1bea30b.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/78eca459-9ce9-4174-a1a9-b94a31932dda.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/26d229bf-a276-4d17-97bc-76db317b07ff.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/8f5b0f1b-b740-4e92-8ff5-3f415c11c65a.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/0ffbaa8c-e2b7-44a8-adaa-dff1e4680375.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/f691df2b-0f31-4b86-8db0-e385e087f78f.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/bcbf285e-992f-4371-9fbd-9a89194e3da7.jpg"
+      ]
+    },
+    {
+      "id": "MO-T04",
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/97003",
+      "finalUrl": "https://www.macaumuseum.gov.mo/(X(1)S(anns4vzpt0jzne4nf4hegbz5))/en/exhibitions/97003?AspxAutoDetectCookieSupport=1",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/29519c92-ca8d-4da2-be72-0318cf9e9398.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/f691df2b-0f31-4b86-8db0-e385e087f78f.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/bcbf285e-992f-4371-9fbd-9a89194e3da7.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/2a3efd40-295d-4321-b420-31817a7e0c6e.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/60e69e98-b7f8-48de-81ee-ad179112f7ac.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/e8ebb5fb-9faa-4e6a-ad87-b7abbdc8c7c4.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/33dd56f5-321b-4c57-a52a-cdd6a797bc85.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/c346bc67-6375-4e9f-9ffb-8edb187dd8a8.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/ae089cb3-b83d-4ab1-864e-b11895125951.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/8ed91776-0868-4b4e-b5af-1e09ed185072.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/7d7ce23e-6177-4a96-8894-a0ef34dbeffa.jpg"
+      ]
+    },
+    {
+      "id": "MO-T05",
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/96951",
+      "finalUrl": "https://www.macaumuseum.gov.mo/(X(1)S(jnaandq0twhdx2xs50bd2dcm))/en/exhibitions/96951?AspxAutoDetectCookieSupport=1",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/23a922b6-791b-4e04-9c44-5fb98b41aa7d.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/7d7ce23e-6177-4a96-8894-a0ef34dbeffa.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/1b6b0ef5-c8e8-4550-9760-494f734e99fa.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/e24c6116-d792-4396-8ce7-dc9919c9acf8.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/7b1cbc72-12b0-4f52-bb7d-e9b6e61094dd.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/749ccd15-be63-4f65-a81f-1528461a41ce.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/206c7d94-4c69-4e33-9a61-8d8794312d0d.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/c82e072e-348e-4ef1-8431-268bebd9b584.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/af257a09-40b6-4a44-94e7-fb6a381e77cd.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/66acd8f4-1aa7-405a-9a2b-c981a9f93dd8.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/5418cd5d-6cd9-4f5d-a710-5f709fbba495.jpg"
+      ]
+    },
+    {
+      "id": "MO-T06",
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/96922",
+      "finalUrl": "https://www.macaumuseum.gov.mo/(X(1)S(mrfym5h2m5fs5zlqlm10niw2))/en/exhibitions/96922?AspxAutoDetectCookieSupport=1",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/525e7de7-ab74-4c10-bdfe-bfc7f119bc2a.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/b77333c5-be11-4cb0-a5d6-6a23dfb37e7f.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/c0a1ba67-735a-4d09-ae61-899902d9a0b5.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/62b88f2e-1b57-4b44-9a37-45b8da1e3ea0.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/06a3d14f-4fb0-458c-a097-8161fdbc60df.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/69b3db4d-930d-41fc-9dd3-7ed49fb756d5.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/0f95a63c-2aa5-4f68-b5e9-01d016634b20.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/13008490-caa0-430f-b074-a6189cf98aee.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/62d3d2e4-a82c-498d-b832-a1557a04c685.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/169e9f91-247b-4bb8-9e67-5fbdbc7a0c4f.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/30cd7c93-9f80-4c6f-9760-8b61f85aaaba.jpg"
+      ]
+    },
+    {
+      "id": "MO-T07",
+      "source": "https://www.macaumuseum.gov.mo/en/exhibitions/96862",
+      "finalUrl": "https://www.macaumuseum.gov.mo/(X(1)S(4shxd0xd50msx2szbqiznubq))/en/exhibitions/96862?AspxAutoDetectCookieSupport=1",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.macaumuseum.gov.mo/_ref/site/images/app2.png",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/30cd7c93-9f80-4c6f-9760-8b61f85aaaba.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/1a2f8839-f6cb-46d4-b189-7a2380e6cb48.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/3261736a-61e5-4f8b-8087-beee9b60d022.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/9516f09f-4280-463a-86f9-f68493f2d19a.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/b617a69a-c27f-4365-91ab-d35b84cc331b.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/b43216ab-d2b4-4d22-ae31-75cd5b4004c4.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/02557e46-894a-4193-894a-e800640e4f08.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/00f3f7e8-d0c2-4fca-9cf2-931d90b8c553.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/f2bab031-de00-4561-b8d6-19566bb661d5.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/3d9a818e-c2e1-4c34-ad9f-fdf3afe91006.jpg",
+        "https://www.macaumuseum.gov.mo/img/macau_museum/pica-l/0c76168d-e0e5-436e-adcf-942c6a13ee1d.jpg"
+      ]
+    },
+    {
+      "id": "MO-T08",
+      "source": "https://www.macaotourism.gov.mo/en/sightseeing/museums-and-galleries/maritime-museum",
+      "finalUrl": "https://www.macaotourism.gov.mo/en/sightseeing/museums-and-galleries/maritime-museum",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "SE-T01",
+      "source": "https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/sg-history-gallery",
+      "finalUrl": "https://www.nationalmuseum.nhb.gov.sg/our-exhibitions/sg-history-gallery",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://cms.nhb.gov.sg/assets/7e2afe6b-2368-4f9e-a0a0-8383d0cb684d/ACM.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/21f2c9f6-2639-4cf1-b538-3adedebd10ab/IHC.png?h=69\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/9da7d8e3-3326-4f7c-a247-9beb37b4159e/MHC.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/59964a53-9cb1-4697-9470-20a71391b827/NSM.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/68953ba5-a8d7-4096-8d75-6b9e3bd45530/PM.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/62ada30d-2c06-427a-8b12-30753047a590/SYS.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/75202c4f-8546-4ce8-8ee6-9638b65a85da/03_RGB_Update.png?h=60\\u0026amp;w=auto\\",
+        "https://cms.nhb.gov.sg/assets/6f42c38e-d0f8-4489-b4d3-9c49b5c25863/Pri_Purple.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/259b6e1f-1e7f-4cf1-996d-35d85f6c016e/RBCNew2021.png?h=31\\u0026amp;w=110\\"
+      ]
+    },
+    {
+      "id": "SE-T02",
+      "source": "https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/story-of-the-forest",
+      "finalUrl": "https://www.nationalmuseum.nhb.gov.sg/our-exhibitions/story-of-the-forest",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://cms.nhb.gov.sg/assets/7e2afe6b-2368-4f9e-a0a0-8383d0cb684d/ACM.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/21f2c9f6-2639-4cf1-b538-3adedebd10ab/IHC.png?h=69\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/9da7d8e3-3326-4f7c-a247-9beb37b4159e/MHC.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/59964a53-9cb1-4697-9470-20a71391b827/NSM.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/68953ba5-a8d7-4096-8d75-6b9e3bd45530/PM.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/62ada30d-2c06-427a-8b12-30753047a590/SYS.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/75202c4f-8546-4ce8-8ee6-9638b65a85da/03_RGB_Update.png?h=60\\u0026amp;w=auto\\",
+        "https://cms.nhb.gov.sg/assets/6f42c38e-d0f8-4489-b4d3-9c49b5c25863/Pri_Purple.png?h=60\\u0026amp;w=110\\",
+        "https://cms.nhb.gov.sg/assets/259b6e1f-1e7f-4cf1-996d-35d85f6c016e/RBCNew2021.png?h=31\\u0026amp;w=110\\"
+      ]
+    },
+    {
+      "id": "SE-T03",
+      "source": "https://www.nhb.gov.sg/acm/our-collections/collection-highlights/tang-shipwreck",
+      "finalUrl": "https://www.acm.nhb.gov.sg/our-collections/collection-highlights/tang-shipwreck",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/3fd23515-42d1-4169-b0f9-f7f2470a7842.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/8a1498bd-db99-43aa-81da-741e55cd91db.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/52c30037-83a1-4b7a-969c-8997505f0840.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/722223b1-233f-4997-b20c-678eb3a976f3.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/115cd667-d8ad-42f3-8ec8-baa957c1493e.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/bad01e01-35db-4020-aced-01aa6b769551.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/133b11e6-066c-4f04-a96a-071040cdc684.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/5dee9793-39e9-4492-8bb1-f068d72a2377.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/28d16fa2-aa87-440d-8ce6-26d0c9efe0cc.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/4db3b3e6-abb2-4432-898d-c6f324ce5c57.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/dc6060a6-7265-4d52-96d5-c7add38977e9.jpg",
+        "https://assets.app.optical.gov.sg/nhb/production/published/collections/acm_navigation/main_header/0f058cc6-3403-4e7b-9bc6-712e39b6467c.jpg"
+      ]
+    },
+    {
+      "id": "SE-T04",
+      "source": "https://www.museumnasional.or.id/",
+      "status": 0,
+      "ok": false,
+      "leads": [],
+      "error": "fetch failed"
+    },
+    {
+      "id": "SE-T05",
+      "source": "https://philhistoricsites.nhcp.gov.ph/national-museum-of-anthropology/",
+      "finalUrl": "https://philhistoricsites.nhcp.gov.ph/national-museum-of-anthropology/",
+      "status": 404,
+      "ok": false,
+      "leads": [
+        "https://philhistoricsites.nhcp.gov.ph/wp-content/uploads/2023/07/NHCP_NRHSS-1-1.png",
+        "https://philhistoricsites.nhcp.gov.ph/wp-content/themes/iGov/images/headers/circle.png",
+        "https://philhistoricsites.nhcp.gov.ph/wp-content/uploads/2023/01/national-historical-landmarks.png"
+      ]
+    },
+    {
+      "id": "SE-T06",
+      "source": "https://www.museumsiam.org/",
+      "finalUrl": "https://www.museumsiam.org/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://museumsiam.org//upload/upload_banner_files/welcome/1781495748_623.jpg",
+        "https://www.museumsiam.org/images/welcome-bg.jpg",
+        "https://www.museumsiam.org/images/og-image.jpg"
+      ]
+    },
+    {
+      "id": "SE-T07",
+      "source": "https://vme.org.vn/",
+      "finalUrl": "https://vme.org.vn/",
+      "status": 403,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "NA-T01",
+      "source": "https://americanhistory.si.edu/explore/exhibitions/many-voices",
+      "finalUrl": "https://americanhistory.si.edu/explore/exhibitions/many-voices",
+      "status": 403,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "NA-T02",
+      "source": "https://americanindian.si.edu/exhibitions/our-universes",
+      "finalUrl": "https://americanindian.si.edu/exhibitions/our-universes",
+      "status": 403,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "NA-T03",
+      "source": "https://humanorigins.si.edu/education/introduction-human-evolution",
+      "finalUrl": "https://humanorigins.si.edu/education/introduction-human-evolution",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://humanorigins.si.edu/themes/gesso/images/landscape1_1680x708.jpg",
+        "https://humanorigins.si.edu/themes/gesso/images/support-our-work.png"
+      ]
+    },
+    {
+      "id": "NA-T04",
+      "source": "https://naturalhistory.si.edu/exhibits/david-h-koch-hall-fossils-deep-time",
+      "finalUrl": "https://naturalhistory.si.edu/exhibits/david-h-koch-hall-fossils-deep-time",
+      "status": 403,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "NA-T05",
+      "source": "https://www.historymuseum.ca/exhibitions/first-peoples-hall",
+      "finalUrl": "https://www.historymuseum.ca/exhibitions/first-peoples-hall",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.historymuseum.ca/wp-content/uploads/2026/03/history-hall-img2017-0341-0010-dm-550x250-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2026/03/history-hall-img2017-0341-0010-dm-382x280-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2024/09/IMG2023-0162-0003-Dm-381x273-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2026/03/ccm-img2016-0320-0002-dm-382x280-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2026/03/history-museum-img2013-0099-0001-dm-550x250-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2026/03/stamp-collection-img2018-0032-0078-dm-380x380-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2023/08/stamp-collection-img2018-0032-0078-dm-scaled.jpeg",
+        "https://www.historymuseum.ca/wp-content/uploads/2024/09/sharon-anne-firth-550x250-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2026/03/teachers-zone-istock-875575944-550x250-1.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2023/09/IMG2009-0063-0001-Dm.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2023/09/First-People-Hall-view4.jpg",
+        "https://www.historymuseum.ca/wp-content/uploads/2023/09/DSC_0323-scaled.jpg"
+      ]
+    },
+    {
+      "id": "NA-T06",
+      "source": "https://pier21.ca/",
+      "finalUrl": "https://pier21.ca/",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "SA-T01",
+      "source": "https://web.museodelamemoria.cl/",
+      "finalUrl": "https://web.museodelamemoria.cl/",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "SA-T02",
+      "source": "https://museudoamanha.org.br/",
+      "finalUrl": "https://museudoamanha.org.br/",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "SA-T03",
+      "source": "https://www.banrepcultural.org/bogota/museo-del-oro",
+      "finalUrl": "https://validate.perfdrive.com/dcdef976b89bc59cc7237e50085bb32a/?ssa=04774e6b-f5bb-4b0b-b517-55181d46df12&ssb=90638314610&ssc=https%3A%2F%2Fwww.banrepcultural.org%2Fbogota%2Fmuseo-del-oro&ssi=38e203a3-c583-493f-a7cd-83c05d6926b0&ssk=support@shieldsquare.com&ssm=23721174064577202108187623969734&ssn=ab76e8bbbfd7610ce8394b96b30606d81e0311af096d-e6ec-46a1-a8e0a4&sso=cb710203-26ed7ca1a6cf824fe44ef859c30a283b155395aaab7fc057&ssp=43987627621787202160178725021843154&ssq=70372948727275322100587272233167718311842&ssr=MTAzLjEyMC4xNTIuMTc3&sst=Mozilla/5.0%20(compatible;%20MuseumThemeArchive/1.0)&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImJhbnJlcGN1bHR1cmFsLm9yZyIsIl9fdXptZiI6IjdmOTAwMDExYWYwOTZkLWU2ZWMtNDZhMS1hMjAzLTI2ZWQ3Y2ExYTZjZjEtMTc4NzI4NzI3MjMzNTAtMDA0MjIyZWUyMWQyYjAzODNhYzEwIiwidXpteCI6IjdmYzAwMGM2YTEzNmVkLWU1ZDYtNGRlZS1iYTQxLTI2ZGY5NWRmYjI4NDEtMTc4NzI4NzI3MjMzNTAtMDAxODFkZDFlNDdjN2Y1NzNkZjEwIn0=",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "SA-T04",
+      "source": "https://mnaahp.cultura.pe/",
+      "finalUrl": "https://mnaahp.cultura.pe/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "http://mnaahp.cultura.pe/sites/all/themes/pachacamac_movil/images/rsf_1.png",
+        "http://mnaahp.cultura.pe/sites/all/themes/pachacamac_movil/images/rst_1.png",
+        "http://mnaahp.cultura.pe/sites/all/themes/pachacamac_movil/images/rsyt_1.png"
+      ]
+    },
+    {
+      "id": "EE-T01",
+      "source": "https://polin.pl/en/exhibitions/core-exhibition",
+      "finalUrl": "https://polin.pl/en/exhibitions/core-exhibition",
+      "status": 403,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "EE-T02",
+      "source": "https://okupacijasmuzejs.lv/en",
+      "finalUrl": "https://okupacijasmuzejs.lv/en",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://okupacijasmuzejs.lv/storage/003_8b1b083f-5146-454d-ae96-decd9c36dcf1/003_8b1b083f-5146-454d-ae96-decd9c36dcf1_homepage.hero.block_image.jpg",
+        "https://okupacijasmuzejs.lv/storage/004_0b911032-f4bf-40e3-a213-49384ea06a49/004_0b911032-f4bf-40e3-a213-49384ea06a49_homepage.hero.block_image.jpg",
+        "https://okupacijasmuzejs.lv/storage/SVS_9aa3c607-781b-42d2-b4f5-1c09a069afca_1387c533-beab-47ac-923f-f7d791f641f7/SVS_9aa3c607-781b-42d2-b4f5-1c09a069afca_1387c533-beab-47ac-923f-f7d791f641f7_homepage.hero.block_image.jpg",
+        "https://okupacijasmuzejs.lv/storage/mini_main_ENG_e50d0b8a-7414-439f-846c-d1e888db1437/mini_main_ENG_e50d0b8a-7414-439f-846c-d1e888db1437_homepage.hero.block_image.jpg",
+        "https://okupacijasmuzejs.lv/storage/P%C4%93c_kara_main_7458d812-e8a6-41fe-9368-cb3993f84d42/P%C4%93c_kara_main_7458d812-e8a6-41fe-9368-cb3993f84d42_homepage.hero.block_image.jpg",
+        "https://okupacijasmuzejs.lv/storage/TS3B9amSPYtk4UPGZfHBQVN6wiEgK9eaO5UUz84E.jpg",
+        "https://okupacijasmuzejs.lv/storage/Kc00OBvNh1FPE2luhqCukikUq0h57F8USdXNckmG/Kc00OBvNh1FPE2luhqCukikUq0h57F8USdXNckmG_blog.post_thumbnail_center.jpg",
+        "https://okupacijasmuzejs.lv/storage/6YGxl8nIFMkdS5JJklMD8jwti55uhesVZ3hscwsM/6YGxl8nIFMkdS5JJklMD8jwti55uhesVZ3hscwsM_blog.post_thumbnail_center.jpg",
+        "https://okupacijasmuzejs.lv/storage/O5YsVygFfI3XKQfNPYlfuzNVTcO13Ck0ie26hkSg/O5YsVygFfI3XKQfNPYlfuzNVTcO13Ck0ie26hkSg_blog.post_thumbnail_center.jpg",
+        "https://okupacijasmuzejs.lv/storage/1IKgDjkBroUZbB9MBgfuVUJCQGuY1zhHZmbMrz45/1IKgDjkBroUZbB9MBgfuVUJCQGuY1zhHZmbMrz45_blog.post_thumbnail_center.jpg",
+        "https://okupacijasmuzejs.lv/storage/naJi6G8VOz2IIXSR8hJz2AjESaT0SZ9CmQ7PByF3/naJi6G8VOz2IIXSR8hJz2AjESaT0SZ9CmQ7PByF3_blog.post_thumbnail_center.png"
+      ]
+    },
+    {
+      "id": "EE-T03",
+      "source": "https://www.terrorhaza.hu/en",
+      "finalUrl": "https://www.terrorhaza.hu/en",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.terrorhaza.hu/images/template/spotify.png",
+        "https://www.terrorhaza.hu/images/template/x.png",
+        "https://www.terrorhaza.hu/images/template/tiktok.png",
+        "https://www.terrorhaza.hu/images/mainpage/idoszaki-kiallitas.jpg",
+        "https://www.terrorhaza.hu/images/mainpage/allando-kiallitas.jpg",
+        "https://www.terrorhaza.hu/images/mainpage/F%C5%91oldal-M%C3%BAzeumr%C3%B3l-csempe_alt-3.jpg",
+        "https://www.terrorhaza.hu/images/LU0A0416_2.jpg",
+        "https://www.terrorhaza.hu/images/1920x680-02_1.jpg",
+        "https://www.terrorhaza.hu/images/u%CC%88nnepi_nyitvatarta%CC%81s_2025_angol-03.jpg",
+        "https://www.terrorhaza.hu/images/6126_4.jpg",
+        "https://www.terrorhaza.hu/images/0782_2.jpg",
+        "https://www.terrorhaza.hu/images/mainpage/latogatoi-informaciok.jpg"
+      ]
+    },
+    {
+      "id": "WE-T01",
+      "source": "https://www.deutsches-museum.de/en/museum-island/exhibition/anthropocene",
+      "finalUrl": "https://www.deutsches-museum.de/en/museum-island/exhibition/anthropocene",
+      "status": 404,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "WE-T02",
+      "source": "https://www.sciencemuseum.org.uk/see-and-do/energy-hall",
+      "finalUrl": "https://www.sciencemuseum.org.uk/see-and-do/energy-hall",
+      "status": 200,
+      "ok": true,
+      "leads": []
+    },
+    {
+      "id": "WE-T03",
+      "source": "https://www.londonmuseum.org.uk/",
+      "finalUrl": "https://www.londonmuseum.org.uk/",
+      "status": 200,
+      "ok": true,
+      "leads": [
+        "https://www.londonmuseum.org.uk/static/images/pigeon-side.285f293c5a4f.webp",
+        "https://media.londonmuseum.org.uk/images/Pigeon-for-website-car.max-230x201.format-webp-lossless.webp",
+        "https://media.londonmuseum.org.uk/images/London-Museum-House.5e9e942b.fill-2700x1400.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/General-Market-Past-Time-Secchi-.width-1122.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/WagtailSource-New-Signage-outsid.width-1122.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/The-Big-Dig-Marketing-Shoot-Apri.width-1122.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/Family-Festival-of-Caribbean-Cul_lS0AHbr.width-1122.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/mudlarking-Weekend-London-Museum.width-1122.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/WagtailSource-Family-Galleries_x.width-1122.format-webp_xT1IdwD.webp",
+        "https://media.londonmuseum.org.uk/images/Queens-Park-Rangers.78e26a26.fill-2700x1400.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/WagtailSource-Carousel-at-Hampst.width-1122.format-webp.webp",
+        "https://media.londonmuseum.org.uk/images/Brian-Haw-on-day-490-of-his-peac.width-1122.format-webp.webp"
+      ]
+    },
+    {
+      "id": "WE-T04",
+      "source": "https://www.mucem.org/en/collections",
+      "finalUrl": "https://mucem.org/en/collections/",
+      "status": 404,
+      "ok": false,
+      "leads": []
+    },
+    {
+      "id": "WE-T05",
+      "source": "https://www.nms.ac.uk/national-museum-of-scotland/",
+      "finalUrl": "https://www.nms.ac.uk/national-museum-of-scotland/",
+      "status": 403,
+      "ok": false,
+      "leads": []
+    }
+  ]
+}

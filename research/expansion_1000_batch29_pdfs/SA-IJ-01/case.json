@@ -1,0 +1,75 @@
+{
+  "content": {
+    "id": "SA-IJ-01",
+    "title": "Arabian Journeys — Ithra Museum",
+    "subtitle": "King Abdulaziz Center for World Culture (Ithra)｜Dhahran, Saudi Arabia",
+    "year": "2018；馆方当前售票开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以1,300平方米多媒体旅程和地貌化主题区连接阿拉伯半岛的沙漠、海洋、城市、文化根源与未来身份。",
+    "insight": "地域叙事若只依赖壮观地貌会变成旅游视觉；自然环境、对象、语言与人的迁徙需要彼此可见。",
+    "tags": [
+      "阿拉伯半岛",
+      "地貌化场景",
+      "自然与文化",
+      "全景媒介"
+    ],
+    "route": [
+      "Connection Zone导入",
+      "Desert Trek陆地迁徙",
+      "绿洲与聚落",
+      "海岸与海洋生态",
+      "文化根源",
+      "未来身份回望"
+    ],
+    "images": [
+      "sa-ij-01-01.jpg",
+      "sa-ij-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/sa-ij-01-01_97c4665c.jpg",
+      "/manus-storage/sa-ij-01-02_d116e6f9.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Desert Trek。来源：ATELIER BRÜCKNER公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：海洋生态段。来源：ATELIER BRÜCKNER公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：Connection Zone导入—Desert Trek陆地迁徙—绿洲与聚落—海岸与海洋生态—文化根源—未来身份回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从穿越陆地和海洋的移动经验建立半岛尺度，再回到地方文化与当代身份，避免把环境与人文拆成两套故事。"
+      ],
+      [
+        "展项设计",
+        "地景模型、标本柜、弧形影像、双语文字与互动屏应分工处理生态证据、文化实践和空间感受。"
+      ],
+      [
+        "布展与图文",
+        "连续曲面和低位展台可提示流动，但要控制反射与曲面文字可读性；海洋沉浸段需提供不依赖快速影像的解释层。"
+      ],
+      [
+        "研究判断",
+        "其启发在于用环境作为叙事基础而非装饰背景，使文化身份始终与迁徙、资源和地方知识相连。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "SA-IJ-01",
+    "title": "Arabian Journeys — Ithra Museum",
+    "museum": "King Abdulaziz Center for World Culture (Ithra)",
+    "location": "Dhahran, Saudi Arabia",
+    "region": "中东",
+    "status": "accepted-for-20-case-pool",
+    "studio": "ATELIER BRÜCKNER（总体规划、展览概念与设计、场景设计）；LDE Belzner Holmes（灯光）；medienprojekt p2（媒体规划）；iart（媒体、电影及声音协作）；Tarek Atrissi Design（平面）",
+    "year": "2018；馆方当前售票开放",
+    "design_source": "https://www.atelier-brueckner.com/en/projects/arabian-journeys",
+    "museum_source": "https://www.ithra.com/en/programme/2026/ithra-museum",
+    "evidence": "ATELIER BRÜCKNER项目页明确Arabian Journeys位于Dhahran的Ithra、面积1,300平方米、客户为Saudi Aramco；以跨越过去、现在与未来的多媒体旅程呈现沙特文化根源和身份，以全景带划分主题区，并用被具体地貌包裹的叙事空间连接地方人与历史。页面列出总体规划、展览概念与设计、场景设计由ATELIER BRÜCKNER负责，并署名摄影Daniel Stauch。Ithra Museum官方页面确认其当前售票开放，含沙特文化与阿拉伯半岛自然史等五类核心画廊，提供2026年8—9月逐日场次与购票链接。",
+    "image_assessment": "ATELIER BRÜCKNER项目页公开两张全尺寸项目图资源，并署名Daniel Stauch摄影；页面图像文件名分别指向Connection Zone与Szenografie，且页面将其归为2018年已建成展览项目。后续媒体阶段仍需逐张下载、审阅人物／展厅构件／展示媒介等实施特征，并至少选择两张不同空间段落的真实内景。",
+    "next_gate": "媒体生产阶段下载并审阅ATELIER BRÜCKNER公开摄影，结合Ithra核心画廊说明确定Arabian Journeys在当前博物馆参观路径中的长期位置；再撰写五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "content": {
+    "id": "US-RGS-01",
+    "title": "The Greatest Show On Earth® Gallery — Ringling Bros. and Barnum & Bailey’s Feld Era",
+    "subtitle": "The Ringling Circus Museum｜Sarasota, Florida, USA",
+    "year": "2024开幕；馆方当前列为永久展",
+    "type": "叙事性常设／长期展",
+    "brief": "以Feld家族时期的马戏档案、后台准备、手势互动、服装和180度纱幕演出组成四区长期展，讨论现代马戏如何被制作与记忆。",
+    "insight": "表演史馆不能只复刻“盛大感”；档案、劳动、技术和观众经验必须共同解释表演如何发生。",
+    "tags": [
+      "表演史",
+      "档案影片",
+      "手势互动",
+      "沉浸式剧场"
+    ],
+    "route": [
+      "Feld家族档案导入",
+      "后台准备与排练",
+      "表演沉浸段",
+      "纪念品与离场声景"
+    ],
+    "images": [
+      "us-rgs-01-01.jpg",
+      "us-rgs-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-rgs-01-01_f9fbde76.jpg",
+      "/manus-storage/us-rgs-01-02_4d311aa7.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Feld时代红幕档案导入。来源：New Angle / Cultural Innovations公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：180度纱幕投影演出。来源：New Angle / Cultural Innovations公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：Feld家族档案导入—后台准备与排练—表演沉浸段—纪念品与离场声景。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "先从家族与产业变化进入，再打开后台流程，最后以演出段整合服装、影像和声音，避免让沉浸成为没有前因的高潮。 本案的核心命题是：表演史馆不能只复刻“盛大感”；档案、劳动、技术和观众经验必须共同解释表演如何发生。"
+      ],
+      [
+        "展项设计",
+        "线性档案、悬挂屏、手势浏览、服装人台和纱幕投影各自说明历史、过程、检索、物质与情境；屏幕必须标示来源。"
+      ],
+      [
+        "布展与图文",
+        "红幕入口应提供可绕行的低刺激路径；大声场剧场外需要文字和对象阅读的静区，防止观众只停留在拍照点。"
+      ],
+      [
+        "研究判断",
+        "其方法价值在于将“演出”拆成档案、身体、服装、技术和观众感受，而非把马戏史处理为明星图集。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.culturalinnovations.com/ringling-circus-museum",
+      "https://www.ringling.org/visit/venues/circus-museum/",
+      "https://newangle.co.uk/wp-content/uploads/2025/05/Image02-2-1440x960.jpg",
+      "https://newangle.co.uk/wp-content/uploads/2025/05/Image12-2-1440x960.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "US-RGS-01",
+    "title": "The Greatest Show On Earth® Gallery — Ringling Bros. and Barnum & Bailey’s Feld Era",
+    "museum": "The Ringling Circus Museum",
+    "location": "Sarasota, Florida, USA",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Cultural Innovations（内容、诠释、展览与图形设计）；New Angle（视听媒体软件）；Electrosonic（视听硬件）；DHA Designs（照明）",
+    "year": "2024开幕；馆方当前列为永久展",
+    "design_source": "https://www.culturalinnovations.com/ringling-circus-museum",
+    "museum_source": "https://www.ringling.org/visit/venues/circus-museum/",
+    "media_source": "https://www.newangle.co.uk/projects/the-ringling-circus-museum/",
+    "evidence": "Cultural Innovations确认其自2018年受The Ringling委任重构当代马戏画廊，负责四个主题区的内容、诠释、展览和图形设计，讲述1967年后Feld家族时期由帐篷到室内场馆、巡演技术与演出／后台机制的50年变迁；New Angle确认其与CI共同完成四区视听软件，并逐段说明档案影片、后台屏幕、四个手势互动、10×4米180度纱幕投影、五件服装与12声道声景。馆方当前将该画廊标为“Now Open!”的永久展，位于Tibbals Learning Center二层并纳入Circus Museum参观。",
+    "image_assessment": "2026-08-24人工审阅：图06为开放式对象／服装／人物展段，可见实体服装、展示台、互动终端、轮椅观众与完整动线；图07为New Angle来源的红幕档案—媒体段，可见真实布幕、壁挂展框、电视屏、说明牌与成套光照。两图均为已建成内景，媒介与叙事段不同，尺寸840×630与2560×1707；排除非目标历史画廊和建筑外观。",
+    "image_source_1": "https://newangle.co.uk/wp-content/uploads/2025/05/Image02-2-1440x960.jpg",
+    "image_source_2": "https://newangle.co.uk/wp-content/uploads/2025/05/Image12-2-1440x960.jpg",
+    "next_gate": "2026-08-24媒体阶段已下载New Angle公开的10张、每张1440×960项目图并制成联系表人工复核。最终图1为Zone 1红幕档案／线性影片历史导入段（Image02），实体图框、屏幕和触摸界面共同解释Feld时代的变革；最终图2为Zone 3 180度纱幕投影、舞台灯光与观众座位构成的沉浸式演出段（Image12）。两图均为已建成室内实景，媒介与叙事段不同，非界面截屏、建筑外观或孤立设备；待全批RGB JPEG规范化、Pillow重开、上传与最终manifest写入。",
+    "audit_date": "2026-08-24"
+  }
+}

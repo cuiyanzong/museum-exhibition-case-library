@@ -1,0 +1,170 @@
+[
+  {
+    "id": "e707218b-9a54-4d26-a6c4-dc91666d30cb",
+    "attributes": {
+      "drupal_internal__id": 80986,
+      "drupal_internal__revision_id": 269176,
+      "langcode": "en",
+      "status": true,
+      "created": "2023-11-06T12:45:53+00:00",
+      "parent_id": "122330",
+      "parent_type": "node",
+      "parent_field_name": "field_add_paragraph",
+      "behavior_settings": [],
+      "default_langcode": true,
+      "revision_translation_affected": null,
+      "field_body_left_": {
+        "value": "<drupal-media data-align=\"center\" data-caption=\"Entrance to The Great Port gallery with an interactive model of ships, a train and a crane by the dock warehouses on the right&amp;nbsp;© Mark McNulty\" data-entity-type=\"media\" data-entity-uuid=\"48abe504-0a32-4936-a733-448ed8f24dea\" data-view-mode=\"\"></drupal-media>\r\n\r\n<drupal-media data-align=\"center\" data-caption=\"'Smells galore' sensory display in The Great Port gallery&amp;nbsp;© Pete Carr&amp;nbsp;\" data-entity-type=\"media\" data-entity-uuid=\"c5cdf8b3-11da-4c0e-9947-2f4cf831cdf5\" data-view-mode=\"\"></drupal-media>\r\n",
+        "format": "full_html",
+        "processed": "<figure role=\"group\" class=\"caption caption-drupal-media align-center\">\n<article class=\"media media--type-image media--view-mode-bbd-media\">\n  \n      \n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://images.liverpoolmuseums.org.uk/2023-11/MoL-great-port-gallery-1080x720-Mark-McNulty.jpg\" width=\"1080\" height=\"720\" alt=\"Museum gallery with a horse drawn carriage and old fashioned steam train on display with a model of the dock warehouses and crane and many video screens\" typeof=\"foaf:Image\">\n\n</div>\n      \n  </article>\n\n<figcaption>Entrance to The Great Port gallery with an interactive model of ships, a train and a crane by the dock warehouses on the right&nbsp;© Mark McNulty</figcaption>\n</figure>\n\n\n<figure role=\"group\" class=\"caption caption-drupal-media align-center\">\n<article class=\"media media--type-image media--view-mode-bbd-media\">\n  \n      \n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://images.liverpoolmuseums.org.uk/2023-11/MoL-smells-galore-1080x720-Pete-Carr_0.jpg\" width=\"1080\" height=\"720\" alt=\"Museum display titled 'Smells galore' with a row of flaps labelled 'Lift to smell' alongside another row of flaps labelled 'Import or export? Lift for answer'.\" typeof=\"foaf:Image\">\n\n</div>\n      \n  </article>\n\n<figcaption>'Smells galore' sensory display in The Great Port gallery&nbsp;© Pete Carr&nbsp;</figcaption>\n</figure>\n\n"
+      },
+      "field_body_right_": {
+        "value": "<p data-pm-slice=\"1 1 []\">Visit The Great Port gallery to discover how Liverpool transformed from a small tidal inlet into one of the world’s greatest and well-known port.</p>\r\n\r\n<h3>Lighting</h3>\r\n\r\n<p>There are low light levels within this gallery. &nbsp;</p>\r\n\r\n<ul>\r\n\t<li>Spotlights are used to help view the collections</li>\r\n\t<li>Some information panels are backlit, which can be bright</li>\r\n</ul>\r\n\r\n<p>Please take care and avoid areas with bright backlighting and spotlights if you are sensitive to light.&nbsp; If you have tinted glasses it would be useful to bring them.&nbsp;</p>\r\n\r\n<h3>Format</h3>\r\n\r\n<p>Many videos in The Great Port gallery have options for British Sign Language interpretation and closed captions. They include Induction Loops.</p>\r\n\r\n<h3>Interactives</h3>\r\n\r\n<p>The Great Port gallery includes some tactile displays and a sensory smell display. If you want to ensure that these interactives are available before your visit please get in touch.</p>\r\n",
+        "format": "full_html",
+        "processed": "<p data-pm-slice=\"1 1 []\">Visit The Great Port gallery to discover how Liverpool transformed from a small tidal inlet into one of the world’s greatest and well-known port.</p>\n\n<h3>Lighting</h3>\n\n<p>There are low light levels within this gallery. &nbsp;</p>\n\n<ul>\n\t<li>Spotlights are used to help view the collections</li>\n\t<li>Some information panels are backlit, which can be bright</li>\n</ul>\n\n<p>Please take care and avoid areas with bright backlighting and spotlights if you are sensitive to light.&nbsp; If you have tinted glasses it would be useful to bring them.&nbsp;</p>\n\n<h3>Format</h3>\n\n<p>Many videos in The Great Port gallery have options for British Sign Language interpretation and closed captions. They include Induction Loops.</p>\n\n<h3>Interactives</h3>\n\n<p>The Great Port gallery includes some tactile displays and a sensory smell display. If you want to ensure that these interactives are available before your visit please get in touch.</p>\n"
+      },
+      "field_cta_link": null,
+      "field_cta_link_right_": null,
+      "field_cta_style_left_": "Solid",
+      "field_cta_style_right_": "Solid",
+      "field_image_left_url": null,
+      "field_image_right_url": null,
+      "field_left_panel": "Text",
+      "field_pre_title_left_": "Ground floor",
+      "field_pre_title_right_": null,
+      "field_right_panel": "Text",
+      "field_text_bg_color_left": null,
+      "field_text_bg_color_right": null,
+      "field_text_with_bg_left": null,
+      "field_text_with_bg_right": null,
+      "field_title": "The Great Port gallery",
+      "field_title_left": null,
+      "field_title_right_": null
+    },
+    "relationships": {
+      "paragraph_type": {
+        "data": {
+          "type": "paragraphs_type--paragraphs_type",
+          "id": "bdb1bfd6-c10c-42df-8850-d8be81eb9f77",
+          "meta": {
+            "drupal_internal__target_id": "split_panel_text_image"
+          }
+        },
+        "links": {
+          "related": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/e707218b-9a54-4d26-a6c4-dc91666d30cb/paragraph_type?resourceVersion=id%3A269176"
+          },
+          "self": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/e707218b-9a54-4d26-a6c4-dc91666d30cb/relationships/paragraph_type?resourceVersion=id%3A269176"
+          }
+        }
+      },
+      "field_image_left": {
+        "data": null,
+        "links": {
+          "related": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/e707218b-9a54-4d26-a6c4-dc91666d30cb/field_image_left?resourceVersion=id%3A269176"
+          },
+          "self": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/e707218b-9a54-4d26-a6c4-dc91666d30cb/relationships/field_image_left?resourceVersion=id%3A269176"
+          }
+        }
+      },
+      "field_image_right": {
+        "data": null,
+        "links": {
+          "related": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/e707218b-9a54-4d26-a6c4-dc91666d30cb/field_image_right?resourceVersion=id%3A269176"
+          },
+          "self": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/e707218b-9a54-4d26-a6c4-dc91666d30cb/relationships/field_image_right?resourceVersion=id%3A269176"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "387b36ef-e905-40c6-bd54-7cf589ec53c9",
+    "attributes": {
+      "drupal_internal__id": 80994,
+      "drupal_internal__revision_id": 269181,
+      "langcode": "en",
+      "status": true,
+      "created": "2023-11-06T14:36:24+00:00",
+      "parent_id": "122330",
+      "parent_type": "node",
+      "parent_field_name": "field_add_paragraph",
+      "behavior_settings": [],
+      "default_langcode": true,
+      "revision_translation_affected": null,
+      "field_body_left_": {
+        "value": "<drupal-media data-align=\"center\" data-caption=\"&amp;nbsp;Entrance to The People's Republic gallery © Pete Carr\" data-entity-type=\"media\" data-entity-uuid=\"31d02e73-a9f4-4c23-b1e4-60c7888f2842\" data-view-mode=\"\"></drupal-media>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<drupal-media data-align=\"center\" data-caption=\"Seating near the window&amp;nbsp; of The People's Republic gallery © Pete Carr\" data-entity-type=\"media\" data-entity-uuid=\"b828ddbd-9f39-49de-b896-4c51d3949316\" data-view-mode=\"\"></drupal-media>\r\n\r\n<p>&nbsp;</p>\r\n<img alt=\"arched entrance in museum display, leading to a darker area with slightly uneven paving stones as flooring\" data-caption=\"Entrance to the court housing reconstruction\" data-entity-type=\"file\" data-entity-uuid=\"4e147103-da2b-4255-a739-aa16889a3fea\" src=\"https://images.liverpoolmuseums.org.uk/inline-images/mol-court-housing-entrance-1080w.jpg\" />\r\n<p>&nbsp;</p>\r\n",
+        "format": "full_html",
+        "processed": "<figure role=\"group\" class=\"caption caption-drupal-media align-center\">\n<article class=\"media media--type-image media--view-mode-bbd-media\">\n  \n      \n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://images.liverpoolmuseums.org.uk/2023-11/MoL-Peoples-Republic-1080x720-DSC_5685-pete-carr.jpg\" width=\"1080\" height=\"720\" alt=\"historic and modern images of Liverpool displayed on high panels, with a sculpture made from wheelie bins above them, in museum\" typeof=\"foaf:Image\">\n\n</div>\n      \n  </article>\n\n<figcaption>&nbsp;Entrance to The People's Republic gallery © Pete Carr</figcaption>\n</figure>\n\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<figure role=\"group\" class=\"caption caption-drupal-media align-center\">\n<article class=\"media media--type-image media--view-mode-bbd-media\">\n  \n      \n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://images.liverpoolmuseums.org.uk/2023-11/MoL-seating-Galkoffs-1080x720-pete-carr.jpg\" width=\"1080\" height=\"720\" alt=\"wall of illustrations and map of Liverpool on tall glass panels with brown seating cubes in front\" typeof=\"foaf:Image\">\n\n</div>\n      \n  </article>\n\n<figcaption>Seating near the window&nbsp; of The People's Republic gallery © Pete Carr</figcaption>\n</figure>\n\n\n<p>&nbsp;</p>\n<figure role=\"group\" class=\"caption caption-img\">\n<img alt=\"arched entrance in museum display, leading to a darker area with slightly uneven paving stones as flooring\" data-entity-type=\"file\" data-entity-uuid=\"4e147103-da2b-4255-a739-aa16889a3fea\" src=\"https://images.liverpoolmuseums.org.uk/inline-images/mol-court-housing-entrance-1080w.jpg\" width=\"1080\" height=\"810\" loading=\"lazy\">\n<figcaption>Entrance to the court housing reconstruction</figcaption>\n</figure>\n\n<p>&nbsp;</p>\n"
+      },
+      "field_body_right_": {
+        "value": "<p data-pm-slice=\"1 1 []\">This part of the museum explores the experience of living in the city.</p>\r\n\r\n<h4>Access route and flooring</h4>\r\n\r\n<p>The court housing reconstruction gives visitors a chance to step back in time and view what houses used to be like in Liverpool. Please take care when entering this part of the gallery due to the uneven flooring and narrow access routes.</p>\r\n\r\n<h3>Lighting</h3>\r\n\r\n<p>Natural lighting is used throughout most of this gallery, except for the initial entrance to the gallery and the court housing reconstruction.</p>\r\n\r\n<h3>Format</h3>\r\n\r\n<p>Throughout this gallery you will find audio-visual information including closed captions, British Sign Language interpretation and induction loops.</p>\r\n\r\n<p>Information in this gallery is mainly white text on a red background, with limited use of Braille.</p>\r\n\r\n<h3>Interactives</h3>\r\n\r\n<p>Within this gallery there are a variety of interactives located within the court housing reconstruction.</p>\r\n\r\n<h3>Noise pollution</h3>\r\n\r\n<p>The People’s Republic is a large gallery with high levels of noise pollution, particularly around the video displays. You may benefit from having headphones or ear buds if you are sensitive to noise.</p>\r\n\r\n<h3>Viewpoint</h3>\r\n\r\n<p>Behind the cathedral display you will see the spectacular views of Liverpool’s Liver Birds. This is a great spot to take a break, however there is limited seating within this area.</p>\r\n\r\n<h3>Trigger warning</h3>\r\n\r\n<p>If you follow to the left once having entered the gallery you will come across an audio-visual of war footage. Visitors can hear gun fire, high pitch whistles and shouting. These sounds can be heard within other areas of the gallery. There are scenes of deceased soldiers. If you think someone within your visiting group may be affected by this, please use the access route to right of the gallery entrance.</p>\r\n",
+        "format": "full_html",
+        "processed": "<p data-pm-slice=\"1 1 []\">This part of the museum explores the experience of living in the city.</p>\n\n<h4>Access route and flooring</h4>\n\n<p>The court housing reconstruction gives visitors a chance to step back in time and view what houses used to be like in Liverpool. Please take care when entering this part of the gallery due to the uneven flooring and narrow access routes.</p>\n\n<h3>Lighting</h3>\n\n<p>Natural lighting is used throughout most of this gallery, except for the initial entrance to the gallery and the court housing reconstruction.</p>\n\n<h3>Format</h3>\n\n<p>Throughout this gallery you will find audio-visual information including closed captions, British Sign Language interpretation and induction loops.</p>\n\n<p>Information in this gallery is mainly white text on a red background, with limited use of Braille.</p>\n\n<h3>Interactives</h3>\n\n<p>Within this gallery there are a variety of interactives located within the court housing reconstruction.</p>\n\n<h3>Noise pollution</h3>\n\n<p>The People’s Republic is a large gallery with high levels of noise pollution, particularly around the video displays. You may benefit from having headphones or ear buds if you are sensitive to noise.</p>\n\n<h3>Viewpoint</h3>\n\n<p>Behind the cathedral display you will see the spectacular views of Liverpool’s Liver Birds. This is a great spot to take a break, however there is limited seating within this area.</p>\n\n<h3>Trigger warning</h3>\n\n<p>If you follow to the left once having entered the gallery you will come across an audio-visual of war footage. Visitors can hear gun fire, high pitch whistles and shouting. These sounds can be heard within other areas of the gallery. There are scenes of deceased soldiers. If you think someone within your visiting group may be affected by this, please use the access route to right of the gallery entrance.</p>\n"
+      },
+      "field_cta_link": null,
+      "field_cta_link_right_": null,
+      "field_cta_style_left_": "Solid",
+      "field_cta_style_right_": "Solid",
+      "field_image_left_url": null,
+      "field_image_right_url": null,
+      "field_left_panel": "Text",
+      "field_pre_title_left_": "Second floor",
+      "field_pre_title_right_": null,
+      "field_right_panel": "Text",
+      "field_text_bg_color_left": null,
+      "field_text_bg_color_right": null,
+      "field_text_with_bg_left": null,
+      "field_text_with_bg_right": null,
+      "field_title": "The People’s Republic gallery",
+      "field_title_left": null,
+      "field_title_right_": null
+    },
+    "relationships": {
+      "paragraph_type": {
+        "data": {
+          "type": "paragraphs_type--paragraphs_type",
+          "id": "bdb1bfd6-c10c-42df-8850-d8be81eb9f77",
+          "meta": {
+            "drupal_internal__target_id": "split_panel_text_image"
+          }
+        },
+        "links": {
+          "related": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/387b36ef-e905-40c6-bd54-7cf589ec53c9/paragraph_type?resourceVersion=id%3A269181"
+          },
+          "self": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/387b36ef-e905-40c6-bd54-7cf589ec53c9/relationships/paragraph_type?resourceVersion=id%3A269181"
+          }
+        }
+      },
+      "field_image_left": {
+        "data": null,
+        "links": {
+          "related": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/387b36ef-e905-40c6-bd54-7cf589ec53c9/field_image_left?resourceVersion=id%3A269181"
+          },
+          "self": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/387b36ef-e905-40c6-bd54-7cf589ec53c9/relationships/field_image_left?resourceVersion=id%3A269181"
+          }
+        }
+      },
+      "field_image_right": {
+        "data": null,
+        "links": {
+          "related": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/387b36ef-e905-40c6-bd54-7cf589ec53c9/field_image_right?resourceVersion=id%3A269181"
+          },
+          "self": {
+            "href": "https://content.liverpoolmuseums.org.uk/jsonapi/paragraph/split_panel_text_image/387b36ef-e905-40c6-bd54-7cf589ec53c9/relationships/field_image_right?resourceVersion=id%3A269181"
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "content": {
+    "id": "UK-NI-BRAID-01",
+    "title": "The Braid — Mid-Antrim Museum History Gallery",
+    "subtitle": "The Braid: Ballymena Town Hall, Museum and Arts Centre / Mid-Antrim Museum｜Ballymena, Northern Ireland, United Kingdom",
+    "year": "2008；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以Mid-Antrim从早期地方变迁到产业、社区与当代生活的路径，在博物馆史厅中将物件、时间线、图形与互动阅读结合。",
+    "insight": "地方史展的结构应让地景、工作、家庭和社会转型彼此连接，避免把地区身份缩成一串“重要年代”。",
+    "tags": [
+      "地方史",
+      "产业记忆",
+      "时间线",
+      "对象近读"
+    ],
+    "route": [
+      "地景与早期定居",
+      "Shifting Frontiers",
+      "产业与贸易",
+      "社区生活",
+      "当代地方回望"
+    ],
+    "images": [
+      "uk-ni-braid-01-01.jpg",
+      "uk-ni-braid-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/uk-ni-braid-01-01_cd380d6b.jpg",
+      "/manus-storage/uk-ni-braid-01-02_c71d7331.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Shifting Frontiers。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：产业社会史。来源：RAA公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：地景与早期定居—Shifting Frontiers—产业与贸易—社区生活—当代地方回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从地景与中世纪变迁开始，转向产业和社区，呈现地方身份如何在土地、劳动与迁移中持续重写。"
+      ],
+      [
+        "展项设计",
+        "工具、纺织与贸易对象、历史图像、时间线和屏幕应共同说明物件的使用者与经济网络，不能只做怀旧陈列。"
+      ],
+      [
+        "布展与图文",
+        "玻璃构件、大幅景观图和斜面阅读台需要控制反射；章节标题应从远处可见，细节信息则服务近读。"
+      ],
+      [
+        "研究判断",
+        "地方博物馆的叙事力量来自把“社区”做成材料关系，而不是以统一的地方性风格取代复杂的历史。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "UK-NI-BRAID-01",
+    "title": "The Braid — Mid-Antrim Museum History Gallery",
+    "museum": "The Braid: Ballymena Town Hall, Museum and Arts Centre / Mid-Antrim Museum",
+    "location": "Ballymena, Northern Ireland, United Kingdom",
+    "region": "西欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Ralph Appelbaum Associates（展陈与社区记忆整合）；Consarc Design Group（建筑）",
+    "year": "2008；馆方当前开放",
+    "design_source": "https://raai.com/project/the-braid-ballymena-town-hall-museum-and-arts-centre/",
+    "museum_source": "https://nimc.co.uk/members/mid-antrim-museum/",
+    "evidence": "RAA项目页说明其在受保护市政厅内完成从史前至现代的地方史展览，围绕定居与变化、商业与工业、依地而生以及政治与冲突组织内容；冲突主题平衡Nationalist与Unionist声音，并通过14米高的中庭装置、Faces of Change、Collections Wall、触控终端、Distant Past、History Gallery和24米时间线，将地方记忆、藏品和多屏档案影像结合。项目面积5,382平方英尺，年份2008。Northern Ireland Museums Council在2026版权页中列Mid-Antrim Museum为会员，确认其位于The Braid，周一至周六10:00—16:00开放、免费入场；明确History Gallery以互动展示和本地／国家藏品讲述从早期至今日的中安特里姆故事。",
+    "image_assessment": "2026-08-24审阅RAA公开Braid项目图：可见真实中庭钢索人物图像装置、藏品墙与互动终端、历史对象展柜、时间线、灯光轨道和参观空间的材料细节，均为已建成内景。后续从中庭装置与History Gallery各选一张，排除纯建筑外观。",
+    "next_gate": "媒体生产阶段下载两张RAA实景，标注其所在的中庭／历史画廊；以史前定居—工业与商业—身份与冲突的多声部叙事—社区记忆回收写入五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

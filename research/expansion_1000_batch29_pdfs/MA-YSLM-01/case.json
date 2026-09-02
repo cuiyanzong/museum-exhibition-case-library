@@ -1,0 +1,74 @@
+{
+  "content": {
+    "id": "MA-YSLM-01",
+    "title": "Musée Yves Saint Laurent Marrakech — Permanent Exhibition",
+    "subtitle": "Musée Yves Saint Laurent Marrakech｜Marrakech, Morocco",
+    "year": "2017；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以Yves Saint Laurent的生涯、摩洛哥视觉来源、服装、纺织、配饰与档案关系构成长设服装叙事，连接设计过程与文化语境。",
+    "insight": "服装博物馆不能只呈现“名作清单”；服装、材料、草图和在地影响需要被组织成设计选择的连续证据。",
+    "tags": [
+      "服装叙事",
+      "摩洛哥影响",
+      "材料与档案",
+      "设计生涯"
+    ],
+    "route": [
+      "设计师与Marrakech",
+      "色彩与花园",
+      "服装轮廓与材料",
+      "配饰与图案",
+      "生涯与遗产"
+    ],
+    "images": [
+      "ma-yslm-01-01.jpg",
+      "ma-yslm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/ma-yslm-01-01_7a9bffbb.jpg",
+      "/manus-storage/ma-yslm-01-02_2acc987d.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：在地色彩／服装群像。来源：Musée Yves Saint Laurent Marrakech公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：服装与材料路径。来源：Marco Cappelletti公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：设计师与Marrakech—色彩与花园—服装轮廓与材料—配饰与图案—生涯与遗产。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以Marrakech作为长期视觉关系而非异域背景，串联服装、织物、首饰和档案，使生涯叙事保持具体的材料线索。"
+      ],
+      [
+        "展项设计",
+        "服装人台、纺织品、配饰柜、影像和题签应分别说明剪裁、来源、工艺和影响；不要用孤立礼服替代设计过程。"
+      ],
+      [
+        "布展与图文",
+        "黑色反射台和白色柱列提升服装轮廓，但需控制镜面反射、题签高度和脆弱纺织品的照度。"
+      ],
+      [
+        "研究判断",
+        "本案的价值在于将时尚作为物质文化与设计方法来展示；其风险是美学化陈列遮蔽合作、工艺和跨文化影响。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "MA-YSLM-01",
+    "title": "Musée Yves Saint Laurent Marrakech — Permanent Exhibition",
+    "museum": "Musée Yves Saint Laurent Marrakech",
+    "location": "Marrakech, Morocco",
+    "region": "非洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Christophe Martin（常设展场景设计）；Studio KO（博物馆建筑）",
+    "year": "2017；馆方当前开放",
+    "design_source": "https://www.museeyslmarrakech.com/en/presentation/",
+    "museum_source": "https://www.museeyslmarrakech.com/en/votre-visite/",
+    "evidence": "馆方介绍页明确该馆于2017年开放，Studio KO设计的4,000平方米博物馆中设400平方米Yves Saint Laurent常设展，展陈场景由Christophe Martin设计；范围还包括临展空间、礼堂、研究图书馆与书店。馆方参观页明确博物馆每周三闭馆，其余每日10:00—18:00、最晚17:30入场，并提供官方购票入口。该案以Yves Saint Laurent与摩洛哥关系、服装、色彩、工作室语境与设计生涯为叙事范围，作为人物／时尚文化遗产常设展而非纯艺术展入池。",
+    "image_assessment": "馆方、Christophe Martin和Studio KO公开项目图可见黑色展厅背景中的服装人台、局部重点照明、弧形或连续参观路径、标签墙与真实访客／维护痕迹；后续媒体阶段仅选择两张有实体展品和展陈构件的内景，排除建筑外观与纯服装宣传照。",
+    "next_gate": "媒体生产阶段核验两张有展品／人台／展厅关系的授权或馆方公开内景，明确摄影来源；以Marrakech关联—创作主题与服装对象—黑色场景舞台—色彩／材质阅读—离场后研究与出版延展完成五层研究。",
+    "audit_date": "2026-08-24"
+  }
+}

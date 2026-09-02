@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "ID-BIM-01",
+    "title": "Bank Indonesia Museum — Indonesian Monetary and Central Banking History",
+    "subtitle": "Bank Indonesia Museum｜雅加达，印度尼西亚",
+    "year": "2009；常设展",
+    "type": "货币史、贸易史与中央银行制度／互动叙事常设展",
+    "brief": "在遗产建筑中以货币、贸易、银行政策与技术型教育设施，呈现印尼金融史及中央银行在国家历史中的角色。",
+    "insight": "金融史展若只展示货币会变成货币学橱窗；它需要把货币材料、贸易网络、制度政策和普通人的使用经验连接起来。",
+    "tags": [
+      "货币史",
+      "中央银行",
+      "展柜系统",
+      "沉浸影院"
+    ],
+    "route": [
+      "遗产建筑入口",
+      "前殖民货币",
+      "贸易与全球纸币",
+      "中央银行制度",
+      "金库与钱币室",
+      "沉浸影院回看"
+    ],
+    "images": [
+      "id-bim-01.jpg",
+      "id-bim-02.jpeg"
+    ],
+    "imageUrls": [
+      "/manus-storage/id-bim-01_3b1c7a5e.jpg",
+      "/manus-storage/id-bim-02_1e45ed4c.jpeg"
+    ],
+    "captions": [
+      "Bank Indonesia Museum中的实体展柜、模型与参观者。来源：Relicase／公开现场摄影。",
+      "Bank Indonesia Museum的货币展柜与历史信息空间。来源：公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：遗产建筑入口—前殖民货币—贸易与全球纸币—中央银行制度—金库与钱币室—沉浸影院回看。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从14世纪前殖民货币到现代中央银行，使经济制度的变化能够通过具体币种、贸易和政策语境被理解。"
+      ],
+      [
+        "展项设计",
+        "86余件不同类型展柜应处理硬币、纸币、金条、文献和互动终端的保育与观看差异；金库式空间可作为制度转换的情绪节点。"
+      ],
+      [
+        "布展与图文",
+        "光纤照明、垂直柜、台座柜和黑场影像需互相配合，避免反射和高密度货币排布降低信息可读性。"
+      ],
+      [
+        "研究判断",
+        "该案例说明制度史并不抽象：当货币、档案与技术媒介被清楚分层，经济教育可以建立在可见物证上。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "ID-BIM-01",
+    "country": "印度尼西亚",
+    "region": "东南亚",
+    "title": "Bank Indonesia Museum — Indonesian Monetary and Central Banking History",
+    "museum": "Bank Indonesia Museum",
+    "location": "雅加达，印度尼西亚",
+    "year": "2009；常设展",
+    "type": "货币史、贸易史与中央银行制度／互动叙事常设展",
+    "studio": "BDA Design（教育与研究型博物馆展陈设计协作）／Relicase（展柜设计、制作与安装）／Bank Indonesia（内容与运营）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.relicase.com/project/bank-museum-art-gallery/560",
+    "museum_source": "https://www.bi.go.id/en/layanan/museum-bi/default.aspx",
+    "evidence": "Relicase明确其与印尼建筑事务所BDA Design协作设计面向公众的教育与研究型常设展，并完成86余件光纤照明垂直展柜、台座展柜与独立展柜的配置；展览以14世纪前殖民货币、全球纸币、贸易与货币演变呈现印尼银行在国家历史中的角色。Bank Indonesia官方页说明BI Museum以文化遗产建筑承载银行在印尼历史中的角色及其政策脉络，以技术型教育设施呈现钱币与历史文献；页面列出Gold Monetary Room、Numismatic Room、Immersive Cinema等展区，并说明2009年以完善布局与互动多媒体对公众开放。",
+    "image_credit": "Bank Indonesia／Relicase／Indonesia Design与访客现场摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：官方与制作方图可见实际访客、成排货币展柜、金库式展厅、沉浸影院、互动终端和实体金条展示；展柜反射、灯光、地面磨损及人物尺度确认其为已建成常设展厅，而非效果图或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

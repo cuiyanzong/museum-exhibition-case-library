@@ -1,0 +1,180 @@
+{
+  "total": 100,
+  "reachable": 57,
+  "withImages": 45,
+  "imageFiles": 274,
+  "failed": [
+    {
+      "id": "JP-06",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "JP-09",
+      "error": "fetch failed"
+    },
+    {
+      "id": "JP-11",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "JP-18",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "JP-19",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "JP-23",
+      "error": "fetch failed"
+    },
+    {
+      "id": "KR-09",
+      "error": "fetch failed"
+    },
+    {
+      "id": "KR-10",
+      "error": "fetch failed"
+    },
+    {
+      "id": "KR-11",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "KR-12",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "KR-13",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "KR-17",
+      "error": "fetch failed"
+    },
+    {
+      "id": "KR-18",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "RU-03",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "RU-09",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "RU-10",
+      "error": "fetch failed"
+    },
+    {
+      "id": "RU-12",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "NO-05",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "NO-06",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "NO-07",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "NO-08",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "NO-09",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "CE-03",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "CE-04",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "CE-07",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "ME-01",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "ME-02",
+      "error": "fetch failed"
+    },
+    {
+      "id": "ME-03",
+      "error": "fetch failed"
+    },
+    {
+      "id": "ME-04",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "ME-05",
+      "error": "fetch failed"
+    },
+    {
+      "id": "ME-07",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "ME-08",
+      "error": "fetch failed"
+    },
+    {
+      "id": "OC-05",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "OC-06",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "OC-07",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "SA-02",
+      "error": "fetch failed"
+    },
+    {
+      "id": "SA-04",
+      "error": "fetch failed"
+    },
+    {
+      "id": "AF-02",
+      "error": "fetch failed"
+    },
+    {
+      "id": "AF-03",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "AF-04",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "CA-02",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "CA-03",
+      "error": "fetch failed"
+    },
+    {
+      "id": "CA-04",
+      "error": "fetch failed"
+    }
+  ]
+}

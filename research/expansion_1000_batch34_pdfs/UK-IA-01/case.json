@@ -1,0 +1,89 @@
+{
+  "content": {
+    "id": "UK-IA-01",
+    "title": "Science Museum — Information Age",
+    "subtitle": "Science Museum｜London, United Kingdom",
+    "year": "2014年开放；馆方当前每日10:00–18:00开放",
+    "type": "信息与通信技术社会史叙事性常设展",
+    "brief": "以六张“网络”而非线性发明史组织信息时代：Cable、Exchange、Broadcast、Constellation、Web与Cell在城镇广场式总布局中并置，使通信技术的基础设施、使用者与社会后果形成互读。",
+    "insight": "通信史展容易落入“发明清单”；把网络理解为人、物、地理、资本与日常行为的组合，才能让技术史摆脱单线进步叙事。",
+    "tags": [
+      "通信社会史",
+      "网络叙事",
+      "对象与交互",
+      "环廊动线"
+    ],
+    "route": [
+      "城镇广场式导入与调谐线圈",
+      "Cable早期有线网络",
+      "Exchange交换与连接",
+      "Broadcast／Constellation远距传播",
+      "Web／Cell网络社会与当代回望"
+    ],
+    "images": [
+      "uk-ia-01-01.jpg",
+      "uk-ia-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/uk-ia-01-01_acf7e128.jpg",
+      "/manus-storage/uk-ia-01-02_e1e065db.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Constellation／卫星与全球广播网络。来源：Universal Design Studio项目页／Andrew Meredith摄影；仅作研究性案例索引。",
+      "已建成展厅实景：Cable／早期电报网络。来源：Universal Design Studio项目页／Andrew Meredith摄影；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：城镇广场式导入与调谐线圈—Cable早期有线网络—Exchange交换与连接—Broadcast／Constellation远距传播—Web／Cell网络社会与当代回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以中央广场和高架环廊建立“多个网络并存”的观看框架，让观众在不同尺度上往返；每个网络既讨论技术构件，也讨论它如何改变人与人、人与信息之间的关系。 本案的核心命题是：通信史展容易落入“发明清单”；把网络理解为人、物、地理、资本与日常行为的组合，才能让技术史摆脱单线进步叙事。"
+      ],
+      [
+        "展项设计",
+        "卫星、通信设备、绝缘子、线缆、档案图像、互动屏和story-boxes共同承担证据功能。对象提供物质尺度，交互与图文将其连接到交换、广播、全球化和移动通信的社会使用。"
+      ],
+      [
+        "布展与图文",
+        "开放式广场保持远观和选择路径，局部网络以垂直设备、低位展柜、可停留座椅和环廊高度变化制造辨识。高密度技术信息必须以可近读标签和安静阅读面平衡。"
+      ],
+      [
+        "研究判断",
+        "可迁移原则是让“网络”成为空间语法而非主题标签：不同媒介的对象、基础设施和人的行动应被持续放在可比较关系中。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://universaldesignstudio.com/project/information-age",
+      "https://blog.sciencemuseum.org.uk/grand-designs-for-information-age/",
+      "https://www.sciencemuseum.org.uk/see-and-do/information-age"
+    ]
+  },
+  "ledger": {
+    "id": "UK-IA-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "Science Museum — Information Age",
+    "museum": "Science Museum",
+    "location": "London, United Kingdom",
+    "region": "西欧",
+    "studio": "Universal Design Studio（整体空间、展陈与叙事整合设计）；Science Museum策展、叙事与社区参与团队（内容发展）；Andrew Meredith（项目摄影）",
+    "year": "2014年开放；馆方当前每日10:00–18:00开放",
+    "type": "信息与通信技术社会史叙事性常设展",
+    "design_source": "https://universaldesignstudio.com/project/information-age",
+    "museum_source": "https://www.sciencemuseum.org.uk/see-and-do/information-age",
+    "operations_source": "https://www.sciencemuseum.org.uk/see-and-do/information-age",
+    "design_source_secondary": "https://blog.sciencemuseum.org.uk/grand-designs-for-information-age/",
+    "research_source": "https://journal.sciencemuseum.ac.uk/article/information-age-the-challenges/",
+    "image_source_1": "https://universaldesignstudio.com/project/information-age",
+    "image_source_2": "https://universaldesignstudio.com/project/information-age",
+    "image_url_1": "https://universaldesignstudio.com/uploads/images/Information-Age_Resized7.jpg",
+    "image_url_2": "https://universaldesignstudio.com/uploads/images/_auto1680/Information-Age_Resized3.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch34-staging/UK-IA-01/uds-original-resized7.jpg",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch34-staging/UK-IA-01/uds-original-resized3.jpg",
+    "evidence": "Universal Design Studio原始项目页将Information Age定义为Science Museum最大的新总规画廊与英国首个信息／通信技术史永久画廊，明确其以对象、叙事、诠释与空间一体化组织；该页列800余件物件、2014开放、六个改变世界的网络、城镇广场式总布局、中心调谐线圈、环绕高架步道与story-boxes，并署名Andrew Meredith摄影。Science Museum官方页确认当前每日10:00–18:00开放、六区Cable／Broadcast／Exchange／Constellation／Web／Cell及其200余年通信史叙事；馆方博客由Universal Design Studio的设计项目负责人说明其在2011受委托、全馆2,500平方米、六网络和环廊组织；馆方期刊提供更详细的策展研究边界及官方完成内景版权图。",
+    "image_review_1": "人工审核通过：3000×3538的Universal Design Studio原始项目页完成摄影，巨型卫星／广播装置、全球通信图、档案影像、展柜、交互屏、坐凳及真实观众共同构成卫星／全球广播网络的实际展厅；与下图电报网络不同，非渲染、外观或单一设备产品照。摄影署名以项目页“Photography by Andrew Meredith”为准。",
+    "image_review_2": "人工审核通过：1680×2520的Universal Design Studio原始项目页完成摄影，电报杆、绝缘子、线缆、通信设备展柜、文字面与环廊共同构成早期Cable网络的实际展厅；与卫星／广播段在对象、技术主题与空间构件上均不同，非效果图或建筑外观。摄影署名以项目页“Photography by Andrew Meredith”为准。",
+    "audit_note": "合格：Universal Design Studio的原始项目页明确整体空间、展陈与叙事整合设计；馆方与馆方博客确认2,500平方米、800余件、六网络、环廊／story-boxes布局和当前每日开放；两张Andrew Meredith署名的原始项目页高分辨率完成内景分别对应卫星／全球广播与Cable网络，叙事章节清晰不同。全库标题与馆名检索未命中，未与329例已发布记录重复。最终媒体阶段需保留摄影署名、项目页与馆方／期刊版权标注。"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "content": {
+    "id": "CA-CSTM-01",
+    "title": "Canada Science and Technology Museum — Two Grand Galleries, Five Permanent Exhibits",
+    "subtitle": "Canada Science and Technology Museum｜Ottawa, Ontario, Canada",
+    "year": "2017全馆更新后开放；Ingenium当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "在两座大型展厅的五个常设展范围中，以移动通信、身体辅助与穿戴技术等对象组串连日常生活中的科技变化；展柜、手部模型、图像和触控比较将设备史转化为人—技术关系。",
+    "insight": "科技展的叙事不应把“新”当作自然价值；把手机、假肢和穿戴物并置，能够讨论技术如何重组沟通、行动能力、身份和社会规范。",
+    "tags": [
+      "科技与日常",
+      "移动通信",
+      "辅助技术",
+      "穿戴技术",
+      "对象比较"
+    ],
+    "route": [
+      "个人技术问题导入",
+      "移动通信与随身设备",
+      "身体、医疗与辅助装置",
+      "穿戴物与社会身份",
+      "互动比较与当代反思"
+    ],
+    "images": [
+      "ca-cstm-01-01.jpg",
+      "ca-cstm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/ca-cstm-01-01_370b56ba.jpg",
+      "/manus-storage/ca-cstm-01-02_10ae8060.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：移动通信与个人技术时间线。来源：Roto公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：假肢、辅助与穿戴技术比较互动。来源：Roto公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：个人技术问题导入—移动通信与随身设备—身体、医疗与辅助装置—穿戴物与社会身份—互动比较与当代反思。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从人们如何携带和使用技术进入移动通信，再转到身体与辅助装置，使“技术在生活中”不只指消费电子，也包括能力、照护和身份的社会条件。 本案的核心命题是：科技展的叙事不应把“新”当作自然价值；把手机、假肢和穿戴物并置，能够讨论技术如何重组沟通、行动能力、身份和社会规范。"
+      ],
+      [
+        "展项设计",
+        "连续展柜中的PDA、黑莓与智能手机承担技术谱系，手部模型把设备缩放至身体尺度；假肢、穿戴物、人物图像与触控屏共同讨论医疗技术和社会使用，而不是孤立陈列发明。"
+      ],
+      [
+        "布展与图文",
+        "高饱和色柜可以区分主题，但透明玻璃、白色基座和小字标签需控制反光；互动比较屏应与原件处于同一视域，并提供静态概览与可达的操作高度。"
+      ],
+      [
+        "研究判断",
+        "本案提示科技类常设展应把对象放入“谁使用、谁受益、谁被排除”的问题链中；只有这样，设备时间线才会成为社会史而非产品目录。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://roto.com/projects/canada-science-and-technology-museum",
+      "https://ingenium.ca/scitech/en/",
+      "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-6.jpg",
+      "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-3.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "CA-CSTM-01",
+    "title": "Canada Science and Technology Museum — Two Grand Galleries, Five Permanent Exhibits",
+    "museum": "Canada Science and Technology Museum",
+    "location": "Ottawa, Ontario, Canada",
+    "region": "北美洲",
+    "status": "accepted-for-5-case-pool",
+    "studio": "Roto（两座大型展厅中五个常设展的展览与诠释设计、互动开发与原型、展柜／照明／文物支撑、主题与展项制作安装）",
+    "year": "2017全馆更新后开放；Ingenium当前运营",
+    "design_source": "https://roto.com/projects/canada-science-and-technology-museum",
+    "museum_source": "https://ingenium.ca/scitech/en/",
+    "evidence": "Roto原始项目页明确其受约设计并建造两座大型展厅中的五个展项，服务覆盖诠释设计、互动开发、展柜与文物支撑、主题／展项制作和安装，总面积17,600平方英尺；馆方展项项目经理Rachelle Fournier公开评价其将高层级的参与式体验带给观众。Ingenium关于2017更新的原始文章说明馆方策展、展陈与合同设计师共同重建了全新展览，并列出Technology in Our Lives、Medical Sensations、Sound by Design等主题，强调以馆藏、公众经验和外部专家共同形成对象叙事。Ingenium当前官网列CSTM为在运营馆，提供当日购票、开放时间（周一至周日09:00–17:00）和沉浸式展览／活动入口，构成可靠运营线索。",
+    "image_assessment": "2026-08-26人工审阅两张Roto项目页原始完成摄影。图6（1920×1480）是完整的移动通信与个人技术展段：蓝色连续展柜将早期移动设备、PDA、黑莓、智能手机与人物手部模型编为一组，配有时间／对象说明与互动界面，形成“技术如何进入日常”叙事。图3（1920×1382）是不同的身体与辅助技术展段：紫色展柜展示假肢、辅助装置、服装／穿戴物、人物图像、标签和触控比较界面，形成“医学／身体技术如何重塑生活”的对象—互动叙事。两图均清晰呈现真实建成展厅的完整展段、展柜、标签与互动装置，主题和空间不同；并非空白页面、效果图、建筑外观或孤立设备特写。此前直接下载受SSL阻塞的问题已在同日以Roto公开1920媒体URL成功取得原图而解决。",
+    "image_source_1": "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-6.jpg",
+    "image_source_2": "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-3.jpg",
+    "media_locator": "Roto原始项目页：https://roto.com/projects/canada-science-and-technology-museum；本地人工审阅版本：/home/ubuntu/webdev-static-assets/batch31-staging/CA-CSTM-01/roto-cstm-6.jpg（移动通信与个人技术）及roto-cstm-3.jpg（假肢／辅助与穿戴技术）。",
+    "audit_date": "2026-08-26"
+  }
+}

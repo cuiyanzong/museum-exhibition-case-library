@@ -1,0 +1,2607 @@
+[
+  {
+    "id": "JP-01",
+    "title": "Mission Survival: 10 Billion",
+    "source": "https://www.miraikan.jst.go.jp/en/exhibitions/world/missionsurvival/",
+    "finalUrl": "https://www.miraikan.jst.go.jp/en/exhibitions/world/missionsurvival/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.miraikan.jst.go.jp/assets_c/2021/06/20210601_survival_ogp-thumb-1200x630-10278.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-01-01.jpg",
+        "bytes": 317696,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.miraikan.jst.go.jp/_assets/img/global/mega-menu-exhibitions-world.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-01-03.jpg",
+        "bytes": 55807,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-02",
+    "title": "Geo-Cosmos",
+    "source": "https://www.miraikan.jst.go.jp/en/exhibitions/tsunagari/geo-cosmos/",
+    "finalUrl": "https://www.miraikan.jst.go.jp/en/exhibitions/tsunagari/geo-cosmos/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.miraikan.jst.go.jp/assets_c/2022/04/202204_geocosmos_ogp-thumb-1200x630-12250.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-02-01.jpg",
+        "bytes": 196668,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.miraikan.jst.go.jp/_assets/img/global/mega-menu-exhibitions-world.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-02-03.jpg",
+        "bytes": 55807,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-03",
+    "title": "Planetary Crisis",
+    "source": "https://www.miraikan.jst.go.jp/en/exhibitions/world/planetarycrisis/",
+    "finalUrl": "https://www.miraikan.jst.go.jp/en/exhibitions/world/planetarycrisis/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.miraikan.jst.go.jp/assets_c/2023/11/main01_planetarycrisis_20231121-thumb-1200x800-15529.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-03-01.jpg",
+        "bytes": 378387,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.miraikan.jst.go.jp/_assets/img/global/mega-menu-exhibitions-world.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-03-03.jpg",
+        "bytes": 55807,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-04",
+    "title": "Japan Gallery: Nature of the Japanese Archipelago",
+    "source": "https://www.kahaku.go.jp/chinese_trad/",
+    "finalUrl": "https://www.kahaku.go.jp/chinese_trad/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/ogp.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-01.png",
+        "bytes": 36847,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000048.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-02.webp",
+        "bytes": 104500,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000050.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-03.webp",
+        "bytes": 190212,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000051.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-04.webp",
+        "bytes": 68042,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000053.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-05.webp",
+        "bytes": 112236,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000052.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-06.webp",
+        "bytes": 69206,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000054.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-07.webp",
+        "bytes": 58766,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000040.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-04-08.webp",
+        "bytes": 1462196,
+        "imageType": "image/webp"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-05",
+    "title": "Global Gallery: Science and Technology",
+    "source": "https://www.kahaku.go.jp/chinese_trad/",
+    "finalUrl": "https://www.kahaku.go.jp/chinese_trad/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/ogp.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-01.png",
+        "bytes": 36847,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000048.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-02.webp",
+        "bytes": 104500,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000050.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-03.webp",
+        "bytes": 190212,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000051.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-04.webp",
+        "bytes": 68042,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000053.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-05.webp",
+        "bytes": 112236,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000052.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-06.webp",
+        "bytes": 69206,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000054.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-07.webp",
+        "bytes": 58766,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000040.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-05-08.webp",
+        "bytes": 1462196,
+        "imageType": "image/webp"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-06",
+    "title": "The Great Hanshin-Awaji Earthquake Memorial",
+    "source": "https://www.kobe-sumai-machi.or.jp/english/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "JP-07",
+    "title": "Documentary of East Japan Earthquake",
+    "source": "http://rias-ark.sakura.ne.jp/2/en/sinsai/",
+    "finalUrl": "http://rias-ark.sakura.ne.jp/2/en/sinsai/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2015/04/6-1-e1428210745918.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-07-01.jpg",
+        "bytes": 1232009,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2015/04/6-2.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-07-02.jpg",
+        "bytes": 1798219,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2015/04/6-3.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-07-03.jpg",
+        "bytes": 2143892,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2018/03/image7.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-07-04.jpg",
+        "bytes": 881470,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2018/03/image8.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-07-05.jpg",
+        "bytes": 615851,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2018/03/image13-1024x768.jpg",
+        "error": "This operation was aborted"
+      },
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2018/03/image5-2-1024x768.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-07-07.jpg",
+        "bytes": 119307,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "http://rias-ark.sakura.ne.jp/2/wp-content/uploads/2018/03/image10-1024x768.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-07-08.jpg",
+        "bytes": 146743,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-08",
+    "title": "The Great East Japan Earthquake and Nuclear Disaster Memorial Museum",
+    "source": "https://www.fipo.or.jp/lore/",
+    "finalUrl": "https://www.fipo.or.jp/lore/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.fipo.or.jp/lore/lore_cms/wp-content/themes/loretheme-new/images/slide-text.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-08-01.png",
+        "bytes": 36003,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.fipo.or.jp/lore/lore_cms/wp-content/themes/loretheme-new/images/bnr_kataribe.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-08-03.png",
+        "bytes": 317178,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.fipo.or.jp/lore/lore_cms/wp-content/themes/loretheme-new/images/exhibition/10.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-08-04.jpg",
+        "bytes": 161556,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.fipo.or.jp/lore/lore_cms/wp-content/themes/loretheme-new/images/exhibition/211020_08.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-08-05.jpg",
+        "bytes": 115590,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.fipo.or.jp/lore/lore_cms/wp-content/themes/loretheme-new/images/exhibition/09.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-08-06.jpg",
+        "bytes": 273579,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.fipo.or.jp/lore/lore_cms/wp-content/themes/loretheme-new/images/access/map_01.png?2",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-08-08.png",
+        "bytes": 355991,
+        "imageType": "image/png"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-09",
+    "title": "Disaster Science Museum",
+    "source": "https://www.dsmuseum.jp/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "JP-10",
+    "title": "Hiroshima Peace Memorial Museum Permanent Exhibition",
+    "source": "https://hpmmuseum.jp/?lang=eng",
+    "finalUrl": "https://hpmmuseum.jp/?lang=eng",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://hpmmuseum.jp/themes/view_eng/images/top/top_pic_slide05_pc.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-10-02.jpg",
+        "bytes": 122218,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://hpmmuseum.jp/themes/view_eng/images/top/top_pic_slide06_pc.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-10-03.jpg",
+        "bytes": 120500,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://hpmmuseum.jp/themes/view_eng/images/top/top_pic_slide03.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-10-04.jpg",
+        "bytes": 293779,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://hpmmuseum.jp/themes/view_eng/images/top/top_pic_slide02.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-10-05.jpg",
+        "bytes": 91995,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://hpmmuseum.jp/themes/view_eng/images/top/top_pic_guide_guidance.jpg",
+        "error": "fetch failed"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-11",
+    "title": "Nagasaki Atomic Bomb Museum Permanent Exhibition",
+    "source": "https://nabmuseum.jp/en/",
+    "finalUrl": "https://nabmuseum.jp/en/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "JP-12",
+    "title": "Edo-Tokyo History Exhibition",
+    "source": "https://www.edo-tokyo-museum.or.jp/en/",
+    "finalUrl": "https://www.edo-tokyo-museum.or.jp/en/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/common/img/common/ogimage.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-01.png",
+        "bytes": 17891,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/common/img/index/main_visual_00.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-02.jpg",
+        "bytes": 1940147,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/common/img/index/main_visual_01.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-03.jpg",
+        "bytes": 204705,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/common/img/index/main_visual_02.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-04.jpg",
+        "bytes": 490355,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/common/img/index/main_visual_03.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-05.jpg",
+        "bytes": 348938,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/common/img/index/main_visual_04.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-06.jpg",
+        "bytes": 405999,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/asset/2026/03/pst_yokan.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-07.jpg",
+        "bytes": 167350,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.edo-tokyo-museum.or.jp/asset/2026/07/pst-toyotomi.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-12-08.jpg",
+        "bytes": 263596,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-13",
+    "title": "Tokyo Metro Museum Permanent Exhibition",
+    "source": "https://www.chikahaku.jp/en/",
+    "finalUrl": "https://www.chikahaku.jp/en/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.chikahaku.jp/en/img/mm01_top_mvtit0001.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-13-01.jpg",
+        "bytes": 1589077,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.chikahaku.jp/en/img/mm01_top_mvtit0002.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-13-02.jpg",
+        "bytes": 729988,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.chikahaku.jp/en/img/mm01_top_mvtit0003.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-13-03.jpg",
+        "bytes": 1162132,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.chikahaku.jp/en/img/mm01_top_mvtit0004.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-13-04.jpg",
+        "bytes": 1164998,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.chikahaku.jp/en/img/mm00_cmn_icn0002b.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-13-06.png",
+        "bytes": 14351,
+        "imageType": "image/png"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-14",
+    "title": "The Railway Museum Permanent Exhibition",
+    "source": "https://www.railway-museum.jp/e/",
+    "finalUrl": "https://www.railway-museum.jp/e/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.railway-museum.jp/img/common/ogp_image.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-14-01.jpg",
+        "bytes": 595273,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.railway-museum.jp/e/img/top/mv_img.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-14-02.jpg",
+        "bytes": 119757,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.railway-museum.jp/e/img/top/mv_img_sp.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-14-03.jpg",
+        "bytes": 90916,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.railway-museum.jp/e/img/top/top_img_01.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-14-06.jpg",
+        "bytes": 186498,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.railway-museum.jp/e/img/top/top_img_02.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-14-07.jpg",
+        "bytes": 149088,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.railway-museum.jp/e/img/top/top_img_03.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-14-08.jpg",
+        "bytes": 113744,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-15",
+    "title": "Kyoto Railway Museum Main Exhibition",
+    "source": "https://www.kyotorailwaymuseum.jp/en/",
+    "finalUrl": "https://www.kyotorailwaymuseum.jp/en/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "JP-16",
+    "title": "Yokohama Maritime Museum Permanent Exhibition",
+    "source": "https://www.nippon-maru.or.jp/english/",
+    "finalUrl": "https://www.nippon-maru.or.jp/english/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.nippon-maru.or.jp/wp-content/uploads/2022/06/538125b5c67a93b55be23d0d2996cc48-600x371.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-16-01.jpg",
+        "bytes": 42679,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nippon-maru.or.jp/wp-content/themes/nihonmaru/library/images/header001.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-16-02.jpg",
+        "bytes": 246881,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nippon-maru.or.jp/wp-content/uploads/2018/08/souhantenpan.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-16-03.jpg",
+        "bytes": 1167064,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nippon-maru.or.jp/wp-content/uploads/2018/08/nipponmaruyoru.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-16-04.jpg",
+        "bytes": 975088,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nippon-maru.or.jp/wp-content/uploads/2022/06/11c5f26a9f93b3a5dd6775c24462e928-600x371.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-16-05.jpg",
+        "bytes": 33171,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nippon-maru.or.jp/wp-content/uploads/2023/03/0c47b4c9c46b7032f146dc31eb59e65a-1024x724.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-16-06.jpg",
+        "bytes": 173061,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nippon-maru.or.jp/wp-content/uploads/2023/03/74445e0891b520685aec675b0911df02-1024x724.jpg",
+        "error": "fetch failed"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-17",
+    "title": "Museum of Osaka Housing and Living",
+    "source": "https://konjyakukan.com/",
+    "finalUrl": "https://konjyakukan.com/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "JP-18",
+    "title": "Japanese History Exhibition",
+    "source": "https://www.rekihaku.ac.jp/english/",
+    "finalUrl": "https://www.rekihaku.ac.jp/english/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "JP-19",
+    "title": "Upopoy National Ainu Museum Permanent Exhibition",
+    "source": "https://ainu-upopoy.jp/en/",
+    "finalUrl": "https://ainu-upopoy.jp/en/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "JP-20",
+    "title": "The Momofuku Ando Instant Ramen Museum",
+    "source": "https://www.cupnoodles-museum.jp/en/osaka_ikeda/",
+    "finalUrl": "https://www.cupnoodles-museum.jp/en/osaka_ikeda/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/09/og_osaka_ikeda.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-01.png",
+        "bytes": 532419,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/05/crfactory-main-800x450.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-02.jpg",
+        "bytes": 91248,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/08/mcfactory-main-800x450.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-03.jpg",
+        "bytes": 105957,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/08/birth-main-800x450.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-04.jpg",
+        "bytes": 69529,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/05/chronicle-main-800x450.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-05.jpg",
+        "bytes": 86035,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/05/theater-main-800x450.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-06.jpg",
+        "bytes": 54620,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/05/world-main-800x450.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-07.jpg",
+        "bytes": 139602,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.cupnoodles-museum.jp/uploads/2017/08/history-main-800x450.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-20-08.jpg",
+        "bytes": 69791,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-21",
+    "title": "Toyota Commemorative Museum of Industry and Technology",
+    "source": "https://www.tcmit.org/english/",
+    "finalUrl": "https://www.tcmit.org/english/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_visit_openinghour.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-01.jpg",
+        "bytes": 29620,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_visit_admission.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-02.jpg",
+        "bytes": 21939,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_visit_access.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-03.jpg",
+        "bytes": 29227,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_visit_inspection.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-04.jpg",
+        "bytes": 30608,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_visit_barrierfree.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-05.jpg",
+        "bytes": 79896,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_visit_terms-of-use.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-06.jpg",
+        "bytes": 66562,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_enjoy_textile.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-07.jpg",
+        "bytes": 34748,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tcmit.org/_/media/layout/nav_enjoy_car.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-21-08.jpg",
+        "bytes": 33266,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-22",
+    "title": "SCMAGLEV and Railway Park Main Exhibition",
+    "source": "https://museum.jr-central.co.jp/en/",
+    "finalUrl": "https://museum.jr-central.co.jp/en/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://museum.jr-central.co.jp/en/_img/kv_01.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-22-05.jpg",
+        "bytes": 1289062,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://museum.jr-central.co.jp/en/_img/kv_02.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-22-06.jpg",
+        "bytes": 950496,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://museum.jr-central.co.jp/en/_img/kv_03.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-22-07.jpg",
+        "bytes": 702512,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://museum.jr-central.co.jp/en/_img/kv_04.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-22-08.jpg",
+        "bytes": 958505,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "JP-23",
+    "title": "The Museum of Yebisu Beer",
+    "source": "https://museum.yebisu.co.jp/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "JP-24",
+    "title": "Theatre360",
+    "source": "https://www.kahaku.go.jp/chinese_trad/",
+    "finalUrl": "https://www.kahaku.go.jp/chinese_trad/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/ogp.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-01.png",
+        "bytes": 36847,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000048.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-02.webp",
+        "bytes": 104500,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000050.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-03.webp",
+        "bytes": 190212,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000051.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-04.webp",
+        "bytes": 68042,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000053.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-05.webp",
+        "bytes": 112236,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000052.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-06.webp",
+        "bytes": 69206,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000054.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-07.webp",
+        "bytes": 58766,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.kahaku.go.jp/albums/7003/abm00000040.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/jp-24-08.webp",
+        "bytes": 1462196,
+        "imageType": "image/webp"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "KR-01",
+    "title": "Prehistory and Ancient History Gallery",
+    "source": "https://www.museum.go.kr/ENG/contents/E0201000000.do",
+    "finalUrl": "https://www.museum.go.kr/ENG/contents/E0201000000.do",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "KR-02",
+    "title": "Medieval and Early Modern History Gallery",
+    "source": "https://www.museum.go.kr/ENG/contents/E0201000000.do",
+    "finalUrl": "https://www.museum.go.kr/ENG/contents/E0201000000.do",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "KR-03",
+    "title": "The Beginning of K-Culture",
+    "source": "https://www.nfm.go.kr/english/",
+    "finalUrl": "https://www.nfm.go.kr/english/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "KR-04",
+    "title": "A Year in Korea",
+    "source": "https://www.nfm.go.kr/english/subIndex/449.do",
+    "finalUrl": "https://www.nfm.go.kr/english/subIndex/449.do",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.nfm.go.kr/site/english/images/pages/d-gateway__view2_2023.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-04-03.jpg",
+        "bytes": 144875,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nfm.go.kr/site/english/images/pages/d-gateway__map2_2023.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-04-04.png",
+        "bytes": 25562,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.nfm.go.kr/site/english/images/p-hall__image-2-2021-1.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-04-05.png",
+        "bytes": 107066,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.nfm.go.kr/site/english/images/p-hall__image-2-2021-2.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-04-06.png",
+        "bytes": 121966,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.nfm.go.kr/site/english/images/p-hall__image-2-2021-3.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-04-07.png",
+        "bytes": 112618,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.nfm.go.kr/site/english/images/p-hall__image-2-2021-4.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-04-08.png",
+        "bytes": 111923,
+        "imageType": "image/png"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "KR-05",
+    "title": "Korean Life Passages",
+    "source": "https://www.nfm.go.kr/english/",
+    "finalUrl": "https://www.nfm.go.kr/english/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "KR-06",
+    "title": "The National Hangeul Museum Permanent Exhibition",
+    "source": "https://www.hangeul.go.kr/en/",
+    "finalUrl": "https://www.hangeul.go.kr/en/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "KR-07",
+    "title": "History Hall Permanent Exhibition",
+    "source": "https://www.much.go.kr/ENG/contents/E0201000000.do",
+    "finalUrl": "https://www.much.go.kr/ENG/contents/E0201000000.do",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.much.go.kr/images/common/safe_image.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-07-01.jpg",
+        "bytes": 50465,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "KR-08",
+    "title": "National Museum of Korean Democracy",
+    "source": "https://www.kdemo.or.kr/eng/programs/programs_national-museum-of-korea-democracy.do",
+    "finalUrl": "https://www.kdemo.or.kr/eng/programs/programs_national-museum-of-korea-democracy.do",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.kdemo.or.kr/public/img/sub/programs/img_001_004.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-08-01.png",
+        "bytes": 623768,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.kdemo.or.kr/public/img/sub/programs/img_001_003.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-08-02.png",
+        "bytes": 618899,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.kdemo.or.kr/public/img/sub/programs/img_001_001.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-08-03.png",
+        "bytes": 485014,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.kdemo.or.kr/public/img/sub/programs/img_001_002.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-08-04.png",
+        "bytes": 1517408,
+        "imageType": "image/png"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "KR-09",
+    "title": "Seodaemun Prison History Hall",
+    "source": "https://sphistoryhall.or.kr/english/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "KR-10",
+    "title": "Korean War Exhibition",
+    "source": "https://www.warmemo.or.kr/eng/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "KR-11",
+    "title": "Jeju 4·3 Peace Memorial Hall",
+    "source": "https://jeju43peace.or.kr/en/",
+    "finalUrl": "https://jeju43peace.or.kr/en/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "KR-12",
+    "title": "National Science Museum Main Exhibition",
+    "source": "https://www.science.go.kr/eng/",
+    "finalUrl": "https://www.science.go.kr/eng/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "KR-13",
+    "title": "Korean Science and Technology History Hall",
+    "source": "https://www.sciencecenter.go.kr/eng/",
+    "finalUrl": "https://www.sciencecenter.go.kr/eng/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "KR-14",
+    "title": "Korea National Maritime Museum Permanent Exhibition",
+    "source": "https://www.mmk.or.kr/eng/",
+    "finalUrl": "https://www.mmk.or.kr/eng/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "KR-15",
+    "title": "National Museum of Korean Literature Permanent Exhibition",
+    "source": "https://www.nl.go.kr/EN/",
+    "finalUrl": "https://www.nl.go.kr/EN/main/index.do",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.nl.go.kr/resource/templete/en/img/temp/eng_slide01.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-15-02.jpg",
+        "bytes": 138086,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nl.go.kr/resource/templete/en/img/temp/eng_slide02.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-15-03.jpg",
+        "bytes": 209058,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nl.go.kr/resource/templete/en/img/temp/eng_slide03.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-15-04.jpg",
+        "bytes": 147615,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nl.go.kr/resource/templete/en/img/temp/eng_slide04.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-15-05.jpg",
+        "bytes": 137210,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nl.go.kr/resource/templete/en/img/temp/eng_slide05.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-15-06.jpg",
+        "bytes": 133787,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nl.go.kr/resource/templete/en/img/temp/eng_slide06.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-15-07.jpg",
+        "bytes": 132728,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nl.go.kr/resource/templete/en/img/temp/eng_slide07.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-15-08.jpg",
+        "bytes": 120352,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "KR-16",
+    "title": "Korean Contemporary History Experience Hall",
+    "source": "https://www.much.go.kr/ENG/contents/E0201000000.do",
+    "finalUrl": "https://www.much.go.kr/ENG/contents/E0201000000.do",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.much.go.kr/images/common/safe_image.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/kr-16-01.jpg",
+        "bytes": 50465,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "KR-17",
+    "title": "National Children’s Science Museum",
+    "source": "https://www.csm.go.kr/eng/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "KR-18",
+    "title": "May 18 Memorial Exhibition",
+    "source": "https://www.518.org/eng/",
+    "finalUrl": "https://518.org/eng/",
+    "pageStatus": 403,
+    "images": [],
+    "error": "HTTP 403"
+  },
+  {
+    "id": "RU-01",
+    "title": "The Memorial Museum of Cosmonautics",
+    "source": "https://kosmo-museum.ru/",
+    "finalUrl": "https://kosmo-museum.ru/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://kosmo-museum.ru/assets/partners/dk-54bfd548d5ccbed890a8065b362fc244.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-01-01.png",
+        "bytes": 21512,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://kosmo-museum.ru/assets/partners/mosbilet-1597ef7b2ac99886c0399b0e8b91245e.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-01-02.png",
+        "bytes": 88298,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://kosmo-museum.ru/uploads/image/src/106/desktop_IMG_0951.PNG",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-01-03.png",
+        "bytes": 362257,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://kosmo-museum.ru/assets/bricks-default/iss/bg-c25db9d1a2abf9023253bd38cb5d50f5.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-01-04.jpg",
+        "bytes": 271106,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://kosmo-museum.ru/assets/bricks-default/iss/photo-d8a905c57b875f4a84cb4c2fea6c3060.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-01-05.png",
+        "bytes": 35190,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://kosmo-museum.ru/assets/%D0%9B%D0%B8%D1%86%D0%B0_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B-a1f202cde842c9c7be71a74067a70c4d.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-01-06.jpg",
+        "bytes": 39271,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "RU-02",
+    "title": "Museum of Russian Railways Main Exhibition",
+    "source": "https://rzd-museum.ru/",
+    "finalUrl": "https://rzd-museum.ru/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/home/-yMPex3AcVXBltlDtFmkNI6amHb3W7oC.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-01.jpg",
+        "bytes": 3242507,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/news/885/WV8Zg8mNxhUCSS03Jyu43y04PZzpHNbW.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-02.jpg",
+        "bytes": 181725,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/news/884/VnxHQ_2iA7OPhuz3KS3rm4TbTO4AImok.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-03.jpg",
+        "bytes": 94963,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/news/882/liOc-APUxlCXFDquU_oxMOpQEW9cMA3u.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-04.jpg",
+        "bytes": 123799,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/news/874/uit071qAyDqZASRXSfXnZdQAe6Cuar-Y.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-05.jpg",
+        "bytes": 143840,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/news/873/BnxwDqRLt7UV76CfHpGl94b7xRWlrMEx.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-06.jpg",
+        "bytes": 104027,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/news/867/91hGtMcS0XO9BlKpATvLu78sQo_d3zFQ.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-07.jpg",
+        "bytes": 679757,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://rzd-museum.ru/uploads/news/1171/EGSHmYgB02yblI39R2B75NmbwtAT7m0b.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-02-08.jpg",
+        "bytes": 435913,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "RU-03",
+    "title": "Arctic: The Land of the Inhabited",
+    "source": "https://ethnomuseum.ru/exposition/permanent/arctic/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "RU-04",
+    "title": "Peoples of Siberia and Far East Exhibition",
+    "source": "https://ethnomuseum.ru/exposition/permanent/",
+    "finalUrl": "https://ethnomuseum.ru/exposition/permanent/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://ethnomuseum.ru/images/cms/thumbs/6dbab369e8fa5ad923b45abb2eada0ccf74a61ae/52_etnograf00053_377_256_jpg_5_80.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-04-01.jpg",
+        "bytes": 19373,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://ethnomuseum.ru/images/cms/thumbs/41849cddd116a6a07631a64220bc9c2bc8f03f6a/wq1b9995_1_377_256_jpg_5_80.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-04-02.jpg",
+        "bytes": 25926,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://ethnomuseum.ru/images/cms/thumbs/8fbd6bf7d019443b20e902b52700943812d0d8d2/57_etnograf000717_377_256_jpg_5_80.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-04-04.jpg",
+        "bytes": 12877,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://ethnomuseum.ru/images/cms/thumbs/5144b9d1da5d26397a32a6dea04c07126998bd0c/5_377_256_jpg_5_80.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-04-05.jpg",
+        "bytes": 24411,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://ethnomuseum.ru/images/cms/thumbs/f186e83c9aa487ce451b5d882c58426fa0d5a929/114_etnograf00097_377_256_jpg_5_80.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-04-06.jpg",
+        "bytes": 14326,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://ethnomuseum.ru/images/cms/thumbs/9eeb40284622e7eb50be8ed8fe3a3c4ca371b617/1_377_256_jpg_5_80.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-04-08.jpg",
+        "bytes": 21623,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "RU-05",
+    "title": "Museum of Political History Permanent Exhibition",
+    "source": "https://polithistory.ru/",
+    "finalUrl": "https://polithistory.ru/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://static.tildacdn.com/tild3366-3962-4433-b463-366661663764/DSC_9750.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-05-01.jpg",
+        "bytes": 400985,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "RU-06",
+    "title": "History of the GULAG Museum Permanent Exhibition",
+    "source": "https://gmig.ru/",
+    "finalUrl": "https://gmig.ru/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "RU-07",
+    "title": "Jewish Museum and Tolerance Center Main Exhibition",
+    "source": "https://www.jewish-museum.ru/en/",
+    "finalUrl": "https://www.jewish-museum.ru/en/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.jewish-museum.ru/upload/iblock/ec4/yj0lmul2d3mjh1gx8qyyynchcx3ctzch/5316926250251581527.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-07-02.jpg",
+        "bytes": 219723,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.jewish-museum.ru/upload/iblock/6fe/edgxkld6axt2fj69tsaf7d0gf1fh8oq9/5316926250251581527.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-07-03.jpg",
+        "bytes": 219723,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.jewish-museum.ru/upload/iblock/1d8/4nms56876263t8erdk5yjaniplrv7qjp/vyyqecl4ho6k3gigsjmxs7ug22fij46z.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-07-04.png",
+        "bytes": 225385,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.jewish-museum.ru/upload/resize_cache/iblock/14f/1750_1104_1/04aa2bi432woa5m89wqr3rep183dmmse.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-07-05.jpg",
+        "bytes": 855534,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.jewish-museum.ru/upload/resize_cache/iblock/8e6/1750_1104_1/iw32cxzqexck6onlt9mzvc3ibz788taz.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-07-06.jpg",
+        "bytes": 747822,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.jewish-museum.ru/upload/resize_cache/iblock/ccd/1750_1104_1/t2hmfpkhzen4fhjb111zttz6atqd8kqc.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-07-07.jpg",
+        "bytes": 793757,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.jewish-museum.ru/upload/resize_cache/iblock/816/1750_1104_1/c67r1bzf8fqwy2kcmrpbolo6dkkxqg5l.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-07-08.jpg",
+        "bytes": 476880,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "RU-08",
+    "title": "The Road to Victory",
+    "source": "https://victorymuseum.ru/",
+    "finalUrl": "https://victorymuseum.ru/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/iblock/f7e/gh1kz5yrvfe3s6gn8qz3foelo5rohajs/790_550_-_1_.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-01.jpg",
+        "bytes": 75919,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/iblock/3d8/ca0pso2ayzak7a9hodjwoy1nq00fvgec/Golosa_Pobedy_chitaem_vmeste_790kh550_1.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-02.jpg",
+        "bytes": 143929,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/iblock/5a4/lb7d7vb0yyz69da9liwf74d1h2l6obuf/SVO_790KH550.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-03.jpg",
+        "bytes": 76195,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/iblock/b92/j7vjnor1iacwvljuc4ilq1inyokz7aic/kg790x550_100_8_.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-04.jpg",
+        "bytes": 64291,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/iblock/f59/nef191nw206bzdnv175nkksug5c8jgv0/put.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-05.jpg",
+        "bytes": 17698,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/resize_cache/iblock/b4e/bvhggf0ih4plamj5eli9e07sl1tsxu4a/550_380_1/SVO_790kh550px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-06.jpg",
+        "bytes": 50208,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/iblock/4fd/8h5kmu9j7712gpg7s5lhyqnmsyuvqoh5/podvig.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-07.jpg",
+        "bytes": 28951,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://victorymuseum.ru/upload/iblock/f9f/0o07nfmmixnvnv4nydk5zuhplmryhnj6/bitva.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ru-08-08.jpg",
+        "bytes": 36125,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "RU-09",
+    "title": "State Darwin Museum Permanent Exhibition",
+    "source": "https://www.darwinmuseum.ru/eng",
+    "finalUrl": "https://www.darwinmuseum.ru/eng",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "RU-10",
+    "title": "Museum of the World Ocean Main Exhibition",
+    "source": "https://world-ocean.ru/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "RU-11",
+    "title": "Russian State Museum of Arctic and Antarctic",
+    "source": "https://www.polarmuseum.ru/",
+    "finalUrl": "https://www.polarmuseum.ru/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "RU-12",
+    "title": "Kizhi Open-Air Museum Permanent Exhibition",
+    "source": "https://kizhi.karelia.ru/en/",
+    "finalUrl": "https://kizhi.karelia.ru/en/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "NO-01",
+    "title": "The Vasa Museum Permanent Exhibition",
+    "source": "https://www.vasamuseet.se/en",
+    "finalUrl": "https://www.vasamuseet.se/en",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/loggor/vasamuseet-textlogga-vit-251119.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-01.png",
+        "bytes": 36790,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/start/vm_foto_lovisa-bramming_03.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-02.jpg",
+        "bytes": 3547251,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/utstallningar/challenging-the-deep/klader-monter-james-cameron_16-9-foto-lovisa-bramming-kopiera.jpg?w=992",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-03.jpg",
+        "bytes": 1258417,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/besok/biljetter/kombobiljetter/9-16_comboticket_2026.jpg?w=992",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-04.jpg",
+        "bytes": 489875,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/om/hjalp-vasa/stotta-vasa-middag_hjarta_16-9-foto_lovisa-bramming-kopiera.jpg?w=992",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-05.jpg",
+        "bytes": 780718,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/start/vaskforbud-ockra-800-450.png?w=992",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-06.png",
+        "bytes": 31242,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/utstallningar/i-liv-och-dod/i_liv_och_dod_webb_16_9.jpg?w=992",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-07.jpg",
+        "bytes": 169792,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.vasamuseet.se/globalassets/vasamuseet/bilder/besok/audioguide/audioguide-barn/4-en-speciell-plats-olof-pa-skeppsgaden.jpg?w=992",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-01-08.jpg",
+        "bytes": 147440,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "NO-02",
+    "title": "Norwegian Museum of Cultural History Open-Air Exhibitions",
+    "source": "https://norskfolkemuseum.no/en/",
+    "finalUrl": "https://norskfolkemuseum.no/en/",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "NO-03",
+    "title": "Norwegian Maritime Museum Permanent Exhibition",
+    "source": "https://marmuseum.no/en",
+    "finalUrl": "https://marmuseum.no/en",
+    "pageStatus": 200,
+    "images": [],
+    "error": null
+  },
+  {
+    "id": "NO-04",
+    "title": "The Climate House",
+    "source": "https://www.nhm.uio.no/english/",
+    "finalUrl": "https://www.nhm.uio.no/english/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.nhm.uio.no/hva-skjer/helgeomvisning/0000-helgeomvisninger-nettside-1200.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-01.jpg",
+        "bytes": 689473,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nhm.uio.no/hva-skjer/botaniskhage/omvisningbotaniskhage/omvisning-norsk.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-02.jpg",
+        "bytes": 130764,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nhm.uio.no/utstillinger/a-1-norske-dyr/norske-dyr.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-03.png",
+        "bytes": 983843,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.nhm.uio.no/besok/barn/bildegalleri/klimahuset.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-04.jpg",
+        "bytes": 186979,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nhm.uio.no/botanisk-hage/avdelinger/fjellhagen/bilder/nat_his_290622_3191.webp",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-05.webp",
+        "bytes": 309720,
+        "imageType": "image/webp"
+      },
+      {
+        "sourceUrl": "https://www.nhm.uio.no/besok/arskort/nathis_291121_8234-1-2000px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-06.jpg",
+        "bytes": 428372,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nhm.uio.no/utstillinger/j-steinhagen/bildegalleri/bilde4.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-07.jpg",
+        "bytes": 767277,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nhm.uio.no/utstillinger/bilder/01-dinopodiet-nat_his_250422_0752-1200x800.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/no-04-08.png",
+        "bytes": 1670347,
+        "imageType": "image/png"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "NO-05",
+    "title": "Norwegian Museum of Science and Technology Main Exhibition",
+    "source": "https://www.tekniskmuseum.no/english/",
+    "finalUrl": "https://www.tekniskmuseum.no/english/",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "NO-06",
+    "title": "National Museum of Denmark Prehistory Exhibition",
+    "source": "https://en.natmus.dk/museums-and-palaces/the-national-museum-of-denmark/exhibitions/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "NO-07",
+    "title": "Swedish National Maritime Museum Main Exhibition",
+    "source": "https://www.sjohistoriska.se/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "NO-08",
+    "title": "Natural History Museum of Finland Permanent Exhibition",
+    "source": "https://www.luomus.fi/en/natural-history-museum",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "NO-09",
+    "title": "Nobel Prize Museum Permanent Exhibition",
+    "source": "https://nobelprizemuseum.se/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "CE-01",
+    "title": "Deutsches Museum Permanent Exhibitions",
+    "source": "https://www.deutsches-museum.de/en/museum-island/exhibitions",
+    "finalUrl": "https://www.deutsches-museum.de/en/museum-island/exhibitions",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.deutsches-museum.de/_assets/909240caffe3cf31712d917b62241ed3/Frontend/Build/assets/story-images/background-section-1.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-01-01.jpg",
+        "bytes": 306144,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.deutsches-museum.de/_assets/909240caffe3cf31712d917b62241ed3/Frontend/Build/assets/story-images/figure-section-1.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-01-02.png",
+        "bytes": 196332,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.deutsches-museum.de/_assets/909240caffe3cf31712d917b62241ed3/Frontend/Build/assets/story-images/background-section-2.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-01-03.jpg",
+        "bytes": 339409,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.deutsches-museum.de/_assets/909240caffe3cf31712d917b62241ed3/Frontend/Build/assets/story-images/figure-section-2.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-01-04.png",
+        "bytes": 110396,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.deutsches-museum.de/_assets/909240caffe3cf31712d917b62241ed3/Frontend/Build/assets/story-images/figure2-section-2.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-01-05.png",
+        "bytes": 76027,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.deutsches-museum.de/_assets/909240caffe3cf31712d917b62241ed3/Frontend/Build/assets/story-images/figure3-section-2.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-01-06.png",
+        "bytes": 72503,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.deutsches-museum.de/_assets/909240caffe3cf31712d917b62241ed3/Frontend/Build/assets/story-images/background-section-3.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-01-07.jpg",
+        "bytes": 193009,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "CE-02",
+    "title": "Munich Documentation Center for the History of National Socialism",
+    "source": "https://www.nsdoku.de/en",
+    "finalUrl": "https://www.nsdoku.de/en",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/_processed_/4/2/csm_nsdoku_museum_nationalsozialismus_munich_fassade__c_nsdoku_837d21cdfa.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-02-01.jpg",
+        "bytes": 948372,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/_processed_/4/2/csm_nsdoku_museum_nationalsozialismus_munich_fassade__c_nsdoku_a7365d5b8d.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-02-02.jpg",
+        "bytes": 952192,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/_processed_/4/b/csm_nsdoku_koenigsplatz_nationalsozialismus__c__bayerische-staatsbibliothek_9df458dcf7.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-02-03.jpg",
+        "bytes": 472332,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/09_Lernen_Entdecken/Mediaguides/nsdoku_mediaguide01_2025.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-02-04.jpg",
+        "bytes": 812862,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/_processed_/f/8/csm_nsdoku_tell-their-stories_2024_key-visual_9ae939a80c.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-02-05.jpg",
+        "bytes": 48207,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/_processed_/6/0/csm_nsdoku_cafebar-max_03_fb935f336c.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-02-06.jpg",
+        "bytes": 81989,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/_processed_/0/c/csm_nsdoku_5-minuten-geschichte_nationalsozialismus_quadrat__c_nsdoku_caf6b25dd4.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-02-07.jpg",
+        "bytes": 54798,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nsdoku.de/fileadmin/_processed_/1/a/csm_nsdoku_erinnerungsort-neuaubing_zwangsarbeit-muenchen__c_nsdoku_ebea9795d8.jpg",
+        "error": "This operation was aborted"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "CE-03",
+    "title": "DDR Museum Permanent Exhibition",
+    "source": "https://www.ddr-museum.de/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "CE-04",
+    "title": "Permanent Exhibition",
+    "source": "https://historia-europa.ep.eu/en/permanent-exhibition",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "CE-05",
+    "title": "Polish History Museum Permanent Exhibition",
+    "source": "https://muzhp.pl/en",
+    "finalUrl": "https://muzhp.pl/en",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2024-02/65d4938c81c23770511801.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-01.jpg",
+        "bytes": 474837,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2024-03/65fd54b005555178921669.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-02.png",
+        "bytes": 671893,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2025-08/68ad84badcfa2223118473.jpg?v=1.1",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-03.jpg",
+        "bytes": 152059,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2023-08/64e47edc0ac42399318752.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-04.jpg",
+        "bytes": 29232,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2023-07/64ad6c6769955980681203.JPG",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-05.jpg",
+        "bytes": 30895,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2023-07/64ad570b038c4188513809.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-06.jpg",
+        "bytes": 22763,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2023-07/64a82ba9eaedf537256651.JPG",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-07.jpg",
+        "bytes": 39385,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://muzhp.pl/uploads/thumbs/2023-07/64a8125a7ebd5811125010.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-05-08.jpg",
+        "bytes": 35688,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "CE-06",
+    "title": "Warsaw Rising Museum Permanent Exhibition",
+    "source": "https://www.1944.pl/en",
+    "finalUrl": "https://www.1944.pl/en",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://f.1944.pl/HomeMain/9/b/f/9bfdcdd5af0af40d3125e774303fcf32-f1def-fill-1900-805-jpg.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-01.jpg",
+        "bytes": 430295,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://f.1944.pl/HomeMain/3/f/9/3f9ad0328b8aab881e1d706b5dc169cb-38ab9-fill-1900-805-jpeg.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-02.jpg",
+        "bytes": 341824,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://f.1944.pl/HomeMain/0/4/d/04dfd1706ce4804b38973fa14dbe679d-a99e6-fill-1900-805-jpg.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-03.jpg",
+        "bytes": 314571,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://f.1944.pl/HomeMain/1/c/7/1c7974ab4ff560fa4b5210489039a423-3f0a3-fill-1900-805-jpg.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-04.jpg",
+        "bytes": 238511,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://f.1944.pl/News/1/8/2/1828a211b40144cac23de9657e7998d3-1fec8-fill-380-380.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-05.jpg",
+        "bytes": 40323,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://f.1944.pl/News/3/d/d/3ddf1a6c92ee43b71f3528eb8f036e65-c02ba-fill-380-380.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-06.png",
+        "bytes": 126258,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://f.1944.pl/News/3/f/9/3f9ad0328b8aab881e1d706b5dc169cb-ead63-fill-380-380.jpeg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-07.jpg",
+        "bytes": 45091,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://f.1944.pl/News/9/8/d/98d00c4def7488abe547d22062c977a2-38240-fill-380-380.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-06-08.jpg",
+        "bytes": 74778,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "CE-07",
+    "title": "Core Exhibition",
+    "source": "https://polin.pl/en/exhibition/core-exhibition",
+    "finalUrl": "https://polin.pl/en/exhibition/core-exhibition",
+    "pageStatus": 403,
+    "images": [],
+    "error": "HTTP 403"
+  },
+  {
+    "id": "CE-08",
+    "title": "History of the 20th Century",
+    "source": "https://www.nm.cz/en",
+    "finalUrl": "https://www.nm.cz/en",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/eaf1feaf5af2a554f1fc5e4b07f5cfda/3497/HB%20NM_web.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-01.jpg",
+        "bytes": 270486,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/1bb2f08292dc3b9e5ec2628b7698a003/26802/hpbox/HB_foto_680x400px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-02.jpg",
+        "bytes": 18419,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/a8beb16ace5eb24b97f1bbaa1fa019f3/26850/hpbox/NpM_foto_680x400px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-03.jpg",
+        "bytes": 20500,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/d7026b6d8538c8a37fc1d4956383d30f/27259/hpbox/Narodopis_foto_680x400px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-04.jpg",
+        "bytes": 16995,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/5a0872033373b68876b2521a9a483f14/27260/hpbox/_MAD_nov%C3%BD.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-05.jpg",
+        "bytes": 13977,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/f83fc6ecc1f35200a4d7ad787ad8cd79/27261/hpbox/MBS_foto_680x400px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-06.jpg",
+        "bytes": 23332,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/3b1f9f1f5ef5bd86896e60a19e7506ad/56714/hpbox/CMH_uzavreni_680x400px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-07.jpg",
+        "bytes": 15328,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.nm.cz/en/file/45659312226fb3452daebf2587001b2d/27264/hpbox/Rieger_Palacky_foto_680x400px.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ce-08-08.jpg",
+        "bytes": 21122,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "ME-01",
+    "title": "National Museum of Qatar Permanent Galleries",
+    "source": "https://nmoq.org.qa/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "ME-02",
+    "title": "Bait Al Zubair Heritage Exhibition",
+    "source": "https://baitalzubairmuseum.com/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "ME-03",
+    "title": "The National Museum Oman Permanent Galleries",
+    "source": "https://nmo.gov.om/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "ME-04",
+    "title": "Museum of the Future Immersive Chapters",
+    "source": "https://museumofthefuture.ae/en/exhibitions",
+    "finalUrl": "https://museumofthefuture.ae/en/exhibitions",
+    "pageStatus": 404,
+    "images": [],
+    "error": "HTTP 404"
+  },
+  {
+    "id": "ME-05",
+    "title": "Etihad Museum Permanent Exhibition",
+    "source": "https://etihadmuseum.dubaiculture.gov.ae/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "ME-06",
+    "title": "Holocaust History Museum",
+    "source": "https://www.yadvashem.org/museum/holocaust-history-museum.html",
+    "finalUrl": "https://www.yadvashem.org/museum/holocaust-history-museum.html",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.yadvashem.org/sites/default/files/styles/main_image/public/DSC_0022.JPG?itok=Hypnf-4S",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/me-06-02.jpg",
+        "bytes": 136160,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.yadvashem.org/sites/default/files/styles/main_image/public/DSC_7423_0.jpg?itok=Z3gOP6jY",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/me-06-03.jpg",
+        "bytes": 98115,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.yadvashem.org/sites/default/files/styles/main_image/public/DSC_2831.jpg?itok=xcMuq6uw",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/me-06-04.jpg",
+        "bytes": 193532,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.yadvashem.org/sites/default/files/styles/main_image/public/groupPhoto.jpg?itok=pdJY_K-E",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/me-06-05.jpg",
+        "bytes": 127207,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.yadvashem.org/sites/default/files/styles/main_image/public/678-ka.jpg?itok=ZzrvUD52",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/me-06-06.jpg",
+        "bytes": 376127,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.yadvashem.org/sites/default/files/styles/main_image/public/marketing_list_img/yad-vashem-synagogue.jpeg?itok=qaM6E70d",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/me-06-07.jpg",
+        "bytes": 103642,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "ME-07",
+    "title": "ANU Museum Core Exhibition",
+    "source": "https://www.anumuseum.org.il/",
+    "finalUrl": "https://www.anumuseum.org.il/",
+    "pageStatus": 403,
+    "images": [],
+    "error": "HTTP 403"
+  },
+  {
+    "id": "ME-08",
+    "title": "Jordan Museum Permanent Galleries",
+    "source": "https://museums.gov.jo/EN/Pages/The-Jordan-Museum.aspx",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "OC-01",
+    "title": "Mana Whenua",
+    "source": "https://tepapa.govt.nz/visit/exhibitions/mana-whenua",
+    "finalUrl": "https://www.tepapa.govt.nz/visit/exhibitions/mana-whenua",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://tepapa.govt.nz/assets/76067/1692319523-mana-whenua-800x533-2.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-01-01.jpg",
+        "bytes": 125607,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1692322647-mana-whenua-1800x700.jpg?auto=format&fit=fill",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-01-02.jpg",
+        "bytes": 213087,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "OC-02",
+    "title": "Bush City",
+    "source": "https://tepapa.govt.nz/visit/exhibitions",
+    "finalUrl": "https://www.tepapa.govt.nz/visit/exhibitions",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://tepapa.govt.nz/assets/76067/1692676163-te-taiao-800x533.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-01.jpg",
+        "bytes": 142604,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1779162849-he-toi-whakairo-tile.jpg?ar=1.3333333333&fit=crop&auto=format",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-02.jpg",
+        "bytes": 225319,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1784252533-47134-wmu.jpg?ar=1.3333333333&fit=crop&auto=format",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-03.jpg",
+        "bytes": 77466,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1779242754-tile-tiny-statements.jpg?ar=1.3333333333&fit=crop&auto=format",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-04.jpg",
+        "bytes": 131359,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1763332851-ma_i931350.jpeg?ar=1.3333333333&fit=crop&auto=format",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-05.jpg",
+        "bytes": 82756,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1753853477-tile-toi-art-2025-022.jpg?ar=1.3333333333&fit=crop&auto=format",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-06.jpg",
+        "bytes": 62805,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1687837187-gallipoli-holl-tepapa-800x600.jpg?ar=1.3333333333&fit=crop&auto=format",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-07.jpg",
+        "bytes": 48644,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.tepapa.govt.nz/assets/76067/1688081091-taiao-tepapa-800x600.jpg?ar=1.3333333333&fit=crop&auto=format",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-02-08.jpg",
+        "bytes": 103138,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "OC-03",
+    "title": "Surviving Australia",
+    "source": "https://australian.museum/exhibition/surviving-australia/",
+    "finalUrl": "https://australian.museum/exhibition/surviving-australia/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/thumbnails/images/AM_Website_Hero-Animal.c0b805e.width-800.bd0a9d4.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-01.png",
+        "bytes": 395294,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/thumbnails/images/TheDryingofAustralia_copy2.770c8f3_cropped.07b.width-800.c17161c.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-02.jpg",
+        "bytes": 109983,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/thumbnails/images/ModernRainforest_Wallpaper_FA_AAEdits_copy_2.e.width-800.dd58ecb.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-03.jpg",
+        "bytes": 129449,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/thumbnails/images/5000px_BoomWallpaper_ALL_copy_2.3f15591.width-800.a9688f7.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-04.jpg",
+        "bytes": 107390,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Lizard_Island_Research_Station_Great_Barrier_R.width-800.5c06bf4.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-05.jpg",
+        "bytes": 72662,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/thumbnails/images/1200x800px_BigCityLife_Crop.7406078.width-800.226d66e.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-06.jpg",
+        "bytes": 95029,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/thumbnails/images/ModernRainforest_Wallpaper_FA_AAEd.2e16d0ba.fill-600x400.4d8cf31.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-07.png",
+        "bytes": 471184,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Some_image.2e16d0ba.fill-600x400.79d46e2.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-03-08.jpg",
+        "bytes": 66848,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "OC-04",
+    "title": "Garrigarrang (Sea Country)",
+    "source": "https://australian.museum/learn/first-nations/",
+    "finalUrl": "https://australian.museum/learn/first-nations/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Barbara_McGrady_Photo_acquisition.width-1200.699f88c.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-01.jpg",
+        "bytes": 272529,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Woven_Emu.e920e13.width-1600.ccb6711.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-02.png",
+        "bytes": 2763992,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Tegan_Murdock_weaving.661658a.width-600.6e1cc7f.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-03.jpg",
+        "bytes": 118688,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Some_image.width-600.743dd49.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-04.jpg",
+        "bytes": 119018,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/mahn_fisherwoman_by_Aunty_Phyllis_Stewart_and_.width-600.838a4ff.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-05.jpg",
+        "bytes": 62119,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Unsettled_exhibition_26_May_2021.115602a.width-600.df20671.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-06.jpg",
+        "bytes": 69431,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/179_Unsettled_Weekend_credit_Anna_Kucera.ad8b6.width-600.2e966ee.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-07.jpg",
+        "bytes": 44968,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://media.australian.museum/media/dd/images/Picture_1.44ecae5.2e16d0ba.fill-600x400.f220d00.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/oc-04-08.jpg",
+        "bytes": 86454,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "OC-05",
+    "title": "Old New Land",
+    "source": "https://www.nma.gov.au/exhibitions/old-new-land",
+    "finalUrl": "https://www.nma.gov.au/exhibitions/old-new-land",
+    "pageStatus": 403,
+    "images": [],
+    "error": "HTTP 403"
+  },
+  {
+    "id": "OC-06",
+    "title": "Great Southern Land",
+    "source": "https://www.nma.gov.au/exhibitions/great-southern-land",
+    "finalUrl": "https://www.nma.gov.au/exhibitions/great-southern-land",
+    "pageStatus": 403,
+    "images": [],
+    "error": "HTTP 403"
+  },
+  {
+    "id": "OC-07",
+    "title": "Australian Journeys",
+    "source": "https://www.nma.gov.au/exhibitions/australian-journeys",
+    "finalUrl": "https://www.nma.gov.au/exhibitions/australian-journeys",
+    "pageStatus": 403,
+    "images": [],
+    "error": "HTTP 403"
+  },
+  {
+    "id": "SA-01",
+    "title": "The Partition Museum Permanent Exhibition",
+    "source": "https://www.partitionmuseum.org/",
+    "finalUrl": "https://www.partitionmuseum.org/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2019/11/TownHall-scaled.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-01.jpg",
+        "bytes": 869627,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2018/08/Image-2.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-02.jpg",
+        "bytes": 84085,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2018/08/Image-3.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-03.jpg",
+        "bytes": 108364,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2018/03/Image-6.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-04.jpg",
+        "bytes": 189492,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2018/03/Image-4.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-05.jpg",
+        "bytes": 450293,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2023/05/5-scaled.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-06.jpg",
+        "bytes": 639946,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2023/05/DSC_0018-scaled.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-07.jpg",
+        "bytes": 488618,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.partitionmuseum.org/wp-content/uploads/2023/05/unnamed-6.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-01-08.jpg",
+        "bytes": 155722,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "SA-02",
+    "title": "Harappan Civilization Gallery",
+    "source": "https://nationalmuseumindia.gov.in/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "SA-03",
+    "title": "Evolution Theme Park",
+    "source": "https://sciencecitykolkata.org.in/",
+    "finalUrl": "https://sciencecitykolkata.org.in/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/2026/06/Front-page-Main-Photograph-of-Sc.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-01.png",
+        "bytes": 1187201,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/2020/02/Home3.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-02.jpg",
+        "bytes": 506487,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/2020/02/Home2.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-03.jpg",
+        "bytes": 603665,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/2020/02/Time-Machine-final300.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-04.jpg",
+        "bytes": 34013,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/2020/02/st-gallery3-final300.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-05.jpg",
+        "bytes": 94410,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/2020/02/3D-Vision-Theatre-final300.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-06.jpg",
+        "bytes": 31813,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/thumb-cache/249fafadcc7048d19dde66fb041bd86d-99f658d00d6a58da6edb94487546d100-219x253-100-crop.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-07.jpg",
+        "bytes": 28845,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://sciencecitykolkata.org.in/wp-content/uploads/thumb-cache/9ad3d2e91cdb0c7da3e14136974a5814-d5eb061d2d2f29ac64a5b86d50fe36b6-219x253-100-crop.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-03-08.jpg",
+        "bytes": 12831,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "SA-04",
+    "title": "Nehru Science Centre Main Exhibition",
+    "source": "https://www.nehruscentremumbai.gov.in/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "SA-05",
+    "title": "Indian Museum Natural History Exhibition",
+    "source": "https://indianmuseumkolkata.org/",
+    "finalUrl": "https://indianmuseumkolkata.org/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2023/04/Museum-Interior1.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-01.png",
+        "bytes": 686483,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2023/04/Museum-Interior2.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-02.png",
+        "bytes": 748573,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2021/11/b1_1_1.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-03.png",
+        "bytes": 543715,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2026/01/invitation-card1.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-04.png",
+        "bytes": 686449,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2026/01/invitation-card2.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-05.png",
+        "bytes": 708145,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2026/01/invitation-card3.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-06.png",
+        "bytes": 640864,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2026/01/invitation-card4.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-07.png",
+        "bytes": 584227,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://indianmuseumkolkata.org/im_cont/uploads/2026/01/invite-file-for-Padmashri1.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/sa-05-08.png",
+        "bytes": 624584,
+        "imageType": "image/png"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "AF-01",
+    "title": "Apartheid Museum Permanent Exhibition",
+    "source": "https://www.apartheidmuseum.org/",
+    "finalUrl": "https://www.apartheidmuseum.org/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.apartheidmuseum.org/uploads/_imager/files/10295/apartheidmuseum35-5_cf6e8a615b8ba10f48641f1fa46732ab_0a3455fa8f579c24474e4b32da322bf3.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-01-01.jpg",
+        "bytes": 204868,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.apartheidmuseum.org/uploads/_imager/files/33757/Tutu-exhibition_cc191e17ae2e9c1483404e0dc848d2da.JPG",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-01-02.jpg",
+        "bytes": 192900,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.apartheidmuseum.org/uploads/_imager/files/33415/IMG_8240_cc191e17ae2e9c1483404e0dc848d2da.jpeg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-01-03.jpg",
+        "bytes": 194406,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.apartheidmuseum.org/uploads/_imager/files/Exhibitions-images/6730/Life-under-apartheid-1960s7_eb2f99033301dcad88de44c461441ede.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-01-04.jpg",
+        "bytes": 256003,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.apartheidmuseum.org/uploads/_imager/files/33757/Tutu-exhibition_eb2f99033301dcad88de44c461441ede.JPG",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-01-05.jpg",
+        "bytes": 273842,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.apartheidmuseum.org/uploads/_imager/files/General-images/6429/Hugh-Masekela-Tribute_eb2f99033301dcad88de44c461441ede.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-01-06.jpg",
+        "bytes": 272684,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://www.apartheidmuseum.org/uploads/_imager/files/7228/BCK_image2_eb2f99033301dcad88de44c461441ede.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-01-07.png",
+        "bytes": 3042037,
+        "imageType": "image/png"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "AF-02",
+    "title": "Kigali Genocide Memorial Permanent Exhibition",
+    "source": "https://kigalimemorial.org/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "AF-03",
+    "title": "District Six Museum Main Exhibition",
+    "source": "https://www.districtsix.co.za/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "AF-04",
+    "title": "Museum of Black Civilisations Permanent Exhibition",
+    "source": "https://mcn.sn/",
+    "finalUrl": "https://mcn.sn/",
+    "pageStatus": 403,
+    "images": [],
+    "error": "HTTP 403"
+  },
+  {
+    "id": "AF-05",
+    "title": "Iziko South African Museum Natural History Galleries",
+    "source": "https://www.iziko.org.za/museums/south-african-museum/",
+    "finalUrl": "https://www.iziko.org.za/museums/south-african-museum/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://www.iziko.org.za/wp-content/uploads/2022/10/FOISAM-1-1024x158.png",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-05-01.png",
+        "bytes": 52129,
+        "imageType": "image/png"
+      },
+      {
+        "sourceUrl": "https://www.iziko.org.za/wp-content/uploads/2026/05/Picture1-300x200.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/af-05-03.jpg",
+        "bytes": 19488,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "CA-01",
+    "title": "National Museum of Kazakhstan Permanent Halls",
+    "source": "https://e-museum.kz/en/museum/68da379a81b2b0288-en/",
+    "finalUrl": "https://e-museum.kz/en/museum/68da379a81b2b0288-en/",
+    "pageStatus": 200,
+    "images": [
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/60f80fe8-f122-40a8-93d1-82da680ca3b8.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-01.jpg",
+        "bytes": 155073,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/df24022d-1ae0-4041-a70d-ec9320f68175.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-02.jpg",
+        "bytes": 126675,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/ba111305-f08f-41c8-aae9-1351229adadb.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-03.jpg",
+        "bytes": 151298,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/7c21a4f2-5496-4e01-b0de-2dcd01e349ee.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-04.jpg",
+        "bytes": 144654,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/5d8833eb-3a77-4fef-8d7e-7f5939af2795.jpeg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-05.jpg",
+        "bytes": 642354,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/3adbbd62-8472-4f89-abf7-4d977e730794.jpeg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-06.jpg",
+        "bytes": 308163,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/16b17f17-c525-434a-b078-67345cf975a7.jpeg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-07.jpg",
+        "bytes": 401353,
+        "imageType": "image/jpeg"
+      },
+      {
+        "sourceUrl": "https://crm.e-museum.kz/emuseum/museum/MuseumGal/5931b20c-11e9-4c01-89eb-55fd64a17ccf.jpg",
+        "localPath": "/home/ubuntu/webdev-static-assets/expansion-200/ca-01-08.jpg",
+        "bytes": 474862,
+        "imageType": "image/jpeg"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "CA-02",
+    "title": "Museum of Victims of Political Repression",
+    "source": "https://e-museum.kz/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "This operation was aborted"
+  },
+  {
+    "id": "CA-03",
+    "title": "State Museum of History of Uzbekistan Permanent Exhibition",
+    "source": "https://www.uzbekistan.travel/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  },
+  {
+    "id": "CA-04",
+    "title": "Museum of Applied Arts of Uzbekistan",
+    "source": "https://www.uzbekistan.travel/en/",
+    "finalUrl": null,
+    "pageStatus": null,
+    "images": [],
+    "error": "fetch failed"
+  }
+]

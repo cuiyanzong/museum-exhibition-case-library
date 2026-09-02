@@ -1,0 +1,89 @@
+{
+  "content": {
+    "id": "IE-EPIC-01",
+    "title": "EPIC The Irish Emigration Museum — Twenty-One Gallery Diaspora Narrative",
+    "subtitle": "EPIC The Irish Emigration Museum｜Dublin, Ireland",
+    "year": "2016年启用；馆方官网当前列全年每周七日开放、售票与2026活动",
+    "type": "爱尔兰离散、移民动因、跨国影响、家族记忆与当代身份的数字叙事性长期主展",
+    "brief": "在都柏林历史酒窖中以21个数字互动空间讲述爱尔兰离散：移民动因、冲突、土地、劳动、爱、政治、文化与当代连接由入场护照串联。",
+    "insight": "离散叙事的关键不只是统计离开的人数，而是让动因、路径、共同体与当代后代在不同媒介中保持多声部，从而避免把移民经验做成单一民族神话。",
+    "tags": [
+      "离散与移民史",
+      "全数字博物馆",
+      "互动档案",
+      "历史酒窖"
+    ],
+    "route": [
+      "护照导入与离散问题",
+      "Notorious Irish人物故事",
+      "Conflict：跨洲从军与战争迁徙",
+      "Land／Labour／Love与政治、文化互动",
+      "Connections当代留言与家族回望"
+    ],
+    "images": [
+      "ie-epic-01-01.jpg",
+      "ie-epic-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/ie-epic-01-01_8d23a9f3.jpg",
+      "/manus-storage/ie-epic-01-02_16359dcc.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Notorious Irish人体追踪投影。来源：ISO Design项目页；仅作研究性案例索引。",
+      "已建成展厅实景：Conflict战争迁徙与档案投影。来源：ISO Design项目页；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：护照导入与离散问题—Notorious Irish人物故事—Conflict：跨洲从军与战争迁徙—Land／Labour／Love与政治、文化互动—Connections当代留言与家族回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "先以个人护照建立可选择的参观机制，再通过人物、战争、劳作、土地与家庭信件等不同尺度展开离散经验，最后让当代访客在Connections中把个人家族记忆接入持续生成的公共叙事。 本案的核心命题是：离散叙事的关键不只是统计离开的人数，而是让动因、路径、共同体与当代后代在不同媒介中保持多声部，从而避免把移民经验做成单一民族神话。"
+      ],
+      [
+        "展项设计",
+        "Notorious Irish以人体追踪、角色投影和档案墙组织判断；Conflict以互动桌、投影与战争／迁徙资料连接个人命运与跨国军史；其他章节将书、信件、地图、社会媒体和多点触控转为可操作档案。"
+      ],
+      [
+        "布展与图文",
+        "酒窖拱顶既提供历史氛围，也限制声光与屏幕布置；展陈以端墙投影、低位互动、侧墙档案和地面提示引导前进，必须保持暗场中图文的对比度及不依赖单一交互的理解路径。"
+      ],
+      [
+        "研究判断",
+        "可迁移原则是让数字互动承担多声部证据，而不是替代证据：每次选择都应回到人物、档案、地点和具体迁徙条件。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.museumstudio.com/projects/epic-the-irish-emigration-museum",
+      "https://isodesign.co.uk/projects/epic-ireland-av-installations-interactives",
+      "https://epicchq.com/",
+      "https://www.ireland.com/en-us/things-to-do/attractions/epic-irelands-emigration-museum/"
+    ]
+  },
+  "ledger": {
+    "id": "IE-EPIC-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "EPIC The Irish Emigration Museum — Twenty-One Gallery Diaspora Narrative",
+    "museum": "EPIC The Irish Emigration Museum",
+    "location": "Dublin, Ireland",
+    "region": "西欧",
+    "studio": "Museum Studio（内容策划与阐释、展陈设计、工程建造）；ISO Design（互动与视听装置）；Elbow Productions、7six7（项目合作方）",
+    "year": "2016年启用；馆方官网当前列全年每周七日开放、售票与2026活动",
+    "type": "爱尔兰离散、移民动因、跨国影响、家族记忆与当代身份的数字叙事性长期主展",
+    "design_source": "https://www.museumstudio.com/projects/epic-the-irish-emigration-museum",
+    "museum_source": "https://epicchq.com/",
+    "interaction_source": "https://isodesign.co.uk/projects/epic-ireland-av-installations-interactives",
+    "operations_source": "https://www.ireland.com/en-us/things-to-do/attractions/epic-irelands-emigration-museum/",
+    "image_source_1": "https://isodesign.co.uk/projects/epic-ireland-av-installations-interactives",
+    "image_source_2": "https://isodesign.co.uk/projects/epic-ireland-av-installations-interactives",
+    "image_url_1": "https://isodesign.co.uk/wp-content/uploads/2016/12/ISODESIGN_EPIC_Notorious-IrishFile0358-928x619.jpg",
+    "image_url_2": "https://isodesign.co.uk/wp-content/uploads/2016/12/ISODESIGN_EPIC-conflict_IMG_3786-928x619.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch34-staging/IE-EPIC-01/iso-notorious-irish-original.png",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch34-staging/IE-EPIC-01/iso-conflict-original.png",
+    "evidence": "Museum Studio项目页明确其为委任团队，在18个月内交付EPIC 21个互动画廊，范围含内容策划与阐释、展陈设计、工程与建造；以Belief、Conflict、Land、Society及Diaspora Today等主题组织约一千万次移民经历与七千万后裔的全球故事，并将定制数字展项嵌入200年历史酒窖结构。ISO Design交叉证实二十个主题画廊、入场护照、Notorious Irish全身追踪投影、Conflict双互动桌、Land／Labour／Love叙事井、Politics、Food & Drink、Connections等已建成互动。馆方官网列当前每周七日10:00—18:45开放、售票、2026活动；Tourism Ireland说明其以互动站、展项、音频和真实书信呈现移民经验，建议完整体验90分钟并确认七日开放。",
+    "image_review_1": "人工审核通过：928×619的ISO Design原始项目页摄影显示砖砌拱顶、吸顶投影设备、墙面档案图文、地面方向投影和“Meet the Notorious Irish”全景人物投影，是Notorious Irish全身追踪互动的已建成展厅，不是渲染或建筑外观。",
+    "image_review_2": "人工审核通过：928×619的ISO Design原始项目页摄影显示同一历史酒窖内的墙面档案资料、顶部投影与地面／端墙联动影像；画面文字与页面说明对应Conflict中跨洲从军及“Wild Geese”主题，媒介、空间和叙事均不同于Notorious Irish。",
+    "audit_note": "合格：整体展陈／工程建造责任、当前运营、21个互动画廊与离散叙事已闭合。ISO Design原始项目页的Notorious Irish（人体追踪及投影）和Conflict（移民战争史互动桌）两张不同主题画廊已保存并逐图人工审核。全库馆名、移民博物馆及核心叙事标题检索均未命中，未与329例已发布记录重复；最终媒体应记录项目摄影与页面权利边界。"
+  }
+}

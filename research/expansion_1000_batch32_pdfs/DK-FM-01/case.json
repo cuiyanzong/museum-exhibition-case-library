@@ -1,0 +1,82 @@
+{
+  "content": {
+    "id": "DK-FM-01",
+    "title": "Museum of Danish Resistance — The Road to Freedom",
+    "subtitle": "Frihedsmuseet / Museum of Danish Resistance｜Copenhagen, Denmark",
+    "year": "2020重开；馆方当前运营",
+    "type": "叙事性常设／长期展",
+    "brief": "以五位丹麦人的选择为人物锚点，通过1940—1945的时间阈限、抵抗走廊、船只逃亡环境与互动信息组织被占领社会的复杂伦理。",
+    "insight": "抵抗史不宜只把人物分成英雄与反派；选择的压力、风险、合作、逃亡与后果，必须借由物件、声音和行走节奏被具体化。",
+    "tags": [
+      "占领与抵抗",
+      "人物叙事",
+      "沉浸船只",
+      "档案与选择"
+    ],
+    "route": [
+      "占领初期与人物抉择",
+      "地下行动、窃听与出版",
+      "1945抵抗与解放记忆",
+      "海上逃亡／抵抗的船只环境",
+      "后果、物件与个人反思"
+    ],
+    "images": [
+      "dk-fm-01-01.jpg",
+      "dk-fm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/dk-fm-01-01_357477c0.jpg",
+      "/manus-storage/dk-fm-01-02_4b36b5a3.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：1945抵抗运动走廊与木板遗物。来源：Frihedsmuseet馆方媒体库（Copenhagen Card署名Thorkild Jensen / Frihedsmuseet）公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：1940海上逃亡／抵抗的船只与投影。来源：Frihedsmuseet馆方媒体库（Copenhagen Card署名Thorkild Jensen / Frihedsmuseet）公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：占领初期与人物抉择—地下行动、窃听与出版—1945抵抗与解放记忆—海上逃亡／抵抗的船只环境—后果、物件与个人反思。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以五名人物的选择作为贯穿线，从占领初期进入地下行动和抵抗，再以1945及海上逃亡的实物环境说明行动并非单一英雄故事，最后让观众回到后果与伦理判断。 本案的核心命题是：抵抗史不宜只把人物分成英雄与反派；选择的压力、风险、合作、逃亡与后果，必须借由物件、声音和行走节奏被具体化。"
+      ],
+      [
+        "展项设计",
+        "暗场走廊中的木板遗物、档案影像、年份标识与阅读面构成可慢读的记忆层；真实船只、桨、绳索与海面投影让逃亡的身体条件与叙事标题同步出现。"
+      ],
+      [
+        "布展与图文",
+        "狭长走廊必须保证灯光对文本与遗物的可读性，船只段应提供绕行与可停留点；沉浸影像不能遮蔽1940—1945的年代、人物和物件出处。"
+      ],
+      [
+        "研究判断",
+        "该案的可迁移价值在于把“抵抗”做成带有选择成本的参观叙事，让空间强度始终服务于人物、物件与历史责任。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://hwva.nl/en/Queen-Margrethe-II-of-Denmark-opens-Frihedsmuseet/",
+      "https://frihedsmuseet.dk/en",
+      "https://cdn.sanity.io/images/sne54s04/production/faf979b321caebccb7539fde3efc8146f43b6b6b-3000x2000.jpg",
+      "https://cdn.sanity.io/images/sne54s04/production/03fa04abca0707649258aacb3410ed75120fe931-2350x1970.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "DK-FM-01",
+    "title": "Museum of Danish Resistance — The Road to Freedom",
+    "museum": "Frihedsmuseet / Museum of Danish Resistance",
+    "location": "Copenhagen, Denmark",
+    "region": "西欧",
+    "status": "accepted-for-5-case-pool",
+    "studio": "National Museum of Denmark设计与技术团队（整体展陈内装设计协作）；Heijmerink Wagemakers（与馆方设计／技术团队共同实现全馆interior design）；Daniel Libeskind（建筑，非展陈责任）",
+    "year": "2020重开；馆方当前运营",
+    "design_source": "https://hwva.nl/en/Queen-Margrethe-II-of-Denmark-opens-Frihedsmuseet/",
+    "museum_source": "https://frihedsmuseet.dk/en",
+    "evidence": "Heijmerink Wagemakers原始公告说明其与丹麦国家博物馆的设计与技术团队共同实现Copenhagen Frihedsmuseet的entire interior design，故本案不是仅有建筑责任或单设备交付。馆方当前页列每日10:00–17:00、票务及私导，主展以The Road to Freedom为题，通过五名经历德国占领时期的丹麦人物组织抵抗、合作者、选择与后果的叙事；独立Copenhagen Card资料补充五名历史人物、窃听电话、密码破译、地下报纸、处决柱和人物物件等展项线索。馆方同时表明其为丹麦国家博物馆体系的一部分，主展将占领年代的个人抉择、行动风险与历史物件编排为可进入、可比较的参观路径。",
+    "image_assessment": "2026-08-26人工审阅并审核馆方Sanity媒体库原图。frihedsmuseet-faf（3000×2000）是已建成的抵抗运动走廊：参观者在木板遗物、档案图像墙、1945年章节标识、嵌入式说明面板与暗场动线间移动，形成个人选择与占领年代的对象—图文叙事。frihedsmuseet-03fa（2350×1970）为不同的海上逃亡／抵抗段：真实船只、桨、绳索、投影海面影像、参观者和“1940”时间标识共同构成可进入的沉浸环境。两图均由馆方媒体库发布，空间、媒介和叙事段不同；不是建筑外观、历史档案单图、旅游图、商店陈列或孤立设备。此前b8e为档案图、9df为商店陈列，均已严格排除。",
+    "image_source_1": "https://cdn.sanity.io/images/sne54s04/production/faf979b321caebccb7539fde3efc8146f43b6b6b-3000x2000.jpg",
+    "image_source_2": "https://cdn.sanity.io/images/sne54s04/production/03fa04abca0707649258aacb3410ed75120fe931-2350x1970.jpg",
+    "media_locator": "馆方：https://frihedsmuseet.dk/en；HWVA：https://hwva.nl/en/Queen-Margrethe-II-of-Denmark-opens-Frihedsmuseet/；Copenhagen Card：https://copenhagencard.com/attractions/the-museum-of-danish-resistance",
+    "audit_date": "2026-08-26"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "content": {
+    "id": "PL-ECS-01",
+    "title": "European Solidarity Centre — Labour, Resistance and Democratic Transition",
+    "subtitle": "Europejskie Centrum Solidarności / European Solidarity Centre｜Gdańsk, Poland",
+    "year": "2014开馆；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以1980年罢工、团结工会、民主转型与欧洲公共性为结构，将档案、工业现场感、互动媒介与公民讨论组织为长期展。",
+    "insight": "社会运动展不应只纪念胜利时刻；罢工组织、普通参与者、国际联系和未完成的民主问题需要并行出现。",
+    "tags": [
+      "团结工会",
+      "社会运动",
+      "档案与投影",
+      "公民讨论"
+    ],
+    "route": [
+      "造船厂与罢工导入",
+      "组织和谈判",
+      "日常参与者",
+      "民主转型",
+      "欧洲团结与当代讨论"
+    ],
+    "images": [
+      "pl-ecs-01-01.jpg",
+      "pl-ecs-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/pl-ecs-01-01_d66228c4.jpg",
+      "/manus-storage/pl-ecs-01-02_dba8b43a.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：团结工会的历史证据路径。来源：European Solidarity Centre相关公开项目来源公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：公民社会与欧洲团结叙事。来源：European Solidarity Centre相关公开项目来源公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：造船厂与罢工导入—组织和谈判—日常参与者—民主转型—欧洲团结与当代讨论。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从具体劳动现场和罢工进入组织行动，再回到公民社会与欧洲语境，使政治变化保持人的尺度。 本案的核心命题是：社会运动展不应只纪念胜利时刻；罢工组织、普通参与者、国际联系和未完成的民主问题需要并行出现。"
+      ],
+      [
+        "展项设计",
+        "工业构件、文件、照片、投影和互动台需分别承担场地、证据、人物与讨论；参与式装置要清楚标出历史与当代问题。"
+      ],
+      [
+        "布展与图文",
+        "大尺度空间适合投影与群体参观，但档案桌和证词墙应脱离主要声场；保持团体不遮挡个人阅读的旁路。"
+      ],
+      [
+        "研究判断",
+        "运动记忆的公共性来自把组织方式和分歧保留下来，而非把历史凝结为单一象征。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://studio1do1.pl/en/exhibitions",
+      "https://ecs.gda.pl/en/permanent-exhibition/",
+      "https://ecs.gda.pl/wp-content/uploads/2022/07/a_3.jpg",
+      "https://ecs.gda.pl/wp-content/uploads/2022/07/d_1.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "PL-ECS-01",
+    "title": "European Solidarity Centre — Labour, Resistance and Democratic Transition",
+    "museum": "Europejskie Centrum Solidarności / European Solidarity Centre",
+    "location": "Gdańsk, Poland",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Studio 1:1（永久展与导视系统）；ECS Permanent Exhibition Section、历史学家、社会科学家、博物馆专家、设计师与工程师（策展／实施）；FORT（建筑）",
+    "year": "2014开馆；馆方当前开放",
+    "design_source": "https://studio1do1.pl/en/exhibitions",
+    "museum_source": "https://ecs.gda.pl/en/permanent-exhibition/",
+    "context_source": "https://presentations.thebestinheritage.com/2022/esc-permanent-exhibition",
+    "evidence": "Studio 1:1项目页将‘European Solidarity Centre – Permanent Exhibition’列为其在ECS建筑内完成的大型展览；馆方说明该展占近3,000平方米、分七室，结合档案、文件、照片、影片、互动装置与约1,800件展品。馆方当前页面提供当日开放与在线售票，并明确七室从‘The Birth of Solidarność’、‘The Power of the Powerless’、‘Solidarność and Hope’、‘The Culture of Peaceful Change’到‘At War with Society’、‘The Road to Democracy’与‘The Triumph of Freedom’；The Best in Heritage详述2008情景与设计竞赛、2012永久展部门、跨60家档案机构搜集材料及2014开幕，确认其为由ECS专业团队牵头的整体展陈。",
+    "image_assessment": "2026-08-24人工确认馆方永久展页显示七室轮播及真实现场图组的原始链接：‘Birth’段含a_3.jpg、fot-renata-dabrowska...jpg、A_2.jpg；‘At War with Society’段含ReD_3-89-2019_0195.jpg、d_1.jpg、d_2.jpg。a_3.jpg（1920×1280）已人工复核为真实已建成‘Birth of Solidarność’展厅：可见大型船厂扳手／工业构件、船坞影像、分层图文与多屏互动装置。d_1.jpg（1920×1280）已人工复核为不同的‘At War with Society’室内段：可见真实MILI CJA警车、黑色栅栏与红褐色版画式墙面装置、环绕屏幕及展厅照明。ReD_3-89-2019_0195.jpg实为夜景外观，明确排除。最终两图均来自馆方永久展页面，非外观、渲染、旅游照片或孤立物件特写。",
+    "image_source": "https://ecs.gda.pl/en/permanent-exhibition/",
+    "image_source_1": "https://ecs.gda.pl/wp-content/uploads/2022/07/a_3.jpg",
+    "image_source_2": "https://ecs.gda.pl/wp-content/uploads/2022/07/d_1.jpg",
+    "next_gate": "候选池阶段通过；生产前从上述馆方原始地址下载两图并以Pillow重开、尺寸与RGB JPEG检查，同时再次核验馆方开放与票务页面。",
+    "audit_date": "2026-08-24"
+  }
+}

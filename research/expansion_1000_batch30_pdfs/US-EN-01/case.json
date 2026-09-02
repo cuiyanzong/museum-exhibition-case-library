@@ -1,0 +1,83 @@
+{
+  "content": {
+    "id": "US-EN-01",
+    "title": "Entertainment Nation / Nación del espectáculo",
+    "subtitle": "Smithsonian National Museum of American History｜Washington, D.C., USA",
+    "year": "2022完成；2026仍在对象轮换与更新",
+    "type": "叙事性常设／长期展",
+    "brief": "以200件物品、英西双语文本、触读模型、影像和主题节点讨论1890年至今美国娱乐业的技术、种族、性别与公共争议。",
+    "insight": "娱乐史的难点是既保留愉悦与怀旧，也要让权力、抗议、商业结构和被压抑的声音进入同一空间。",
+    "tags": [
+      "娱乐史",
+      "双语策展",
+      "对象与影像",
+      "社会议题"
+    ],
+    "route": [
+      "入口与娱乐定义",
+      "电影电视与明星",
+      "音乐与身份",
+      "抗议与公共声音",
+      "媒介变化与当代回望"
+    ],
+    "images": [
+      "us-en-01-01.jpg",
+      "us-en-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-en-01-01_5ee32094.jpg",
+      "/manus-storage/us-en-01-02_240f8290.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：双语入口与流行文化对象。来源：R&P Design / Jay Rosenblatt / Smithsonian NMAH公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：Anthems/Himnos社会抗议影像。来源：R&P Design / Jay Rosenblatt / Smithsonian NMAH公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：入口与娱乐定义—电影电视与明星—音乐与身份—抗议与公共声音—媒介变化与当代回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从娱乐的共同体验进入具体媒介，再以音乐和抗议纠正单纯庆典式叙事，使流行文化能够被批判性阅读。 本案的核心命题是：娱乐史的难点是既保留愉悦与怀旧，也要让权力、抗议、商业结构和被压抑的声音进入同一空间。"
+      ],
+      [
+        "展项设计",
+        "机器人、乐器、道具、屏幕、触读模型和口述影像应分别承担对象、技术、无障碍与社会解释；每件明星物品要回到制度语境。"
+      ],
+      [
+        "布展与图文",
+        "高饱和灯光与镜面地面需为字幕、座椅和触读路径让位；社会议题影像区应避免被相邻声场干扰。"
+      ],
+      [
+        "研究判断",
+        "双语与无障碍不是附加服务，而是改变了谁能阅读、触摸和讨论公共娱乐记忆的展陈结构。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://designrp.com/projects/smithsonian-institution-entertainment-nation/",
+      "https://americanhistory.si.edu/explore/exhibitions/entertainment-nation",
+      "https://designrp.com/wp-content/uploads/2023/02/010-American-Enterainment-HERO.jpg",
+      "https://designrp.com/wp-content/uploads/2023/02/067-American-Enterainment-DETAIL-4.jpg"
+    ]
+  },
+  "ledger": {
+    "id": "US-EN-01",
+    "title": "Entertainment Nation / Nación del espectáculo",
+    "museum": "Smithsonian National Museum of American History",
+    "location": "Washington, D.C., USA",
+    "region": "北美洲",
+    "status": "accepted-for-20-case-pool",
+    "studio": "R&P Design / Reich & Petch（展陈设计）；Smithsonian NMAH策展团队；EwingCole（展厅建筑／照明协作）",
+    "year": "2022完成；2026仍在对象轮换与更新",
+    "design_source": "https://designrp.com/projects/smithsonian-institution-entertainment-nation/",
+    "museum_source": "https://americanhistory.si.edu/explore/exhibitions/entertainment-nation",
+    "status_source": "https://www.si.edu/newsdesk/releases/new-objects-added-entertainment-nation-exhibition-commemoration-nations-250th",
+    "evidence": "DesignRP项目页确认其对7,200平方英尺双语永久展承担展陈设计，整合橱窗灯、带状LED、图像、声音、可旋转展柜、11个触摸／互动组件与两个沉浸式微型媒体空间；以娱乐如何折射并塑造美国身份为核心，处理喜剧中的种族史与音乐抗议等困难议题。馆方页将其列为可到访展览，说明以戏剧、音乐、体育、电影、电视物件和互动跨越150余年国家对话；馆方2026新闻确认其自2022年12月开放、约200件物品持续每年一至两次轮换并新增建国250周年对象，馆舍每日开放（12月25日除外）。",
+    "image_assessment": "2026-08-24人工审阅：Smithsonian图01为已建成的入口／对象展区，可见实体吉他、透明展柜、英西双语悬挂图文、LED、展签与路线；EwingCole图04为不同的“Anthems/Himnos”音乐—社会抗议段，可见多件乐器、橱窗、屏幕／投影、座位／界面和暗场反射。两图均有真实材料、光照与展览细部，分辨率1200×675和800×600，非渲染或临展活动图。",
+    "image_source_1": "https://designrp.com/wp-content/uploads/2023/02/010-American-Enterainment-HERO.jpg",
+    "image_source_2": "https://designrp.com/wp-content/uploads/2023/02/067-American-Enterainment-DETAIL-4.jpg",
+    "next_gate": "2026-08-24媒体阶段已下载R&P Design完整项目图组并制成联系表人工复核。最终图1（3000×2249、Jay Rosenblatt署名）为双语入口、机器人／流行文化对象、实体展柜与环形解释装置组成的对象证据导入段；最终图2（3000×2330、Jay Rosenblatt署名）为‘I CAN’T KEEP QUIET’社会抗议影像、口述文本与座位／界面形成的Anthems/Himnos媒体解释段。二图均为真实建成室内、叙事机制不同，非外观、渲染或纯视频截图；待全批RGB JPEG规范化、Pillow重开、上传与最终manifest写入。",
+    "audit_date": "2026-08-24"
+  }
+}

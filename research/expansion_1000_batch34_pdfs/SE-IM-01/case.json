@@ -1,0 +1,87 @@
+{
+  "content": {
+    "id": "SE-IM-01",
+    "title": "IKEA Museum — Our Roots, Our Story and Your Stories Main Exhibition",
+    "subtitle": "IKEA Museum｜Älmhult, Sweden",
+    "year": "2016年开放；IKEA Museum官网当前发布开放、票务及2025—2027临展安排",
+    "type": "瑞典社会生活、企业发展、产品设计与全球家庭生活的叙事性长期主展",
+    "brief": "以Our Roots、Our Story和Your Stories三段，将Småland社会生活、IKEA企业与设计发展、全球家庭使用经验串成可在原1958年门店中行走的长期主展。",
+    "insight": "企业博物馆若只陈列成功产品，容易把历史简化为品牌赞歌；地方生活、失败案例、设计过程和顾客使用方式必须被并置，才能呈现品牌如何嵌入社会。",
+    "tags": [
+      "企业社会史",
+      "产品设计",
+      "家庭日常",
+      "参与式档案"
+    ],
+    "route": [
+      "Our Roots：Småland生活与创业条件",
+      "Our Story：理念、设计、成功与失败",
+      "产品研发、样品与设计档案",
+      "Your Stories：顾客家居使用与目录参与",
+      "参观后回望与临时教育活动"
+    ],
+    "images": [
+      "se-im-01-01.jpg",
+      "se-im-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/se-im-01-01_799128b3.jpg",
+      "/manus-storage/se-im-01-02_061b58ab.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：Our Story产品开发与设计档案。来源：Ralph Appelbaum Associates项目页；仅作研究性案例索引。",
+      "已建成展厅实景：Your Stories家庭使用与目录参与。来源：Ralph Appelbaum Associates项目页；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：Our Roots：Småland生活与创业条件—Our Story：理念、设计、成功与失败—产品研发、样品与设计档案—Your Stories：顾客家居使用与目录参与—参观后回望与临时教育活动。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "以地方生活史解释企业从何而来，再以产品、方案与转折讨论其如何成长，最后交给使用者自身的家庭经验，使品牌叙事从单向史传变为生产—消费—记忆之间的循环。 本案的核心命题是：企业博物馆若只陈列成功产品，容易把历史简化为品牌赞歌；地方生活、失败案例、设计过程和顾客使用方式必须被并置，才能呈现品牌如何嵌入社会。"
+      ],
+      [
+        "展项设计",
+        "开放主展中的样品书板、草图、透明展柜、年代标签和产品群组让设计过程可被比较；厨房情景、相机和“上封面”参与装置将顾客使用转为可进入的叙事证据。"
+      ],
+      [
+        "布展与图文",
+        "原店建筑的开敞格局支持多条观看线，悬吊标签和大尺度物件提供远距索引；低位台座、可近读档案和参与装置须为儿童、轮椅使用者与不同停留时长保留清晰界面。"
+      ],
+      [
+        "研究判断",
+        "可迁移原则是把企业史从产品年表扩展为社会使用史：设计不只说明“做了什么”，也要显示“为何产生、如何失败、由谁使用”。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://raai.com/project/ikea-museum/",
+      "https://www.dezeen.com/2016/10/13/ikea-museum-form-us-with-love-design-exhibition-interactive-interiors-sweden/",
+      "https://ikeamuseum.com/en/"
+    ]
+  },
+  "ledger": {
+    "id": "SE-IM-01",
+    "status": "accepted-for-5-case-pool",
+    "title": "IKEA Museum — Our Roots, Our Story and Your Stories Main Exhibition",
+    "museum": "IKEA Museum",
+    "location": "Älmhult, Sweden",
+    "region": "北欧",
+    "studio": "Ralph Appelbaum Associates（与Inter IKEA Culture Centre共同规划与设计主展的叙事和参观路径）；Wilkinson Eyre Architects、Uulas Arkitekter AB（馆舍改造协作）；Form Us With Love（入口、民主设计与互动球道的局部展示设计）",
+    "year": "2016年开放；IKEA Museum官网当前发布开放、票务及2025—2027临展安排",
+    "type": "瑞典社会生活、企业发展、产品设计与全球家庭生活的叙事性长期主展",
+    "design_source": "https://raai.com/project/ikea-museum/",
+    "museum_source": "https://ikeamuseum.com/en/",
+    "design_source_secondary": "https://www.dezeen.com/2016/10/13/ikea-museum-form-us-with-love-design-exhibition-interactive-interiors-sweden/",
+    "image_source_1": "https://raai.com/project/ikea-museum/",
+    "image_source_2": "https://raai.com/project/ikea-museum/",
+    "image_url_1": "https://raai.com/wp-content/uploads/2022/05/Ikea-1600x1000.jpg",
+    "image_url_2": "https://raai.com/wp-content/uploads/2022/05/Ikea8-1024x640.jpg",
+    "source_file_1": "/home/ubuntu/webdev-static-assets/batch34-staging/SE-IM-01/raai-main-exhibition-original.png",
+    "source_file_2": "/home/ubuntu/webdev-static-assets/batch34-staging/SE-IM-01/raai-customer-stories-original.png",
+    "evidence": "RAA项目页明确其受Inter IKEA Culture Centre委任规划并设计主展，与客户共同形成叙事；以原1958年IKEA门店为参观路径，展览分Our Roots、Our Story与Your Stories三段，从19世纪Småland日常生活及Kamprad创业背景，到IKEA理念、方案、成功／失败，再到顾客如何使用经典产品。RAA列主展75,000平方英尺、2016年。IKEA Museum官网当前保留开放时间、入场费、参观规划、活动及完整“The Story of IKEA”时间线；Dezeen交叉确认2万余档案物件、三主题与RAA参与主展转换。",
+    "image_review_1": "人工审核通过：1600×1000的RAA原始项目页摄影显示二层开放式主展中悬吊的年代／产品标签、灯具与餐具、样品书板、设计草图板、透明展柜及工作台，是真实完成的产品开发／品牌设计叙事环境，不是渲染、建筑外观或单一产品广告图。",
+    "image_review_2": "人工审核通过：1024×640的RAA原始项目页摄影展示可走入的白色厨房、真实参观者／镜前参与、相机与说明墙“Put yourself on the cover of this year’s IKEA catalogue”，对应顾客家庭使用与Your Stories叙事；与第一张对象—开发主展在空间、媒介和叙事上不同，非效果图。",
+    "audit_note": "合格：RAA整体展陈／叙事责任、75,000平方英尺尺度、馆方持续运营和三段叙事已闭合；两张RAA原始项目页完成内景已人工审核，分别代表产品／设计发展与顾客家庭使用。全库馆名及三段叙事标题检索未命中，未与329例已发布记录重复；最终媒体须保留RAA项目页与原始摄影权利标注。"
+  }
+}

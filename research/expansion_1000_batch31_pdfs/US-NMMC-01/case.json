@@ -1,0 +1,85 @@
+{
+  "content": {
+    "id": "US-NMMC-01",
+    "title": "National Museum of the Marine Corps — Chronological Permanent Galleries",
+    "subtitle": "National Museum of the Marine Corps｜Triangle, Virginia, USA",
+    "year": "2006首期开馆；2010补足1775至第一次世界大战历史展厅；后续常设展持续运营",
+    "type": "叙事性常设／长期展",
+    "brief": "以贯通式Legacy Walk和年代画廊组织近250年海军陆战队史，将越战DMZ与韩国战争长津湖等战场场景置于对象、地图、人物图像和文字证据的连续历史路径中。",
+    "insight": "军事史的沉浸式场景若只强化战斗感，会把战争理解为无背景的英雄叙事；场景需要由地理、时间、物件、人物与制度信息共同约束。",
+    "tags": [
+      "军事社会史",
+      "年代画廊",
+      "场景复原",
+      "战争地理",
+      "遗物与图文"
+    ],
+    "route": [
+      "Legacy Walk历史概览",
+      "早期军团与全球远征",
+      "二战与冷战转折",
+      "韩国战争长津湖",
+      "越战DMZ与个人经验"
+    ],
+    "images": [
+      "us-nmmc-01-01.jpg",
+      "us-nmmc-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/us-nmmc-01-01_af885102.jpg",
+      "/manus-storage/us-nmmc-01-02_e3f2b998.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：越战DMZ立体场景与战地证据。来源：Design and Production, Inc. / Jay Rosenblatt公开项目／馆方资源；仅作研究性案例索引。",
+      "已建成展厅实景：韩国战争冰雪地形与长津湖场景。来源：Design and Production, Inc. / Jay Rosenblatt公开项目／馆方资源；仅作研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事、项目责任资料与已审现场图整理为研究性参观序列：Legacy Walk历史概览—早期军团与全球远征—二战与冷战转折—韩国战争长津湖—越战DMZ与个人经验。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "通过年代展厅与贯通路径建立跨世纪框架，再在韩国战争和越战的具体空间中收紧到人物、地理与物质条件；局部战场不脱离整体历史时间。 本案的核心命题是：军事史的沉浸式场景若只强化战斗感，会把战争理解为无背景的英雄叙事；场景需要由地理、时间、物件、人物与制度信息共同约束。"
+      ],
+      [
+        "展项设计",
+        "DMZ段以战车、建筑残片、人物模型、地图和照片墙联结战场与叙事证据；冰雪地形段以岩雪、人物和器材处理寒冷、行军与生存条件。模型与场景需由可读的地点、时间与对象标签约束。"
+      ],
+      [
+        "布展与图文",
+        "场景的低照度和方向性光效需要让标题、地图和证词保持可读；大型地形前应提供停留区和旁路，避免团体观众遮挡细部文字或把沉浸段压缩为单向拍照点。"
+      ],
+      [
+        "研究判断",
+        "其可迁移价值在于让年代叙事与局部沉浸场景相互校验：观众既能感受战场条件，也能回到地图、档案与历史阶段理解其发生机制。 该判断仅基于公开责任链、当前运营线索与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.d-and-p.com/national-museum-of-the-marine-corps",
+      "https://www.usmcmuseum.com/exhibits.html",
+      "https://www.usmcmuseum.com/museums-history.html",
+      "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117648-33KJZ60ISTM2J7HZQ96W/USMC+Web+-+9.jpg?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117518-S9Q97ZKN0S0OQFPY6VGD/USMC+Web+-+8.jpg?format=1500w"
+    ]
+  },
+  "ledger": {
+    "id": "US-NMMC-01",
+    "title": "National Museum of the Marine Corps — Chronological Permanent Galleries",
+    "museum": "National Museum of the Marine Corps",
+    "location": "Triangle, Virginia, USA",
+    "region": "北美洲",
+    "status": "accepted-for-5-case-pool",
+    "studio": "Christopher Chadbourne & Associates（整体展陈设计）；Design and Production, Inc.（馆方列为受约展陈团队，D&P项目页发布完成摄影）；National Museum of the Marine Corps（馆方历史叙事、策展与持续运营）",
+    "year": "2006首期开馆；2010补足1775至第一次世界大战历史展厅；后续常设展持续运营",
+    "design_source": "https://www.d-and-p.com/national-museum-of-the-marine-corps",
+    "production_source": "https://www.usmcmuseum.com/museums-history.html",
+    "museum_source": "https://www.usmcmuseum.com/exhibits.html",
+    "evidence": "馆方《Museum’s History》页明确：Marine Corps在2003年委任Christopher Chadbourne & Associates与Design and Production, Inc.负责展陈团队工作；2006年开放时已有Leatherneck、Making Marines、Legacy Walk及二战、朝鲜战争、越战历史展厅，2010年又开放1775至第一次世界大战展厅。D&P原始项目页将本馆列为Christopher Chadbourne & Associates的Exhibit Design项目，并署名Jay Rosenblatt摄影。馆方展览页将全馆组织为跨近250年的年代展厅与贯通式Legacy Walk；其中二战常设展从珍珠港至太平洋战场，以登陆艇、文物、影像和沉浸式登陆体验构成参观段落，越战展则用壁画、立体场景、直升机与城市／丛林叙事组织战时体验；韩国战争页面明确其围绕仁川、长津湖、首尔等节点展开。馆方Final Phase页列当前开放的多个历史展厅及参观入口，构成可靠运营线索。",
+    "image_assessment": "2026-08-26人工审阅两张D&P原始项目页发布、Jay Rosenblatt署名的完成后室内摄影。USMC Web-9（1500×1000）是完整的越战叙事展段：可见标有“1954–1975 The War Along the DMZ”的章节标识、战车、人物模型、建筑残片、地图／人像图文墙与斜台，形成地景—物件—证据面板的沉浸式场景。USMC Web-8（1500×1000）是雪山与严寒环境的完整立体场景，含岩雪地形、人物模型、器材和舞台光效；与馆方韩国战争常设展对于长津湖的说明相互印证。两图属不同战争与叙事段，均为真实建成室内而非效果图、建筑外观、旅游图或孤立设备特写。",
+    "image_source_1": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117648-33KJZ60ISTM2J7HZQ96W/USMC+Web+-+9.jpg?format=1500w",
+    "image_source_2": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117518-S9Q97ZKN0S0OQFPY6VGD/USMC+Web+-+8.jpg?format=1500w",
+    "media_locator": "D&P完成摄影原页：https://www.d-and-p.com/national-museum-of-the-marine-corps；本地人工审阅版本：/home/ubuntu/webdev-static-assets/batch31-staging/US-NMMC-01/usmc-web-9.jpg（越战DMZ）与usmc-web-8.jpg（韩国战争／长津湖叙事）。",
+    "audit_date": "2026-08-26"
+  }
+}

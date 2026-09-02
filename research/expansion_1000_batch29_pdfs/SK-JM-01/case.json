@@ -1,0 +1,74 @@
+{
+  "content": {
+    "id": "SK-JM-01",
+    "title": "Jurkovič Museum — Permanent Exhibition",
+    "subtitle": "Múzeum Dušana Samuela Jurkoviča｜Brezová pod Bradlom, Slovakia",
+    "year": "永久展；馆方当前开放",
+    "type": "叙事性常设／长期展",
+    "brief": "以建筑师Dušan Samuel Jurkovič的生平、地方性灵感与作品为主线，用图形、导视、横幅与壁纸构成小型永久展的整体识别系统。",
+    "insight": "预算有限的传记展不必模拟建筑；清晰的章节图形和模型关系反而能让作品、影响来源与时代语境被连续阅读。",
+    "tags": [
+      "建筑师传记",
+      "图形系统",
+      "模型与导视",
+      "地方性现代性"
+    ],
+    "route": [
+      "人物与家乡",
+      "教育与早期实践",
+      "民间图案影响",
+      "建筑作品与模型",
+      "晚年与遗产"
+    ],
+    "images": [
+      "sk-jm-01-01.jpg",
+      "sk-jm-01-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/sk-jm-01-01_fde0b6af.jpg",
+      "/manus-storage/sk-jm-01-02_960b8b9b.jpg"
+    ],
+    "captions": [
+      "已建成展厅实景：早期传记段。来源：Missing Element公开项目／馆方资源；仅用于研究性案例索引。",
+      "已建成展厅实景：建筑作品段。来源：Missing Element公开项目／馆方资源；仅用于研究性案例索引。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：人物与家乡—教育与早期实践—民间图案影响—建筑作品与模型—晚年与遗产。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "由生平进入地方图案和建筑作品，使“民族风格”不被处理为装饰标签，而是与职业选择和时代条件相连。"
+      ],
+      [
+        "展项设计",
+        "照片、手稿复制、建筑模型、图案墙纸与屏幕应分别承担证据、尺度、视觉语汇与扩展信息，避免模型成为孤立玩具。"
+      ],
+      [
+        "布展与图文",
+        "红绿等章节色与壁纸需要支持方向而非淹没文字；在紧凑空间中保持模型周边的近读距离和视线高度。"
+      ],
+      [
+        "研究判断",
+        "此案说明展陈图形可以成为叙事结构，而不是后期视觉包装；其边界是不得把图形设计误表述为未公开的建筑改造。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "SK-JM-01",
+    "title": "Jurkovič Museum — Permanent Exhibition",
+    "museum": "Múzeum Dušana Samuela Jurkoviča",
+    "location": "Brezová pod Bradlom, Slovakia",
+    "region": "东欧",
+    "status": "accepted-for-20-case-pool",
+    "studio": "Missing Element（永久展设计；图形、导视、横幅、壁纸和网站等实施材料）",
+    "year": "永久展；馆方当前开放",
+    "design_source": "https://www.missing-element.com/detail.php?item=jurkovic-muzeum-e",
+    "museum_source": "https://muzeumjurkovic.sk/navstivte-nas",
+    "evidence": "Missing Element项目页将客户明确列为斯洛伐克Jurkovič Museum、项目为Permanent exhibition design；说明其以图形系统塑造室内与整体氛围，完成导视、横幅、壁纸、网站等多种材料，并在有限预算、无建筑师配合的实施条件下完成安装。馆方官方参观页确认地址、季节性开放时间（5—9月周三至周日、10—4月周一至周五，均10:00—13:00及13:30—18:00），票价以及20—60分钟讲解服务。",
+    "image_assessment": "Missing Element项目页公开eejurkovic2、9、5、11、4、8、10等多张项目图片；浏览页面可见展厅内红色梁架、墙面图形、壁纸／海报系统及灯具等已建成室内构件。后续媒体阶段逐张审阅并选择两张不同展区内景，不采用网页界面或外观素材。",
+    "next_gate": "媒体生产阶段下载两张设计方公开的室内安装实景，记录准确图注和文件来源；依据博物馆对建筑师Dušan Samuel Jurkovič生平／作品的永久陈列主题撰写五层研究，并避免将图形／导视设计夸大为未公开的建筑改造责任。",
+    "audit_date": "2026-08-24"
+  }
+}
