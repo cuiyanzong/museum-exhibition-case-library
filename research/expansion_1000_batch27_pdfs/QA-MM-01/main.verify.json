@@ -1,0 +1,48 @@
+VERIFY PASS pass=6 warn=0 fail=0 unknown=0 report=/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch27_pdfs/QA-MM-01/main.verify.json
+cument",
+  "overall": "PASS",
+  "checks": [
+    {
+      "name": "signature",
+      "status": "PASS",
+      "message": "PDF header is valid",
+      "evidence": {
+        "header": "%PDF-"
+      }
+    },
+    {
+      "name": "pdfinfo",
+      "status": "PASS",
+      "message": "PDF is parseable by pdfinfo",
+      "evidence": {}
+    },
+    {
+      "name": "page-count",
+      "status": "PASS",
+      "message": "pages=5",
+      "evidence": {
+        "pages": 5
+      }
+    },
+    {
+      "name": "text-presence",
+      "status": "PASS",
+      "message": "characters=4434",
+      "evidence": {}
+    },
+    {
+      "name": "placeholders",
+      "status": "PASS",
+      "message": "No placeholder markers found",
+      "evidence": {
+        "matches": []
+      }
+    },
+    {
+      "name": "fonts",
+      "status": "PASS",
+      "message": "font_records=6",
+      "evidence": {}
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "EG-GEM-01",
+    "title": "Grand Egyptian Museum — Main Galleries and Tutankhamun Galleries",
+    "subtitle": "Grand Egyptian Museum｜吉萨，埃及",
+    "year": "2025；常设展",
+    "type": "古埃及文明、考古对象与王权叙事／大型常设展",
+    "brief": "以40,000平方米展陈、50,000余件对象、图坦卡蒙完整墓葬珍藏和从古埃及至希腊罗马时期的馆藏，构成大型文明史与王权叙事。",
+    "insight": "大型考古馆的空间秩序应服务对象比较、时间尺度与保育需求；宏伟入口和视觉轴线不应取代对文物语境的解释。",
+    "tags": [
+      "文明时间线",
+      "图坦卡蒙",
+      "大型展柜",
+      "灯光与媒体策划"
+    ],
+    "route": [
+      "悬挂方尖碑",
+      "大堂与大阶梯",
+      "主展厅文明叙事",
+      "图坦卡蒙画廊",
+      "王权与日常对象",
+      "古埃及至罗马时期回望"
+    ],
+    "images": [
+      "eg-gem-01.jpg",
+      "eg-gem-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/eg-gem-01_4eb47407.jpg",
+      "/manus-storage/eg-gem-02_dbde55f8.jpg"
+    ],
+    "captions": [
+      "Grand Egyptian Museum图坦卡蒙画廊的已建成展柜与对象。来源：Atelier Brückner公开项目摄影。",
+      "Grand Egyptian Museum主展厅的雕像、展台与参观者。来源：Atelier Brückner公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：悬挂方尖碑—大堂与大阶梯—主展厅文明叙事—图坦卡蒙画廊—王权与日常对象—古埃及至罗马时期回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "入口、阶梯、主展厅和专题画廊建立由文明概览到具体墓葬珍藏的尺度变化，使王权叙事能回到对象群与考古语境。"
+      ],
+      [
+        "展项设计",
+        "巨型雕像、墓葬组合、金器与小型器物需要不同展柜和视距；媒体应负责定向与语境而非覆盖对象本身。"
+      ],
+      [
+        "布展与图文",
+        "大体量空间中，灯光、导视、展柜反射控制和人流缓冲决定观众是否能从宏观震撼转换到近距离观察。"
+      ],
+      [
+        "研究判断",
+        "在超级体量博物馆中，最稀缺的是可阅读的节奏；展陈应让“看见文明”与“理解一件物”交替发生。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "EG-GEM-01",
+    "country": "埃及",
+    "region": "非洲",
+    "title": "Grand Egyptian Museum — Main Galleries and Tutankhamun Galleries",
+    "museum": "Grand Egyptian Museum",
+    "location": "吉萨，埃及",
+    "year": "2025；常设展",
+    "type": "古埃及文明、考古对象与王权叙事／大型常设展",
+    "studio": "ATELIER BRÜCKNER（总体策划、展陈设计与场景设计）／Bartenbach（灯光协作）／iart（媒体策划）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.atelier-brueckner.com/en/projects/gem-grand-egyptian-museum",
+    "museum_source": "https://gem.eg/collection/",
+    "evidence": "Atelier Brückner项目页确认其为GEM的总体策划、展陈设计与场景设计方，展览面积40,000平方米，以50,000余件展品、图坦卡蒙完整墓葬珍藏及从古埃及至希腊罗马时期的对象组织叙事；Bartenbach参与灯光、iart参与媒体策划。GEM官网当前将Hanging Obelisk、Grand Hall、Grand Stairs、Tutankhamun Galleries、Main Galleries和Khufu's Boats Museum列为其馆藏体验结构，并展示史前至罗马时期的馆藏对象；官方票务与开放页列出每日开放的画廊时段。",
+    "image_credit": "Atelier Brückner（Hassan Mahmoud、Rehab Eldalil、Josef Sindelka）／Al Jazeera、Euronews等现场报道摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：设计方与多家新闻机构的现场图可见已开放的大阶梯、真实王室雕像、完整展柜、图坦卡蒙对象与参观者；展柜反射、灯光轨道、导视及人流确认其为已建成常设展陈，而非施工、渲染或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

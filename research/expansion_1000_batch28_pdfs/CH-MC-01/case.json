@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "CH-MC-01",
+    "title": "Museum of Communication — The Core Exhibition",
+    "subtitle": "Museum of Communication｜伯尔尼，瑞士",
+    "year": "2017；长期核心展",
+    "type": "通信史、数据伦理与参与式媒介／互动叙事常设展",
+    "brief": "以九个沟通问题覆盖三层空间，利用互动、对象、大屏幕与真人沟通员，将传播史、记忆、隐私和大数据转化为参与式常设展。",
+    "insight": "抽象主题展的核心不是给观众更多按钮，而是把问题、身体参与和人与人之间的对话编入空间结构。",
+    "tags": [
+      "九个问题",
+      "真人沟通员",
+      "数据伦理",
+      "互动媒介"
+    ],
+    "route": [
+      "红毯与个人故事",
+      "交流实验室",
+      "记忆与脑形中心",
+      "大数据与隐私",
+      "通信革命时间线",
+      "个人图像墙回收"
+    ],
+    "images": [
+      "ch-mc-01.jpg",
+      "ch-mc-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/ch-mc-01_3b8a1b3a.jpg",
+      "/manus-storage/ch-mc-02_ba08e3eb.jpg"
+    ],
+    "captions": [
+      "The Core Exhibition内的对象展柜、信息层与空间纵深。来源：Museum of Communication公开摄影。",
+      "The Core Exhibition的互动台与参观者。来源：Museum of Communication／Thijs Wolzak项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：红毯与个人故事—交流实验室—记忆与脑形中心—大数据与隐私—通信革命时间线—个人图像墙回收。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "九个问题而非物件年代成为组织骨架，使个人经验、技术变化与伦理讨论可以在不同楼层发生互相呼应。"
+      ],
+      [
+        "展项设计",
+        "互动台、电影卡拉OK、黑客游戏、记忆盒和真人沟通员各自承担参与、解释与社交触发；人应被视作展陈机制的一部分。"
+      ],
+      [
+        "布展与图文",
+        "红色导向带、低照度媒体区和可停留的实验台将复杂信息拆成不同速度；真人互动应避免阻断自主参观。"
+      ],
+      [
+        "研究判断",
+        "把工作人员纳入场景并不是服务加法，而是将“沟通”从技术主题转化为真实社会行为。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "CH-MC-01",
+    "country": "瑞士",
+    "region": "西欧",
+    "title": "Museum of Communication — The Core Exhibition",
+    "museum": "Museum of Communication",
+    "location": "伯尔尼，瑞士",
+    "year": "2017；长期核心展",
+    "type": "通信史、数据伦理与参与式媒介／互动叙事常设展",
+    "studio": "Kossmann.dejong（永久展设计与场景设计）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.v2com-newswire.com/fr/salle-de-presse/categories/event-exhibition/dossiers-de-presse/2876-01/kossmann-dejong-designs-new-permanent-exhibition-for-the-swiss-museum-of-communication",
+    "museum_source": "https://www.mfk.ch/en/visit/exhibitions/the-core-exhibition",
+    "evidence": "Kossmann.dejong公开说明其为伯尔尼通信博物馆整体翻新的新永久展设计方；以九个关于沟通的关键问题组织三层空间：底层从邮车到无人机的通信革命时间线，中层以记忆盒、脑形中心雕塑与数据中心讨论记忆、隐私和大数据，上层由瑞士公民故事、物件拼贴、实验室与真人“communicators”建立参与式入口。馆方当前核心展页确认其为2,000平方米长期展，以电影卡拉OK、黑客游戏、数据章鱼等互动和真人沟通者组织体验；首页列明周二至周日10:00—17:00开放。",
+    "image_credit": "Museum of Communication官方网站／Kossmann.dejong项目摄影（Thijs Wolzak）；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方页面可见真实参观者在环形影音座椅、Multitasking互动台、展柜与低照度信息环境中的使用；项目发布页列有多组Thijs Wolzak现场摄影。画面中的人、设备、屏幕反射、对象与材料细节可确认已建成展厅，而非渲染。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

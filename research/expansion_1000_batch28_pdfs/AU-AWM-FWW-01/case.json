@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "AU-AWM-FWW-01",
+    "title": "Australian War Memorial — First World War Gallery",
+    "subtitle": "Australian War Memorial｜堪培拉，澳大利亚",
+    "year": "2014翻新；常设展",
+    "type": "战争史／对象、模型与多媒体叙事常设展",
+    "brief": "在修复后的画廊中，以1914至战后余波的编年结构、通长视线、大型物件、立体场景模型和多媒体呈现澳大利亚一战史。",
+    "insight": "战争史的对象密度很高，清晰的时间顺序与开放视线可以防止大型装备和声光媒介把小型证据淹没。",
+    "tags": [
+      "战争时间线",
+      "大型物件",
+      "立体场景",
+      "纪念语境"
+    ],
+    "route": [
+      "1914战争进入",
+      "前线与物件",
+      "海陆空装备",
+      "立体场景模型",
+      "战争社会影响",
+      "战后遗产"
+    ],
+    "images": [
+      "au-awm-fww-01.jpg",
+      "au-awm-fww-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/au-awm-fww-01_2abf0b7c.jpg",
+      "/manus-storage/au-awm-fww-02_7876399b.jpg"
+    ],
+    "captions": [
+      "Australian War Memorial First World War Gallery中的大型实物、展柜与低照度路径。来源：Australian War Memorial。",
+      "First World War Gallery的船体对象、蓝色媒体带与展墙。来源：项目公开现场摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：1914战争进入—前线与物件—海陆空装备—立体场景模型—战争社会影响—战后遗产。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "编年顺序将战场、家园与战后遗产连接为连续链条；人物故事和集体损失应在节点间获得平衡。"
+      ],
+      [
+        "展项设计",
+        "车辆、摩托、火炮、墓地遗物与十组立体场景模型需要在远观与近读之间切换，避免让壮观尺度消解档案细节。"
+      ],
+      [
+        "布展与图文",
+        "开放长廊、年代色彩和低照度对象柜建立层次；互动地图与沉浸声景应放在可选择进入的局部节点。"
+      ],
+      [
+        "研究判断",
+        "对于大型战争馆，空间的节制不是降低冲击，而是让纪念、证据与学习在同一动线里彼此校正。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "AU-AWM-FWW-01",
+    "country": "澳大利亚",
+    "region": "大洋洲",
+    "title": "Australian War Memorial — First World War Gallery",
+    "museum": "Australian War Memorial",
+    "location": "堪培拉，澳大利亚",
+    "year": "2014翻新；常设展",
+    "type": "战争史／对象、模型与多媒体叙事常设展",
+    "studio": "Cunningham Martyn Design（展览设计）／Designcraft Projects（完整木作与展陈配套实施）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.awm.gov.au/about/our-work/projects/first-world-war-galleries",
+    "museum_source": "https://www.awm.gov.au/visit/galleries",
+    "evidence": "馆方项目页明确一战画廊由Cunningham Martyn Design负责展览设计，按1914至战后余波的时间线呈现；空间以通长视线、适应修复后画廊的开放布局、年代色彩与材质组织叙事。馆方列出大型物件、2010年发现的Pheasant Wood集体墓遗物及10组一战立体场景模型。2026馆方参观页明确First World War Gallery为Level 2开放画廊，并列为Open；纪念馆每日10:00—17:00开放。",
+    "image_credit": "Australian War Memorial官方画廊页／ABC News现场报道；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：官方与ABC现场图可见已安装的荣誉与勋章墙、互动地图屏、车辆／摩托等大型物件、战场立体场景、登陆艇与低照度对象展柜；参观者、实体物件、展柜反射和设备细节确认其为已建成常设展厅，而非方案或渲染。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "AU-AM-200T-01",
+    "title": "200 Treasures of the Australian Museum — Westpac Long Gallery",
+    "subtitle": "Australian Museum｜悉尼，澳大利亚",
+    "year": "2017；常设展",
+    "type": "自然史与文化史／对象叙事常设展",
+    "brief": "在复原后的Westpac Long Gallery中，以200件对象从1800万件馆藏中建立自然史、文化史与澳大利亚社会记忆之间的关联。",
+    "insight": "当收藏规模巨大时，展陈的关键不是“代表性清单”，而是为少量对象建立可追踪的选择理由、近读条件与跨学科联系。",
+    "tags": [
+      "长廊叙事",
+      "馆藏精选",
+      "保育展柜",
+      "对象近读"
+    ],
+    "route": [
+      "长廊入口",
+      "对象选择命题",
+      "自然史标本",
+      "文化史对象",
+      "岛式柜近读",
+      "音频导览回看"
+    ],
+    "images": [
+      "au-am-200t-01.jpg",
+      "au-am-200t-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/au-am-200t-01_284f45fa.jpg",
+      "/manus-storage/au-am-200t-02_c29c35f8.jpg"
+    ],
+    "captions": [
+      "Westpac Long Gallery内的柱间玻璃柜、骨骼与实体对象。来源：Australian Museum／Goppion公开摄影。",
+      "Westpac Long Gallery的中轴、岛式展柜与顶部悬挂标本。来源：Goppion公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：长廊入口—对象选择命题—自然史标本—文化史对象—岛式柜近读—音频导览回看。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "从“哪些人和物影响澳大利亚历史”切入，使自然标本与文化对象可以在同一问题下被比较，而不是被固定在学科分区。"
+      ],
+      [
+        "展项设计",
+        "柱间壁柜承担连续浏览，15组岛式柜构成停留点；骨骼、雕塑与小型对象的尺度差异需要由柜体、标牌和照明共同调节。"
+      ],
+      [
+        "布展与图文",
+        "恒湿气流、顶部与底部照明属于展陈语言的一部分；长廊应保留清晰中轴和视线终点，避免展柜造成视觉堵塞。"
+      ],
+      [
+        "研究判断",
+        "高密度馆藏展可借鉴其“连续走廊加岛式近读”的双速度系统，但对象选择逻辑必须对观众可见。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "AU-AM-200T-01",
+    "country": "澳大利亚",
+    "region": "大洋洲",
+    "title": "200 Treasures of the Australian Museum — Westpac Long Gallery",
+    "museum": "Australian Museum",
+    "location": "悉尼，澳大利亚",
+    "year": "2017；常设展",
+    "type": "自然史与文化史／对象叙事常设展",
+    "studio": "Aaron Maestri（澳大利亚博物馆展览设计）／Goppion（定制展柜设计、制作与安装）／Peter Emmett（策展）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.goppion.com/projects/australian-museum-westpac-long-gallery",
+    "museum_source": "https://australian.museum/visit/audio-tours/200-treasures/",
+    "evidence": "Goppion确认2017年新永久展《200 Treasures》随Westpac Long Gallery复原重新开放，列示Aaron Maestri为展览设计师、Peter Emmett为策展人；项目以馆藏逾1,800万件文化对象与科学标本中的200件为线索，连接影响澳大利亚历史的人与物。Goppion承担定制展柜的设计、制作与安装，包括夹层15组岛式玻璃展柜、地面24组柱间壁柜、顶部与底部照明和恒湿气流系统。馆方2026年音频导览页明确标记该展为“Permanent exhibition、Free entry、Open daily”，并提供从Long Gallery起始的22站对象叙事导览。",
+    "image_credit": "Australian Museum官方音频导览页／Goppion项目页；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方页展示有实体骨架、雕塑、对象柜与历史长廊的真实现场图；Goppion页展示已安装的柱间玻璃柜、岛式柜、展品标签和完整长廊空间。画面为实物、照明与建成展柜的现场摄影，不是渲染或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

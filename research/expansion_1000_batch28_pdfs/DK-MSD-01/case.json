@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "DK-MSD-01",
+    "title": "M/S Maritime Museum of Denmark — Seafarer: 400 Years of Danish History",
+    "subtitle": "M/S Maritime Museum of Denmark｜赫尔辛格，丹麦",
+    "year": "2013；常设展",
+    "type": "海事史、技术与海员生活／沉浸叙事常设展",
+    "brief": "围绕旧干船坞布置的海事博物馆以船舶、技术、人物与海上故事，串联探险、离别、恐惧、欲望和发明的四百年历史。",
+    "insight": "海事叙事的沉浸感应来自航行、劳动与技术之间的关系，而不只是深色空间和海洋影像。",
+    "tags": [
+      "干船坞空间",
+      "海员生活",
+      "船舶模型",
+      "投影叙事"
+    ],
+    "route": [
+      "船坞进入",
+      "探险与贸易",
+      "海员生活",
+      "技术与发明",
+      "风险与离别",
+      "四百年海事回望"
+    ],
+    "images": [
+      "dk-msd-01.jpg",
+      "dk-msd-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/dk-msd-01_41cec561.jpg",
+      "/manus-storage/dk-msd-02_d16f73a6.jpg"
+    ],
+    "captions": [
+      "M/S Maritime Museum已落地暗色展厅、海事影像与对象柜。来源：馆方公开摄影。",
+      "M/S Maritime Museum的对象柜、海事器物与参观者路径。来源：Kossmann.dejong公开项目摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：船坞进入—探险与贸易—海员生活—技术与发明—风险与离别—四百年海事回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "情感词汇与技术史并置，使宏大航海史能够回到船员、家庭和工作过程，而非只歌颂探索。"
+      ],
+      [
+        "展项设计",
+        "模型船、船形展柜、工具、图文与影音可在不同尺度上解释航行；模型应明确其是比例物、史料辅助还是场景化装置。"
+      ],
+      [
+        "布展与图文",
+        "蓝色投影、黑场展柜和连续地面文字形成航行节奏，仍要保证小型对象与说明文字的可近读性。"
+      ],
+      [
+        "研究判断",
+        "利用旧工业空间的强势氛围时，展陈应主动让对象和多声部海员经验抵消建筑奇观的压迫。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "DK-MSD-01",
+    "country": "丹麦",
+    "region": "西欧",
+    "title": "M/S Maritime Museum of Denmark — Seafarer: 400 Years of Danish History",
+    "museum": "M/S Maritime Museum of Denmark",
+    "location": "赫尔辛格，丹麦",
+    "year": "2013；常设展",
+    "type": "海事史、技术与海员生活／沉浸叙事常设展",
+    "studio": "Kossmann.dejong（常设展陈设计）／BIG与相关团队（项目协作）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.archdaily.com/445543/danish-national-maritime-museum-bjarke-ingels-group",
+    "museum_source": "https://mfs.dk/en",
+    "evidence": "Kossmann.dejong公开说明其为新丹麦国家海事博物馆设计展示系统；展厅围绕旧干船坞布置，以对象、模型、图文与影音重述海事历史。馆方当前页面列出《Seafarer — 400 Years of Danish History》，以探险、离别、恐惧、欲望与发明串联四百年历史；并明确该馆当日10:00—18:00开放、展览以船舶、技术、人物和海上故事组织。",
+    "image_credit": "M/S Maritime Museum of Denmark官方网站／Kossmann.dejong与ArchDaily项目摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方与项目摄影可见真实参观者、成组模型舰船、船形展柜、海事物件、蓝色投影环境、地面年代文字与连续展厅；灯具、展柜反射和实体物件尺度清楚，确认是已建成展陈而非渲染或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

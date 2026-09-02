@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "DE-HMF-FO-01",
+    "title": "Historisches Museum Frankfurt — Frankfurt Once?",
+    "subtitle": "Historisches Museum Frankfurt｜法兰克福，德国",
+    "year": "2017；常设展",
+    "type": "城市史、迁移与民主记忆／多视角常设展",
+    "brief": "在2,000平方米、五个画廊内，以100 x Frankfurt、Cityscapes、Citizens’ City、Money City与World City拆解城市的多种历史特性。",
+    "insight": "城市史的完整性不依靠单线年表，而在于让物件、基础设施、迁移和民主议题能够在相互可见的主题框架中被复读。",
+    "tags": [
+      "五个城市视角",
+      "迁移与民主",
+      "城市模型",
+      "对象拼贴"
+    ],
+    "route": [
+      "100 x Frankfurt概览",
+      "城市景观",
+      "公民城市",
+      "金钱城市",
+      "世界城市",
+      "步行地图与当代回看"
+    ],
+    "images": [
+      "de-hmf-fo-01.jpg",
+      "de-hmf-fo-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/de-hmf-fo-01_09ce25c3.jpg",
+      "/manus-storage/de-hmf-fo-02_e85b5bb7.jpg"
+    ],
+    "captions": [
+      "Frankfurt Once?中的城市史肖像墙、展柜与互动界面。来源：Historisches Museum Frankfurt／Petra Welzel。",
+      "Frankfurt Once?内的城市对象、砖墙与阅读界面。来源：iart／Historisches Museum Frankfurt公开摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：100 x Frankfurt概览—城市景观—公民城市—金钱城市—世界城市—步行地图与当代回看。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "五个并列视角拒绝将城市写成单一成功史，使财富、基础设施、公民权、迁移与全球联系能够同时被讨论。"
+      ],
+      [
+        "展项设计",
+        "汽车、模型、肖像墙、档案与互动地图各自承担不同城市尺度；对象之间应通过明确的主题问题而非形式拼贴建立关联。"
+      ],
+      [
+        "布展与图文",
+        "既有砖墙、色彩分区、展柜和大幅图像共同调节历史氛围；要在视觉饱和处保留清晰阅读面和无障碍停留位置。"
+      ],
+      [
+        "研究判断",
+        "城市博物馆可以将“多视角”落实为结构而非口号：每个画廊既独立，又为迁移、民主和不平等提供交叉入口。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "DE-HMF-FO-01",
+    "country": "德国",
+    "region": "西欧",
+    "title": "Historisches Museum Frankfurt — Frankfurt Once?",
+    "museum": "Historisches Museum Frankfurt",
+    "location": "法兰克福，德国",
+    "year": "2017；常设展",
+    "type": "城市史、迁移与民主记忆／多视角常设展",
+    "studio": "arge Gillmann + Schnegg（展陈设计／museography）／Historisches Museum Frankfurt团队（实现）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://historisches-museum-frankfurt.de/en/exhibitions/frankfurt-einst",
+    "museum_source": "https://historisches-museum-frankfurt.de/en/exhibitions/frankfurt-einst",
+    "evidence": "馆方明确《Frankfurt Once?》为由馆方团队与museographers arge Gillmann + Schnegg实现的常设展；在2,000平方米、五个画廊中以城市特性而非单线编年组织法兰克福历史。叙事经由“100 x Frankfurt”千年物件概览、Cityscapes、Citizens' City、Money City与World City展开，并辅以迁移、种族主义与1848年至今民主史主题导览，以及可变化展项、步行地图和无障碍互动。馆方展览页列明其为永久展，博物馆周二至周日11:00—18:00开放。",
+    "image_credit": "Historisches Museum Frankfurt官方展览页／Petra Welzel项目摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方照片库明确标注展厅与拍摄者，页面可见Adler汽车、Autobahn模型、城市史大幅图像、实体展柜与参观动线；展具、灯光、反射和物件细节证实为已建成常设展摄影，而非渲染或建筑资料。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

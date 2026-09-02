@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "HU-THM-01",
+    "title": "House of Terror Museum — Permanent Exhibition",
+    "subtitle": "House of Terror Museum｜布达佩斯，匈牙利",
+    "year": "2002；常设展",
+    "type": "二十世纪独裁记忆／历史教育常设展",
+    "brief": "以1944—1990年两种独裁政权的历史为框架，借红色肖像厅、暗场信息墙、复原场景与背景音乐构成高强度的记忆教育环境。",
+    "insight": "创伤记忆展可以使用沉浸语气，但每一次情绪强化都应回到可识别的史料、空间边界和观众可自主停留的节奏。",
+    "tags": [
+      "独裁记忆",
+      "肖像墙",
+      "场景复原",
+      "声场叙事"
+    ],
+    "route": [
+      "制度暴力入口",
+      "箭十字时期",
+      "苏联支持政权",
+      "肖像与个体记忆",
+      "地下空间与证据",
+      "历史教育回望"
+    ],
+    "images": [
+      "hu-thm-01.jpg",
+      "hu-thm-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/hu-thm-01_018bab2f.jpg",
+      "/manus-storage/hu-thm-02_0aa8fef2.jpg"
+    ],
+    "captions": [
+      "House of Terror Museum内的红色肖像厅、实体展柜与参观者。来源：Terror Háza／公开现场摄影。",
+      "House of Terror Museum的红色展墙、照片与台阶装置。来源：Design to go等公开现场摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：制度暴力入口—箭十字时期—苏联支持政权—肖像与个体记忆—地下空间与证据—历史教育回望。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "两段政权历史并置的方式可使制度更替不被误写为记忆中断，观众需要在时间转场处获得明确的解释与材料来源。"
+      ],
+      [
+        "展项设计",
+        "红色肖像厅、复原房间、文本墙和对象柜各有不同的情绪与证据强度；不应让场景压过人物、档案和责任关系的辨识。"
+      ],
+      [
+        "布展与图文",
+        "深色基调、中央光带和台阶形成视觉控制，背景音乐需在可避让的声场内运行，以保证文字与证据的可读性。"
+      ],
+      [
+        "研究判断",
+        "此类空间的伦理边界在于：允许情绪进入，但不以不可核验的戏剧化效果取代历史判断。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "HU-THM-01",
+    "country": "匈牙利",
+    "region": "中欧",
+    "title": "House of Terror Museum — Permanent Exhibition",
+    "museum": "House of Terror Museum",
+    "location": "布达佩斯，匈牙利",
+    "year": "2002；常设展",
+    "type": "二十世纪独裁记忆／历史教育常设展",
+    "studio": "Attila F. Kovács（内部设计与展览最终面貌）／Ákos Kovács（展览背景音乐）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.terrorhaza.hu/en/about-the-museum",
+    "museum_source": "https://www.terrorhaza.hu/en/visitor-information",
+    "evidence": "馆方说明该馆纪念1944—1990年间纳粹箭十字与苏联支持的共产政权两段历史；博物馆于2002年建成开放。官方明确Attila F. Kovács负责内部设计与展览最终面貌，Ákos Kovács创作展览背景音乐。馆方访客页列明周一闭馆、其余每日10:00—18:00开放，并提供英文导览。",
+    "image_credit": "Terror Háza Museum官方网站／Design to go等项目现场摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：官方检索图及独立项目摄影均可见已落地的红色人物肖像厅、室内复原场景、暗场信息墙、中央光带与台阶装置；照片中有参观者、实体展具、馆内照明和材料磨损，确认不是渲染、效果图或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}

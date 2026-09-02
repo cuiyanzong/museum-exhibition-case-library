@@ -1,0 +1,77 @@
+{
+  "content": {
+    "id": "BE-AM-01",
+    "title": "AfricaMuseum — Renewed Permanent Exhibition",
+    "subtitle": "AfricaMuseum / Royal Museum for Central Africa｜特尔菲伦，比利时",
+    "year": "2018；翻新后常设展",
+    "type": "中非历史、殖民记忆与当代艺术／去殖民叙事常设展",
+    "brief": "翻新后的AfricaMuseum以五个中非主题区、历史长廊、中央平台和当代艺术介入，重新检视原殖民博物馆的对象与叙事。",
+    "insight": "去殖民改造不等于把旧对象移入新白盒子，而是需要通过展示关系、解释权和当代介入明确旧叙事如何被质询。",
+    "tags": [
+      "去殖民叙事",
+      "历史长廊",
+      "中央平台",
+      "当代艺术介入"
+    ],
+    "route": [
+      "翻新导览廊",
+      "中非主题区",
+      "历史长廊",
+      "中央平台",
+      "当代艺术介入",
+      "殖民叙事再阅读"
+    ],
+    "images": [
+      "be-am-01.jpg",
+      "be-am-02.jpg"
+    ],
+    "imageUrls": [
+      "/manus-storage/be-am-01_a820f371.jpg",
+      "/manus-storage/be-am-02_fb7d59fd.jpg"
+    ],
+    "captions": [
+      "AfricaMuseum历史大厅内的新展柜、图像墙与参观者。来源：AfricaMuseum公开摄影。",
+      "AfricaMuseum已落地的对象柜与当代展陈界面。来源：项目公开摄影。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "以下关系依据公开叙事整理为研究性参观序列：翻新导览廊—中非主题区—历史长廊—中央平台—当代艺术介入—殖民叙事再阅读。馆方未公开完整施工平面，因此不将该序列表述为原始布展图。"
+      ],
+      [
+        "策展叙事",
+        "五个主题区使中非历史、当代社会与博物馆自身的殖民遗产共同出现，避免把“翻新”误解为单向修复。"
+      ],
+      [
+        "展项设计",
+        "修复长廊中的玻璃柜、黑色展柜和当代作品应被共同读取；对象标签需说明来源、历史分类和当前解释之间的关系。"
+      ],
+      [
+        "布展与图文",
+        "窗光、历史装饰与新平台的并置形成新旧空间的张力，照明和视线控制必须避免把殖民对象再次美学化为无语境陈列。"
+      ],
+      [
+        "研究判断",
+        "此案的价值在于把建筑翻修、场景设计与叙事修订绑定为同一任务；真正的去殖民效果仍取决于持续的内容协作。 该判断仅基于公开责任链、当前开放信息与已审现场图，不推断未公开的施工、技术或运营数据。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "BE-AM-01",
+    "country": "比利时",
+    "region": "西欧",
+    "title": "AfricaMuseum — Renewed Permanent Exhibition",
+    "museum": "AfricaMuseum / Royal Museum for Central Africa",
+    "location": "特尔菲伦，比利时",
+    "year": "2018；翻新后常设展",
+    "type": "中非历史、殖民记忆与当代艺术／去殖民叙事常设展",
+    "studio": "Niek Kortekaas、Johan Schelfhout（场景设计）／Temporary Association Stéphane Beel Architecten（翻修与地下导览空间）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://www.africamuseum.be/en/about_us/history_renovation",
+    "museum_source": "https://www.africamuseum.be/en/about_us/history_renovation",
+    "evidence": "馆方确认该馆历经五年翻修后于2018年12月8日重新开放，永久展以面向中非的五个主题区组织，并明确目标是以当代、去殖民的视角重置原殖民博物馆。馆方列明场景设计由Niek Kortekaas与Johan Schelfhout完成，以修复的窗户与新的中央平台建立平衡；Stéphane Beel团队负责翻修、新建筑与地下导览廊。馆方还说明通过非洲及非洲根源艺术家的介入，重读殖民对象与叙事。",
+    "image_credit": "AfricaMuseum官方翻修页／ArchDaily与项目摄影；版权归原权利人所有。",
+    "image_assessment": "人工审阅通过：馆方与独立项目图可见已完成的中央平台、历史长廊内的玻璃柜、对象展台、现代黑色展柜及圆厅装置；参观者、实体藏品、窗光反射、材料与照明细节确认其为已建成永久展陈摄影，不是渲染或建筑外观。",
+    "next_action": "候选池持续闭合至20案后，统一下载与复核两张真实展厅图，再进入五层研究与PDF生产。"
+  }
+}
