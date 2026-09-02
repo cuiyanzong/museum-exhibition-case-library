@@ -1,0 +1,164 @@
+{
+  "cases": [
+    {
+      "id": "UK-MM-SAG-01",
+      "images": [
+        "/manus-storage/uk-mm-sag-01_bc21fc0d.jpg",
+        "/manus-storage/uk-mm-sag-02_c25f410d.jpg"
+      ],
+      "pdf": "/manus-storage/UK-MM-SAG-01-exhibition-analysis_9594693b.pdf"
+    },
+    {
+      "id": "US-NMAAM-01",
+      "images": [
+        "/manus-storage/us-nmaam-01_0c0ae270.jpg",
+        "/manus-storage/us-nmaam-02_897bcdd8.jpg"
+      ],
+      "pdf": "/manus-storage/US-NMAAM-01-exhibition-analysis_4cb97b35.pdf"
+    },
+    {
+      "id": "AU-AM-200T-01",
+      "images": [
+        "/manus-storage/au-am-200t-01_284f45fa.jpg",
+        "/manus-storage/au-am-200t-02_c29c35f8.jpg"
+      ],
+      "pdf": "/manus-storage/AU-AM-200T-01-exhibition-analysis_2d48e4fe.pdf"
+    },
+    {
+      "id": "HU-THM-01",
+      "images": [
+        "/manus-storage/hu-thm-01_018bab2f.jpg",
+        "/manus-storage/hu-thm-02_0aa8fef2.jpg"
+      ],
+      "pdf": "/manus-storage/HU-THM-01-exhibition-analysis_30ee2f18.pdf"
+    },
+    {
+      "id": "US-NMOHM-01",
+      "images": [
+        "/manus-storage/us-nmohm-01_bd663e6a.jpg",
+        "/manus-storage/us-nmohm-02_59c0286f.jpg"
+      ],
+      "pdf": "/manus-storage/US-NMOHM-01-exhibition-analysis_cd1f43bf.pdf"
+    },
+    {
+      "id": "BE-AM-01",
+      "images": [
+        "/manus-storage/be-am-01_a820f371.jpg",
+        "/manus-storage/be-am-02_fb7d59fd.jpg"
+      ],
+      "pdf": "/manus-storage/BE-AM-01-exhibition-analysis_2fe3fea5.pdf"
+    },
+    {
+      "id": "AU-AWM-FWW-01",
+      "images": [
+        "/manus-storage/au-awm-fww-01_2abf0b7c.jpg",
+        "/manus-storage/au-awm-fww-02_7876399b.jpg"
+      ],
+      "pdf": "/manus-storage/AU-AWM-FWW-01-exhibition-analysis_f1aabac0.pdf"
+    },
+    {
+      "id": "CH-MC-01",
+      "images": [
+        "/manus-storage/ch-mc-01_3b8a1b3a.jpg",
+        "/manus-storage/ch-mc-02_ba08e3eb.jpg"
+      ],
+      "pdf": "/manus-storage/CH-MC-01-exhibition-analysis_15a7a43e.pdf"
+    },
+    {
+      "id": "DK-MSD-01",
+      "images": [
+        "/manus-storage/dk-msd-01_41cec561.jpg",
+        "/manus-storage/dk-msd-02_d16f73a6.jpg"
+      ],
+      "pdf": "/manus-storage/DK-MSD-01-exhibition-analysis_685c2528.pdf"
+    },
+    {
+      "id": "NL-NOM-CNDH-01",
+      "images": [
+        "/manus-storage/nl-nom-cndh-01_418a11e7.jpg",
+        "/manus-storage/nl-nom-cndh-02_83184bf2.jpg"
+      ],
+      "pdf": "/manus-storage/NL-NOM-CNDH-01-exhibition-analysis_3282717f.pdf"
+    },
+    {
+      "id": "DE-HMF-FO-01",
+      "images": [
+        "/manus-storage/de-hmf-fo-01_09ce25c3.jpg",
+        "/manus-storage/de-hmf-fo-02_e85b5bb7.jpg"
+      ],
+      "pdf": "/manus-storage/DE-HMF-FO-01-exhibition-analysis_560993cb.pdf"
+    },
+    {
+      "id": "US-MOTB-HB-01",
+      "images": [
+        "/manus-storage/us-motb-hb-01_7e07c6f8.jpg",
+        "/manus-storage/us-motb-hb-02_e081629c.jpg"
+      ],
+      "pdf": "/manus-storage/US-MOTB-HB-01-exhibition-analysis_06d8578c.pdf"
+    },
+    {
+      "id": "EG-GEM-01",
+      "images": [
+        "/manus-storage/eg-gem-01_4eb47407.jpg",
+        "/manus-storage/eg-gem-02_dbde55f8.jpg"
+      ],
+      "pdf": "/manus-storage/EG-GEM-01-exhibition-analysis_45482e17.pdf"
+    },
+    {
+      "id": "US-NARA-AS-01",
+      "images": [
+        "/manus-storage/us-nara-as-01_a9a19662.jpg",
+        "/manus-storage/us-nara-as-02_6ea9086e.jpg"
+      ],
+      "pdf": "/manus-storage/US-NARA-AS-01-exhibition-analysis_10954caa.pdf"
+    },
+    {
+      "id": "ID-BIM-01",
+      "images": [
+        "/manus-storage/id-bim-01_3b1c7a5e.jpg",
+        "/manus-storage/id-bim-02_1e45ed4c.jpeg"
+      ],
+      "pdf": "/manus-storage/ID-BIM-01-exhibition-analysis_7ec9d4ed.pdf"
+    },
+    {
+      "id": "SG-MHC-FRH-01",
+      "images": [
+        "/manus-storage/sg-mhc-frh-01_12ebbc56.jpg",
+        "/manus-storage/sg-mhc-frh-02_8d0be3c6.webp"
+      ],
+      "pdf": "/manus-storage/SG-MHC-FRH-01-exhibition-analysis_d3e23bb7.pdf"
+    },
+    {
+      "id": "IL-ANU-01",
+      "images": [
+        "/manus-storage/il-anu-01_f2a25d83.jpg",
+        "/manus-storage/il-anu-02_3b619101.jpg"
+      ],
+      "pdf": "/manus-storage/IL-ANU-01-exhibition-analysis_ae37418d.pdf"
+    },
+    {
+      "id": "SG-PM-OHS-01",
+      "images": [
+        "/manus-storage/sg-pm-ohs-01_443d2bc0.jpg",
+        "/manus-storage/sg-pm-ohs-02_67582560.jpg"
+      ],
+      "pdf": "/manus-storage/SG-PM-OHS-01-exhibition-analysis_1cdcb4a4.pdf"
+    },
+    {
+      "id": "NO-HM-VIK-01",
+      "images": [
+        "/manus-storage/no-hm-vik-01_ac80e552.jpg",
+        "/manus-storage/no-hm-vik-02_2f830182.jpg"
+      ],
+      "pdf": "/manus-storage/NO-HM-VIK-01-exhibition-analysis_06ab4c69.pdf"
+    },
+    {
+      "id": "US-ARMY-REV-01",
+      "images": [
+        "/manus-storage/us-army-rev-01_e5976f00.jpg",
+        "/manus-storage/us-army-rev-02_c888bc63.jpg"
+      ],
+      "pdf": "/manus-storage/US-ARMY-REV-01-exhibition-analysis_9374f033.pdf"
+    }
+  ]
+}

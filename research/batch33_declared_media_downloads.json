@@ -1,0 +1,16 @@
+{
+  "batch": 33,
+  "purpose": "第三十三批五案的人工审阅完成内景下载声明；仅用于统一规范化、持久化上传、案例PDF与纯静态前端引用。",
+  "assets": [
+    {"case_id":"UK-MOTH-01","number":1,"status":"downloaded","source_url":"https://museumofthehome.org.uk/wp-content/uploads/2025/05/MotH_2024_A-Tenement-Flat-in-1913_Credit-Jaron-James_01.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOTH-01/tenement-1913.jpg","description":"1913犹太租户公寓中的餐桌、卧床与安息日生活复原段"},
+    {"case_id":"UK-MOTH-01","number":2,"status":"downloaded","source_url":"https://museumofthehome.org.uk/wp-content/uploads/2025/05/MotH_2024_A-Terraced-House-in-2024_Credit_Jaron_James_01.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOTH-01/terraced-2024.jpg","description":"2024英越家庭住宅中的厨房、家居、劳动与迁徙叙事段"},
+    {"case_id":"BR-MF-01","number":1,"status":"downloaded","source_url":"https://museudofutebol.org.br/wp-content/uploads/2024/07/Museu_20240713_075-1536x1024.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/BR-MF-01/roots-of-brazil.jpg","description":"Roots of Brazil多屏影像与足球—巴西文化根源叙事段"},
+    {"case_id":"BR-MF-01","number":2,"status":"downloaded","source_url":"https://museudofutebol.org.br/wp-content/uploads/2024/07/ZSFILMES_MF_marcelaguimaraes-27-1536x1024.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/BR-MF-01/womens-football.jpg","description":"Women’s Football档案图像、抵抗与可见性叙事段"},
+    {"case_id":"PL-PVM-01","number":1,"status":"downloaded","source_url":"https://nizio.com.pl/wp-content/uploads/2019/03/Muzeum-Polskiej-Wodki_galeria-I_1.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/PL-PVM-01/nizio-history-gallery-original.jpg","description":"传统配方、炼金术图像、药瓶与桶形互动台的历史叙事段"},
+    {"case_id":"PL-PVM-01","number":2,"status":"downloaded","source_url":"https://nizio.com.pl/wp-content/uploads/2019/03/Muzeum-Polskiej-Wodki_galeria-III_2.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/PL-PVM-01/nizio-distillation-gallery-original.jpg","description":"铜制蒸馏柱、槽罐与厂房材料的工业工艺叙事段"},
+    {"case_id":"US-NCCHR-01","number":1,"status":"downloaded","source_url":"https://drupal.atelier-brueckner.com/sites/default/files/2026-06/005_ATB_NCCHR_Atlanta_260417.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/US-NCCHR-01/mlk-gallery.jpg","description":"马丁·路德·金复原办公室、档案展柜与纸页云装置段"},
+    {"case_id":"US-NCCHR-01","number":2,"status":"downloaded","source_url":"https://drupal.atelier-brueckner.com/sites/default/files/2026-06/007_ATB_NCCHR_Atlanta_260417.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/US-NCCHR-01/progress-backlash.jpg","description":"Progress and Backlash美国进步—反弹时间线、档案与互动入口段"},
+    {"case_id":"UK-MOL-01","number":1,"status":"downloaded","source_url":"https://images.liverpoolmuseums.org.uk/2023-11/MoL-great-port-gallery-1080x720-Mark-McNulty.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOL-01/great-port-gallery.jpg","description":"The Great Port港口、集装箱、交通工具与工业模型段"},
+    {"case_id":"UK-MOL-01","number":2,"status":"downloaded","source_url":"https://images.liverpoolmuseums.org.uk/2023-11/MoL-Peoples-Republic-1080x720-DSC_5685-pete-carr.jpg","source_file":"/home/ubuntu/webdev-static-assets/batch33-staging/UK-MOL-01/peoples-republic-gallery.jpg","description":"The People’s Republic市民、劳工、妇女参政与城市社会史段"}
+  ]
+}

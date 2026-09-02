@@ -1,0 +1,75 @@
+{
+  "batch": 31,
+  "assets": [
+    {
+      "case_id": "QA-NMOQ-01",
+      "number": 1,
+      "status": "downloaded",
+      "source_url": "https://hive.run/wp-content/uploads/2026/04/NMOQ_Image_2.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/QA-NMOQ-01/NMOQ_Image_2.jpg"
+    },
+    {
+      "case_id": "QA-NMOQ-01",
+      "number": 2,
+      "status": "downloaded",
+      "source_url": "https://hive.run/wp-content/uploads/2026/04/NMOG_G_5.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/QA-NMOQ-01/NMOG_G_5.jpg"
+    },
+    {
+      "case_id": "US-NVMM-01",
+      "number": 1,
+      "status": "downloaded",
+      "source_url": "https://raai.com/wp-content/uploads/2021/05/NVMM-1600x1000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NVMM-01/nvmm-raai-entry.png"
+    },
+    {
+      "case_id": "US-NVMM-01",
+      "number": 2,
+      "status": "downloaded",
+      "source_url": "https://raai.com/wp-content/uploads/2021/05/NVMM2-1600x1000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NVMM-01/nvmm-raai-veterans-among-us.png"
+    },
+    {
+      "case_id": "CA-CSTM-01",
+      "number": 1,
+      "status": "downloaded",
+      "source_url": "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-6.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/CA-CSTM-01/roto-cstm-6.jpg"
+    },
+    {
+      "case_id": "CA-CSTM-01",
+      "number": 2,
+      "status": "downloaded",
+      "source_url": "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-3.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/CA-CSTM-01/roto-cstm-3.jpg"
+    },
+    {
+      "case_id": "US-NWW2-AOD-01",
+      "number": 1,
+      "status": "downloaded",
+      "source_url": "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9561.jpg?h=fa1c963e",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NWW2-AOD-01/manufacturing-victory.jpg"
+    },
+    {
+      "case_id": "US-NWW2-AOD-01",
+      "number": 2,
+      "status": "downloaded",
+      "source_url": "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9503.jpg?h=fa1c963e",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NWW2-AOD-01/war-affects-every-home.jpg"
+    },
+    {
+      "case_id": "US-NMMC-01",
+      "number": 1,
+      "status": "downloaded",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117648-33KJZ60ISTM2J7HZQ96W/USMC+Web+-+9.jpg?format=1500w",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NMMC-01/usmc-web-9.jpg"
+    },
+    {
+      "case_id": "US-NMMC-01",
+      "number": 2,
+      "status": "downloaded",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117518-S9Q97ZKN0S0OQFPY6VGD/USMC+Web+-+8.jpg?format=1500w",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NMMC-01/usmc-web-8.jpg"
+    }
+  ]
+}

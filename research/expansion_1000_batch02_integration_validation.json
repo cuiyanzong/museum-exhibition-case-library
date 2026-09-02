@@ -1,0 +1,16 @@
+{
+  "case_total": 207,
+  "checked_case": "NL-01",
+  "details_route": "/case/NL-01",
+  "pdf_link": "/manus-storage/main_3830bb0b.pdf",
+  "image_format_fix": {
+    "from": "webp",
+    "to": "jpeg",
+    "url": "/manus-storage/nl-01-canon-dutch-history_ce6e07d8.jpg",
+    "browser_complete": true,
+    "natural_size": [720, 649],
+    "full_page_visual_render": "PASS"
+  },
+  "five_layer_analysis": "PASS",
+  "previous_next_navigation": "PASS"
+}

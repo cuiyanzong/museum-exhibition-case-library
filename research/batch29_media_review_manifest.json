@@ -1,0 +1,769 @@
+{
+  "purpose": "Human media review only",
+  "cases": [
+    {
+      "id": "LT-LSM-01",
+      "title": "Lost Shtetl Museum — Permanent Exhibition",
+      "urls": [
+        "https://www.lostshtetl.com/quality_auto/EN-Black.png",
+        "https://static.wixstatic.com/media/c096cc_9fc60c4224c6408589185944313e97f6~mv2.png",
+        "https://www.lostshtetl.com/quality_auto/EN-White.png",
+        "https://static.wixstatic.com/media/c096cc_39579ee91b2d43fb8214462962295297~mv2.png"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://www.lostshtetl.com/quality_auto/EN-Black.png",
+          "status": "error",
+          "error": "404 Client Error: Not Found for url: https://www.lostshtetl.com/quality_auto/EN-Black.png"
+        },
+        {
+          "index": 2,
+          "url": "https://static.wixstatic.com/media/c096cc_9fc60c4224c6408589185944313e97f6~mv2.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LT-LSM-01/candidate-02.png",
+          "status": "decoded",
+          "width": 1400,
+          "height": 176,
+          "format": "PNG"
+        },
+        {
+          "index": 3,
+          "url": "https://www.lostshtetl.com/quality_auto/EN-White.png",
+          "status": "error",
+          "error": "404 Client Error: Not Found for url: https://www.lostshtetl.com/quality_auto/EN-White.png"
+        },
+        {
+          "index": 4,
+          "url": "https://static.wixstatic.com/media/c096cc_39579ee91b2d43fb8214462962295297~mv2.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LT-LSM-01/candidate-04.png",
+          "status": "decoded",
+          "width": 1400,
+          "height": 176,
+          "format": "PNG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/LT-LSM-01/contact-sheet.jpg"
+    },
+    {
+      "id": "US-EFPM-01",
+      "title": "Jean & Ric Edelman Fossil Park & Museum — Cretaceous Galleries",
+      "urls": [
+        "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-19-scaled-1380x1035-c-default.jpg",
+        "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-20-scaled-1380x1035-c-default.jpg",
+        "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-16-scaled-1380x1035-c-default.jpg",
+        "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-1-1024x767.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-19-scaled-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-EFPM-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-20-scaled-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-EFPM-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-16-scaled-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-EFPM-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-1-1024x767.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-EFPM-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 1024,
+          "height": 767,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-EFPM-01/contact-sheet.jpg"
+    },
+    {
+      "id": "US-SLHF-01",
+      "title": "St. Louis Kaplan Feldman Holocaust Museum — Permanent Holocaust Exhibition",
+      "urls": [
+        "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-14-scaled-1380x1035-c-default.jpg",
+        "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-18-1024x683.jpg",
+        "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-4-scaled-1380x1035-c-default.jpg",
+        "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-7-scaled-1380x1035-c-default.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-14-scaled-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-SLHF-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-18-1024x683.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-SLHF-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 1024,
+          "height": 683,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-4-scaled-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-SLHF-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-7-scaled-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-SLHF-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-SLHF-01/contact-sheet.jpg"
+    },
+    {
+      "id": "US-WB-01",
+      "title": "Washington-on-the-Brazos — Reimagined Historic Site Experience",
+      "urls": [
+        "https://gallagherdesign.com/wp-content/uploads/2026/07/PIER_WOTB__196-1380x1035-c-default.jpg",
+        "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.13.46 PM-1380x1035-c-default.png",
+        "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.05 PM-1024x658.png",
+        "https://gallagherdesign.com/wp-content/uploads/2026/07/PIER_WOTB__3-1380x1035-c-default.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/07/PIER_WOTB__196-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-WB-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.13.46 PM-1380x1035-c-default.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-WB-01/candidate-02.png",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "PNG"
+        },
+        {
+          "index": 3,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.05 PM-1024x658.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-WB-01/candidate-03.png",
+          "status": "decoded",
+          "width": 1024,
+          "height": 658,
+          "format": "PNG"
+        },
+        {
+          "index": 4,
+          "url": "https://gallagherdesign.com/wp-content/uploads/2026/07/PIER_WOTB__3-1380x1035-c-default.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-WB-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 1380,
+          "height": 1035,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/US-WB-01/contact-sheet.jpg"
+    },
+    {
+      "id": "SA-IJ-01",
+      "title": "Arabian Journeys — Ithra Museum",
+      "urls": [],
+      "assets": [],
+      "contact_sheet": null
+    },
+    {
+      "id": "TR-EEM-01",
+      "title": "Ephesus Experience Museum",
+      "urls": [],
+      "assets": [],
+      "contact_sheet": null
+    },
+    {
+      "id": "SK-JM-01",
+      "title": "Jurkovič Museum — Permanent Exhibition",
+      "urls": [
+        "https://www.missing-element.com/admin/resources/eejurkovic2.jpg",
+        "https://www.missing-element.com/admin/resources/eejurkovic9.jpg",
+        "https://www.missing-element.com/admin/resources/eejurkovic5.jpg",
+        "https://www.missing-element.com/admin/resources/eejurkovic11.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://www.missing-element.com/admin/resources/eejurkovic2.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/SK-JM-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1120,
+          "height": 450,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://www.missing-element.com/admin/resources/eejurkovic9.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/SK-JM-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 1120,
+          "height": 750,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://www.missing-element.com/admin/resources/eejurkovic5.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/SK-JM-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 1120,
+          "height": 749,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://www.missing-element.com/admin/resources/eejurkovic11.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/SK-JM-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 1120,
+          "height": 750,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/SK-JM-01/contact-sheet.jpg"
+    },
+    {
+      "id": "LV-MOL-01",
+      "title": "Museum of the Occupation of Latvia — Main Exposition",
+      "urls": [
+        "https://h2e.lv/eng/wp-content/themes/h2e/images/arrows/arrow_left.png",
+        "https://h2e.lv/eng/wp-content/themes/h2e/images/arrows/arrow_right.png",
+        "https://h2e.lv/eng/wp-content/themes/h2e/images/back.png",
+        "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_1.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://h2e.lv/eng/wp-content/themes/h2e/images/arrows/arrow_left.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-MOL-01/candidate-01.png",
+          "status": "decoded",
+          "width": 184,
+          "height": 184,
+          "format": "PNG"
+        },
+        {
+          "index": 2,
+          "url": "https://h2e.lv/eng/wp-content/themes/h2e/images/arrows/arrow_right.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-MOL-01/candidate-02.png",
+          "status": "decoded",
+          "width": 184,
+          "height": 184,
+          "format": "PNG"
+        },
+        {
+          "index": 3,
+          "url": "https://h2e.lv/eng/wp-content/themes/h2e/images/back.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-MOL-01/candidate-03.png",
+          "status": "decoded",
+          "width": 118,
+          "height": 117,
+          "format": "PNG"
+        },
+        {
+          "index": 4,
+          "url": "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_1.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-MOL-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 1500,
+          "height": 1000,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-MOL-01/contact-sheet.jpg"
+    },
+    {
+      "id": "LV-RMM-01",
+      "title": "Riga Motor Museum — Permanent Exhibition",
+      "urls": [
+        "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-001-1007x1106.png",
+        "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-09-1007x677.png",
+        "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-11-1007x672.png",
+        "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-12-1007x672.png"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-001-1007x1106.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-RMM-01/candidate-01.png",
+          "status": "decoded",
+          "width": 1007,
+          "height": 1106,
+          "format": "PNG"
+        },
+        {
+          "index": 2,
+          "url": "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-09-1007x677.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-RMM-01/candidate-02.png",
+          "status": "decoded",
+          "width": 1007,
+          "height": 677,
+          "format": "PNG"
+        },
+        {
+          "index": 3,
+          "url": "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-11-1007x672.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-RMM-01/candidate-03.png",
+          "status": "decoded",
+          "width": 1007,
+          "height": 672,
+          "format": "PNG"
+        },
+        {
+          "index": 4,
+          "url": "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-12-1007x672.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-RMM-01/candidate-04.png",
+          "status": "decoded",
+          "width": 1007,
+          "height": 672,
+          "format": "PNG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/LV-RMM-01/contact-sheet.jpg"
+    },
+    {
+      "id": "NZ-HT-01",
+      "title": "He Tohu — Constitutional Documents Permanent Exhibition",
+      "urls": [
+        "https://studiopacific.nz/media/2069/he-tohu-3.jpg?anchor=center&mode=crop&width=1500&height=844&rnd=131855352370000000",
+        "https://studiopacific.nz/media/1891/he-tohu-2.jpg?crop=0.15273807321184651,0.1879350348027834,0.12430171358541338,0&cropmode=percentage&width=355&height=266&rnd=131758620890000000",
+        "https://studiopacific.nz/media/1886/dsc08054.jpg?anchor=center&mode=crop&width=355&height=560&rnd=131750087330000000",
+        "https://studiopacific.nz/media/1890/warm-tone10.jpg?anchor=center&mode=crop&width=355&height=560&rnd=131427094860000000"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://studiopacific.nz/media/2069/he-tohu-3.jpg?anchor=center&mode=crop&width=1500&height=844&rnd=131855352370000000",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-HT-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1500,
+          "height": 844,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://studiopacific.nz/media/1891/he-tohu-2.jpg?crop=0.15273807321184651,0.1879350348027834,0.12430171358541338,0&cropmode=percentage&width=355&height=266&rnd=131758620890000000",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-HT-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 355,
+          "height": 266,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://studiopacific.nz/media/1886/dsc08054.jpg?anchor=center&mode=crop&width=355&height=560&rnd=131750087330000000",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-HT-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 355,
+          "height": 560,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://studiopacific.nz/media/1890/warm-tone10.jpg?anchor=center&mode=crop&width=355&height=560&rnd=131427094860000000",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-HT-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 355,
+          "height": 560,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-HT-01/contact-sheet.jpg"
+    },
+    {
+      "id": "BH-NCM-01",
+      "title": "Bahrain National Charter Monument — Permanent Exhibition",
+      "urls": [
+        "https://www.mbma.gov.bh/wp-content/uploads/2024/10/FDP_graduation-1024x526.jpg",
+        "https://www.mbma.gov.bh/wp-content/uploads/2024/12/training-banner-mbma-1024x683.jpg",
+        "https://www.mbma.gov.bh/wp-content/uploads/2024/12/languages-mbma-1024x683.jpeg",
+        "https://www.mbma.gov.bh/wp-content/uploads/2025/01/8-5bec6c67-183a-42d8-90e7-b24d93ed3a03.jpeg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://www.mbma.gov.bh/wp-content/uploads/2024/10/FDP_graduation-1024x526.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/BH-NCM-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1024,
+          "height": 526,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://www.mbma.gov.bh/wp-content/uploads/2024/12/training-banner-mbma-1024x683.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/BH-NCM-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 1024,
+          "height": 683,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://www.mbma.gov.bh/wp-content/uploads/2024/12/languages-mbma-1024x683.jpeg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/BH-NCM-01/candidate-03.jpeg",
+          "status": "decoded",
+          "width": 1024,
+          "height": 683,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://www.mbma.gov.bh/wp-content/uploads/2025/01/8-5bec6c67-183a-42d8-90e7-b24d93ed3a03.jpeg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/BH-NCM-01/candidate-04.jpeg",
+          "status": "decoded",
+          "width": 740,
+          "height": 453,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/BH-NCM-01/contact-sheet.jpg"
+    },
+    {
+      "id": "UK-NI-BRAID-01",
+      "title": "The Braid — Mid-Antrim Museum History Gallery",
+      "urls": [],
+      "assets": [],
+      "contact_sheet": null
+    },
+    {
+      "id": "MX-MRP-01",
+      "title": "Museo Ruta de Plata — Mining History Interpretive Centre",
+      "urls": [
+        "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png",
+        "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1535583457421-FRWHG1B1EUZ4JVO0BL6A/el-triunfo-mining.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1537196319163-570U5F5YJITXHJCG5PSN/color-block-4.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MX-MRP-01/candidate-01.webp",
+          "status": "decoded",
+          "width": 1000,
+          "height": 94,
+          "format": "WEBP"
+        },
+        {
+          "index": 2,
+          "url": "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1535583457421-FRWHG1B1EUZ4JVO0BL6A/el-triunfo-mining.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MX-MRP-01/candidate-02.webp",
+          "status": "decoded",
+          "width": 1500,
+          "height": 1000,
+          "format": "WEBP"
+        },
+        {
+          "index": 3,
+          "url": "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1537196319163-570U5F5YJITXHJCG5PSN/color-block-4.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MX-MRP-01/candidate-03.webp",
+          "status": "decoded",
+          "width": 694,
+          "height": 293,
+          "format": "WEBP"
+        },
+        {
+          "index": 4,
+          "url": "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MX-MRP-01/candidate-04.webp",
+          "status": "decoded",
+          "width": 1500,
+          "height": 661,
+          "format": "WEBP"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/MX-MRP-01/contact-sheet.jpg"
+    },
+    {
+      "id": "CA-RAM-01",
+      "title": "Royal Alberta Museum — Human and Natural History Galleries",
+      "urls": [
+        "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-whats-on-2023-headline.jpg",
+        "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-natural-history-hall-2023-card.jpg",
+        "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-human-history-hall-2023-card.jpg",
+        "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-bug-gallery-2023-card.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-whats-on-2023-headline.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/CA-RAM-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1200,
+          "height": 500,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-natural-history-hall-2023-card.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/CA-RAM-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 800,
+          "height": 599,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-human-history-hall-2023-card.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/CA-RAM-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 800,
+          "height": 600,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-bug-gallery-2023-card.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/CA-RAM-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 800,
+          "height": 600,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/CA-RAM-01/contact-sheet.jpg"
+    },
+    {
+      "id": "AE-BGP-01",
+      "title": "Buhais Geology Park — Geology and Human Settlement Galleries",
+      "urls": [
+        "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/64c3b232.jpg",
+        "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/5093c885.jpg",
+        "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/09168f20.jpg",
+        "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/6f2cc403.jpg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/64c3b232.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/AE-BGP-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1920,
+          "height": 400,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/5093c885.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/AE-BGP-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 1920,
+          "height": 400,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/09168f20.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/AE-BGP-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 1920,
+          "height": 400,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/6f2cc403.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/AE-BGP-01/candidate-04.jpg",
+          "status": "decoded",
+          "width": 1920,
+          "height": 400,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/AE-BGP-01/contact-sheet.jpg"
+    },
+    {
+      "id": "KW-ASPM-01",
+      "title": "Memorial Museum at Al-Shaheed Park",
+      "urls": [],
+      "assets": [],
+      "contact_sheet": null
+    },
+    {
+      "id": "MA-YSLM-01",
+      "title": "Musée Yves Saint Laurent Marrakech — Permanent Exhibition",
+      "urls": [
+        "https://www.museeyslmarrakech.com/wp-content/uploads/2024/01/Jardin-Majorelle-100-th-years.jpg",
+        "https://www.museeyslmarrakech.com/wp-content/uploads/2024/06/pop-up-non-authorised-sites_en.jpg",
+        "https://www.museeyslmarrakech.com/wp-content/uploads/2024/05/Musee-Yves-Saint-Laurent_-Nicolas-Matheus_1-1010x470.jpg",
+        "https://www.museeyslmarrakech.com/wp-content/uploads/2023/12/myslm_files-Grande.jpeg"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://www.museeyslmarrakech.com/wp-content/uploads/2024/01/Jardin-Majorelle-100-th-years.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MA-YSLM-01/candidate-01.jpg",
+          "status": "decoded",
+          "width": 1080,
+          "height": 1652,
+          "format": "JPEG"
+        },
+        {
+          "index": 2,
+          "url": "https://www.museeyslmarrakech.com/wp-content/uploads/2024/06/pop-up-non-authorised-sites_en.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MA-YSLM-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 1080,
+          "height": 1652,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://www.museeyslmarrakech.com/wp-content/uploads/2024/05/Musee-Yves-Saint-Laurent_-Nicolas-Matheus_1-1010x470.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MA-YSLM-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 1010,
+          "height": 470,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://www.museeyslmarrakech.com/wp-content/uploads/2023/12/myslm_files-Grande.jpeg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/MA-YSLM-01/candidate-04.jpeg",
+          "status": "decoded",
+          "width": 1280,
+          "height": 230,
+          "format": "JPEG"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/MA-YSLM-01/contact-sheet.jpg"
+    },
+    {
+      "id": "NZ-TRA-01",
+      "title": "Te Rau Aroha — Museum of the Price of Citizenship",
+      "urls": [
+        "https://freight.cargo.site/t/original/i/80eb09dc0363aeda695bf11e218172ae9b5c7b2e04d68790dc4c31138d007dfc/SPC2.png",
+        "https://freight.cargo.site/t/original/i/77b295f7ad295abcd96dec59a3899907778739d8f3acf6f479f632dcf3b4e071/17731285067552.jpg",
+        "https://freight.cargo.site/t/original/i/839b26ab177a4341d657c795aa28f176011a87d8b725f625ff10ff76eeee16e8/SR_TeRauAroha_FParker-27.jpg",
+        "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8cb3e15309fcaa5ee7a_View-fromTe-Rau-Aroha_2View-fromTe-Rau-Aroha.webp"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://freight.cargo.site/t/original/i/80eb09dc0363aeda695bf11e218172ae9b5c7b2e04d68790dc4c31138d007dfc/SPC2.png",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-TRA-01/candidate-01.png",
+          "status": "decoded",
+          "width": 1990,
+          "height": 3544,
+          "format": "PNG"
+        },
+        {
+          "index": 2,
+          "url": "https://freight.cargo.site/t/original/i/77b295f7ad295abcd96dec59a3899907778739d8f3acf6f479f632dcf3b4e071/17731285067552.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-TRA-01/candidate-02.jpg",
+          "status": "decoded",
+          "width": 1365,
+          "height": 1365,
+          "format": "JPEG"
+        },
+        {
+          "index": 3,
+          "url": "https://freight.cargo.site/t/original/i/839b26ab177a4341d657c795aa28f176011a87d8b725f625ff10ff76eeee16e8/SR_TeRauAroha_FParker-27.jpg",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-TRA-01/candidate-03.jpg",
+          "status": "decoded",
+          "width": 2048,
+          "height": 1365,
+          "format": "JPEG"
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8cb3e15309fcaa5ee7a_View-fromTe-Rau-Aroha_2View-fromTe-Rau-Aroha.webp",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-TRA-01/candidate-04.webp",
+          "status": "decoded",
+          "width": 1665,
+          "height": 1112,
+          "format": "WEBP"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/NZ-TRA-01/contact-sheet.jpg"
+    },
+    {
+      "id": "KW-ASPH-01",
+      "title": "Habitat Museum at Al-Shaheed Park",
+      "urls": [],
+      "assets": [],
+      "contact_sheet": null
+    },
+    {
+      "id": "DE-JMB-01",
+      "title": "Jewish Life in Germany: Past & Present",
+      "urls": [
+        "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/dauerausstellung-raumansicht-mesubin-teaser.jpg.webp?h=46d9ec6a&itok=M2985msl",
+        "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/KeyVisualSommerfest.jpg.webp?h=8f6009ac&itok=q0Hiv1cp",
+        "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-willkommenspunkt-1-galleryimage.jpg.webp?itok=TlV0KfZw",
+        "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-willkommenspunkt-2-galleryimage.jpg.webp?itok=DfhD62wF"
+      ],
+      "assets": [
+        {
+          "index": 1,
+          "url": "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/dauerausstellung-raumansicht-mesubin-teaser.jpg.webp?h=46d9ec6a&itok=M2985msl",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/DE-JMB-01/candidate-01.webp",
+          "status": "decoded",
+          "width": 364,
+          "height": 275,
+          "format": "WEBP"
+        },
+        {
+          "index": 2,
+          "url": "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/KeyVisualSommerfest.jpg.webp?h=8f6009ac&itok=q0Hiv1cp",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/DE-JMB-01/candidate-02.webp",
+          "status": "decoded",
+          "width": 364,
+          "height": 275,
+          "format": "WEBP"
+        },
+        {
+          "index": 3,
+          "url": "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-willkommenspunkt-1-galleryimage.jpg.webp?itok=TlV0KfZw",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/DE-JMB-01/candidate-03.webp",
+          "status": "decoded",
+          "width": 1132,
+          "height": 755,
+          "format": "WEBP"
+        },
+        {
+          "index": 4,
+          "url": "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-willkommenspunkt-2-galleryimage.jpg.webp?itok=DfhD62wF",
+          "local_path": "/home/ubuntu/webdev-static-assets/batch29-media-review/DE-JMB-01/candidate-04.webp",
+          "status": "decoded",
+          "width": 1132,
+          "height": 755,
+          "format": "WEBP"
+        }
+      ],
+      "contact_sheet": "/home/ubuntu/webdev-static-assets/batch29-media-review/DE-JMB-01/contact-sheet.jpg"
+    }
+  ]
+}

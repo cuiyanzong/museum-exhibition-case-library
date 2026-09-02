@@ -1,0 +1,7 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": ["中文独立案例研究PDF", "包含一张已人工审阅的Centro León真实展厅摄影", "包含案例概览、动线关系、五层展陈分析与来源边界"],
+  "content_features": {"code_blocks": 0, "defined_terms": 0, "portrait_images": 0}
+}

@@ -1,0 +1,35 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": ["professional-report", "museum-case-study", "cjk"],
+  "hard_constraints": [
+    "独立可下载中文案例PDF",
+    "仅使用已人工审阅的Magnetic Media真实落地展厅摄影",
+    "准确归属Kim Outten-Stubbs的策展领导与AMMC馆方／实施责任，不虚构独立空间设计公司或制作商",
+    "五层分析：平面与动线、策展叙事、展项设计、布展与图文、研究判断",
+    "严格编译、text-document验证PASS与标准联系表视觉复核"
+  ],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 4,
+    "portrait_images": 0,
+    "landscape_images": 1,
+    "tables": 2,
+    "external_links": 4,
+    "cjk_text": true
+  },
+  "title": "巴哈马《The Struggle for Freedom in The Bahamas》",
+  "subtitle": "2017—至今｜拿骚｜把奴役历史、解放与独立置回真实场地",
+  "author": "Manus AI",
+  "case_id": "BS-PM-01",
+  "image_assets": [
+    "/home/ubuntu/webdev-static-assets/expansion-1000-batch25/bs-pompey-freedom-opening.jpg"
+  ],
+  "source_urls": [
+    "https://www.tribune242.com/news/2024/jan/11/front-porch-museums-overlooked-important-tell-our-/",
+    "https://magneticmediatv.com/2017/11/pompey-museum-has-preview-showing-of-struggle-for-freedom-in-the-bahamas-from-slavery-to-independence/",
+    "https://www.bahamas.com/plan-your-trip/things-to-do/pompey-museum-of-slavery-emancipation-at-vendue-house",
+    "https://www.facebook.com/ammcb/posts/the-special-viewing-of-the-struggle-for-freedom-in-the-bahamas-from-slavery-to-i/1915406798476476/"
+  ],
+  "analysis_scope": "以Kim Outten-Stubbs策展领导、AMMC预展与持续运营、船帆形图文展板、多媒体终端、奴役—独立时间叙事、保留火灾焦墙以及一张已审现场图为事实边界；不虚构完整平面、制作商、逐项物件清单、技术设备型号或未公开的策展团队角色。"
+}

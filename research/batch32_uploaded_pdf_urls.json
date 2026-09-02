@@ -1,0 +1,11 @@
+{
+  "batch": 32,
+  "count": 5,
+  "pdfs": {
+    "US-NIM-01": "/manus-storage/main_eb4da262.pdf",
+    "US-MAR-01": "/manus-storage/main_b5c259b7.pdf",
+    "US-NMUSA-01": "/manus-storage/main_b9b06b9a.pdf",
+    "US-NMPW-BUSH-01": "/manus-storage/main_cdef186a.pdf",
+    "DK-FM-01": "/manus-storage/main_fb01ea58.pdf"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": ["professional-report", "museum-case-study", "cjk"],
+  "hard_constraints": [
+    "独立可下载中文案例PDF",
+    "仅使用已人工审阅的NICH真实落地展厅摄影",
+    "清晰区分馆方协作团队责任与未公开的个人姓名／分工",
+    "将其表述为2024年开幕、仍跨年度开放的叙事性主题展，而非未经证实的永久展",
+    "五层分析：平面与动线、策展叙事、展项设计、布展与图文、研究判断",
+    "严格编译、text-document验证PASS与标准联系表视觉复核"
+  ],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 4,
+    "portrait_images": 0,
+    "landscape_images": 3,
+    "tables": 2,
+    "external_links": 4,
+    "cjk_text": true
+  },
+  "title": "伯利兹《Maya: Creating Civilization》",
+  "subtitle": "2024—至今｜伯利兹市｜物证、数字复原与活态知识",
+  "author": "Manus AI",
+  "case_id": "BZ-MCC-01",
+  "image_assets": [
+    "/home/ubuntu/webdev-static-assets/expansion-1000-batch24/bz-maya-forest-garden.jpg",
+    "/home/ubuntu/webdev-static-assets/expansion-1000-batch24/bz-maya-jade-case.jpg",
+    "/home/ubuntu/webdev-static-assets/expansion-1000-batch24/bz-maya-touchscreen.jpg"
+  ],
+  "source_urls": [
+    "https://nichbelize.org/international-archaeology-day-2024/",
+    "https://ticketing.nichbelize.org/product/museum-of-belize/",
+    "https://amandala.com.bz/news/maya-creating-civilization-exhibit-opens-at-museum-of-belize/",
+    "https://www.facebook.com/nich.bz/posts/get-ready-to-visit-nichs-newly-developed-educational-experience-exhibit-at-the-m/564005782966798/"
+  ],
+  "analysis_scope": "以NICH所述55人协作策展与展陈团队、2024开幕、跨年度开放、森林园丁模块、文物展柜、多媒体导览、LiDAR和摄影测量数字对象为事实边界；不虚构团队个人名单、平面、展期终止日期、技术型号或完整展签体系。"
+}

@@ -1,0 +1,85 @@
+{
+  "count": 40,
+  "cases": {
+    "AL-HOL-01": {
+      "image_1": "/manus-storage/al-hol-01-01_908a4364.jpg",
+      "image_2": "/manus-storage/al-hol-01-02_a1200c15.jpg"
+    },
+    "AW-NAMA-01": {
+      "image_1": "/manus-storage/aw-nama-01-01_79aa0855.jpg",
+      "image_2": "/manus-storage/aw-nama-01-02_5699ecb6.jpg"
+    },
+    "CZ-CM-01": {
+      "image_1": "/manus-storage/cz-cm-01-01_b5ef3100.jpg",
+      "image_2": "/manus-storage/cz-cm-01-02_e83a475a.jpg"
+    },
+    "EE-VAB-01": {
+      "image_1": "/manus-storage/ee-vab-01-01_f2e3de93.jpg",
+      "image_2": "/manus-storage/ee-vab-01-02_30746a73.jpg"
+    },
+    "GP-MACTE-01": {
+      "image_1": "/manus-storage/gp-macte-01-01_185d3bb7.jpg",
+      "image_2": "/manus-storage/gp-macte-01-02_916b1c77.jpg"
+    },
+    "HR-SAM-01": {
+      "image_1": "/manus-storage/hr-sam-01-01_1d798c05.jpg",
+      "image_2": "/manus-storage/hr-sam-01-02_beb239b4.jpg"
+    },
+    "HR-VCM-01": {
+      "image_1": "/manus-storage/hr-vcm-01-01_9694bcd8.jpg",
+      "image_2": "/manus-storage/hr-vcm-01-02_8a51d841.jpg"
+    },
+    "HU-HMH-01": {
+      "image_1": "/manus-storage/hu-hmh-01-01_f35c5ea9.jpg",
+      "image_2": "/manus-storage/hu-hmh-01-02_8d0a2c5e.jpg"
+    },
+    "LT-SAM-01": {
+      "image_1": "/manus-storage/lt-sam-01-01_58bcff10.jpg",
+      "image_2": "/manus-storage/lt-sam-01-02_b0e71fa4.jpg"
+    },
+    "MO-GPM-01": {
+      "image_1": "/manus-storage/mo-gpm-01-01_0aab65c8.jpg",
+      "image_2": "/manus-storage/mo-gpm-01-02_3f77f5aa.jpg"
+    },
+    "PL-ECS-01": {
+      "image_1": "/manus-storage/pl-ecs-01-01_d66228c4.jpg",
+      "image_2": "/manus-storage/pl-ecs-01-02_dba8b43a.jpg"
+    },
+    "PL-MEG-01": {
+      "image_1": "/manus-storage/pl-meg-01-01_d80275e3.jpg",
+      "image_2": "/manus-storage/pl-meg-01-02_7becf775.jpg"
+    },
+    "PL-MMMPV-01": {
+      "image_1": "/manus-storage/pl-mmmpv-01-01_c5264dcc.jpg",
+      "image_2": "/manus-storage/pl-mmmpv-01-02_50e5d242.jpg"
+    },
+    "PL-SMM-01": {
+      "image_1": "/manus-storage/pl-smm-01-01_0d2de8e1.jpg",
+      "image_2": "/manus-storage/pl-smm-01-02_92b62697.jpg"
+    },
+    "SA-NMSA-01": {
+      "image_1": "/manus-storage/sa-nmsa-01-01_d97c9c29.jpg",
+      "image_2": "/manus-storage/sa-nmsa-01-02_768f0128.jpg"
+    },
+    "TW-NMTH-01": {
+      "image_1": "/manus-storage/tw-nmth-01-01_80042fe2.jpg",
+      "image_2": "/manus-storage/tw-nmth-01-02_4642ab6e.jpg"
+    },
+    "US-CAC-01": {
+      "image_1": "/manus-storage/us-cac-01-01_3551d0f6.jpg",
+      "image_2": "/manus-storage/us-cac-01-02_9e2c0d06.jpg"
+    },
+    "US-EN-01": {
+      "image_1": "/manus-storage/us-en-01-01_5ee32094.jpg",
+      "image_2": "/manus-storage/us-en-01-02_240f8290.jpg"
+    },
+    "US-RGS-01": {
+      "image_1": "/manus-storage/us-rgs-01-01_f9fbde76.jpg",
+      "image_2": "/manus-storage/us-rgs-01-02_4d311aa7.jpg"
+    },
+    "VN-DLBM-01": {
+      "image_1": "/manus-storage/vn-dlbm-01-01_99b18039.jpg",
+      "image_2": "/manus-storage/vn-dlbm-01-02_f05dddbd.jpg"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": ["one-independent-research-pdf-per-case", "simplified-chinese", "one-verified-real-project-photo", "five-layer-exhibition-analysis", "source-url-and-photo-credit"],
+  "content_features": { "code_blocks": 0, "defined_terms": 0, "portrait_images": 0 }
+}

@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "assets": [
+    {
+      "case_id": "US-NIM-01",
+      "number": 1,
+      "scene": "步兵价值与军事史主展廊",
+      "attribution": "VernerJohnson项目页",
+      "source_url": "https://vernerjohnson.com/wp-content/uploads/2021/02/xfs_1600x1200_s80_exhibit8-0.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-NIM-01/exhibit-8.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-nim-01-01.jpg",
+      "width": 1600,
+      "height": 1045,
+      "description": "步兵价值／完整军事史主展廊"
+    },
+    {
+      "case_id": "US-NIM-01",
+      "number": 2,
+      "scene": "The Last 100 Yards二战岩体沉浸环境",
+      "attribution": "VernerJohnson项目页",
+      "source_url": "https://vernerjohnson.com/wp-content/uploads/2021/02/xfs_1600x1200_s80_100yd9-0.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-NIM-01/last-100-yards-9.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-nim-01-02.jpg",
+      "width": 1600,
+      "height": 1008,
+      "description": "The Last 100 Yards二战岩体沉浸环境"
+    },
+    {
+      "case_id": "US-MAR-01",
+      "number": 1,
+      "scene": "建国与独立宣言对象—图文叙事",
+      "attribution": "kubik maltbie／Bluecadet项目页",
+      "source_url": "https://kubikmaltbie.com/wp-content/uploads/2018/07/Museum-of-American-5.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-MAR-01/give-me-liberty.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-mar-01-01.jpg",
+      "width": 1600,
+      "height": 900,
+      "description": "建国与独立宣言对象—图文叙事段"
+    },
+    {
+      "case_id": "US-MAR-01",
+      "number": 2,
+      "scene": "Arms of Independence对象与互动阅读",
+      "attribution": "kubik maltbie／Bluecadet项目页",
+      "source_url": "https://cdn.sanity.io/images/iyte22cl/development/715b737a703474be9b44707129dd0f0c3d208b69-4093x2729.jpg?q=90&fit=max&auto=format",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-MAR-01/arms-of-independence.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-mar-01-02.jpg",
+      "width": 4093,
+      "height": 2729,
+      "description": "Arms of Independence 1775–1783对象与互动段"
+    },
+    {
+      "case_id": "US-NMUSA-01",
+      "number": 1,
+      "scene": "Vietnam War 1965–1973对象、人物与地图",
+      "attribution": "Design and Production／Duncan R. Millar",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1606222842367-W57TOI5ZH7XWUQL5XCEK/NMUSA+PRELIM+05+%C2%A92020+Duncan+R.+Millar-low+res.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-NMUSA-01/nmusa-05.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-nmusa-01-01.jpg",
+      "width": 1728,
+      "height": 1148,
+      "description": "Vietnam War 1965–1973对象、人物与时间地图段"
+    },
+    {
+      "case_id": "US-NMUSA-01",
+      "number": 2,
+      "scene": "21世纪反恐战争沉浸场景",
+      "attribution": "Design and Production／Duncan R. Millar",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1606222783628-JLBW4WDYCPF8KUT9D3KA/NMUSA+PRELIM+11+%C2%A92020+Duncan+R.+Millar-low+res.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-NMUSA-01/nmusa-11.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-nmusa-01-02.jpg",
+      "width": 1728,
+      "height": 1296,
+      "description": "21st Century Global War on Terrorism沉浸场景段"
+    },
+    {
+      "case_id": "US-NMPW-BUSH-01",
+      "number": 1,
+      "scene": "太平洋航空战大型飞机与海战背景",
+      "attribution": "Exhibit Concepts项目页",
+      "source_url": "https://exhibitconcepts.com/wp-content/uploads/2023/03/Bush-1.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-NMPW-BUSH-01/bush-1.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-nmpw-bush-01-01.jpg",
+      "width": 1920,
+      "height": 1080,
+      "description": "太平洋航空战大型飞机与海战背景段"
+    },
+    {
+      "case_id": "US-NMPW-BUSH-01",
+      "number": 2,
+      "scene": "Burma 1941–1945与Flying Tigers战史",
+      "attribution": "Exhibit Concepts项目页",
+      "source_url": "https://exhibitconcepts.com/wp-content/uploads/2023/03/Bush-3.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/US-NMPW-BUSH-01/bush-3.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/us-nmpw-bush-01-02.jpg",
+      "width": 1920,
+      "height": 1080,
+      "description": "Burma 1941–1945与Flying Tigers战史段"
+    },
+    {
+      "case_id": "DK-FM-01",
+      "number": 1,
+      "scene": "1945抵抗运动走廊与木板遗物",
+      "attribution": "Frihedsmuseet馆方媒体库（Copenhagen Card署名Thorkild Jensen / Frihedsmuseet）",
+      "source_url": "https://cdn.sanity.io/images/sne54s04/production/faf979b321caebccb7539fde3efc8146f43b6b6b-3000x2000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/DK-FM-01/frihedsmuseet-faf.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/dk-fm-01-01.jpg",
+      "width": 3000,
+      "height": 2000,
+      "description": "1945抵抗运动走廊、木板遗物与档案图像段"
+    },
+    {
+      "case_id": "DK-FM-01",
+      "number": 2,
+      "scene": "1940海上逃亡／抵抗的船只与投影",
+      "attribution": "Frihedsmuseet馆方媒体库（Copenhagen Card署名Thorkild Jensen / Frihedsmuseet）",
+      "source_url": "https://cdn.sanity.io/images/sne54s04/production/03fa04abca0707649258aacb3410ed75120fe931-2350x1970.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch32-staging/DK-FM-01/frihedsmuseet-03fa.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch32/dk-fm-01-02.jpg",
+      "width": 2350,
+      "height": 1970,
+      "description": "1940海上逃亡／抵抗的船只与投影沉浸段"
+    }
+  ]
+}

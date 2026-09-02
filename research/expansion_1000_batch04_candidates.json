@@ -1,0 +1,37 @@
+[
+  {
+    "id": "IE-01",
+    "country": "爱尔兰",
+    "region": "西欧",
+    "title": "Museum of Literature Ireland (MoLI)",
+    "museum": "Museum of Literature Ireland",
+    "location": "都柏林，爱尔兰",
+    "year": "2019；常设展",
+    "type": "文学遗产／公众教育常设展",
+    "studio": "Ralph Appelbaum Associates；Squint/Opera",
+    "status": "accepted-for-image-audit",
+    "design_source": "https://raai.com/project/museum-of-literature-ireland/",
+    "museum_source": "https://moli.ie/",
+    "evidence": "RAA确认该项目处理1500年爱尔兰文学、双语叙事、典籍手稿、文学正典中的语言与性别不平衡，并以稀有手稿为展项核心；项目面积1,100平方米，摄影署名Andrew Lee。",
+    "image_credit": "Andrew Lee／Ralph Appelbaum Associates 项目页。",
+    "image_assessment": "人工审阅通过：真实展厅图清晰呈现开放式黑色展架、手稿展柜、图文板、触摸界面、影像面板和观众停留；非渲染图。"
+  },
+  {
+    "id": "CZ-01",
+    "country": "捷克",
+    "region": "中欧",
+    "title": "History — National Museum Prague",
+    "museum": "National Museum Prague",
+    "location": "布拉格，捷克",
+    "year": "长期常设展",
+    "type": "国家历史／考古遗产常设展",
+    "studio": "studio THE BUILDERS；MIBA Interior；AVTG",
+    "status": "accepted-for-image-audit",
+    "design_source": "https://www.mibainterior.cz/en/reference/narodni-muzeum",
+    "museum_source": "https://www.nm.cz/en/about-us/science-and-research/national-museum-introduced-the-concept-of-new-permanent-exhibitions",
+    "evidence": "MIBA Interior确认参与布拉格国家博物馆“History”长期展，叙事覆盖8世纪至第一次世界大战；中世纪聚落防御墙、基督教到来的圆形建筑等大型建筑元素与黑色展柜、考古对象共同构成展览，项目与AVTG、THE BUILDERS和馆方策展团队协作。",
+    "verified_image_url": "https://cdn.prod.website-files.com/66e290bc9ef926f18662b95b/670e84ca5474e873b92d3152_MIB_INT_NM_01.webp",
+    "image_credit": "MIBA Interior 项目页。",
+    "image_assessment": "设计方公开真实展厅摄影；可见黑色大型展墙、展柜、考古对象与历史建筑空间，待下载与人工复核后进入PDF制作。"
+  }
+]

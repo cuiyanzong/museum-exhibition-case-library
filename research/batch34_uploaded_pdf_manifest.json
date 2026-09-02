@@ -1,0 +1,11 @@
+{
+  "batch": 34,
+  "count": 5,
+  "assets": [
+    {"case_id":"UK-IA-01","source_file":"/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch34_pdfs/UK-IA-01/main.pdf","storage_path":"/manus-storage/main_eb09ee8d.pdf"},
+    {"case_id":"BE-W1815-01","source_file":"/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch34_pdfs/BE-W1815-01/main.pdf","storage_path":"/manus-storage/main_1c3b29ca.pdf"},
+    {"case_id":"SE-IM-01","source_file":"/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch34_pdfs/SE-IM-01/main.pdf","storage_path":"/manus-storage/main_63ecd6e1.pdf"},
+    {"case_id":"IT-LM-01","source_file":"/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch34_pdfs/IT-LM-01/main.pdf","storage_path":"/manus-storage/main_336960e4.pdf"},
+    {"case_id":"IE-EPIC-01","source_file":"/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch34_pdfs/IE-EPIC-01/main.pdf","storage_path":"/manus-storage/main_b0adc759.pdf"}
+  ]
+}

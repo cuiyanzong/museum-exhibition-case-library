@@ -1,0 +1,11 @@
+{
+  "batch": 33,
+  "uploaded_count": 5,
+  "assets": [
+    {"case_id":"UK-MOTH-01","storage_path":"/manus-storage/main_6e8796f6.pdf"},
+    {"case_id":"BR-MF-01","storage_path":"/manus-storage/main_089e285f.pdf"},
+    {"case_id":"PL-PVM-01","storage_path":"/manus-storage/main_6c488c44.pdf"},
+    {"case_id":"US-NCCHR-01","storage_path":"/manus-storage/main_cb9f19f7.pdf"},
+    {"case_id":"UK-MOL-01","storage_path":"/manus-storage/main_97354ef5.pdf"}
+  ]
+}

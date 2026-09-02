@@ -1,0 +1,25 @@
+{
+  "prepared": [
+    "FR-CDV-01",
+    "FR-LIV-01",
+    "UK-NMM-EG-01",
+    "US-IAAM-01",
+    "CA-CMHR-01",
+    "US-NMAAHC-01",
+    "UK-IWM-FWW-01",
+    "PL-JPM-01",
+    "RU-YC-01",
+    "NG-OOPL-01",
+    "BR-MLP-01",
+    "US-NCC-01",
+    "AU-MOAD-01",
+    "AE-ASM-01",
+    "QA-MM-01",
+    "AE-LPM-01",
+    "US-NCRM-01",
+    "US-NWWI-01",
+    "US-FAM-01",
+    "US-USHMM-01"
+  ],
+  "pdfRoot": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch27_pdfs"
+}

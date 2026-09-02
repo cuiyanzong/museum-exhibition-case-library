@@ -1,0 +1,35 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": ["professional-report", "museum-case-study", "cjk"],
+  "hard_constraints": [
+    "独立可下载中文案例PDF",
+    "仅使用已人工审阅的真实落地展厅摄影",
+    "保留设计责任、馆方来源、图像权属与证据边界",
+    "五层分析：平面与动线、策展叙事、展项设计、布展与图文、研究判断",
+    "严格编译、text-document验证PASS与标准联系表视觉复核"
+  ],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 4,
+    "portrait_images": 0,
+    "landscape_images": 2,
+    "tables": 2,
+    "external_links": 3,
+    "cjk_text": true
+  },
+  "title": "亚美尼亚种族灭绝博物馆常设展更新",
+  "subtitle": "2015｜埃里温｜社会记忆、档案与公众教育",
+  "author": "Manus AI",
+  "case_id": "AM-AGMI-01",
+  "image_assets": [
+    "/home/ubuntu/webdev-static-assets/expansion-1000-batch23/am-agmi-projection-hall.jpg",
+    "/home/ubuntu/webdev-static-assets/expansion-1000-batch23/am-agmi-archive-cases.jpg"
+  ],
+  "source_urls": [
+    "https://genocide-museum.am/eng/permanent_exhibition-new.php",
+    "https://genocide-museum.am/eng/Description_and_history.php",
+    "https://genocide-museum.am/"
+  ],
+  "analysis_scope": "以馆方明确的12厅／50主标题、2,400平方米扩展、档案与对象、多媒体投影与触控屏为事实边界；不将纪念馆建筑设计或未公开的平面图推断为展陈设计事实。"
+}

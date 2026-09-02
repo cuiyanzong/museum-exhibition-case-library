@@ -1,0 +1,365 @@
+{
+  "count": 40,
+  "assets": [
+    {
+      "case_id": "US-CAC-01",
+      "number": 1,
+      "source_url": "https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img17602_Photo-credit_-James-Steinkamp-scaled-1380x1035-c-default.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/US-CAC-01/source-01.jpg",
+      "width": 1380,
+      "height": 1035,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "US-CAC-01",
+      "number": 2,
+      "source_url": "https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img16959crop_Photo-credit_-James-Steinkamp-2200x1329-1-1380x1035-c-default.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/US-CAC-01/source-02.jpg",
+      "width": 1380,
+      "height": 1035,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "CZ-CM-01",
+      "number": 1,
+      "source_url": "https://bigsee.eu/wp-content/uploads/2023/04/Horalik-Atelier_Exhibit_03_dsc6882.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/CZ-CM-01/source-01.jpg",
+      "width": 1001,
+      "height": 670,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "CZ-CM-01",
+      "number": 2,
+      "source_url": "https://bigsee.eu/wp-content/uploads/2023/04/Horalik-Atelier_Exhibit_06_dsc6961.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/CZ-CM-01/source-02.jpg",
+      "width": 1000,
+      "height": 1499,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "TW-NMTH-01",
+      "number": 1,
+      "source_url": "https://museawards.world/upload/entry/files/ME216071/small/16881692081446.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/TW-NMTH-01/source-01.jpg",
+      "width": 1920,
+      "height": 790,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "TW-NMTH-01",
+      "number": 2,
+      "source_url": "https://museawards.world/upload/entry/files/ME216071/small/30791692081496.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/TW-NMTH-01/source-02.jpg",
+      "width": 1920,
+      "height": 1279,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "VN-DLBM-01",
+      "number": 1,
+      "source_url": "https://images.squarespace-cdn.com/content/v1/595ce1171b10e30e6217e987/1547826178744-UPDZ0UDGKAO2VJXJCYLI/Da+Lat+Biology+Museum+%C2%A9+Cultural+Innovations",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/VN-DLBM-01/source-01.img",
+      "width": 2143,
+      "height": 1350,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "VN-DLBM-01",
+      "number": 2,
+      "source_url": "https://images.squarespace-cdn.com/content/v1/595ce1171b10e30e6217e987/1547826201553-LX8BQP480NCHM2LH9VDX/Da+Lat+Biology+Museum+%C2%A9+Cultural+Innovations",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/VN-DLBM-01/source-02.img",
+      "width": 2143,
+      "height": 1350,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "US-RGS-01",
+      "number": 1,
+      "source_url": "https://newangle.co.uk/wp-content/uploads/2025/05/Image02-2-1440x960.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/US-RGS-01/source-01.jpg",
+      "width": 1440,
+      "height": 960,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "US-RGS-01",
+      "number": 2,
+      "source_url": "https://newangle.co.uk/wp-content/uploads/2025/05/Image12-2-1440x960.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/US-RGS-01/source-02.jpg",
+      "width": 1440,
+      "height": 960,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "SA-NMSA-01",
+      "number": 1,
+      "source_url": "https://designrp.com/wp-content/uploads/2019/06/96134PL002.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/SA-NMSA-01/source-01.jpg",
+      "width": 2048,
+      "height": 1361,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "SA-NMSA-01",
+      "number": 2,
+      "source_url": "https://designrp.com/wp-content/uploads/2019/06/96134PL095-1.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/SA-NMSA-01/source-02.jpg",
+      "width": 4160,
+      "height": 3120,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "US-EN-01",
+      "number": 1,
+      "source_url": "https://designrp.com/wp-content/uploads/2023/02/010-American-Enterainment-HERO.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/US-EN-01/source-01.jpg",
+      "width": 3000,
+      "height": 2249,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "US-EN-01",
+      "number": 2,
+      "source_url": "https://designrp.com/wp-content/uploads/2023/02/067-American-Enterainment-DETAIL-4.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/US-EN-01/source-02.jpg",
+      "width": 3000,
+      "height": 2330,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "MO-GPM-01",
+      "number": 1,
+      "source_url": "https://jasonlittle.xyz/wp-content/uploads/2024/10/MGP-29.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/MO-GPM-01/source-01.jpg",
+      "width": 2500,
+      "height": 1406,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "MO-GPM-01",
+      "number": 2,
+      "source_url": "https://jasonlittle.xyz/wp-content/uploads/2024/10/macau_grandprix_museum_exhibit_04.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/MO-GPM-01/source-02.jpg",
+      "width": 2000,
+      "height": 1500,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "AW-NAMA-01",
+      "number": 1,
+      "source_url": "https://static.wixstatic.com/media/f2f7ac_54bed34d090444229e49ca6b7c00a1c6~mv2.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/AW-NAMA-01/source-01.jpg",
+      "width": 602,
+      "height": 429,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "AW-NAMA-01",
+      "number": 2,
+      "source_url": "https://static.wixstatic.com/media/f2f7ac_3e5f68c8fd1c4bb2bda0fe63d9f895fb~mv2.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/AW-NAMA-01/source-02.jpg",
+      "width": 600,
+      "height": 386,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-MEG-01",
+      "number": 1,
+      "source_url": "https://newamsterdam.pl/wp-content/uploads/2016/03/DSC0422.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-MEG-01/source-01.jpg",
+      "width": 1500,
+      "height": 1000,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-MEG-01",
+      "number": 2,
+      "source_url": "https://newamsterdam.pl/wp-content/uploads/2016/03/DSC0468.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-MEG-01/source-02.jpg",
+      "width": 1500,
+      "height": 998,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-SMM-01",
+      "number": 1,
+      "source_url": "https://deko-bau.com/realizacje/2020/Muzeum%20Pami%C4%99ci%20Sybir%C3%B3w/51/image-thumb__51__project-index-gallery-zoom/IMG_3029.25395f03.png",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-SMM-01/source-01.png",
+      "width": 1600,
+      "height": 1200,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-SMM-01",
+      "number": 2,
+      "source_url": "https://deko-bau.com/realizacje/2020/Muzeum%20Pami%C4%99ci%20Sybir%C3%B3w/53/image-thumb__53__project-index-gallery-zoom/IMG_3039.794ba610.png",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-SMM-01/source-02.png",
+      "width": 1600,
+      "height": 1200,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-MMMPV-01",
+      "number": 1,
+      "source_url": "https://www.gov.pl/photo/98500b88-e30a-4dc7-bf70-77a63bbb2260",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-MMMPV-01/source-01.img",
+      "width": 2000,
+      "height": 1333,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-MMMPV-01",
+      "number": 2,
+      "source_url": "https://www.gov.pl/photo/abfc5ec0-6674-4471-a792-3860f3c770bc",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-MMMPV-01/source-02.img",
+      "width": 2000,
+      "height": 1333,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "AL-HOL-01",
+      "number": 1,
+      "source_url": "https://d10ic2gxw9yhll.cloudfront.net/public/DigitalAsset/ee9f6df5be01be48e5f6bf8b6bf84e50/ee9f6df5be01be48e5f6bf8b6bf84e50/full/original/0/default.jpeg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/AL-HOL-01/source-01.jpeg",
+      "width": 1000,
+      "height": 707,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "AL-HOL-01",
+      "number": 2,
+      "source_url": "https://d10ic2gxw9yhll.cloudfront.net/public/DigitalAsset/5d070de60ab8fbb7fb7a9a5d2fb931ea/5d070de60ab8fbb7fb7a9a5d2fb931ea/full/original/0/default.jpeg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/AL-HOL-01/source-02.jpeg",
+      "width": 1000,
+      "height": 707,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "HR-VCM-01",
+      "number": 1,
+      "source_url": "https://bigsee.eu/wp-content/uploads/2023/08/3.-Vu%E7%A3%93dolians-photo-by-Marko-Bala%E5%91%8A.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/HR-VCM-01/source-01.jpg",
+      "width": 1000,
+      "height": 707,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "HR-VCM-01",
+      "number": 2,
+      "source_url": "https://bigsee.eu/wp-content/uploads/2023/08/4.-The-Oldest-Recorded-Date-photo-by-Darko-Puhari%E2%80%A0.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/HR-VCM-01/source-02.jpg",
+      "width": 1000,
+      "height": 667,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "GP-MACTE-01",
+      "number": 1,
+      "source_url": "https://www.confino.com/wp-content/uploads/2016/12/MACTe-1-.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/GP-MACTE-01/source-01.jpg",
+      "width": 1600,
+      "height": 1068,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "GP-MACTE-01",
+      "number": 2,
+      "source_url": "https://www.confino.com/wp-content/uploads/2016/12/MACTe-3.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/GP-MACTE-01/source-02.jpg",
+      "width": 801,
+      "height": 1200,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-ECS-01",
+      "number": 1,
+      "source_url": "https://ecs.gda.pl/wp-content/uploads/2022/07/a_3.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-ECS-01/source-01.jpg",
+      "width": 1920,
+      "height": 1280,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "PL-ECS-01",
+      "number": 2,
+      "source_url": "https://ecs.gda.pl/wp-content/uploads/2022/07/d_1.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/PL-ECS-01/source-02.jpg",
+      "width": 1920,
+      "height": 1280,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "HU-HMH-01",
+      "number": 1,
+      "source_url": "https://zenehaza.hu/storage/1056/%C2%A9MAGYAR-ZENE-H%C3%81ZA_Palk%C3%B3-Gy%C3%B6rgy_web._37.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/HU-HMH-01/source-01.jpg",
+      "width": 1971,
+      "height": 2400,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "HU-HMH-01",
+      "number": 2,
+      "source_url": "https://zenehaza.hu/storage/1048/%C2%A9LIGET-BUDAPEST_Mohai-Bal%C3%A1zs_web._03-%281%29.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/HU-HMH-01/source-02.jpg",
+      "width": 1200,
+      "height": 680,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "HR-SAM-01",
+      "number": 1,
+      "source_url": "https://www.avc-group.com/assets/references/Alka__FillWzc0MSw1NTVd.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/HR-SAM-01/source-01.jpg",
+      "width": 741,
+      "height": 555,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "HR-SAM-01",
+      "number": 2,
+      "source_url": "https://www.avc-group.com/assets/gallery/Alka1__FillWzc0MCw1NTVd.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/HR-SAM-01/source-02.jpg",
+      "width": 740,
+      "height": 555,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "LT-SAM-01",
+      "number": 1,
+      "source_url": "https://militaryheritagetourism.info/g/Poi/00790/Alka_muziejus_1.jpg?size=1024",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/LT-SAM-01/source-01.jpg",
+      "width": 1024,
+      "height": 683,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "LT-SAM-01",
+      "number": 2,
+      "source_url": "https://images.squarespace-cdn.com/content/v1/60d42b56d8f90b7f6ccaf825/fef7e7a3-a291-4dcc-8016-8de13c0d37ea/23-Alka-dadada-wall-%C2%A9Norbert+Tukaj-0538.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/LT-SAM-01/source-02.jpg",
+      "width": 2500,
+      "height": 1668,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "EE-VAB-01",
+      "number": 1,
+      "source_url": "https://www.motor.ee/application/files/7316/6211/7297/Vabamu_006.jpeg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/EE-VAB-01/source-01.jpeg",
+      "width": 1920,
+      "height": 1080,
+      "status": "downloaded"
+    },
+    {
+      "case_id": "EE-VAB-01",
+      "number": 2,
+      "source_url": "https://www.motor.ee/application/files/8816/6211/7309/Vabamu_013.jpeg",
+      "source_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch30-staging/EE-VAB-01/source-02.jpeg",
+      "width": 1919,
+      "height": 1080,
+      "status": "downloaded"
+    }
+  ]
+}

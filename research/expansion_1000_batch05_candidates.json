@@ -1,0 +1,37 @@
+[
+  {
+    "id": "TR-01",
+    "country": "土耳其",
+    "region": "中东",
+    "title": "Ephesus – Experience Museum",
+    "museum": "Ephesus Experience Museum",
+    "location": "塞尔丘克，土耳其",
+    "year": "2023；常设沉浸展",
+    "type": "考古遗产／沉浸式公众教育展",
+    "studio": "ATELIER BRÜCKNER；Marshmallow Laser Feast",
+    "status": "accepted-for-image-audit",
+    "design_source": "https://www.atelier-brueckner.com/en/projects/ephesus-experience-museum",
+    "museum_source": "https://www.turkishmuseums.com/museum/detail/22356-izmir-ephesus-experience-museum/22356/4",
+    "evidence": "Atelier Brückner确认其完成2400平方米展馆建筑与展览；以弗所2500年历史围绕贸易、阿耳忒弥斯崇拜、罗马时期与衰落展开。项目明确标注空间设计、体验与叙事设计、脚本、影像技术、灯光、硬件和摄影责任；使用360度投影、声音、灯光、气味和雾。",
+    "verified_image_url": "https://www.atelier-brueckner.com/_next/image?url=https%3A%2F%2Fdrupal.atelier-brueckner.com%2F%2Fsites%2Fdefault%2Ffiles%2F2023-11%2Fteam%2Fartemis_ephesos_csandra_campione.jpg&w=3840&q=75",
+    "image_credit": "Sandra Campione／Courtesy Turkish Ministry of Culture / DEM Museums。",
+    "image_assessment": "人工审阅通过：真实落地沉浸展厅摄影清晰呈现360度投影、中央雕塑性节点、反射地面与观众停留；非效果图。"
+  },
+  {
+    "id": "LV-01",
+    "country": "拉脱维亚",
+    "region": "东欧",
+    "title": "New Permanent Exhibition — Museum of the Occupation of Latvia",
+    "museum": "Museum of the Occupation of Latvia",
+    "location": "里加，拉脱维亚",
+    "year": "2022；常设展",
+    "type": "社会记忆／人权教育常设展",
+    "studio": "H2E Design Studio",
+    "status": "accepted-for-image-audit",
+    "design_source": "https://h2e.lv/eng/museum-of-the-occupation-of-latvia-exhibition/",
+    "museum_source": "https://okupacijasmuzejs.lv/en/news/the-museum-of-the-occupation-of-latvia-is-open-to-visitors",
+    "evidence": "馆方确认新常设展由馆内历史学家与H2E协作开发，H2E概念赢得草图竞赛。展览以1940—1991年占领罪行解释与纪念为任务，采用建筑师Gunārs Birkerts的“黑暗与光明”隐喻，设计为两段独立时期之间的网格化黑暗迷宫；867平方米、106个定制展柜、15个视频投影和19组证词／信息显示。",
+    "image_credit": "FOLD／H2E项目图搜索结果。",
+    "image_assessment": "人工审阅通过：真实展厅图可辨识网格化通道、对象、双语信息面板、证词媒介与暗—明转换；非渲染图。"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": ["中文研究档案PDF", "包含一张横向真实展厅摄影", "包含五层展陈分析与设计方、馆方来源边界"],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 0,
+    "portrait_images": 0
+  }
+}

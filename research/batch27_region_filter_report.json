@@ -1,0 +1,100 @@
+{
+  "totalCases": 254,
+  "regionChecks": [
+    {
+      "region": "日本",
+      "expected": 24,
+      "actual": 24,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "韩国",
+      "expected": 18,
+      "actual": 18,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "南美洲",
+      "expected": 8,
+      "actual": 8,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "北美洲",
+      "expected": 20,
+      "actual": 20,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "香港",
+      "expected": 27,
+      "actual": 27,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "东欧",
+      "expected": 19,
+      "actual": 19,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "西欧",
+      "expected": 14,
+      "actual": 14,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "中东",
+      "expected": 17,
+      "actual": 17,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "大洋洲",
+      "expected": 8,
+      "actual": 8,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "非洲",
+      "expected": 8,
+      "actual": 8,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    },
+    {
+      "region": "中亚",
+      "expected": 6,
+      "actual": 6,
+      "wrongRegionIds": [],
+      "residualSouthAmericaIds": [],
+      "passed": true
+    }
+  ],
+  "keywordCheck": {
+    "region": "日本",
+    "query": "未来馆",
+    "actual": 3,
+    "passed": true
+  },
+  "passed": true
+}

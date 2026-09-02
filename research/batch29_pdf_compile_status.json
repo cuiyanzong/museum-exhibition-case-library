@@ -1,0 +1,162 @@
+[
+  {
+    "id": "AE-BGP-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/AE-BGP-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/AE-BGP-01/compile.log"
+  },
+  {
+    "id": "BH-NCM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/BH-NCM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/BH-NCM-01/compile.log"
+  },
+  {
+    "id": "CA-RAM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/CA-RAM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/CA-RAM-01/compile.log"
+  },
+  {
+    "id": "DE-JMB-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/DE-JMB-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/DE-JMB-01/compile.log"
+  },
+  {
+    "id": "KW-ASPH-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/KW-ASPH-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/KW-ASPH-01/compile.log"
+  },
+  {
+    "id": "KW-ASPM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/KW-ASPM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/KW-ASPM-01/compile.log"
+  },
+  {
+    "id": "LT-LSM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/LT-LSM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/LT-LSM-01/compile.log"
+  },
+  {
+    "id": "LV-MOL-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/LV-MOL-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/LV-MOL-01/compile.log"
+  },
+  {
+    "id": "LV-RMM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/LV-RMM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/LV-RMM-01/compile.log"
+  },
+  {
+    "id": "MA-YSLM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/MA-YSLM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/MA-YSLM-01/compile.log"
+  },
+  {
+    "id": "MX-MRP-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/MX-MRP-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/MX-MRP-01/compile.log"
+  },
+  {
+    "id": "NZ-HT-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/NZ-HT-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/NZ-HT-01/compile.log"
+  },
+  {
+    "id": "NZ-TRA-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/NZ-TRA-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/NZ-TRA-01/compile.log"
+  },
+  {
+    "id": "SA-IJ-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/SA-IJ-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/SA-IJ-01/compile.log"
+  },
+  {
+    "id": "SK-JM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/SK-JM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/SK-JM-01/compile.log"
+  },
+  {
+    "id": "TR-EEM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/TR-EEM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/TR-EEM-01/compile.log"
+  },
+  {
+    "id": "UK-NI-BRAID-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/UK-NI-BRAID-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/UK-NI-BRAID-01/compile.log"
+  },
+  {
+    "id": "US-EFPM-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/US-EFPM-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/US-EFPM-01/compile.log"
+  },
+  {
+    "id": "US-SLHF-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/US-SLHF-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/US-SLHF-01/compile.log"
+  },
+  {
+    "id": "US-WB-01",
+    "passed": true,
+    "exitCode": 0,
+    "hasWarning": false,
+    "output": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/US-WB-01/main.pdf",
+    "diagnostics": "/home/ubuntu/museum-exhibition-case-library/research/expansion_1000_batch29_pdfs/US-WB-01/compile.log"
+  }
+]

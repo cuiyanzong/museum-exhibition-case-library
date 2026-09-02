@@ -1,0 +1,327 @@
+{
+  "batch": "expansion_1000_batch27",
+  "imageCount": 40,
+  "pdfCount": 20,
+  "cases": [
+    {
+      "id": "FR-CDV-01",
+      "images": [
+        {
+          "filename": "fr-cdv-01.jpg",
+          "caption": "Casson Mann项目实景：观众佩戴耳机使用发光触控桌，木质肋条将图文、界面与停留区合成一体。",
+          "url": "/manus-storage/fr-cdv-01_f2f33bc8.jpg"
+        },
+        {
+          "filename": "fr-cdv-02.jpg",
+          "caption": "Casson Mann项目实景：黑箱中的连续投影叙事桌、实体书籍与静物支架把远读影像和近读资料叠合。",
+          "url": "/manus-storage/fr-cdv-02_6b4e7548.jpg"
+        }
+      ],
+      "pdf": "/manus-storage/main_38afdf37.pdf"
+    },
+    {
+      "id": "FR-LIV-01",
+      "images": [
+        {
+          "filename": "fr-lascaux-02.jpg",
+          "caption": "Casson Mann项目实景：岩画复制、低位信息台、带状投影与触觉导向共同组织观看距离。",
+          "url": "/manus-storage/fr-lascaux-02_c36c1347.jpg"
+        },
+        {
+          "filename": "fr-lascaux-03.jpg",
+          "caption": "Casson Mann项目实景：岩画剖片、实体展台、方向标识和自然光天窗构成解释性收束空间。",
+          "url": "/manus-storage/fr-lascaux-03_484445b4.jpg"
+        }
+      ],
+      "pdf": "/manus-storage/main_4fb0131f.pdf"
+    },
+    {
+      "id": "UK-NMM-EG-01",
+      "images": [
+        {
+          "filename": "uk-nmm-endeavour-01.jpg",
+          "caption": "Casson Mann项目实景：太平洋织物、肖像、船模型与青绿色展示台形成跨文化阅读环境。",
+          "url": "/manus-storage/uk-nmm-endeavour-01_99f26e8f.jpg"
+        },
+        {
+          "filename": "uk-nmm-endeavour-02.jpg",
+          "caption": "Casson Mann项目实景：极地展厅中的企鹅标本、冰蓝低照度和玻璃分隔将科学对象置入气候感知。",
+          "url": "/manus-storage/uk-nmm-endeavour-02_95d96632.jpg"
+        }
+      ],
+      "pdf": "/manus-storage/main_054bf550.pdf"
+    },
+    {
+      "id": "US-IAAM-01",
+      "images": [
+        {
+          "filename": "us-iaam-03.jpg",
+          "caption": "RAA项目实景：Contact and Settlement历史展厅以竖向年代板、地图、版画和亲子读展场景组织进入。",
+          "url": "/manus-storage/us-iaam-03_c929dfec.jpg"
+        },
+        {
+          "filename": "us-iaam-04.jpg",
+          "caption": "RAA项目实景：多屏影像在黑色框架中形成可行走通道，让离散社群叙事从单一时间线转为并置观看。",
+          "url": "/manus-storage/us-iaam-04_9660884f.jpg"
+        }
+      ],
+      "pdf": "/manus-storage/main_c702c427.pdf"
+    },
+    {
+      "id": "CA-CMHR-01",
+      "images": [
+        {
+          "filename": "ca-cmhr-01.jpg",
+          "caption": "CMHR馆方实景：弧形坐凳、竖向人物影像、对象柜和黑色图文墙组成开放学习场景。",
+          "url": "/manus-storage/ca-cmhr-01_fa5a295c.jpg"
+        },
+        {
+          "filename": "ca-cmhr-02.jpg",
+          "caption": "CMHR馆方实景：Breaking the Silence通长多点触控研究桌可供不同年龄与轮椅使用者并行阅读。",
+          "url": "/manus-storage/ca-cmhr-02_246eadc2.jpg"
+        }
+      ],
+      "pdf": "/manus-storage/main_6b5e8ba6.pdf"
+    },
+    {
+      "id": "US-NMAAHC-01",
+      "images": [
+        {
+          "filename": "us-nmaahc-01.png",
+          "caption": "RAA项目实景：Rice Fields历史画廊以实体农具、投影与展柜将劳动、地景和档案并置。",
+          "url": "/manus-storage/us-nmaahc-01_e550ea5f.png"
+        },
+        {
+          "filename": "us-nmaahc-03.png",
+          "caption": "RAA项目实景：文化画廊以乐器、唱片、服装、人物影像和嵌入式屏幕构成音乐史的多重读法。",
+          "url": "/manus-storage/us-nmaahc-03_8f4e5d1c.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_6d579307.pdf"
+    },
+    {
+      "id": "UK-IWM-FWW-01",
+      "images": [
+        {
+          "filename": "uk-iwm-fww-01.jpg",
+          "caption": "Casson Mann项目实景：船模、档案投影和玻璃展柜让海战与物流被放入可近读的对象层。",
+          "url": "/manus-storage/uk-iwm-fww-01_6db565e4.jpg"
+        },
+        {
+          "filename": "uk-iwm-fww-03.jpg",
+          "caption": "Casson Mann项目实景：实体头盔与环幕投影桌并置，将个人物件、墓碑符号和证词转化为可停驻的纪念节点。",
+          "url": "/manus-storage/uk-iwm-fww-03_81546be8.jpg"
+        }
+      ],
+      "pdf": "/manus-storage/main_5a4e9302.pdf"
+    },
+    {
+      "id": "PL-JPM-01",
+      "images": [
+        {
+          "filename": "pl-jpm-01.png",
+          "caption": "RAA项目实景：Ziuk章节以历史肖像、活动画面、展柜和观众建立人物进入尺度。",
+          "url": "/manus-storage/pl-jpm-01_23f3c988.png"
+        },
+        {
+          "filename": "pl-jpm-02.png",
+          "caption": "RAA项目实景：Rebellion段的红灰模块柱、对象柜与嵌入屏幕把政治冲突拆为可近读的证据单元。",
+          "url": "/manus-storage/pl-jpm-02_cae2d0a6.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_bf0902cb.pdf"
+    },
+    {
+      "id": "RU-YC-01",
+      "images": [
+        {
+          "filename": "ru-yc-01.png",
+          "caption": "RAA项目实景：中庭中的弧形玻璃栏杆、低位时间线和大型曲面影像屏建立公共阅读基线。",
+          "url": "/manus-storage/ru-yc-01_2097d8b3.png"
+        },
+        {
+          "filename": "ru-yc-02.png",
+          "caption": "RAA项目实景：多面档案影像、碎石场景构件、阅读屏和候场椅将危机叙事组织为多重停驻。",
+          "url": "/manus-storage/ru-yc-02_4768e468.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_9d301010.pdf"
+    },
+    {
+      "id": "NG-OOPL-01",
+      "images": [
+        {
+          "filename": "ng-oopl-01.png",
+          "caption": "RAA项目实景：巨型编织纹理框架、中心影像和观众共同组织“what makes a leader?”的导入场景。",
+          "url": "/manus-storage/ng-oopl-01_b4573258.png"
+        },
+        {
+          "filename": "ng-oopl-02.png",
+          "caption": "RAA项目实景：服装、礼品和小物件以独立玻璃柜、暖木展示台和时间线形成可行走的生涯证据层。",
+          "url": "/manus-storage/ng-oopl-02_bf3c3496.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_ef38930b.pdf"
+    },
+    {
+      "id": "BR-MLP-01",
+      "images": [
+        {
+          "filename": "br-mlp-01.png",
+          "caption": "RAA项目实景：RELAÇÕES HUMANAS数字肖像语言墙以连续媒体面和地面发光线组织行进。",
+          "url": "/manus-storage/br-mlp-01_4009fb80.png"
+        },
+        {
+          "filename": "br-mlp-02.png",
+          "caption": "RAA项目实景：COTIDIANO图像墙将日常词汇、人物与地域画面并置为可走读的语言景观。",
+          "url": "/manus-storage/br-mlp-02_bb36980c.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_e129ab2e.pdf"
+    },
+    {
+      "id": "US-NCC-01",
+      "images": [
+        {
+          "filename": "us-ncc-01.png",
+          "caption": "RAA项目实景：We the People导入墙、中心对象／头像塔、投影与观众构成宪法叙事的公共入口。",
+          "url": "/manus-storage/us-ncc-01_4180c563.png"
+        },
+        {
+          "filename": "us-ncc-02.png",
+          "caption": "RAA项目实景：Signers’ Hall以围绕签署桌的等身青铜像让历史人物成为可穿行、可表态的空间。",
+          "url": "/manus-storage/us-ncc-02_04098274.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_19645635.pdf"
+    },
+    {
+      "id": "AU-MOAD-01",
+      "images": [
+        {
+          "filename": "au-moad-01.png",
+          "caption": "RAA项目实景：旧议会室内的可翻阅档案阅读桌与Changing the Constitution图文面形成研究型停留。",
+          "url": "/manus-storage/au-moad-01_6b44db24.png"
+        },
+        {
+          "filename": "au-moad-02.png",
+          "caption": "RAA项目实景：Governing凹龛以胸像、纸本文物、复制册与小屏幕让书架成为多层叙事容器。",
+          "url": "/manus-storage/au-moad-02_fe4a6223.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_f2d69c6d.pdf"
+    },
+    {
+      "id": "AE-ASM-01",
+      "images": [
+        {
+          "filename": "ae-asm-01.png",
+          "caption": "RAA项目实景：波浪形地貌互动桌以投射图像、字幕和底部发光层将地理知识转为可围合观看。",
+          "url": "/manus-storage/ae-asm-01_ba06c534.png"
+        },
+        {
+          "filename": "ae-asm-02.png",
+          "caption": "RAA项目实景：实物展柜、倾斜阅读台、档案影像屏和阿英双语立牌在低照度展厅中形成资料近读。",
+          "url": "/manus-storage/ae-asm-02_5dc1e89c.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_735f632e.pdf"
+    },
+    {
+      "id": "QA-MM-01",
+      "images": [
+        {
+          "filename": "qa-mm-01.png",
+          "caption": "RAA项目实景：保留木梁、拱窗的走廊内嵌入人物剪影、双语叙事板和陈列，显示旧住宅被转化为可读的记忆空间。",
+          "url": "/manus-storage/qa-mm-01_f513bc09.png"
+        },
+        {
+          "filename": "qa-mm-02.png",
+          "caption": "RAA项目实景：庭院式白色空间以低位互动阅读台、可坐人物剪影和旧木门组织家庭与城市的停驻性讨论。",
+          "url": "/manus-storage/qa-mm-02_d1f9dc37.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_7e6ef60f.pdf"
+    },
+    {
+      "id": "AE-LPM-01",
+      "images": [
+        {
+          "filename": "ae-lpm-01.png",
+          "caption": "RAA项目实景：Diya以曲面全景影像、投影地面和圆孔屏构成360度声光沉浸环境。",
+          "url": "/manus-storage/ae-lpm-01_8d7a0b60.png"
+        },
+        {
+          "filename": "ae-lpm-02.png",
+          "caption": "RAA项目实景：弧形多语投影屏、触控台、历史影像与实体展柜在同一低位可达高度展开。",
+          "url": "/manus-storage/ae-lpm-02_4a04a41c.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_1e94749b.pdf"
+    },
+    {
+      "id": "US-NCRM-01",
+      "images": [
+        {
+          "filename": "us-ncrm-01.png",
+          "caption": "RAA项目实景：历史人物、示威标语和报纸版面以金色调影像展墙并置，形成媒体与行动的高密度节点。",
+          "url": "/manus-storage/us-ncrm-01_739b52c2.png"
+        },
+        {
+          "filename": "us-ncrm-02.png",
+          "caption": "RAA项目实景：透过玻璃观看金恩最后房间的复原，前景的证词图文将场景转为可被批判性阅读的历史证据。",
+          "url": "/manus-storage/us-ncrm-02_4c1e8bf3.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_36e09bbb.pdf"
+    },
+    {
+      "id": "US-NWWI-01",
+      "images": [
+        {
+          "filename": "us-nwwi-01.png",
+          "caption": "RAA项目实景：互动时间线与军服展柜将人物、时间和物证放在同一可操作界面内。",
+          "url": "/manus-storage/us-nwwi-01_ffafd9da.png"
+        },
+        {
+          "filename": "us-nwwi-02.png",
+          "caption": "RAA项目实景：实体火炮、The World War 1914–1919导入墙、海报墙与步枪柜形成多种战争媒介的并置。",
+          "url": "/manus-storage/us-nwwi-02_d721a431.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_f1304a16.pdf"
+    },
+    {
+      "id": "US-FAM-01",
+      "images": [
+        {
+          "filename": "us-fam-01.png",
+          "caption": "RAA项目实景：360度连续影像、长凳和石形座凳围成进入常设展的环形地景空间。",
+          "url": "/manus-storage/us-fam-01_36029ce7.png"
+        },
+        {
+          "filename": "us-fam-02.png",
+          "caption": "RAA项目实景：圆柱服饰展柜、部落人物影像、红色章节墙和小型数字屏让对象与不同声音并置。",
+          "url": "/manus-storage/us-fam-02_7019c84f.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_855b91c5.pdf"
+    },
+    {
+      "id": "US-USHMM-01",
+      "images": [
+        {
+          "filename": "us-ushmm-01.png",
+          "caption": "RAA项目实景：垂直照片档案墙包围玻璃步桥，连续肖像将个人记忆转为可穿行的证据环境。",
+          "url": "/manus-storage/us-ushmm-01_a0a46b53.png"
+        },
+        {
+          "filename": "us-ushmm-02.png",
+          "caption": "RAA项目实景：实体木制铁路车厢、铁轨、金属步道与大幅档案影像组成运输与驱逐段落。",
+          "url": "/manus-storage/us-ushmm-02_cc39737a.png"
+        }
+      ],
+      "pdf": "/manus-storage/main_ed241132.pdf"
+    }
+  ]
+}

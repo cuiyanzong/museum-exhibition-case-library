@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "assets": [
+    {
+      "case_id": "UK-IA-01",
+      "number": 1,
+      "scene": "Constellation／卫星与全球广播网络",
+      "attribution": "Universal Design Studio项目页／Andrew Meredith摄影",
+      "source_url": "https://universaldesignstudio.com/uploads/images/Information-Age_Resized7.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/UK-IA-01/uds-original-resized7.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/uk-ia-01-01.jpg",
+      "width": 3000,
+      "height": 3538,
+      "description": "Constellation／卫星与全球广播网络的对象—影像叙事环境"
+    },
+    {
+      "case_id": "UK-IA-01",
+      "number": 2,
+      "scene": "Cable／早期电报网络",
+      "attribution": "Universal Design Studio项目页／Andrew Meredith摄影",
+      "source_url": "https://universaldesignstudio.com/uploads/images/_auto1680/Information-Age_Resized3.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/UK-IA-01/uds-original-resized3.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/uk-ia-01-02.jpg",
+      "width": 1680,
+      "height": 2520,
+      "description": "Cable／早期电报网络的电报杆、绝缘子与通信设备展厅"
+    },
+    {
+      "case_id": "BE-W1815-01",
+      "number": 1,
+      "scene": "法国大革命至拿破仑前史",
+      "attribution": "Marcos Viñals Bassols项目页／摄影",
+      "source_url": "https://bassols.art/wp-content/uploads/2021/04/waterloo.01.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/BE-W1815-01/french-revolution-candidate.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/be-w1815-01-01.jpg",
+      "width": 1920,
+      "height": 1080,
+      "description": "法国大革命至拿破仑前史的地图、文献与对象叙事段"
+    },
+    {
+      "case_id": "BE-W1815-01",
+      "number": 2,
+      "scene": "Canons战役装备与互动",
+      "attribution": "Marcos Viñals Bassols项目页／摄影",
+      "source_url": "https://bassols.art/wp-content/uploads/2021/04/waterloo.16.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/BE-W1815-01/aftermath-candidate.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/be-w1815-01-02.jpg",
+      "width": 1921,
+      "height": 1282,
+      "description": "Canons战役装备、火炮原理与互动屏叙事段"
+    },
+    {
+      "case_id": "SE-IM-01",
+      "number": 1,
+      "scene": "Our Story产品开发与设计档案",
+      "attribution": "Ralph Appelbaum Associates项目页",
+      "source_url": "https://raai.com/wp-content/uploads/2022/05/Ikea-1600x1000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/SE-IM-01/raai-main-exhibition-original.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/se-im-01-01.jpg",
+      "width": 1600,
+      "height": 1000,
+      "description": "Our Story产品开发、年代标签、档案与设计样品主展环境"
+    },
+    {
+      "case_id": "SE-IM-01",
+      "number": 2,
+      "scene": "Your Stories家庭使用与目录参与",
+      "attribution": "Ralph Appelbaum Associates项目页",
+      "source_url": "https://raai.com/wp-content/uploads/2022/05/Ikea8-1024x640.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/SE-IM-01/raai-customer-stories-original.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/se-im-01-02.jpg",
+      "width": 1024,
+      "height": 640,
+      "description": "Your Stories顾客家庭使用、厨房与年度目录参与式叙事段"
+    },
+    {
+      "case_id": "IT-LM-01",
+      "number": 1,
+      "scene": "Universo沉浸咖啡文化与RFID互动",
+      "attribution": "Ralph Appelbaum Associates项目页／Andrew Lee摄影",
+      "source_url": "https://raai.com/wp-content/uploads/2021/05/Lavazza-1600x1000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/IT-LM-01/raai-universo-original.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/it-lm-01-01.jpg",
+      "width": 1600,
+      "height": 1000,
+      "description": "Universo 360°投影、RFID咖啡杯与互动桌沉浸段"
+    },
+    {
+      "case_id": "IT-LM-01",
+      "number": 2,
+      "scene": "企业历史、包装与生产档案",
+      "attribution": "Ralph Appelbaum Associates项目页／Andrew Lee摄影",
+      "source_url": "https://raai.com/wp-content/uploads/2021/05/Lavazza6-1600x1000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/IT-LM-01/raai-company-history-original.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/it-lm-01-02.jpg",
+      "width": 1600,
+      "height": 1000,
+      "description": "企业历史、包装、专利与质量控制的对象—互动长台段"
+    },
+    {
+      "case_id": "IE-EPIC-01",
+      "number": 1,
+      "scene": "Notorious Irish人体追踪投影",
+      "attribution": "ISO Design项目页",
+      "source_url": "https://isodesign.co.uk/wp-content/uploads/2016/12/ISODESIGN_EPIC_Notorious-IrishFile0358-928x619.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/IE-EPIC-01/iso-notorious-irish-original.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/ie-epic-01-01.jpg",
+      "width": 928,
+      "height": 619,
+      "description": "Notorious Irish全身追踪、投影与人物档案互动段"
+    },
+    {
+      "case_id": "IE-EPIC-01",
+      "number": 2,
+      "scene": "Conflict战争迁徙与档案投影",
+      "attribution": "ISO Design项目页",
+      "source_url": "https://isodesign.co.uk/wp-content/uploads/2016/12/ISODESIGN_EPIC-conflict_IMG_3786-928x619.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch34-staging/IE-EPIC-01/iso-conflict-original.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch34/ie-epic-01-02.jpg",
+      "width": 928,
+      "height": 619,
+      "description": "Conflict跨洲从军与Wild Geese档案—投影叙事段"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": ["professional-report", "museum-case-study", "cjk"],
+  "hard_constraints": [
+    "独立可下载中文案例PDF",
+    "仅使用摄影师Andrzej Hoja署名、已人工审阅的真实展厅摄影",
+    "准确归属NV Tempora S.A.常设展设计；No Label/New Amsterdam及Qumak S.A.仅标为公开来源列出的协作方，不虚构精确交付分工",
+    "五层分析：平面与动线、策展叙事、展项设计、布展与图文、研究判断",
+    "严格编译、text-document验证PASS与标准联系表视觉复核"
+  ],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 5,
+    "portrait_images": 0,
+    "landscape_images": 1,
+    "tables": 2,
+    "external_links": 4,
+    "cjk_text": true
+  },
+  "title": "波兰格但斯克二战博物馆常设展",
+  "subtitle": "2017—至今｜格但斯克｜在消失街道的轴线上重构战争记忆",
+  "author": "Manus AI",
+  "case_id": "PL-MIIW-01",
+  "image_assets": [
+    "/home/ubuntu/webdev-static-assets/expansion-1000-batch26/pl-gdansk-main-axis.jpg"
+  ],
+  "source_urls": [
+    "https://www.cultures-of-history.uni-jena.de/exhibitions/the-permanent-exhibition-of-the-museum-of-the-second-world-war",
+    "https://www.muzeum1939.pl/en/",
+    "https://www.cladglobal.com/CLADnews/architecture_design/The-Museum-of-the-Second-World-War-Poland-Gdansk-architecture-design-WWII-Studio-Architektoniczne-Kwadrat/322338?source=search",
+    "https://www.muzeum1939.pl/en/news/museum-of-the-second-world-war-exhibition-reopens-to-the-public--renovation-work-and-new-exhibits--12968"
+  ],
+  "analysis_scope": "以NV Tempora的中选设计责任、No Label/New Amsterdam与Qumak公开协作、地下主轴与原Große Gasse记忆、战争道路—恐怖—抵抗—结束—长影的叙事、毁损街道与T-34、物件／多媒体及一张已审现场图为事实边界；不虚构完整平面、协作方精确承包范围、原始脚本、当前全部展项或技术设备型号。"
+}

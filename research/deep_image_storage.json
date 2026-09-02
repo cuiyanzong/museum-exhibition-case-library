@@ -1,0 +1,14 @@
+{
+  "CN-01": ["/manus-storage/CN01-01_b00ad34a.jpg", "/manus-storage/CN01-02_3c81b7a0.jpg", "/manus-storage/CN01-03_ad81f7da.jpg"],
+  "CN-02": ["/manus-storage/CN02-01_830394ab.jpg", "/manus-storage/CN02-02_0dd0d2d4.jpg", "/manus-storage/CN02-03_5dd42e28.jpg"],
+  "SEA-01": ["/manus-storage/SEA01-01_6c1c6e85.jpg", "/manus-storage/SEA01-02_fbff9861.jpg", "/manus-storage/SEA01-03_ef2d8f78.jpg"],
+  "SEA-02": ["/manus-storage/SEA02-01_84c0f2e4.jpg", "/manus-storage/SEA02-02_231598bf.jpg", "/manus-storage/SEA02-03_81318312.jpg"],
+  "SA-01": ["/manus-storage/SA01-01_6e7874ec.jpg", "/manus-storage/SA01-02_d0a66ea0.jpg", "/manus-storage/SA01-03_845f87ac.jpg"],
+  "SA-02": ["/manus-storage/SA02-01_ca13cc6b.jpg", "/manus-storage/SA02-02_7c561e43.jpg", "/manus-storage/SA02-03_6b26a2ee.jpg"],
+  "EE-01": ["/manus-storage/EE01-01_07b07547.jpg", "/manus-storage/EE01-02_51ee2ee7.jpg", "/manus-storage/EE01-03_55083036.jpg"],
+  "EE-02": ["/manus-storage/EE02-01_6a763145.jpg", "/manus-storage/EE02-02_4b9a3e9e.jpg", "/manus-storage/EE02-03_58c940ab.jpg"],
+  "WE-01": ["/manus-storage/WE01-01_941319bd.jpg", "/manus-storage/WE01-02_4b8d5144.jpg", "/manus-storage/WE01-03_efc67cd2.jpg"],
+  "WE-02": ["/manus-storage/WE02-01_fcd09c64.jpg", "/manus-storage/WE02-02_7f607c5d.jpg", "/manus-storage/WE02-03_fbcf75b0.jpg"],
+  "NA-01": ["/manus-storage/NA01-01_901090cc.jpg", "/manus-storage/NA01-02_be26a184.jpg", "/manus-storage/NA01-03_e88794bf.jpg"],
+  "NA-02": ["/manus-storage/NA02-01_e084f937.jpg", "/manus-storage/NA02-02_a822c00e.jpg", "/manus-storage/NA02-03_96de5c70.jpg"]
+}

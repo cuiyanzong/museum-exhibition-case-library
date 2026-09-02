@@ -1,0 +1,20 @@
+{
+  "PL-01": {
+    "mode": "standard",
+    "reviewed_pages": [1, 2, 3, 4],
+    "result": "PASS",
+    "contact_sheet": "PL-01/review/sheets/sheet-01.jpg"
+  },
+  "HU-01": {
+    "mode": "standard",
+    "reviewed_pages": [1, 2, 3, 4],
+    "result": "PASS",
+    "contact_sheet": "HU-01/review/sheets/sheet-01.jpg"
+  },
+  "RO-01": {
+    "mode": "standard",
+    "reviewed_pages": [1, 2, 3, 4],
+    "result": "PASS",
+    "contact_sheet": "RO-01/review/sheets/sheet-01.jpg"
+  }
+}

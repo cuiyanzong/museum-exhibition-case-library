@@ -1,0 +1,16 @@
+{
+  "batch": 34,
+  "count": 10,
+  "assets": [
+    {"case_id":"UK-IA-01","number":1,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/uk-ia-01-01.jpg","storage_path":"/manus-storage/uk-ia-01-01_acf7e128.jpg"},
+    {"case_id":"UK-IA-01","number":2,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/uk-ia-01-02.jpg","storage_path":"/manus-storage/uk-ia-01-02_e1e065db.jpg"},
+    {"case_id":"BE-W1815-01","number":1,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/be-w1815-01-01.jpg","storage_path":"/manus-storage/be-w1815-01-01_62167b71.jpg"},
+    {"case_id":"BE-W1815-01","number":2,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/be-w1815-01-02.jpg","storage_path":"/manus-storage/be-w1815-01-02_1ddc7d27.jpg"},
+    {"case_id":"SE-IM-01","number":1,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/se-im-01-01.jpg","storage_path":"/manus-storage/se-im-01-01_799128b3.jpg"},
+    {"case_id":"SE-IM-01","number":2,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/se-im-01-02.jpg","storage_path":"/manus-storage/se-im-01-02_061b58ab.jpg"},
+    {"case_id":"IT-LM-01","number":1,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/it-lm-01-01.jpg","storage_path":"/manus-storage/it-lm-01-01_8635e566.jpg"},
+    {"case_id":"IT-LM-01","number":2,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/it-lm-01-02.jpg","storage_path":"/manus-storage/it-lm-01-02_4a407439.jpg"},
+    {"case_id":"IE-EPIC-01","number":1,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/ie-epic-01-01.jpg","storage_path":"/manus-storage/ie-epic-01-01_8d23a9f3.jpg"},
+    {"case_id":"IE-EPIC-01","number":2,"source_file":"/home/ubuntu/webdev-static-assets/expansion-1000-batch34/ie-epic-01-02.jpg","storage_path":"/manus-storage/ie-epic-01-02_16359dcc.jpg"}
+  ]
+}

@@ -1,0 +1,1088 @@
+{
+  "generated_at": "2026-08-24",
+  "purpose": "Candidate inventory only; no automated publication decision.",
+  "accepted_case_count": 20,
+  "cases": [
+    {
+      "id": "LT-LSM-01",
+      "title": "Lost Shtetl Museum — Permanent Exhibition",
+      "sources": [
+        {
+          "url": "https://raai.com/project/lost-shtetl-museum/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/lost-shtetl-museum/",
+          "images": []
+        },
+        {
+          "url": "https://www.lostshtetl.com/plan-your-visit",
+          "status": 200,
+          "images": [
+            "https://www.lostshtetl.com/quality_auto/EN-Black.png",
+            "https://static.wixstatic.com/media/c096cc_9fc60c4224c6408589185944313e97f6~mv2.png",
+            "https://www.lostshtetl.com/quality_auto/EN-White.png",
+            "https://static.wixstatic.com/media/c096cc_39579ee91b2d43fb8214462962295297~mv2.png",
+            "https://static.wixstatic.com/media/c096cc_e3496e2df9cc4c999eb39cbcbf3dcb65~mv2.png/v1/fill/w_160,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/c096cc_e3496e2df9cc4c999eb39cbcbf3dcb65~mv2.png",
+            "https://static.wixstatic.com/media/c096cc_922845ee16134c57ba02e1f6ed5fc943~mv2.png/v1/fill/w_100,h_54,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/c096cc_922845ee16134c57ba02e1f6ed5fc943~mv2.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "US-EFPM-01",
+      "title": "Jean & Ric Edelman Fossil Park & Museum — Cretaceous Galleries",
+      "sources": [
+        {
+          "url": "https://gallagherdesign.com/project/edelman/",
+          "status": 200,
+          "images": [
+            "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-19-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-20-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-16-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-1-1024x767.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-1-300x225.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-1-768x575.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-1-1536x1150.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-1-2048x1533.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-14-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-1-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/05/LL_Edelman-9-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-2-1024x683.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-2-300x200.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-2-768x512.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-2-1536x1024.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-2-2048x1365.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-3.35.06 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-3.40.14 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-3.40.00 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-3.39.54 PM-1380x1035-c-default.png"
+          ]
+        },
+        {
+          "url": "https://www.efm.org/",
+          "status": 200,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "US-SLHF-01",
+      "title": "St. Louis Kaplan Feldman Holocaust Museum — Permanent Holocaust Exhibition",
+      "sources": [
+        {
+          "url": "https://gallagherdesign.com/project/st-louis-kaplan-feldman-holocaust-museum/",
+          "status": 200,
+          "images": [
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-14-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-18-1024x683.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-18-300x200.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-18-768x512.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-18-1536x1025.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-18-2048x1366.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-4-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-7-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-10-1024x683.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-10-300x200.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-10-768x512.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-10-1536x1025.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-10-2048x1366.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-9-scaled-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-5-1024x683.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-5-300x200.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-5-768x512.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-5-1536x1025.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2023/07/St-Louis-Holocaust-Museum-Low-Res-For-Web-5-2048x1366.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.58 PM-1600x1600-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-scaled-1600x1600-c-default.jpg"
+          ]
+        },
+        {
+          "url": "https://stlholocaustmuseum.org/exhibitions/permanent/",
+          "status": 200,
+          "images": [
+            "https://stlholocaustmuseum.org/wp-content/uploads/2022/04/st-louis-kaplan-feldman-holocaust-museum-logo-white.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/01/cropped-HolocaustMuseumLogo-Mobile.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-brutal-expansion.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-brutal-expansion-480x320.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-founders-hall-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-founders-hall.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-opening-video-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-opening-video.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-evolving-hatred-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-evolving-hatred.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-gathering-storm-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-gathering-storm.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-fear-and-intimidation-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-fear-and-intimidation.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-brutal-expansion-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-onset-of-mass-murder-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-onset-of-mass-murder.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-unimagineable-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-unimagineable.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-roles-and-perspectives-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-roles-and-perspectives.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-displacement-and-uncertainty-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-displacement-and-uncertainty.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-st-louis-survivor-speaks-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-st-louis-survivor-speaks.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-closing-video-400x284.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2025/01/Permanent-Holocaust-Exhibition-closing-video.png",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/07/6B6A1582.jpg",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/07/6B6A1582-980x653.jpg",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/07/6B6A1582-480x320.jpg",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/08/2022-11-1_STL_Holocaust_Museum_GO-7347-ZF-5310-06197-1-081-scaled-1.jpg",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/08/2022-11-1_STL_Holocaust_Museum_GO-7347-ZF-5310-06197-1-081-scaled-1-1280x854.jpg",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/08/2022-11-1_STL_Holocaust_Museum_GO-7347-ZF-5310-06197-1-081-scaled-1-980x653.jpg",
+            "https://stlholocaustmuseum.org/wp-content/uploads/2024/08/2022-11-1_STL_Holocaust_Museum_GO-7347-ZF-5310-06197-1-081-scaled-1-480x320.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "US-WB-01",
+      "title": "Washington-on-the-Brazos — Reimagined Historic Site Experience",
+      "sources": [
+        {
+          "url": "https://gallagherdesign.com/project/brazos/",
+          "status": 200,
+          "images": [
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/PIER_WOTB__196-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.13.46 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.05 PM-1024x658.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.05 PM-300x193.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.05 PM-768x493.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.05 PM-1536x986.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.05 PM-2048x1315.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/PIER_WOTB__3-1380x1035-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.15.28 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.14.49 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.26.56 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.28.12 PM-1380x1035-c-default.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.26 PM-1024x665.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.26 PM-300x195.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.26 PM-768x499.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.26 PM-1536x997.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-2.16.26 PM-2048x1329.png",
+            "https://gallagherdesign.com/wp-content/uploads/2026/07/LL_Edelman-15-edited-scaled-1600x1600-c-default.jpg",
+            "https://gallagherdesign.com/wp-content/uploads/2026/05/Natalie-Rhea-06942-1-scaled-1600x1600-c-default.jpg"
+          ]
+        },
+        {
+          "url": "https://thc.texas.gov/historic-sites/washington-brazos",
+          "status": 200,
+          "images": [
+            "https://thc.texas.gov/themes/custom/mc_theme/storybook/src/assets/images/logo-white.png",
+            "https://thc.texas.gov/sites/default/files/styles/hero_banner/public/2023-12/Washington%20on%20the%20Brazos_01.jpg?h=cf77c377&itok=K5TR-A9D",
+            "https://thc.texas.gov/themes/custom/mc_theme/storybook/src/assets/images/icon-loc.png",
+            "https://thc.texas.gov/themes/custom/mc_theme/storybook/src/assets/images/icon-clock.png",
+            "https://thc.texas.gov/themes/custom/mc_theme/storybook/src/assets/images/icon-ticket.png",
+            "https://thc.texas.gov/themes/custom/mc_theme/storybook/src/assets/images/icon-cal.png",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_11.jpg?h=571f8567&itok=pfio9Feg",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington-on-the-Brazos_14.jpg?h=82f8a20d&itok=TngPLGMv",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_01.jpg?h=cf77c377&itok=By6j3aLH",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_04.jpg?h=d8102449&itok=O40gmT6V",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_06.jpg?h=d8102449&itok=2awse-Ir",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_09.jpg?h=d8102449&itok=awvGV-IE",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_10.jpg?h=d8102449&itok=Qxt-eU3r",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_12.jpg?h=571f8567&itok=eUiYWO7p",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_03.jpg?h=d8102449&itok=6Ac_8EtG",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_02.jpg?h=bc9d8ced&itok=OopIS4QT",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_07.jpg?h=d8102449&itok=yZA06LRA",
+            "https://thc.texas.gov/sites/default/files/styles/image_gallery/public/2023-12/Washington%20on%20the%20Brazos_05.jpg?h=d8102449&itok=ZnvyIFXg",
+            "https://thc.texas.gov/sites/default/files/styles/vertical_card/public/2023-12/Washington%20on%20the%20Brazos_09.jpg?h=d8102449&itok=ThZ3zsd5",
+            "https://thc.texas.gov/sites/default/files/styles/vertical_card/public/2023-12/Washington%20on%20the%20Brazos_07.jpg?h=d8102449&itok=TJCqHdk7",
+            "https://thc.texas.gov/sites/default/files/styles/vertical_card/public/2023-12/Washington-on-the-Brazos_16.jpg?h=571f8567&itok=clHG0wGP",
+            "https://thc.texas.gov/sites/default/files/styles/vertical_card/public/2024-09/Leadership-Experience-at-WOB_Newsletter-Banner.jpg?h=d099aac8&itok=tf-0y7Yt",
+            "https://thc.texas.gov/sites/default/files/styles/vertical_card/public/2025-12/WOB_Heaths-Carpentry-Shop_Interior.jpg?h=e5aec6c8&itok=Lwb5Qfsc",
+            "https://thc.texas.gov/sites/default/files/styles/detail_listing/public/2026-07/pickles.jpg?h=ab622562&itok=yxyQewit",
+            "https://thc.texas.gov/sites/default/files/styles/detail_listing/public/2026-08/Labor%20of%20Thine%20Hands%20--%202026.png?h=d1cb525d&itok=gGIjPi5b",
+            "https://thc.texas.gov/sites/default/files/styles/detail_listing/public/2026-07/horserace.jpg?h=32b2e78f&itok=_VnJItYs",
+            "https://thc.texas.gov/sites/default/files/styles/detail_listing/public/2026-01/WOB_Reopening_DrugStore.jpg?h=b05d762c&itok=GQ3MJuDx",
+            "https://thc.texas.gov/sites/default/files/styles/detail_listing/public/2024-06/690_SFdA_FatherofTX2018_22.jpg?h=8b2987e5&itok=cWMX0nj4",
+            "https://thc.texas.gov/themes/custom/mc_theme/storybook/src/assets/images/logo-white-footer.png",
+            "https://thc.texas.gov/themes/custom/mc_theme/storybook/src/assets/images/TravelTexas.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SA-IJ-01",
+      "title": "Arabian Journeys — Ithra Museum",
+      "sources": [
+        {
+          "url": "https://www.atelier-brueckner.com/en/projects/arabian-journeys",
+          "status": 200,
+          "images": [
+            "https://www.atelier-brueckner.com/assets/ui-elements/sprites.png",
+            "https://www.atelier-brueckner.com/assets/ui-elements/linkedin.png",
+            "https://www.atelier-brueckner.com/assets/ui-elements/instagram.png",
+            "https://www.atelier-brueckner.com/assets/ui-elements/youtube.png"
+          ]
+        },
+        {
+          "url": "https://www.ithra.com/en/programme/2026/ithra-museum",
+          "status": "error",
+          "error": "HTTPSConnectionPool(host='www.ithra.com', port=443): Read timed out. (read timeout=8)",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "TR-EEM-01",
+      "title": "Ephesus Experience Museum",
+      "sources": [
+        {
+          "url": "https://www.atelier-brueckner.com/en/projects/ephesus-experience-museum",
+          "status": 200,
+          "images": [
+            "https://www.atelier-brueckner.com/assets/ui-elements/sprites.png",
+            "https://www.atelier-brueckner.com/assets/ui-elements/linkedin.png",
+            "https://www.atelier-brueckner.com/assets/ui-elements/instagram.png",
+            "https://www.atelier-brueckner.com/assets/ui-elements/youtube.png"
+          ]
+        },
+        {
+          "url": "https://www.demmuseums.com/en/visitor-rules/ephesus",
+          "status": 200,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "SK-JM-01",
+      "title": "Jurkovič Museum — Permanent Exhibition",
+      "sources": [
+        {
+          "url": "https://www.missing-element.com/detail.php?item=jurkovic-muzeum-e",
+          "status": 200,
+          "images": [
+            "https://www.missing-element.com/img/logo-main.jpg",
+            "https://www.missing-element.com/admin/resources/eejurkovic2.jpg",
+            "https://www.missing-element.com/admin/resources/eejurkovic9.jpg",
+            "https://www.missing-element.com/admin/resources/eejurkovic5.jpg",
+            "https://www.missing-element.com/admin/resources/eejurkovic11.jpg",
+            "https://www.missing-element.com/admin/resources/eejurkovic4.jpg",
+            "https://www.missing-element.com/admin/resources/eejurkovic8.jpg",
+            "https://www.missing-element.com/admin/resources/eejurkovic10.jpg"
+          ]
+        },
+        {
+          "url": "https://muzeumjurkovic.sk/navstivte-nas",
+          "status": 200,
+          "images": [
+            "https://muzeumjurkovic.sk/assets/img/loga.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LV-MOL-01",
+      "title": "Museum of the Occupation of Latvia — Main Exposition",
+      "sources": [
+        {
+          "url": "https://h2e.lv/eng/museum-of-the-occupation-of-latvia-exhibition/",
+          "status": 200,
+          "images": [
+            "https://h2e.lv/eng/wp-content/themes/h2e/images/arrows/arrow_left.png",
+            "https://h2e.lv/eng/wp-content/themes/h2e/images/arrows/arrow_right.png",
+            "https://h2e.lv/eng/wp-content/themes/h2e/images/back.png",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_1.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_1-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_1-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_1-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_2-EN.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_2-EN-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_2-EN-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_2-EN-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_3.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_3-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_3-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_3-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_4.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_4-214x300.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_4-768x1075.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_4-731x1024.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_5.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_5-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_5-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_5-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_6.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_6-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_6-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_6-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_7.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_7-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_7-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_7-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_8.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_8-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_8-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_8-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_9.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_9-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_9-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_9-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_10.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_10-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_10-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_10-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_11.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_11-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_11-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_11-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_12.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_12-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_12-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_12-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_13.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_13-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_13-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_13-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_14.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_14-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_14-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_14-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_15.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_15-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_15-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_15-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_16.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_16-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_16-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_16-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_17.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_17-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_17-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_17-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_18.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_18-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_18-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_18-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_19-EN.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_19-EN-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_19-EN-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_19-EN-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_20-EN.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_20-EN-300x200.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_20-EN-768x512.jpg",
+            "https://h2e.lv/eng/wp-content/uploads/2023/02/LOM-ekspozicija_20-EN-1024x683.jpg",
+            "https://h2e.lv/eng/wp-content/themes/h2e/images/twitter.png",
+            "https://h2e.lv/eng/wp-content/themes/h2e/images/facebook.png",
+            "https://h2e.lv/eng/wp-content/themes/h2e/images/pinterest.png"
+          ]
+        },
+        {
+          "url": "https://okupacijasmuzejs.lv/en",
+          "status": 200,
+          "images": [
+            "https://okupacijasmuzejs.lv/storage/TS3B9amSPYtk4UPGZfHBQVN6wiEgK9eaO5UUz84E.jpg",
+            "https://okupacijasmuzejs.lv/storage/003_8b1b083f-5146-454d-ae96-decd9c36dcf1/003_8b1b083f-5146-454d-ae96-decd9c36dcf1_homepage.hero.block_image.jpg",
+            "https://okupacijasmuzejs.lv/storage/004_0b911032-f4bf-40e3-a213-49384ea06a49/004_0b911032-f4bf-40e3-a213-49384ea06a49_homepage.hero.block_image.jpg",
+            "https://okupacijasmuzejs.lv/storage/SVS_9aa3c607-781b-42d2-b4f5-1c09a069afca_1387c533-beab-47ac-923f-f7d791f641f7/SVS_9aa3c607-781b-42d2-b4f5-1c09a069afca_1387c533-beab-47ac-923f-f7d791f641f7_homepage.hero.block_image.jpg",
+            "https://okupacijasmuzejs.lv/storage/mini_main_ENG_e50d0b8a-7414-439f-846c-d1e888db1437/mini_main_ENG_e50d0b8a-7414-439f-846c-d1e888db1437_homepage.hero.block_image.jpg",
+            "https://okupacijasmuzejs.lv/storage/Pēc_kara_main_7458d812-e8a6-41fe-9368-cb3993f84d42/Pēc_kara_main_7458d812-e8a6-41fe-9368-cb3993f84d42_homepage.hero.block_image.jpg",
+            "https://okupacijasmuzejs.lv/storage/fWwY3u7xQBOK3kth6Xa9gQKNqAvkLeow7cxvC4n5/fWwY3u7xQBOK3kth6Xa9gQKNqAvkLeow7cxvC4n5_blog.post_thumbnail_center.jpg",
+            "https://okupacijasmuzejs.lv/storage/Kc00OBvNh1FPE2luhqCukikUq0h57F8USdXNckmG/Kc00OBvNh1FPE2luhqCukikUq0h57F8USdXNckmG_blog.post_thumbnail_center.jpg",
+            "https://okupacijasmuzejs.lv/storage/6YGxl8nIFMkdS5JJklMD8jwti55uhesVZ3hscwsM/6YGxl8nIFMkdS5JJklMD8jwti55uhesVZ3hscwsM_blog.post_thumbnail_center.jpg",
+            "https://okupacijasmuzejs.lv/storage/O5YsVygFfI3XKQfNPYlfuzNVTcO13Ck0ie26hkSg/O5YsVygFfI3XKQfNPYlfuzNVTcO13Ck0ie26hkSg_blog.post_thumbnail_center.jpg",
+            "https://okupacijasmuzejs.lv/storage/1IKgDjkBroUZbB9MBgfuVUJCQGuY1zhHZmbMrz45/1IKgDjkBroUZbB9MBgfuVUJCQGuY1zhHZmbMrz45_blog.post_thumbnail_center.jpg"
+          ]
+        },
+        {
+          "url": "https://www.fold.lv/en/2022/10/new-permanent-exhibition-of-the-museum-of-the-occupation-of-latvia/",
+          "status": "error",
+          "error": "404 Client Error: Not Found for url: https://www.fold.lv/en/2022/10/new-permanent-exhibition-of-the-museum-of-the-occupation-of-latvia/",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "LV-RMM-01",
+      "title": "Riga Motor Museum — Permanent Exhibition",
+      "sources": [
+        {
+          "url": "https://www.fold.lv/en/a-facelift-for-riga-motor-museum/",
+          "status": 200,
+          "images": [
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-001-1007x1106.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-001-498x548.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-001.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-09-1007x677.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-09-548x368.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-09.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-11-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-11-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-11.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-12-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-12-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-12.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-04-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-04-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-04.png",
+            "https://www.fold.lv/uploads/2016/08/Motormuzejs-141-1007x1509.png",
+            "https://www.fold.lv/uploads/2016/08/Motormuzejs-141-365x548.png",
+            "https://www.fold.lv/uploads/2016/08/Motormuzejs-141.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-03-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-03-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-03.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-08-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-08-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-08.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-06-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-06-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-06.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-07-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-07-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-07.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-02-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-02-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-02.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-10-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-10-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-10.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-01-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-01-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-01.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-05-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-05-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-05.png",
+            "https://www.fold.lv/uploads/2016/08/Motormuzejs-151-1007x1508.png",
+            "https://www.fold.lv/uploads/2016/08/Motormuzejs-151-365x548.png",
+            "https://www.fold.lv/uploads/2016/08/Motormuzejs-151.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-131-1007x672.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-131-548x365.png",
+            "https://www.fold.lv/uploads/2016/08/Rigas-Motormuzejs-131.png",
+            "https://www.fold.lv/uploads/userphoto/30.png",
+            "https://www.fold.lv/uploads/2025/08/Maja-Baltic-Extra-2025_00-548x608.png",
+            "https://www.fold.lv/uploads/2025/03/H2E-Holokausts-Liepaja-ekspozicija-00-548x608.png",
+            "https://www.fold.lv/uploads/2024/09/rigas-pils_00-548x608.png",
+            "https://www.fold.lv/uploads/2020/04/Alex-Antolino-00-548x608.png"
+          ]
+        },
+        {
+          "url": "https://www.motormuzejs.lv/index.php/en/explore/permanent-exhibition",
+          "status": "error",
+          "error": "HTTPSConnectionPool(host='www.motormuzejs.lv', port=443): Read timed out. (read timeout=8)",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "NZ-HT-01",
+      "title": "He Tohu — Constitutional Documents Permanent Exhibition",
+      "sources": [
+        {
+          "url": "https://studiopacific.nz/projects/2017/he-tohu-exhibition/",
+          "status": 200,
+          "images": [
+            "https://studiopacific.nz/media/2069/he-tohu-3.jpg?anchor=center&mode=crop&width=1500&height=844&rnd=131855352370000000",
+            "https://studiopacific.nz/media/1891/he-tohu-2.jpg?crop=0.15273807321184651,0.1879350348027834,0.12430171358541338,0&cropmode=percentage&width=355&height=266&rnd=131758620890000000",
+            "https://studiopacific.nz/media/1886/dsc08054.jpg?anchor=center&mode=crop&width=355&height=560&rnd=131750087330000000",
+            "https://studiopacific.nz/media/1890/warm-tone10.jpg?anchor=center&mode=crop&width=355&height=560&rnd=131427094860000000",
+            "https://studiopacific.nz/media/1887/dsc08063.jpg?anchor=center&mode=crop&width=355&height=266&rnd=131427094860000000",
+            "https://studiopacific.nz/media/1888/dsc08092.jpg?anchor=center&mode=crop&width=355&height=560&rnd=131427094860000000",
+            "https://studiopacific.nz/media/1892/warm-tone8.jpg?anchor=center&mode=crop&width=355&height=266&rnd=131427094860000000"
+          ]
+        },
+        {
+          "url": "https://www.dia.govt.nz/archive-exhibition-project",
+          "status": 200,
+          "images": [
+            "https://www.dia.govt.nz/vwluResources/He-Tohu-2/$file/HeTohu-Room-Panorama.jpg",
+            "https://www.dia.govt.nz/vwluResources/He-Tohu-1/$file/He-Tohu-Saturday-Opening.jpg",
+            "https://www.dia.govt.nz/no_script.gif"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BH-NCM-01",
+      "title": "Bahrain National Charter Monument — Permanent Exhibition",
+      "sources": [
+        {
+          "url": "https://raai.com/project/bahrain-national-charter-monument/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/bahrain-national-charter-monument/",
+          "images": []
+        },
+        {
+          "url": "https://www.mbma.gov.bh/national-action-charter-monument-hosts-light-and-charter-event/",
+          "status": 200,
+          "images": [
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/MBMA-Logo-light-150x150.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/MBMA-Logo-light.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/MBMA-Logo-2-150x150.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/MBMA-Logo-2.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/FDP_graduation-300x154.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/FDP_graduation-1024x526.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/FDP_graduation-768x395.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/10/FDP_graduation.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/training-banner-mbma-300x200.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/training-banner-mbma-1024x683.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/training-banner-mbma-768x512.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/training-banner-mbma-1536x1024.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/training-banner-mbma.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/languages-mbma-300x200.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/languages-mbma-1024x683.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/languages-mbma-768x512.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/languages-mbma-1536x1024.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2024/12/languages-mbma-2048x1365.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2025/01/8-5bec6c67-183a-42d8-90e7-b24d93ed3a03.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2025/01/8-5bec6c67-183a-42d8-90e7-b24d93ed3a03-300x184.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/07/24d01b7f_56be_4f30_9f90_5905e3945c7d_1-768x404.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/07/24d01b7f_56be_4f30_9f90_5905e3945c7d_1-300x158.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/07/24d01b7f_56be_4f30_9f90_5905e3945c7d_1-1024x538.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/07/24d01b7f_56be_4f30_9f90_5905e3945c7d_1-1536x807.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/07/24d01b7f_56be_4f30_9f90_5905e3945c7d_1.jpeg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/05/Screenshot_20260524_144052_1-768x404.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/05/Screenshot_20260524_144052_1-300x158.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/05/Screenshot_20260524_144052_1.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/05/image-2-768x410.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/05/image-2-300x160.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/05/image-2.png",
+            "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/781425451_18354414598247406_1870261749291258506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=E-8ZSFWsXR0Q7kNvwG_5rWE&_nc_oc=AdpN14SBd0GaSN1oc3DpApJI3HDFLVYroWfIKsF5SstqmCF-ZjiKvVNz-OD_I6b_8KU&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uLaGOt58PbgRSSd2VaSHkA&_nc_tpa=Q5bMBQLtGw6a1s21M34rgDEMaBYqTCB8tGhFa4pCFjLrN0kQL8KQ2Z5Q6hFqL88hFJA6IsaM_yKv1MBjbg&oh=00_AQEDoN2Z1iCZFK7LIRBZbDwKNXvKh_EndhCYjximEgfORQ&oe=6A9190C0",
+            "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/773556306_18353436475247406_4890219696357989386_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NVwBynYFMS0Q7kNvwFoNcyW&_nc_oc=Adr7B19El7mbC9Yn7nbrOZtvE-6ecbrjDGKVcnLGXgATIagRW-NI3NU6daabUUuGcD8&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uLaGOt58PbgRSSd2VaSHkA&_nc_tpa=Q5bMBQJDUZz-HqeXACjGYy49OqPFGaUejJKd3v6xUBvEv3hhzk0IidrYNNv5fuo-lG5uIjEVjVF6p9vfgw&oh=00_AQGacU36oV63swdSS22D1aL_GEhgpfzLBhFRBJ1vVNjrtA&oe=6A91B43C",
+            "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/758658335_18350401621247406_6674137344970426666_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EEfZJ7IPqYkQ7kNvwHfuqdo&_nc_oc=Adp57E0GVeJFoiY0YujT_p2oBhhk-d9XH3PJXXclOPw2jYMiyjxWpf-f71VAMSsUsW0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uLaGOt58PbgRSSd2VaSHkA&_nc_tpa=Q5bMBQJjnGrUhoLogcvQJrQBFuOwn6h9qAY-GmUJ9lnLGTterXDM8Ocgh23cB3RlZIECn_YQYWHb4L_KDA&oh=00_AQH1j3Aw2Ewd32zYwl5G_wW1TkbgbNtsN0sgs4fLjIncNA&oe=6A91A92C",
+            "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/745373797_18348157450247406_2355733841158984313_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZVHwzNLPFRsQ7kNvwF6dmyb&_nc_oc=Adp0jwPLKhqeoO21-YiVEnW_HJSI78AO9isgnnPXrmmowbn0xwgll06cbivckkhDwvE&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uLaGOt58PbgRSSd2VaSHkA&_nc_tpa=Q5bMBQLxsCYV-piZufErcTRCH55ZVHrLAArhjxrcD0iQLkXAtR3GlQR6ILn7k9PuRLE3wZKSz1NNll8R8Q&oh=00_AQFNJaNO_rE5qu-ICXAfxtK2FqqPHQ-eRocWwmK5y-43fg&oe=6A918BCD",
+            "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/736198537_18347234374247406_3521792734992329865_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ev6F5qDmN34Q7kNvwGrz_MZ&_nc_oc=Adpzmwrdg8OqMaJCvnumwSUHN2QPh0Ceiq3kMaqhXKhj7bdVhxw63EpMsWOn_oWUfSU&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uLaGOt58PbgRSSd2VaSHkA&_nc_tpa=Q5bMBQLvNphLovdWWF8QL17IGWADIiYXxDHrxuQVOTbNpkoZhsPUoOTXePYAhtQ2mkDK0le1VLir1sWWdw&oh=00_AQHRS9vkXcntdw2zhg4owmv-AWHgaXk7p3WhT5tAo79NHw&oe=6A91B430",
+            "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/736289482_18347077168247406_9201770437097232438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hbV85V_y4jgQ7kNvwFQtnPs&_nc_oc=AdppVNjE8PVR5FAzgBxqxXK6WLry_HDqzRFvlMKN5FqLrMR-YvEQelKfxoAAC6p0quM&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uLaGOt58PbgRSSd2VaSHkA&_nc_tpa=Q5bMBQLehIDDVCf1b6RHiyCtFL51QoLmkPycwEy-6nOyTIR64KiAlyifnj_bLs_lpIzD-kxEoTVFdXqINA&oh=00_AQGb5lS-Nb1m8WutzIZbIojLo8wQQY2_YuFezHxp0XUrgQ&oe=6A91A098",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/04/21001-29993-Color-2-300x122.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/04/21001-29993-Color-2.jpg",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/08/APSIA_logo-c-1024x406.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/08/APSIA_logo-c-300x119.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/08/APSIA_logo-c-768x304.png",
+            "https://www.mbma.gov.bh/wp-content/uploads/2026/08/APSIA_logo-c.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UK-NI-BRAID-01",
+      "title": "The Braid — Mid-Antrim Museum History Gallery",
+      "sources": [
+        {
+          "url": "https://raai.com/project/the-braid-ballymena-town-hall-museum-and-arts-centre/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/the-braid-ballymena-town-hall-museum-and-arts-centre/",
+          "images": []
+        },
+        {
+          "url": "https://nimc.co.uk/members/mid-antrim-museum/",
+          "status": 200,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "MX-MRP-01",
+      "title": "Museo Ruta de Plata — Mining History Interpretive Centre",
+      "sources": [
+        {
+          "url": "https://raai.com/project/museo-ruta-de-plata/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/museo-ruta-de-plata/",
+          "images": []
+        },
+        {
+          "url": "https://www.museorutadeplata.com/visits",
+          "status": 200,
+          "images": [
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260438663-0H8MQL791BLOPYNOPK3K/mining-museum-mexico.png?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1535583457421-FRWHG1B1EUZ4JVO0BL6A/el-triunfo-mining.jpg",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1537196319163-570U5F5YJITXHJCG5PSN/color-block-4.jpg",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1539796464734-M71PWVA2C8GAPDKPFV59/el-triunfo-1889.jpg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1537196136883-WRVWWSWMQG9W9YC1YTO5/color-block-4.jpg",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1556288650848-0AME7SZP07GCWYM19F3I/book-velazquz-de-leon.jpg?format=2500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1537196169236-PMU3WW4YDQWSM83RIU24/color-block-4.jpg",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png?format=100w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png?format=300w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png?format=500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png?format=750w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png?format=1000w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/5b848a71266c07a09a2fcf44/1536260352963-1CPGB0EDSR2080E0N0CS/mining-museum-mexico.png?format=2500w"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CA-RAM-01",
+      "title": "Royal Alberta Museum — Human and Natural History Galleries",
+      "sources": [
+        {
+          "url": "https://raai.com/project/human-and-natural-history-galleries-royal-alberta-museum/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/human-and-natural-history-galleries-royal-alberta-museum/",
+          "images": []
+        },
+        {
+          "url": "https://royalalbertamuseum.ca/visit/galleries",
+          "status": 200,
+          "images": [
+            "https://royalalbertamuseum.ca/themes/columbi/logo.png",
+            "https://royalalbertamuseum.ca/themes/columbi/images/shopLogo-white2.png",
+            "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-whats-on-2023-headline.jpg",
+            "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-natural-history-hall-2023-card.jpg",
+            "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-human-history-hall-2023-card.jpg",
+            "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-bug-gallery-2023-card.jpg",
+            "https://royalalbertamuseum.ca/sites/default/files/2023-07/galleries-childrens-gallery-2023-card.jpg",
+            "https://royalalbertamuseum.ca/sites/default/files/2021-06/galleries-feature-gallery-card.jpg",
+            "https://royalalbertamuseum.ca/sites/default/files/2021-06/galleries-changing-exhibitions-card.jpg",
+            "https://royalalbertamuseum.ca/themes/columbi/images/sm-facebook-black.png",
+            "https://royalalbertamuseum.ca/themes/columbi/images/sm-youtube-black.png",
+            "https://royalalbertamuseum.ca/themes/columbi/images/sm-twitter-black.png",
+            "https://royalalbertamuseum.ca/themes/columbi/images/sm-instagram-black.png",
+            "https://royalalbertamuseum.ca/themes/columbi/images/ram-goa.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AE-BGP-01",
+      "title": "Buhais Geology Park — Geology and Human Settlement Galleries",
+      "sources": [
+        {
+          "url": "https://raai.com/project/buhais-geology-park/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/buhais-geology-park/",
+          "images": []
+        },
+        {
+          "url": "https://buhaisgeologypark.shj.ae/index_en.html",
+          "status": 200,
+          "images": [
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/64c3b232.jpg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/5093c885.jpg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/09168f20.jpg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/6f2cc403.jpg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/6b28bee2.jpg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/6b5f709e.jpeg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/01315d87.jpg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/58f6e664.jpeg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/925370f1.jpeg",
+            "https://buhaisgeologypark.shj.ae/CarouselItems/f2d48816/792ede85.jpeg",
+            "https://buhaisgeologypark.shj.ae/images/library.png",
+            "https://buhaisgeologypark.shj.ae/images/newspaper.png",
+            "https://buhaisgeologypark.shj.ae/images/user.png",
+            "https://buhaisgeologypark.shj.ae/images/pencil2.png",
+            "https://buhaisgeologypark.shj.ae/images/facebook.png",
+            "https://buhaisgeologypark.shj.ae/images/youtube.png",
+            "https://buhaisgeologypark.shj.ae/images/twitter.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KW-ASPM-01",
+      "title": "Memorial Museum at Al-Shaheed Park",
+      "sources": [
+        {
+          "url": "https://raai.com/project/memorial-museum-al-shaheed-park/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/memorial-museum-al-shaheed-park/",
+          "images": []
+        },
+        {
+          "url": "https://www.instagram.com/p/DFsgQLjMLfb/",
+          "status": 200,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "MA-YSLM-01",
+      "title": "Musée Yves Saint Laurent Marrakech — Permanent Exhibition",
+      "sources": [
+        {
+          "url": "https://www.museeyslmarrakech.com/en/presentation/",
+          "status": 200,
+          "images": [
+            "https://www.museeyslmarrakech.com/wp-content/themes/myslmv2/images/Logo-Musee-Yves-Saint-Laurent-Marrakech-trans.png",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2024/01/Jardin-Majorelle-100-th-years.jpg",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2024/06/pop-up-non-authorised-sites_en.jpg"
+          ]
+        },
+        {
+          "url": "https://www.museeyslmarrakech.com/en/votre-visite/",
+          "status": 200,
+          "images": [
+            "https://www.museeyslmarrakech.com/wp-content/themes/myslmv2/images/Logo-Musee-Yves-Saint-Laurent-Marrakech-trans.png",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2024/05/Musee-Yves-Saint-Laurent_-Nicolas-Matheus_1-1010x470.jpg",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2023/12/myslm_files-Grande.jpeg",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2017/10/MUSEE-YVES-SAINT-LAURENT-MAP-490x280.png",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2017/10/0006_LIBRARIE-BOUTIQUE.jpg",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2017/10/0007_Le-studio.jpg",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2017/10/0005_PAYSAGE.jpg",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2024/01/Jardin-Majorelle-100-th-years.jpg",
+            "https://www.museeyslmarrakech.com/wp-content/uploads/2024/06/pop-up-non-authorised-sites_en.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "NZ-TRA-01",
+      "title": "Te Rau Aroha — Museum of the Price of Citizenship",
+      "sources": [
+        {
+          "url": "https://scottparkercreative.com/TE-RAU-AROHA",
+          "status": 200,
+          "images": [
+            "https://freight.cargo.site/t/original/i/80eb09dc0363aeda695bf11e218172ae9b5c7b2e04d68790dc4c31138d007dfc/SPC2.png",
+            "https://freight.cargo.site/t/original/i/77b295f7ad295abcd96dec59a3899907778739d8f3acf6f479f632dcf3b4e071/17731285067552.jpg",
+            "https://freight.cargo.site/t/original/i/839b26ab177a4341d657c795aa28f176011a87d8b725f625ff10ff76eeee16e8/SR_TeRauAroha_FParker-27.jpg"
+          ]
+        },
+        {
+          "url": "https://www.waitangi.org.nz/visit/te-rau-aroha",
+          "status": 200,
+          "images": [
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8cb3e15309fcaa5ee7a_View-fromTe-Rau-Aroha_2View-fromTe-Rau-Aroha.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8cb3e15309fcaa5ee7a_View-fromTe-Rau-Aroha_2View-fromTe-Rau-Aroha-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8cb3e15309fcaa5ee7a_View-fromTe-Rau-Aroha_2View-fromTe-Rau-Aroha-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8cb3e15309fcaa5ee7a_View-fromTe-Rau-Aroha_2View-fromTe-Rau-Aroha-p-1080.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8cb3e15309fcaa5ee7a_View-fromTe-Rau-Aroha_2View-fromTe-Rau-Aroha-p-1600.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2d252ed46099eaa7_Te-Rau-Aroha-20_1Te%20Rau%20Aroha-20.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2d252ed46099eaa7_Te-Rau-Aroha-20_1Te%20Rau%20Aroha-20-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2d252ed46099eaa7_Te-Rau-Aroha-20_1Te%20Rau%20Aroha-20-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2d252ed46099eaa7_Te-Rau-Aroha-20_1Te%20Rau%20Aroha-20-p-1080.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/64ca95bf55d964ebf992efc8_waitangi%20scientist.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2eff672c588ce895_Te-Whare-Runanga-at-night-scaled.jpg",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2eff672c588ce895_Te-Whare-Runanga-at-night-scaled-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2eff672c588ce895_Te-Whare-Runanga-at-night-scaled-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2eff672c588ce895_Te-Whare-Runanga-at-night-scaled-p-1080.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8ca2eff672c588ce895_Te-Whare-Runanga-at-night-scaled-p-1600.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8afb9c185dcabb17f01_Activities-Banner-Large_1Activities-Banner-Large.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8afb9c185dcabb17f01_Activities-Banner-Large_1Activities-Banner-Large-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8afb9c185dcabb17f01_Activities-Banner-Large_1Activities-Banner-Large-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8afb9c185dcabb17f01_Activities-Banner-Large_1Activities-Banner-Large-p-1080.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8afb9c185dcabb17f01_Activities-Banner-Large_1Activities-Banner-Large-p-1600.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8afb9c185dcabb17f01_Activities-Banner-Large_1Activities-Banner-Large-p-2000.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8af4c50f5a252e757d6_ABOUT_Waitangi-Couple.jpg",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8af4c50f5a252e757d6_ABOUT_Waitangi-Couple-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8af4c50f5a252e757d6_ABOUT_Waitangi-Couple-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8af4c50f5a252e757d6_ABOUT_Waitangi-Couple-p-1080.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8af4c50f5a252e757d6_ABOUT_Waitangi-Couple-p-1600.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd82f79c8f66bdb160c0f_61a1bf42a80aae716fc175ab_Flagstaff-and-Treaty-House-LR-9.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd82f79c8f66bdb160c0f_61a1bf42a80aae716fc175ab_Flagstaff-and-Treaty-House-LR-9-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd82f79c8f66bdb160c0f_61a1bf42a80aae716fc175ab_Flagstaff-and-Treaty-House-LR-9-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd82f79c8f66bdb160c0f_61a1bf42a80aae716fc175ab_Flagstaff-and-Treaty-House-LR-9-p-1080.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd82f79c8f66bdb160c0f_61a1bf42a80aae716fc175ab_Flagstaff-and-Treaty-House-LR-9-p-1600.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd82f79c8f66bdb160c0f_61a1bf42a80aae716fc175ab_Flagstaff-and-Treaty-House-LR-9-p-2000.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8b0e26ca7f8efdb80de_Chun-Family-LR-15_1Chun%20Family%20LR%20(15).webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8b0e26ca7f8efdb80de_Chun-Family-LR-15_1Chun%20Family%20LR%20(15)-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8b0e26ca7f8efdb80de_Chun-Family-LR-15_1Chun%20Family%20LR%20(15)-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8b0e26ca7f8efdb80de_Chun-Family-LR-15_1Chun%20Family%20LR%20(15)-p-1080.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8b0e26ca7f8efdb80de_Chun-Family-LR-15_1Chun%20Family%20LR%20(15)-p-1600.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8b0e26ca7f8efdb80de_Chun-Family-LR-15_1Chun%20Family%20LR%20(15)-p-2000.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8c7ae90552e4c8098cc_MUSEUMS--TAONGA_Waitangi-Couple-13-lr-p-2000.jpeg",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8c7ae90552e4c8098cc_MUSEUMS--TAONGA_Waitangi-Couple-13-lr-p-2000-p-500.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8c7ae90552e4c8098cc_MUSEUMS--TAONGA_Waitangi-Couple-13-lr-p-2000-p-800.webp",
+            "https://cdn.prod.website-files.com/647fb97761d0e7986219028b/647fd8c7ae90552e4c8098cc_MUSEUMS--TAONGA_Waitangi-Couple-13-lr-p-2000-p-1080.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KW-ASPH-01",
+      "title": "Habitat Museum at Al-Shaheed Park",
+      "sources": [
+        {
+          "url": "https://raai.com/project/habitat-museum-at-al-shaheed-park/",
+          "status": "error",
+          "error": "403 Client Error: Forbidden for url: https://raai.com/project/habitat-museum-at-al-shaheed-park/",
+          "images": []
+        },
+        {
+          "url": "https://www.instagram.com/p/DP05PmeDNQ5/",
+          "status": 200,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "DE-JMB-01",
+      "title": "Jewish Life in Germany: Past & Present",
+      "sources": [
+        {
+          "url": "https://www.jmberlin.de/en/press-release-23-juin-2020",
+          "status": 200,
+          "images": [
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/dauerausstellung-raumansicht-mesubin-teaser.jpg.webp?h=46d9ec6a&itok=M2985msl",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/KeyVisualSommerfest.jpg.webp?h=8f6009ac&itok=q0Hiv1cp",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-willkommenspunkt-1-galleryimage.jpg.webp?itok=TlV0KfZw",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-willkommenspunkt-2-galleryimage.jpg.webp?itok=DfhD62wF",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/dauerausstellung-willkommenspunkt-3-galleryimage.jpg.webp?itok=8ewaGrZl",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-klangraum-1-galleryimage.jpg.webp?itok=fmQDXH-k",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/dauerausstellung-klangraum-2-galleryimage.jpg.webp?itok=q3Fmlj04",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/dauerausstellung-klangraum-3-galleryimage.jpg.webp?itok=UIkbtNET",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/dauerausstellung-hall-of-fame-galleryimage.jpg.webp?itok=jbluVKGJ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-treppe-mit-lichtinstallation.jpg.webp?itok=BT40JeLF",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-willkommenspunkt-1-galleryimage.jpg.webp?itok=kAKQfhxk",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-willkommenspunkt-2-galleryimage.jpg.webp?itok=pKqFDumU",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-willkommenspunkt-3-galleryimage.jpg.webp?itok=9Vvrb09q",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-klangraum-1-galleryimage.jpg.webp?itok=ZrxnJ09m",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-klangraum-2-galleryimage.jpg.webp?itok=-Ovzuef_",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-klangraum-3-galleryimage.jpg.webp?itok=zTUHC0q3",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-hall-of-fame-galleryimage.jpg.webp?itok=xH1AyDPG",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-treppe-mit-lichtinstallation.jpg.webp?itok=42QVeK56",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/presse-bildmaterial-fester-teaser.jpg.webp?h=46d9ec6a&itok=1nsb9L6p",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/taeser-pressestartseite.jpg.webp?h=46d9ec6a&itok=wPOBo5f5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/presseverteiler-fester-teaser.jpg.webp?h=46d9ec6a&itok=R5SmHPOD",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/querschnitt-jmb-dauerausstellung-teaser.jpg.webp?h=46d9ec6a&itok=ePRE1Gjq"
+          ]
+        },
+        {
+          "url": "https://www.jmberlin.de/en/core-exhibition",
+          "status": 200,
+          "images": [
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/dauerausstellung-raumansicht-mesubin-teaser.jpg.webp?h=46d9ec6a&itok=M2985msl",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/KeyVisualSommerfest.jpg.webp?h=8f6009ac&itok=q0Hiv1cp",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1920/public/media/images/dauerausstellung-schabbatraum-vorhang-galleryimage.jpg.webp?itok=oVTuzvj0",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w364/public/media/images/map_liebskindbau_2x.png.webp?itok=irFcgYkX",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w288/public/media/images/treppe-zur-dauerausstellung-mit-lichtprojektion-sidebarimage.jpg.webp?itok=GpZKnx7J",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/treppe-zur-dauerausstellung-mit-lichtprojektion-sidebarimage.jpg.webp?itok=fBaG0YV5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/tora-raum-quadrat-galleryimage.jpg.webp?itok=4H_b9an8",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/judaicavitrine-quadrat-galleryimage.jpg.webp?itok=G-KpoXf5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/klangraum-quadrat-galleryimage.jpg.webp?itok=Pmp_jUjn",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/bildraum-quadrat-galleryimage.jpg.webp?itok=v-mowkHf",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/visual-prayer-quadrat-galleryimage.jpg.webp?itok=sza-ZwAV",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/the-way-you-walk-quadrat-galleryimage.jpg.webp?itok=lSMKEuQ2",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/schabbatraum-quadrat-galleryimage.jpg.webp?itok=B1OTvYrB",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/familienalbum-quadrat-galleryimage.jpg.webp?itok=Tzf1yhaW",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/kiefer-quadrat-ohne-klappe-galleryimage.jpg.webp?itok=J3tjPB6V",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/hall-of-fame-quadrat-galleryimage.jpg.webp?itok=s8Ecyx5u",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/tora-raum-quadrat-galleryimage.jpg.webp?itok=ZQy_1QHz",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/judaicavitrine-quadrat-galleryimage.jpg.webp?itok=qyw7WMJj",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/klangraum-quadrat-galleryimage.jpg.webp?itok=SfbZXbYO",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/bildraum-quadrat-galleryimage.jpg.webp?itok=NuoDlky_",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/visual-prayer-quadrat-galleryimage.jpg.webp?itok=31A9szpc",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/the-way-you-walk-quadrat-galleryimage.jpg.webp?itok=DSDuOp_Z",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/schabbatraum-quadrat-galleryimage.jpg.webp?itok=UDWkoxSD",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/familienalbum-quadrat-galleryimage.jpg.webp?itok=pk5CR7pF",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/kiefer-quadrat-ohne-klappe-galleryimage.jpg.webp?itok=r00ppuR0",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/hall-of-fame-quadrat-galleryimage.jpg.webp?itok=MGU_cMdB",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w288/public/media/images/dauerausstellung-tastplan-albertine-heine-als-braut-sidebarimage.jpg.webp?itok=5JgWU1ZG",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/dauerausstellung-tastplan-albertine-heine-als-braut-sidebarimage.jpg.webp?itok=an1KO9TD",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w748/public/media/images/jmb-dauerausstellung-drummerrsss-1.jpg.webp?itok=iykdZl_9",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-drummerrsss-1.jpg.webp?itok=VuEJ8CwZ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/kadishman-schalechet-detail-teaser.jpg.webp?h=3cd06fc8&itok=uK3Mr36S",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/vier-videos-yael-reuveny-4-teaser.png.webp?h=46d9ec6a&itok=upYEQ1L_",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/lewandowsky-galerie-der-verschwundenen-dinge-teaser.jpg.webp?h=3cd06fc8&itok=iOC1Sd_G",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/13-dinge-kiefer-skulptur-teaser.jpg.webp?h=46d9ec6a&itok=Xrc6iiM_",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/02_Akademie_Kunst_am_Bau_galeryimage.jpg.webp?h=fca9bc60&itok=p5Cq_oY0",
+            "https://www.jmberlin.de/sites/default/files/styles/webp/public/media/images/querschnitt-jmb-dauerausstellung-teaser.jpg.webp?itok=RBaJ0kGl",
+            "https://www.jmberlin.de/sites/default/files/styles/webp/public/media/images/logo-bkm-fuer-element-foerderer-en.png.webp?itok=3KHAciVq",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w748/public/media/images/logos-radioeins-yorck-tip-dussmann-tagesspiegel-fuer-nda.jpg.webp?itok=elLae6y5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/logos-radioeins-yorck-tip-dussmann-tagesspiegel-fuer-nda.jpg.webp?itok=XWB7DR9p",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/selfieprojekt-teaser.jpg.webp?h=46d9ec6a&itok=r7vhjRCp",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/jmb-dauerausstellung-treppe-teaser.jpg.webp?h=46d9ec6a&itok=YeE-9HLb",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/treppe_zur_dauerausstellung-teaser.jpg.webp?h=46d9ec6a&itok=r1gMPsRT"
+          ]
+        },
+        {
+          "url": "https://www.jmberlin.de/en/press-images-jmb-core-exhibition",
+          "status": 200,
+          "images": [
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/dauerausstellung-raumansicht-mesubin-teaser.jpg.webp?h=46d9ec6a&itok=M2985msl",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/KeyVisualSommerfest.jpg.webp?h=8f6009ac&itok=q0Hiv1cp",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-drummerrsss-1-installation-galleryimage.jpg.webp?itok=d0Up8wJx",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-drummerrsss-2-galleryimage.jpg.webp?itok=AQmPHMG6",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-drummerrsss-3-galleryimage.jpg.webp?itok=Iy0eD00U",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-drummerrsss-1-installation-galleryimage.jpg.webp?itok=UbPEA_Tt",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-drummerrsss-2-galleryimage.jpg.webp?itok=nIy1Rai5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-drummerrsss-3-galleryimage.jpg.webp?itok=AqpV3VSV",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-treppe-galleryimage.jpg.webp?itok=0HMNUrU7",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-eingang-galleryimage.jpg.webp?itok=jJMBFGfL",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-willkommenspunkt-galleryimage.jpg.webp?itok=JSWdzo-V",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-treppe-galleryimage.jpg.webp?itok=spkTBust",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-eingang-galleryimage.jpg.webp?itok=PAF7_or1",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-willkommenspunkt-galleryimage.jpg.webp?itok=Alk8pq4-",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-tora-1-galleryimage.jpg.webp?itok=tnyvZIiL",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-tora-2-galleryimage.jpg.webp?itok=kqVGYxv8",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-visual-prayer-galleryimage.jpg.webp?itok=uV0tq0lW",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-schabbat-1-galleryimage.jpg.webp?itok=GgSsbsCh",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-schabbat-2-galleryimage.jpg.webp?itok=uCyLRGfP",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-klang-1-galleryimage.jpg.webp?itok=nEOfkB9A",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-klang-2-galleryimage.jpg.webp?itok=4BEim9Go",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-tora-1-galleryimage.jpg.webp?itok=JPUMhQyN",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-tora-2-galleryimage.jpg.webp?itok=5XNHHWzM",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-visual-prayer-galleryimage.jpg.webp?itok=5CEGdmxm",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-schabbat-1-galleryimage.jpg.webp?itok=wfjSC_OY",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-schabbat-2-galleryimage.jpg.webp?itok=B1ew73LR",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-klang-1-galleryimage.jpg.webp?itok=9U7FKboc",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-klang-2-galleryimage.jpg.webp?itok=9JgIEw6S",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-aschkenas-1-galleryimage.jpg.webp?itok=wHJU3gC9",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-aschkenas-2-galleryimage.jpg.webp?itok=gEiIPUEn",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-fruehe-neuzeit-1-galleryimage.jpg.webp?itok=5kBLuxsZ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-fruehe-neuzeit-2-galleryimage.jpg.webp?itok=iKpojhff",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-juden-deutsche-1-galleryimage.jpg.webp?itok=LwqJqXVd",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-juden-deutsche-2-galleryimage.jpg.webp?itok=wJxUTqSM",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-juden-deutsche-3-galleryimage.jpg.webp?itok=Glnkz9q8",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-juden-deutsche-4-galleryimage.jpg.webp?itok=ypcoaVZu",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-juden-deutsche-5-galleryimage.jpg.webp?itok=7OUY2Dfo",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-juden-deutsche-6-galleryimage.jpg.webp?itok=R3gMv3iH",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-weimar-kino-1-galleryimage.jpg.webp?itok=hv6Xhgw6",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-daueruausstellung-weimar-kino-2-galleryimage.jpg.webp?itok=8GRvmWOo",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-aschkenas-1-galleryimage.jpg.webp?itok=sm2mWHRC",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-aschkenas-2-galleryimage.jpg.webp?itok=zsilB_F2",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-fruehe-neuzeit-1-galleryimage.jpg.webp?itok=GCIuz17i",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-fruehe-neuzeit-2-galleryimage.jpg.webp?itok=jVIpR7Z_",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-juden-deutsche-1-galleryimage.jpg.webp?itok=wPn0Ll7B",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-juden-deutsche-2-galleryimage.jpg.webp?itok=CW_WpwYE",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-juden-deutsche-3-galleryimage.jpg.webp?itok=laDUzbOL",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-juden-deutsche-4-galleryimage.jpg.webp?itok=xwRd54kV",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-juden-deutsche-5-galleryimage.jpg.webp?itok=6MFK515I",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-juden-deutsche-6-galleryimage.jpg.webp?itok=5GYhx5SG",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-weimar-kino-1-galleryimage.jpg.webp?itok=NjPqI5r-",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-daueruausstellung-weimar-kino-2-galleryimage.jpg.webp?itok=Y4twfUDQ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-familienalbum-1-galleryimage.jpg.webp?itok=SIcQopxl",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-familienalbum-2-galleryimage.jpg.webp?itok=Tm_LegY-",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-hall-of-fame-1-galleryimage_0.jpg.webp?itok=Hm3556Dj",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-hall-of-fame-2-galleryimage.jpg.webp?itok=Al3eNRuX",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-kunst-1-galleryimage.jpg.webp?itok=YCdqXbCD",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-kunst-2-galleryimage.jpg.webp?itok=2o4K0XdH",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-familienalbum-1-galleryimage.jpg.webp?itok=V3crRyRW",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-familienalbum-2-galleryimage.jpg.webp?itok=iDrtGXca",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-hall-of-fame-1-galleryimage_0.jpg.webp?itok=8CSyalb3",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-hall-of-fame-2-galleryimage.jpg.webp?itok=My2NDkwL",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-kunst-1-galleryimage.jpg.webp?itok=Zkk1pgIw",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-kunst-2-galleryimage.jpg.webp?itok=qh-9lt7V",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-katastrophe-1-galleryimage.jpg.webp?itok=w6ZfJdWg",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-katastrophe-2-galleryimage.jpg.webp?itok=PRqro8y5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-katastrophe-3-galleryimage.jpg.webp?itok=HpGWYJ2F",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-katastrophe-4-galleryimage.jpg.webp?itok=p4qSb-qB",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-katastrophe-5-galleryimage.jpg.webp?itok=O89JSXPq",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-nach-1945-1-galleryimage.jpg.webp?itok=oouHO2uD",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-nach-1945-2-galleryimage.jpg.webp?itok=zCUE-wOW",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-nach-1945-3-galleryimage.jpg.webp?itok=jywPYSuw",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-nach-1945-4-galleryimage.jpg.webp?itok=IDpmkWfr",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-nach-1945-5-galleryimage.jpg.webp?itok=6Igg6Jnn",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-katastrophe-1-galleryimage.jpg.webp?itok=ESd15ZCv",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-katastrophe-2-galleryimage.jpg.webp?itok=FPmHGEYz",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-katastrophe-3-galleryimage.jpg.webp?itok=bUNjO-f5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-katastrophe-4-galleryimage.jpg.webp?itok=hsqJzSm0",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-katastrophe-5-galleryimage.jpg.webp?itok=bFaKgTxF",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-nach-1945-1-galleryimage.jpg.webp?itok=JKFnF9hq",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-nach-1945-2-galleryimage.jpg.webp?itok=MYfRM2X1",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-nach-1945-3-galleryimage.jpg.webp?itok=p8B2BRQ3",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-nach-1945-4-galleryimage.jpg.webp?itok=22CHod-E",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-nach-1945-5-galleryimage.jpg.webp?itok=c5H0RRwX",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-objekt-galleryimage.jpg.webp?itok=OaEW26Z5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-mesubin-1-galleryimage.jpg.webp?itok=KQVjmNxd",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-mesubin-2-galleryimage.jpg.webp?itok=FRKOSWe0",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-objekt-galleryimage.jpg.webp?itok=5QaCkJAp",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-mesubin-1-galleryimage.jpg.webp?itok=0KPnSJtf",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-mesubin-2-galleryimage.jpg.webp?itok=7GTk45ny",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-tora-rolle-galleryimage.jpg.webp?itok=q5-WprGr",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-memmelsdorfer-genisa-galleryimage.jpg.webp?itok=mZ0X4TkM",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-hebraeisch-lernen-galleryimage.jpg.webp?itok=_gBUyx7m",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-sammlung-zedaka-buechsen-galleryimage.jpg.webp?itok=xUsVdWOF",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-kiefer-galleryimage.jpg.webp?itok=YpyHA8tf",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-tora-rolle-galleryimage.jpg.webp?itok=oLxJRxHu",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-memmelsdorfer-genisa-galleryimage.jpg.webp?itok=1ot-7m-A",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-hebraeisch-lernen-galleryimage.jpg.webp?itok=n4QyTmFY",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-sammlung-zedaka-buechsen-galleryimage.jpg.webp?itok=k8MIKLDW",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-kiefer-galleryimage.jpg.webp?itok=oi_wsDzi",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-fingerring-menora-galleryimage.jpg.webp?itok=h-hNCZVu",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-sefer-sinai-galleryimage.jpg.webp?itok=K2ilY36E",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-portraet-samuel-salomon-galleryimage.jpg.webp?itok=ZjfZ4QRZ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-schraubmedaille-galleryimage.jpg.webp?itok=dTqK5yRc",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-tora-schild-gans-galleryimage.jpg.webp?itok=QqiFLKtf",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-yael-buchbinder-galleryimage.jpg.webp?itok=waNR--l0",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-portraet-mendelssohn-galleryimage.jpg.webp?itok=CJODGA21",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-fanny-lewald-studierzimmer-galleryimage.jpg.webp?itok=RsfiPc5e",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-max-liebermann-galleryimage.jpg.webp?itok=pkoCpM5s",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-handwaschbecken-galleryimage.jpg.webp?itok=6NLdi1ZW",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-synagoge-plauen-galleryimage.jpg.webp?itok=nIzplPFB",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-spielfiguren-galleryimage.jpg.webp?itok=oKF7fYCv",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-musikquartett-galleryimage.jpg.webp?itok=e6saxAxT",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-gedenkstein-julius-reis-galleryimage.jpg.webp?itok=HIVDUdcl",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-familienbild-manheimer-galleryimage.jpg.webp?itok=Paislfr-",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-fingerring-menora-galleryimage.jpg.webp?itok=zc3p1iwV",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-sefer-sinai-galleryimage.jpg.webp?itok=O6Sdcthx",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-portraet-samuel-salomon-galleryimage.jpg.webp?itok=DEh99Akv",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-schraubmedaille-galleryimage.jpg.webp?itok=N0xVyS3t",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-tora-schild-gans-galleryimage.jpg.webp?itok=RPZad_H2",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-yael-buchbinder-galleryimage.jpg.webp?itok=n11JIqet",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-portraet-mendelssohn-galleryimage.jpg.webp?itok=GJWK3ePT",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-fanny-lewald-studierzimmer-galleryimage.jpg.webp?itok=qj0kunOt",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-max-liebermann-galleryimage.jpg.webp?itok=cDE_WeI9",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-handwaschbecken-galleryimage.jpg.webp?itok=8GR61Bzh",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-synagoge-plauen-galleryimage.jpg.webp?itok=BZBEeIhB",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-spielfiguren-galleryimage.jpg.webp?itok=N5qhJy05",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-musikquartett-galleryimage.jpg.webp?itok=n2FvlggZ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-gedenkstein-julius-reis-galleryimage.jpg.webp?itok=u5lvLlbc",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-familienbild-manheimer-galleryimage.jpg.webp?itok=JwvgrNRI",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/Max-Oppenheimer_Weintraubs-Syncopators_mit-Rahmen-galleryimage.jpg.webp?itok=p7-IkvaF",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstelung-adler-sabbat-galleryimage.jpg.webp?itok=d8rcnGs8",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-steinhardt-sonntagsprediger-galleryimage.jpg.webp?itok=gSVhbvHK",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-freundlich-komposition-galleryimage.jpg.webp?itok=_Ij01viR",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-nussbaum-einsamkeit-galleryimage.jpg.webp?itok=a7UXnD2O",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/Max-Oppenheimer_Weintraubs-Syncopators_mit-Rahmen-galleryimage.jpg.webp?itok=6R9SWyq8",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstelung-adler-sabbat-galleryimage.jpg.webp?itok=3L6AsRJs",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-steinhardt-sonntagsprediger-galleryimage.jpg.webp?itok=5wPbr4L0",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-freundlich-komposition-galleryimage.jpg.webp?itok=e4P7Hf2S",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-nussbaum-einsamkeit-galleryimage.jpg.webp?itok=50EBPORU",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-kanzleischild-galleryimage.jpg.webp?itok=RXuTnd60",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-sonnenfeld-galleryimage.jpg.webp?itok=4vTM4DBn",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-abschiedsalbum-galleryimage.jpg.webp?itok=3XhCcefe",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-tora-binde-galleryimage.jpg.webp?itok=42Gkmuhs",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-ausweis-cilly-meyer-galleryimage.jpg.webp?itok=A_IQrgyu",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-postkarte-wolffsky-galleryimage.jpg.webp?itok=-S5J0b71",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-silber-juedischem-besitz-galleryimage.jpg.webp?itok=-qPkE_dg",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-brenner-minima-galleryimage.jpg.webp?itok=TcniYXjS",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-wollpullover-galleryimage.jpg.webp?itok=-1ZfF2Rl",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-milman-cecher-galleryimage.jpg.webp?itok=o4_zDmHP",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-juedische-veteranen-galleryimage.jpg.webp?itok=X6zrAgEJ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-lamitie-au-coeur-galleryimage.jpg.webp?itok=4RHrVmHk",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-josefsohn-zierkissen-galleryimage.jpg.webp?itok=OF8Fl_JY",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-kanzleischild-galleryimage.jpg.webp?itok=qRiduU-o",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-sonnenfeld-galleryimage.jpg.webp?itok=MggNuGnw",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-abschiedsalbum-galleryimage.jpg.webp?itok=8lusrJVN",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-tora-binde-galleryimage.jpg.webp?itok=GZIDcZql",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-ausweis-cilly-meyer-galleryimage.jpg.webp?itok=uSfz0apo",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-postkarte-wolffsky-galleryimage.jpg.webp?itok=jMXUmsQx",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-silber-juedischem-besitz-galleryimage.jpg.webp?itok=n7QnsxfK",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-brenner-minima-galleryimage.jpg.webp?itok=LW_wjtmV",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-wollpullover-galleryimage.jpg.webp?itok=3kMLobWj",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-milman-cecher-galleryimage.jpg.webp?itok=M5aDJ1hD",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-juedische-veteranen-galleryimage.jpg.webp?itok=tU48F-AF",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-lamitie-au-coeur-galleryimage.jpg.webp?itok=IIxIw2CX",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-josefsohn-zierkissen-galleryimage.jpg.webp?itok=wYAHr8CH",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-flamencokleid-galleryimage.jpg.webp?itok=wJR344-x",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-nadelkissen-galleryimage.jpg.webp?itok=tbBncQU6",
+            "https://www.jmberlin.de/sites/default/files/styles/media_w1132/public/media/images/jmb-dauerausstellung-elkan-chanukka-lampe-galleryimage.jpg.webp?itok=c2FZfaD4",
+            "https://www.jmberlin.de/sites/default/files/styles/media_h560/public/media/images/jmb-dauerausstellung-hawdala-set-galleryimage.jpg.webp?itok=1m3svGJ1",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-flamencokleid-galleryimage.jpg.webp?itok=Nlkapmbi",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-nadelkissen-galleryimage.jpg.webp?itok=IBd6jYUJ",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-elkan-chanukka-lampe-galleryimage.jpg.webp?itok=DPsrIHt5",
+            "https://www.jmberlin.de/sites/default/files/styles/media_lightbox/public/media/images/jmb-dauerausstellung-hawdala-set-galleryimage.jpg.webp?itok=9OYrxT0W",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/querschnitt-jmb-dauerausstellung-teaser.jpg.webp?h=46d9ec6a&itok=ePRE1Gjq",
+            "https://www.jmberlin.de/sites/default/files/styles/media_364x275/public/media/images/taeser-pressestartseite.jpg.webp?h=46d9ec6a&itok=wPOBo5f5"
+          ]
+        }
+      ]
+    }
+  ]
+}

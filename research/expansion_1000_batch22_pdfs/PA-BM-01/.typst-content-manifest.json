@@ -1,0 +1,15 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": [
+    "中文独立案例研究PDF",
+    "包含两张已人工审阅的Tellart真实展厅摄影",
+    "包含案例概览、展厅关系与参观动线、五层展陈分析、证据边界与来源"
+  ],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 0,
+    "portrait_images": 0
+  }
+}

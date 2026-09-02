@@ -1,0 +1,22 @@
+{
+  "QA-NMOQ-01": [
+    "/manus-storage/qa-nmoq-01-01_4017b91a.jpg",
+    "/manus-storage/qa-nmoq-01-02_65416b45.jpg"
+  ],
+  "US-NVMM-01": [
+    "/manus-storage/us-nvmm-01-01_b615f0d6.jpg",
+    "/manus-storage/us-nvmm-01-02_0f720523.jpg"
+  ],
+  "CA-CSTM-01": [
+    "/manus-storage/ca-cstm-01-01_370b56ba.jpg",
+    "/manus-storage/ca-cstm-01-02_10ae8060.jpg"
+  ],
+  "US-NWW2-AOD-01": [
+    "/manus-storage/us-nww2-aod-01-01_286b42f6.jpg",
+    "/manus-storage/us-nww2-aod-01-02_659dcacd.jpg"
+  ],
+  "US-NMMC-01": [
+    "/manus-storage/us-nmmc-01-01_af885102.jpg",
+    "/manus-storage/us-nmmc-01-02_e3f2b998.jpg"
+  ]
+}

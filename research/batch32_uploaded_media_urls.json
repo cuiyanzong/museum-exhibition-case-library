@@ -1,0 +1,16 @@
+{
+  "batch": 32,
+  "count": 10,
+  "assets": [
+    {"case_id":"US-NIM-01","number":1,"url":"/manus-storage/us-nim-01-01_30d2f776.jpg"},
+    {"case_id":"US-NIM-01","number":2,"url":"/manus-storage/us-nim-01-02_86861b6e.jpg"},
+    {"case_id":"US-MAR-01","number":1,"url":"/manus-storage/us-mar-01-01_5fb01b79.jpg"},
+    {"case_id":"US-MAR-01","number":2,"url":"/manus-storage/us-mar-01-02_c3f496b8.jpg"},
+    {"case_id":"US-NMUSA-01","number":1,"url":"/manus-storage/us-nmusa-01-01_d5ed33fe.jpg"},
+    {"case_id":"US-NMUSA-01","number":2,"url":"/manus-storage/us-nmusa-01-02_93ad9887.jpg"},
+    {"case_id":"US-NMPW-BUSH-01","number":1,"url":"/manus-storage/us-nmpw-bush-01-01_134e0034.jpg"},
+    {"case_id":"US-NMPW-BUSH-01","number":2,"url":"/manus-storage/us-nmpw-bush-01-02_ff2e668e.jpg"},
+    {"case_id":"DK-FM-01","number":1,"url":"/manus-storage/dk-fm-01-01_357477c0.jpg"},
+    {"case_id":"DK-FM-01","number":2,"url":"/manus-storage/dk-fm-01-02_4b36b5a3.jpg"}
+  ]
+}

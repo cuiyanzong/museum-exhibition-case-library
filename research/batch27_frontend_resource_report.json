@@ -1,0 +1,16 @@
+{
+  "totalCases": 254,
+  "batchCaseCount": 20,
+  "structuralChecks": {
+    "expectedCount": 20,
+    "actualCount": 20,
+    "orderedTailMatches": true,
+    "uniqueIds": true,
+    "twoImagesEach": true,
+    "fiveLayersEach": true,
+    "storagePathsOnly": true
+  },
+  "resourceCount": 60,
+  "failedResources": [],
+  "passed": true
+}

@@ -1,0 +1,16 @@
+{
+  "batch": 33,
+  "uploaded_count": 10,
+  "assets": [
+    {"case_id":"UK-MOTH-01","number":1,"storage_path":"/manus-storage/uk-moth-01-01_d8371d04.jpg"},
+    {"case_id":"UK-MOTH-01","number":2,"storage_path":"/manus-storage/uk-moth-01-02_a40169dc.jpg"},
+    {"case_id":"BR-MF-01","number":1,"storage_path":"/manus-storage/br-mf-01-01_63c71384.jpg"},
+    {"case_id":"BR-MF-01","number":2,"storage_path":"/manus-storage/br-mf-01-02_891ff376.jpg"},
+    {"case_id":"PL-PVM-01","number":1,"storage_path":"/manus-storage/pl-pvm-01-01_75dba627.jpg"},
+    {"case_id":"PL-PVM-01","number":2,"storage_path":"/manus-storage/pl-pvm-01-02_e529c8c4.jpg"},
+    {"case_id":"US-NCCHR-01","number":1,"storage_path":"/manus-storage/us-ncchr-01-01_a37b66b5.jpg"},
+    {"case_id":"US-NCCHR-01","number":2,"storage_path":"/manus-storage/us-ncchr-01-02_771fdbef.jpg"},
+    {"case_id":"UK-MOL-01","number":1,"storage_path":"/manus-storage/uk-mol-01-01_0c454c7c.jpg"},
+    {"case_id":"UK-MOL-01","number":2,"storage_path":"/manus-storage/uk-mol-01-02_0c511d4a.jpg"}
+  ]
+}

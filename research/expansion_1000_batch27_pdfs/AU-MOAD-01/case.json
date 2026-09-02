@@ -1,0 +1,66 @@
+{
+  "content": {
+    "id": "AU-MOAD-01",
+    "title": "澳大利亚民主博物馆《两千多年形成的澳大利亚民主》",
+    "subtitle": "在不可改动的旧议会建筑里，用可移除图形、书架凹龛与互动时间线让民主成为仍在书写的制度",
+    "year": "2009年；馆方当前开放，部分区域因建筑工程关闭",
+    "type": "民主史、议会遗产适配与公民参与长期展",
+    "tags": [
+      "遗产建筑",
+      "互动时间线",
+      "可移除壁纸",
+      "书架凹龛"
+    ],
+    "brief": "RAA在1928—1988年旧议会大厦的既有空间中更新常设民主叙事：倾斜互动时间线、八个书架凹龛、对象故事与可水洗移除的定制壁纸，在保护历史建筑织物的同时让公民声音和制度变化进入日常参观。",
+    "route": [
+      "旧议会：建筑本身作为制度证据",
+      "时间线：两千年的民主创新",
+      "凹龛：对象与具体争议",
+      "Living Democracy：回到公民声音"
+    ],
+    "images": [
+      "au-moad-01.png",
+      "au-moad-02.png"
+    ],
+    "captions": [
+      "RAA项目实景：旧议会室内的可翻阅档案阅读桌与Changing the Constitution图文面形成研究型停留。",
+      "RAA项目实景：Governing凹龛以胸像、纸本文物、复制册与小屏幕让书架成为多层叙事容器。"
+    ],
+    "analysis": [
+      [
+        "平面与动线",
+        "展览被嵌入不可改动的旧议会房间，动线因此不是从零设计的白盒路径，而是顺着原有图书馆、办公室和会议空间的门洞、书架与房间尺度展开。互动时间线成为跨房间的方向性结构，凹龛负责局部停留。"
+      ],
+      [
+        "策展叙事",
+        "主题从澳大利亚民主创新历史扩展到Living Democracy和公民声音。它既让旧议会本身成为制度记忆，又把宪法变化、治理和行动放入可以继续书写的当下，而非封闭的国家叙事。"
+      ],
+      [
+        "展项设计",
+        "倾斜互动时间线提供连续的历史检索，八个书架凹龛将胸像、文献与小型屏幕组合为专题阅读，翻阅复制册让档案不只停留在玻璃柜内。展项尺度服从既有建筑而非强行重做空间。"
+      ],
+      [
+        "布展与图文",
+        "可水洗移除壁纸和精确置入的图文使新展不伤害遗产织物；黄色导入、暗色阅读桌和书架背景形成明确层级。现场图显示原木、地毯和旧房间的材料被保留为叙事的一部分。"
+      ],
+      [
+        "研究判断",
+        "遗产建筑中的常设展不必把保护与当代参与对立。MoAD的可逆策略把建筑限制转化为叙事资源，RAA的适配设计说明、馆方开放信息和项目实景共同证明这一方法；关闭区域的具体范围不作推断。"
+      ]
+    ]
+  },
+  "ledger": {
+    "id": "AU-MOAD-01",
+    "country": "澳大利亚",
+    "region": "大洋洲",
+    "title": "Australian Democracy: More than 2,000 Years in the Making",
+    "museum": "Museum of Australian Democracy at Old Parliament House",
+    "location": "堪培拉，澳大利亚",
+    "studio": "Ralph Appelbaum Associates（既有常设展适配、民主展廊与互动媒介设计）",
+    "status": "accepted-for-20-case-pool",
+    "design_source": "https://raai.com/project/australian-democracy-more-than-2000-years-in-the-making-museum-of-australian-democracy-at-old-parliament-house/",
+    "museum_source": "https://www.moadoph.gov.au/",
+    "evidence": "MoAD馆方首页明确MoAD与庭院咖啡厅开放，仅部分房间和展览因必要建筑工程关闭；当前列出Democracy DNA、Democracy: Are You In?、Blueprint、Gurindji freedom banners等展览／房间并提供参观、地图、无障碍和联系方式。RAA项目页明确本展以澳大利亚民主创新历史为主题，嵌入Old Parliament House这一1928—1988议会历史遗产中；由于建筑织物不可修改，展项被精确置入既有空间。RAA说明其更新了Australian Prime Ministers展、以“Living Democracy”解释公民声音；在原议会图书馆空间创建倾斜互动时间线，并在八个书架凹龛安置对象叙事，采用可水洗移除的定制壁纸以保护建筑。RAA列出9,400平方英尺、2009年、Gollings摄影并公开多张高分辨率项目图。2026-08-23直接打开、保存并人工审阅：au-moad-01（1600×1065）呈旧议会室内可翻阅档案阅读桌与“CHANGING THE CONSTITUTION”图文；au-moad-02（1600×1067）呈“Governing”章节凹龛，展柜陈列胸像／纸本文物、可翻阅复制册和小型互动屏，并以图像壁纸构成章节背景；au-moad-03（1600×1065）呈“CHANGING THE CONSTITUTION”黄色导入、互动阅读桌、档案／公报面与真实参观者。实际访客手部、展柜反射、木作接缝、实体地毯、投影／界面细节和材料磨损确认三图均为落地展陈摄影而非效果图。",
+    "reason": "馆方当前开放信息、RAA明确展陈设计／适配责任、议会遗产与公民民主叙事、9,400平方英尺规模和三张已审项目实景图均闭合；进入20案连续候选池。"
+  }
+}

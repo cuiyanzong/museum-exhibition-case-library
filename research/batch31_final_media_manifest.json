@@ -1,0 +1,115 @@
+{
+  "count": 10,
+  "assets": [
+    {
+      "case_id": "QA-NMOQ-01",
+      "number": 1,
+      "scene": "地质地貌与自然史沉浸厅",
+      "attribution": "ACCIONA Cultura / HIVE Media Control / Antonio Pagano",
+      "source_url": "https://hive.run/wp-content/uploads/2026/04/NMOQ_Image_2.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/QA-NMOQ-01/NMOQ_Image_2.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/qa-nmoq-01-01.jpg",
+      "width": 1300,
+      "height": 867
+    },
+    {
+      "case_id": "QA-NMOQ-01",
+      "number": 2,
+      "scene": "海洋、采珠经济与船模叙事厅",
+      "attribution": "ACCIONA Cultura / HIVE Media Control / Antonio Pagano",
+      "source_url": "https://hive.run/wp-content/uploads/2026/04/NMOG_G_5.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/QA-NMOQ-01/NMOG_G_5.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/qa-nmoq-01-02.jpg",
+      "width": 1300,
+      "height": 867
+    },
+    {
+      "case_id": "US-NVMM-01",
+      "number": 1,
+      "scene": "入口肖像与军种服务定向",
+      "attribution": "Ralph Appelbaum Associates",
+      "source_url": "https://raai.com/wp-content/uploads/2021/05/NVMM-1600x1000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NVMM-01/nvmm-raai-entry.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/us-nvmm-01-01.jpg",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "case_id": "US-NVMM-01",
+      "number": 2,
+      "scene": "Veterans Among Us当代退伍军人互动档案",
+      "attribution": "Ralph Appelbaum Associates",
+      "source_url": "https://raai.com/wp-content/uploads/2021/05/NVMM2-1600x1000.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NVMM-01/nvmm-raai-veterans-among-us.png",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/us-nvmm-01-02.jpg",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "case_id": "CA-CSTM-01",
+      "number": 1,
+      "scene": "移动通信与个人技术时间线",
+      "attribution": "Roto",
+      "source_url": "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-6.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/CA-CSTM-01/roto-cstm-6.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/ca-cstm-01-01.jpg",
+      "width": 1920,
+      "height": 1480
+    },
+    {
+      "case_id": "CA-CSTM-01",
+      "number": 2,
+      "scene": "假肢、辅助与穿戴技术比较互动",
+      "attribution": "Roto",
+      "source_url": "https://roto.com/uploads/Projects/canada-science-and-technology-museum/_1920x9999_fit_center-center_99_none/Canada-Science-and-Technology-Museum-3.jpg",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/CA-CSTM-01/roto-cstm-3.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/ca-cstm-01-02.jpg",
+      "width": 1920,
+      "height": 1382
+    },
+    {
+      "case_id": "US-NWW2-AOD-01",
+      "number": 1,
+      "scene": "Manufacturing Victory工业动员与车辆构件",
+      "attribution": "The National WWII Museum",
+      "source_url": "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9561.jpg?h=fa1c963e",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NWW2-AOD-01/manufacturing-victory.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/us-nww2-aod-01-01.jpg",
+      "width": 960,
+      "height": 700
+    },
+    {
+      "case_id": "US-NWW2-AOD-01",
+      "number": 2,
+      "scene": "War Affects Every Home家庭配给与日常生活",
+      "attribution": "The National WWII Museum",
+      "source_url": "https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2017-06/3q9a9503.jpg?h=fa1c963e",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NWW2-AOD-01/war-affects-every-home.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/us-nww2-aod-01-02.jpg",
+      "width": 960,
+      "height": 700
+    },
+    {
+      "case_id": "US-NMMC-01",
+      "number": 1,
+      "scene": "越战DMZ立体场景与战地证据",
+      "attribution": "Design and Production, Inc. / Jay Rosenblatt",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117648-33KJZ60ISTM2J7HZQ96W/USMC+Web+-+9.jpg?format=1500w",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NMMC-01/usmc-web-9.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/us-nmmc-01-01.jpg",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "case_id": "US-NMMC-01",
+      "number": 2,
+      "scene": "韩国战争冰雪地形与长津湖场景",
+      "attribution": "Design and Production, Inc. / Jay Rosenblatt",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/551bfa70e4b0b5d1563d65e1/1432317117518-S9Q97ZKN0S0OQFPY6VGD/USMC+Web+-+8.jpg?format=1500w",
+      "source_file": "/home/ubuntu/webdev-static-assets/batch31-staging/US-NMMC-01/usmc-web-8.jpg",
+      "output_file": "/home/ubuntu/webdev-static-assets/expansion-1000-batch31/us-nmmc-01-02.jpg",
+      "width": 1500,
+      "height": 1000
+    }
+  ]
+}

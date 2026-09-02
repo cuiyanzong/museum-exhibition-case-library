@@ -1,0 +1,50 @@
+[
+  {
+    "id": "PT-01",
+    "file": "pt-01-mora-megalithic-edigma.jpg",
+    "url": "https://edigma.com/wp-content/uploads/2021/12/Museu-Megalitico-Interativo-de-Mora05.jpg",
+    "filePath": "/home/ubuntu/webdev-static-assets/expansion-1000-batch01/pt-01-mora-megalithic-edigma.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 76424
+  },
+  {
+    "id": "IT-01",
+    "file": "it-01-milan-human-evolution-migliore-servetto.jpg",
+    "url": "https://architettimiglioreservetto.it/wp-content/uploads/2024/01/ms_museostorianaturalemilano_01-scaled.jpg",
+    "filePath": "/home/ubuntu/webdev-static-assets/expansion-1000-batch01/it-01-milan-human-evolution-migliore-servetto.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 560452
+  },
+  {
+    "id": "DK-01",
+    "file": "dk-01-moesgaard-grauballe-man.jpg",
+    "url": "https://moesgaardmuseum.dk/media/dgrhzqtw/pige-betragter-grauballemanden-i-montre.jpg?width=3840&height=3840&quality=80&rmode=max&format=jpeg",
+    "filePath": "/home/ubuntu/webdev-static-assets/expansion-1000-batch01/dk-01-moesgaard-grauballe-man.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 1573174
+  },
+  {
+    "id": "NG-01",
+    "file": "ng-01-john-randle-centre-raai.jpg",
+    "url": "https://raai.com/wp-content/uploads/2024/07/John-Randle-Center5-1600x1000.jpg",
+    "filePath": "/home/ubuntu/webdev-static-assets/expansion-1000-batch01/ng-01-john-randle-centre-raai.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 265994
+  },
+  {
+    "id": "NG-01",
+    "file": "ng-01-john-randle-centre-interior-01.jpg",
+    "url": "https://raai.com/wp-content/uploads/2024/07/John-Randle-Center3-819x1024.jpg",
+    "filePath": "/home/ubuntu/webdev-static-assets/expansion-1000-batch01/ng-01-john-randle-centre-interior-01.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 188695
+  },
+  {
+    "id": "NG-01",
+    "file": "ng-01-john-randle-centre-interior-02.jpg",
+    "url": "https://raai.com/wp-content/uploads/2024/07/John-Randle-Center4-819x1024.jpg",
+    "filePath": "/home/ubuntu/webdev-static-assets/expansion-1000-batch01/ng-01-john-randle-centre-interior-02.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 109552
+  }
+]

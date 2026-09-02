@@ -1,0 +1,56 @@
+[
+  {
+    "id": "EE-AR-01",
+    "country": "爱沙尼亚",
+    "title": "The Art of Coexistence",
+    "museum": "Estonian Museum of Natural History",
+    "status": "deferred-not-open",
+    "museum_source": "https://www.loodusmuuseum.ee/en/new-museum/new-core-exhibition-%22-art-coexistence%22",
+    "design_responsibility": "馆方页面说明设计竞赛获胜方案由Studio MAST推出，并列出沉浸体验、对象展示、数字参与、随身吊坠式参观引导与图形系统。",
+    "reason": "馆方页面明确新馆计划于2027年开放；当前公开图为方案／效果表述，非已落地现场摄影。依项目标准暂不入库。"
+  },
+  {
+    "id": "LT-01",
+    "country": "立陶宛",
+    "region": "东欧",
+    "title": "Lost Shtetl Museum",
+    "museum": "The Lost Shtetl Museum",
+    "location": "塞杜瓦，立陶宛",
+    "year": "2025；常设展",
+    "type": "犹太历史／社会记忆常设展",
+    "studio": "Ralph Appelbaum Associates（RAA）",
+    "status": "accepted-for-production",
+    "design_source": "https://raai.com/project/lost-shtetl-museum/",
+    "museum_source": "https://www.lostshtetl.com/museum",
+    "opening_source": "https://www.lostshtetl.com/post/the-lost-shtetl-museum-announces-its-opening-date",
+    "evidence": "馆方明确永久展览由RAA开发；RAA项目页列明其为执行媒体制作方、互动多媒体设计方，并公开展陈、媒介、灯光、导视、展柜等责任协作。馆方及开馆公告确认该馆2025年9月20日向公众开放。RAA明确叙事从什泰特尔的社区生活与文化传统开始，经过入侵、占领和大屠杀，抵达以名字、影像和希望峡谷承载的纪念、沉思与更新；并说明对象、照片、电影媒介、588件手工吹制彩玻元素和“幽灵圣柜”等具体展项。",
+    "image_credit": "Andrew Lee／Courtesy Ralph Appelbaum Associates。",
+    "image_assessment": "人工审阅通过：真实展厅图可辨识已安装图文、档案照片、嵌入式影像、倾斜阅读层级、栏杆与正在坐读的参观者；非渲染图。"
+  },
+  {
+    "id": "SK-01",
+    "country": "斯洛伐克",
+    "title": "Jurkovič Museum Permanent Exhibition",
+    "museum": "Jurkovič Museum",
+    "status": "excluded-quality-threshold",
+    "design_source": "https://www.missing-element.com/detail.php?item=jurkovic-muzeum-e",
+    "reason": "设计方明确其工作以标识、横幅、壁纸与网站等平面应用为主；并说明项目预算非常有限、无建筑师协作且室内陈设须尽可能低成本。该条件与项目设定的高质量、完整展陈设计案例筛选标准不符，故不入库。"
+  },
+  {
+    "id": "BA-01",
+    "country": "波斯尼亚和黑塞哥维那",
+    "region": "东欧",
+    "title": "Visoko Local History Museum — New Permanent Exhibition",
+    "museum": "Zavičajni muzej Visoko",
+    "location": "维索科，波斯尼亚和黑塞哥维那",
+    "year": "2026；常设展",
+    "type": "地方历史／文化遗产常设展",
+    "studio": "Sinteza architecture",
+    "status": "accepted-for-production",
+    "design_source": "https://awards.share-architects.com/projects/the-project-of-the-permanent-exhibition-of-the-visoko-native-museum/",
+    "museum_source": "https://www.zavicajnimuzej.com/svecano-otvorena-stalna-postavka-u-zavicajnom-muzeju-visoko/",
+    "evidence": "设计方项目页将项目归为已完成文化遗产项目，列出Sinteza authors Jasmin Sirčo与Berina Sulejmanović、摄影师Almin Tabak，并描述150平方米、时间轴入口、四个年代展廊、黑色与金色主题空间和受保护奥匈建筑内的可逆性改造。馆方确认2026年5月15日常设展开放，通过精选对象、当代展陈空间与阐释方法呈现维索科及周边从史前到现代的文化历史；馆方特别感谢Sinteza完成常设展室内改造的执行项目。",
+    "image_credit": "Almin Tabak／Courtesy Sinteza architecture；馆方及项目来源页。",
+    "image_assessment": "人工审阅通过：真实落地展厅图清晰呈现深灰展柜、壁龛、穿孔金属屏、对象陈列和动线；非效果图。"
+  }
+]

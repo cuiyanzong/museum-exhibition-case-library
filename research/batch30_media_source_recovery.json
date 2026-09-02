@@ -1,0 +1,72 @@
+{
+  "id": "US-CAC-01",
+  "design_source": "https://gallagherdesign.com/project/cac/",
+  "museum_source": "https://www.architecture.org/visit-the-center",
+  "media_source": null,
+  "image_source": null,
+  "media_locator": "2026-08-24从G&A项目页DOM提取：James Steinkamp摩天楼模型图为https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img17602_Photo-credit_-James-Steinkamp-scaled-1380x1035-c-default.jpg；城市／邻里映射图为https://gallagherdesign.com/wp-content/uploads/2022/10/0721-43Img16959crop_Photo-credit_-James-Steinkamp-2200x1329-1-1380x1035-c-default.jpg。",
+  "image_assessment": "2026-08-24人工浏览G&A项目页：首张公开摄影可见访客、室内墙面图文、实体建筑模型、照明与真实空间尺度；页面进一步标注摩天楼模型、投影映射城市模型、解释图形和社区地图等已实施展项，并署名James Steinkamp。后续媒体阶段须从设计方公开项目图中下载两张不同室内段落实景，排除外观、Vimeo封面和仅为图标的延迟加载占位符。"
+}
+{
+  "id": "US-RGS-01",
+  "design_source": "https://www.culturalinnovations.com/ringling-circus-museum",
+  "museum_source": "https://www.ringling.org/visit/venues/circus-museum/",
+  "media_source": "https://www.newangle.co.uk/projects/the-ringling-circus-museum/",
+  "image_source": null,
+  "media_locator": null,
+  "image_assessment": "2026-08-24人工审阅：图06为开放式对象／服装／人物展段，可见实体服装、展示台、互动终端、轮椅观众与完整动线；图07为New Angle来源的红幕档案—媒体段，可见真实布幕、壁挂展框、电视屏、说明牌与成套光照。两图均为已建成内景，媒介与叙事段不同，尺寸840×630与2560×1707；排除非目标历史画廊和建筑外观。"
+}
+{
+  "id": "SA-NMSA-01",
+  "design_source": "https://designrp.com/projects/national-museum-of-saudi-arabia-2/",
+  "museum_source": "https://engage.moc.gov.sa/national_museum/contact-us/",
+  "media_source": null,
+  "image_source": null,
+  "media_locator": null,
+  "image_assessment": "2026-08-24人工审阅DesignRP来源图：图01为已建成器物展柜段，可见玻璃反射、实际金属器、标签、顶光和展柜接缝；图04为不同的历史场景重构／伊斯兰叙事段，可见拱券、复制构件、双侧展柜、双语图文与参观者。两图均非外观或渲染，分辨率1024×681与2000×1388，覆盖对象证据与场景化历史两种解释机制。"
+}
+{
+  "id": "US-EN-01",
+  "design_source": "https://designrp.com/projects/smithsonian-institution-entertainment-nation/",
+  "museum_source": "https://americanhistory.si.edu/explore/exhibitions/entertainment-nation",
+  "media_source": null,
+  "image_source": null,
+  "media_locator": null,
+  "image_assessment": "2026-08-24人工审阅：Smithsonian图01为已建成的入口／对象展区，可见实体吉他、透明展柜、英西双语悬挂图文、LED、展签与路线；EwingCole图04为不同的“Anthems/Himnos”音乐—社会抗议段，可见多件乐器、橱窗、屏幕／投影、座位／界面和暗场反射。两图均有真实材料、光照与展览细部，分辨率1200×675和800×600，非渲染或临展活动图。"
+}
+{
+  "id": "MO-GPM-01",
+  "design_source": "https://s1t2.com/projects/macau-grand-prix-museum",
+  "museum_source": "https://mgpm.macaotourism.gov.mo/en/about/brief-introduction",
+  "media_source": null,
+  "image_source": null,
+  "media_locator": null,
+  "image_assessment": "2026-08-24人工审阅：S1T2图02为已建成赛车实物展台段，可见两辆真实赛车、圆形展台、吊顶、可读的车手／年份图文和展签，分辨率2560×1707；Pete Conforto图08为不同的赛事起源／Albert Poon历史叙事段，可见三语年代门楣、巨幅档案图、信息面板、导向地贴与真实管线／灯具，分辨率3840×2880。两图均有实际材料、光照与空间细部，排除纯UI、渲染与建筑外观；Jason Little页列有Andy Lam、Granville Carroll、Ieong Man Pan、António Sanmarful、Gonçalo Lobo Pinheiro、Venus Chan摄影署名，生产前须将最终图与其来源精确对应。"
+}
+{
+  "id": "AW-NAMA-01",
+  "design_source": "https://www.lord.ca/projects/project-experience/national-archaeological-museum-aruba",
+  "museum_source": "https://manaruba.org/",
+  "media_source": null,
+  "image_source": "https://www.varrobook.com/projects-7-4",
+  "media_locator": null,
+  "image_assessment": "2026-08-24人工审阅Varrobook／Clarke Design公开制作方图组：图f2f7ac_54bed34d090444229e49ca6b7c00a1c6为真实展厅内的棕榈屋复原段，前景有独立文物展柜与墙面叙事图形；图f2f7ac_3e5f68c8fd1c4bb2bda0fe63d9f895fb为不同的暗场洞穴系统，能见儿童观众、岩壁质感和红色岩画解释，均为已装配的室内场景而非渲染、外观或孤立物件。制作方页明确Clarke为Lord主合同下Taylor Studios分包，负责该棕榈屋、洞穴系统和触摸文物的设计工程与模块化制作、运输和Aruba复装。两图叙事段不同且来源可追溯；全库检索无同名／同馆既有记录。后续媒体阶段应从原始Wix媒体端取得最高可用尺寸并保留制作方来源。"
+}
+{
+  "id": "PL-MEG-01",
+  "design_source": "https://newamsterdam.pl/en/realizacje/muzeum-emigracji/",
+  "museum_source": "https://polska1.pl/wizyta/godziny-otwarcia/",
+  "media_source": null,
+  "image_source": "https://newamsterdam.pl/en/realizacje/muzeum-emigracji/",
+  "media_locator": null,
+  "image_assessment": "2026-08-24人工审核New Amsterdam公开项目图：DSC0422.jpg为真实暗场室内的全球移居节点，能见“South America／Africa／USSR”等跨区域信息柱、影像与展览图文；DSC0468.jpg为完全不同的明亮大厅大型镜面空间装置／交通记忆节点，能见真实钢构、既有站房天窗与连续地面导向。两图均来自设计实施方项目页，均为已建成实景而非渲染、建筑外观或孤立文物；构图与叙事段有明确差异。全库检索无同名或同馆条目。"
+}
+{
+  "id": "HR-VCM-01",
+  "design_source": "https://bigsee.eu/vucedol-culture-museum/",
+  "museum_source": "https://vucedol.hr/posjet/",
+  "media_source": null,
+  "image_source": "https://vucedol.hr/posjet/",
+  "media_locator": null,
+  "image_assessment": "2026-08-24人工审核馆方官网图组：官网‘Posjet’页首屏照片真实呈现有观众的暗场‘Jame／Pits’主题展室，图文立板、黑色空间与考古解释构成第一处已建成叙事段；IMG_5780-scaled.jpg为不同展室的完整实景，能见环形玻璃展柜、墙面先驱／研究者肖像及独立信息板，属于研究／博物馆形成主题段。两图均为馆方公开的现场摄影，非外观、渲染、旅游风景或孤立文物；IMG_5978仅为文物特写，不作为最终两图。"
+}
